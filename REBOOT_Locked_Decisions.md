@@ -85,12 +85,12 @@ Cole Pruett. Miriam's pregnancy. The Blackwood generator, the keys, Xylon, the f
 ## Morgana and the finale
 - Ninety years drained. She is dying, so London's light is dying: **this is the clock**, replacing the Tithe.
 - Betrayed and tortured: she has every right to go mayhem, and she does. Freeing her is just and catastrophic.
-- **Final image of the season:** a lone ship in the sky over dark London. The Lost One looks up at it, then back at Alice.
+- **Final image of the season:** a lone ship in the sky over dark London. The Lost One looks up at it, then back at Alice, and stays.
+- **Morgana's end:** too weak to fight on, she boards the ship. Before it retreats, it does substantial damage to London, and she vows revenge: hell brought down on this hellhole. Season 2's dread and setup. Full details to come.
 
 ## Cut
 The White, the wolves, the Tithe and first snow, the Orchard and Hargrave breeding, Edric, both Marians, all 1489 lore, the lockets as magic.
 
 ## Still to decide
 - The user's upcoming plot twist (to come).
-- Morgana's end state: does she leave on the ship, die, or something else.
-- How much damage Morgana's mayhem does on screen.
+- Exact scale and staging of the ship's damage in the finale.
