@@ -39,6 +39,36 @@ The light is a living thing in a freezer, and the Hardings got it by breaking a 
 - **The break:** Alice pushes her away. "You're not her. You're not my sister." The Lost One: why do I have all her memories, why do I love you so much?
 - **The choice:** she learns love and unsaid sisterhood, and chooses to stay with Alice. She stays because Alice lets her leave.
 
+## Jamie
+- **How he finds out:** heir's initiation on his 25th birthday. Eldgard shows him the core. Morgana asks him one thing: "Where is my child?"
+- **Why he breaks ranks:** in 1873, before reaching Nathaniel's room, the offspring visited Jamie's and imprinted resistance to the Harding aura (below). Nathaniel got the knowledge; Jamie got the will. The offspring planted two seeds in two brothers. The Lost One does not remember doing it.
+- **His plan:** free the child, not the mother (he can't bring himself to darken London), and run with Miriam.
+- **Episode 1 night:** the Exhibition at the Works (Nathaniel's gauntlet unveiled). Jamie slips home, breaks the ornament. The starving offspring tries to wear him, ravages him, tears out carrying his loudest thought (Miriam at the bridge) and leaves through the window.
+- **Coma, not death.** Found frozen. The family declares him dead: public funeral, closed coffin. He lies in a locked room at the top of Harding House, alive, alien frost in his blood, tended in secret. Midseason reveal: Nathaniel finds him.
+- **Rule:** Jamie never wakes to explain the plot. Leaning: he stays under all season, Season 2's fuse.
+
+## Miriam's death
+- Quitting the Vykra to run with a Harding heir. Grise won't let that leverage walk. A Vykra knife on the bridge; she goes into the river bleeding.
+- The offspring reaches her as she dies. Her last words to it: "Go back for my sister." It takes her. The Lost One is keeping a dead woman's promise.
+
+## Nathaniel and Alice: the season spine
+- **Nathaniel's mission:** find who killed his brother. Jamie was found frozen, so London blames the Frost Killer. The killer he hunts is the Lost One, hiding in his own workshop.
+- **Alice's mission:** find who killed Miriam. The answer is her own guild, the Vykra.
+- Each investigation points at the other's people.
+- **Alice's spy job:** Josephine, through Grise, hires Alice to get close to Nathaniel. The romance starts as a lie.
+- **The hideout:** Nathaniel shelters the sisters in his workshop. His tech can manage the Lost One's cold. Being near her stirs his buried memory.
+- Season-long will-they-won't-they while they investigate together.
+
+## The Harding aura (proposed rules)
+An Alistair recipe, built from Morgana's own technology. It keeps Hardings from betraying the secret.
+1. Works on Harding blood only. Josephine and Nixon are outside it; their choices are entirely their own.
+2. Persuasion, not compulsion. It amplifies loyalty that is already there and dulls doubt. It cannot make anyone do what they don't half-want. Eldgard's choices remain his.
+3. Strength grows with proximity to the core and years of exposure. Nathaniel, shut out as the second son, has had the least. Being unwanted kept him free.
+4. Jamie's imprint made him immune.
+
+## Cut (added)
+Cole Pruett. Miriam's pregnancy. The Blackwood generator, the keys, Xylon, the face-veil, the lockets, the Episode 1 core raid.
+
 ## Morgana and the finale
 - Ninety years drained. She is dying, so London's light is dying: **this is the clock**, replacing the Tithe.
 - Betrayed and tortured: she has every right to go mayhem, and she does. Freeing her is just and catastrophic.
@@ -49,5 +79,6 @@ The White, the wolves, the Tithe and first snow, the Orchard and Hargrave breedi
 
 ## Still to decide
 - Marsh's exact relationship to Nixon.
+- The user's upcoming plot twist (to come).
 - Morgana's end state: does she leave on the ship, die, or something else.
 - How much damage Morgana's mayhem does on screen.
