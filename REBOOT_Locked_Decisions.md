@@ -24,7 +24,20 @@ The light is a living thing in a freezer, and the Hardings got it by breaking a 
 - The current kept Hargrave. Eldgard raised him; a father who never was.
 - His wound: he cannot tell whether Eldgard loved him or kept him. The answer is both.
 - Learning it breaks him, and breaks the friendship: Nathaniel's whole life is lit by Nixon's people, and Nixon now holds the keys to the house that killed them.
-- **Tobias Marsh** replaces the Orchard material: the Newgate prisoner who whispers the true Hargrave history. He is the previous kept Hargrave who asked questions and was locked away as a madman. Nixon's future if he keeps asking. Exact blood tie (e.g. uncle) to be decided.
+- **Tobias Marsh** replaces the Orchard material: the Newgate prisoner who whispers the true Hargrave history. He is the previous kept Hargrave who asked questions and was locked away as a madman. Nixon's future if he keeps asking. He is Ada's brother and Nixon's uncle (see Ada Hargrave).
+
+## Ada Hargrave
+Supporting role, not a finale player.
+- **Who:** about sixty, head housekeeper at Harding House. Has polished the same lamps for forty years. Keeps the cryo clean, so she knows Morgana exists.
+- **Family:** Ada and Tobias Marsh are siblings. Nixon is their nephew, son of their younger sister, who died. Ada raised him below stairs; Marsh is the uncle he has never met. The kept Hargraves are one family, held close generation after generation.
+- **The Lamp Saint faith:** how Hargrave's survivors made the massacre bearable. *Our dead became the light*: every green lamp is a Hargrave martyr shining. Morgana is **the Lady**, a saint fallen from heaven, given to the Hardings to light the world, with Hargrave's dead as her first offering. Ada tends a tortured prisoner like a shrine. The faith is a lie: the light is Morgana's blood and the village died as collateral. Ada never learns it; the audience carries it for her.
+- **With Nixon:** first to tell him he was special. His loyalty comes from her love and Eldgard's approval. The Hardings pay for his schooling and rank. She is the only one in the house who calls him "love."
+- **With Marsh:** when he ran, she reported him. She has never visited Newgate. She calls him "the apostate."
+- **With the Hardings:** keeps the rite and the family's secrets. Eldgard depends on her; Josephine trusts her.
+- **Ep 8, after the revelation, Nixon asks if she knew:** "Forgive them? Love, I forgave them before you were born. They took us in when they didn't have to. That's more than God did for Hargrave."
+- **Her death:** she works out that Nixon is planning the break-out and goes to report him to Eldgard, as she reported her brother. On the servants' stair he begs her to wait one night. She touches his cheek: "I'm saving you, love. We're not them. We were never going to be them. We're Hargraves." He panics and holds his hand over her mouth too long. Her lamp smashes on the stairs. She dies still believing. He goes into the break-out with her blood on his cuffs and frees the brother she betrayed.
+- **Mirror:** a sibling betrayed to protect the order (Ada), a man drowned to protect a sibling (Miriam), a hand over a mouth (Nixon). The show's central act in three keys.
+- **Requirements:** seed her from Episode 1 (lamps, Nixon's collar, "love"). Her death must have aftermath: someone finds her on the stairs, and Nixon chooses whether to lie.
 
 ## Nathaniel's buried memory (c. 1873)
 - Two generations after Alistair, an experiment goes wrong and the **offspring** escapes the cryo underground. It is life-source energy; its body did not survive the crash.
@@ -78,7 +91,6 @@ Cole Pruett. Miriam's pregnancy. The Blackwood generator, the keys, Xylon, the f
 The White, the wolves, the Tithe and first snow, the Orchard and Hargrave breeding, Edric, both Marians, all 1489 lore, the lockets as magic.
 
 ## Still to decide
-- Marsh's exact relationship to Nixon.
 - The user's upcoming plot twist (to come).
 - Morgana's end state: does she leave on the ship, die, or something else.
 - How much damage Morgana's mayhem does on screen.
