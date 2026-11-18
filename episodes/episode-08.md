@@ -3,7 +3,8 @@
 **Cold open:** Hargrave freezes in one night. A child survivor in Alistair's coat.
 
 **Change:** the child is taken; everyone picks a side. **POV:** Nixon.
-- Morning: Alice goes back to the Lost One. "Nine is the one where we get up." Then she goes to the wedding to tell Nathaniel the truth: paid at first, never after.
+- Morning: Alice goes back to the Lost One. "Nine is the one where we get up." Then she goes to the wedding and tells Nathaniel herself that his mother hired her to get close to him: paid at first, never after.
+- **Josephine gives Eldgard the workshop,** from Alice's own reports. If the creature goes in the pod, the evidence of her crime disappears for ninety years.
 - **Nixon's point of no return:** he leads the Guard raid on the workshop and takes the Lost One for Eldgard.
 - The wedding. Nixon hands Tamara the ring properly. Tamara has cracked Alistair's book and gives Nixon the Hargrave pages.
 - Nixon to Ada: "Did you know?" "Forgive them? Love, I forgave them before you were born."

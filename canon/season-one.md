@@ -45,7 +45,7 @@ Full beats live in `episodes/`.
 
 **The two imprints.** Ep 3 cold open: a fragment of 1873. Eps 3–5: Nathaniel's memory flickers near the Lost One. **Ep 6, reveal #1:** Nathaniel remembers all of 1873; his genius was planted and his father erased him. **Ep 9, reveal #2:** the same night from the offspring's side, Jamie's room first; Morgana tells the Lost One she sent her. Same night, two readings.
 
-**The sisters.** Ep 2: Alice gets "Miriam" back. Eps 3–6: closeness. **Ep 7, the break:** Grise reveals Miriam's entry price, their stepfather; the Lost One confirms and confesses on Miriam's behalf, which is how Alice knows. "You're not her." The same night she learns Josephine killed Miriam. Ep 8 morning: "Nine is the one where we get up." Ep 10: Alice offers her the ship; she stays.
+**The sisters.** Ep 2: Alice gets "Miriam" back. Eps 3–6: closeness. Ep 6: Grise tells Alice Miriam's entry price, their stepfather. **Ep 7, the break:** the Lost One confirms and confesses on Miriam's behalf, which is how Alice knows. "You're not her." At the end of the episode Jennie tells her Josephine killed Miriam. Ep 8 morning: "Nine is the one where we get up." Ep 10: Alice offers her the ship; she stays.
 
 **The history, told in cold opens.**
 

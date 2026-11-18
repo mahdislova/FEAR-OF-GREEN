@@ -36,10 +36,11 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | The 1873 imprint on Nathaniel | Eldgard | Ep 3 fragment, Ep 6 in full | Nathaniel: Ep 6 |
 | The 1873 imprint on Jamie, and that Morgana sent her | Morgana | Ep 9 | The Lost One: Ep 9 |
 | Eldgard plans to put the Lost One in the pod | Eldgard, Josephine | Ep 4 tag | Nathaniel: Ep 8 |
-| Alice was hired to get close to Nathaniel | Josephine, Grise, Alice | Ep 2 | Nathaniel: Ep 7 |
-| Miriam drowned their stepfather to join the Vykra | Grise (Miriam is dead) | Ep 7 | Alice: Ep 7 |
+| Alice was hired to get close to Nathaniel | Josephine, Grise, Alice | Ep 2 | Nathaniel: Ep 8 (Alice tells him herself) |
+| Miriam drowned their stepfather to join the Vykra | Grise (Miriam is dead) | Ep 6 | Alice: Ep 6 (Grise); confirmed Ep 7 (the Lost One) |
 | Josephine killed Miriam | Josephine; Jennie (witness) | Ep 2 (she burns her gloves). Played as dread, not a twist | Alice: end of Ep 7 |
-| The Lost One isn't Miriam | The Lost One | Ep 1 | Jennie: Ep 3 (saw Miriam die). Alice: Ep 7 |
+| The Lost One isn't Miriam | The Lost One | Ep 1 | Jennie: Ep 3 (saw Miriam die). Grise: Ep 4 (the hand-sign). Josephine: Ep 5 (the mirror). Alice: Ep 7 |
+| Josephine paid Grise to remove the witness | Josephine, Grise | Ep 6 | Jennie: Ep 7 |
 | Grise sold Josephine the rendezvous | Grise, Josephine | Ep 1 (black wax) | Alice: Ep 7 |
 | The Hargrave massacre | Eldgard, Ada, Marsh | Ep 8 cold open | Nixon: Ep 8 |
 | Marsh is Nixon's uncle | Ada, Marsh | Ep 4 (hinted) | Nixon: Ep 9 |
