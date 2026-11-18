@@ -38,7 +38,8 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Eldgard plans to put the Lost One in the pod | Eldgard, Josephine | Ep 4 tag | Nathaniel: Ep 8 |
 | Alice was hired to get close to Nathaniel | Josephine, Grise, Alice | Ep 2 | Nathaniel: Ep 7 |
 | Miriam drowned their stepfather to join the Vykra | Grise (Miriam is dead) | Ep 7 | Alice: Ep 7 |
-| Josephine killed Miriam | Josephine; Jennie (witness) | Ep 1 shows only a figure in the shadows; identity open for the audience | Alice: end of Ep 7 |
+| Josephine killed Miriam | Josephine; Jennie (witness) | Ep 2 (she burns her gloves). Played as dread, not a twist | Alice: end of Ep 7 |
+| The Lost One isn't Miriam | The Lost One | Ep 1 | Jennie: Ep 3 (saw Miriam die). Alice: Ep 7 |
 | Grise sold Josephine the rendezvous | Grise, Josephine | Ep 1 (black wax) | Alice: Ep 7 |
 | The Hargrave massacre | Eldgard, Ada, Marsh | Ep 8 cold open | Nixon: Ep 8 |
 | Marsh is Nixon's uncle | Ada, Marsh | Ep 4 (hinted) | Nixon: Ep 9 |

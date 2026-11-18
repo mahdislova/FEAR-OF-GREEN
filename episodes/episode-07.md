@@ -5,7 +5,7 @@
 **Change:** every love Alice has turns out to have been bought. **POV:** Alice.
 - The frozen East End: bodies in doorways. Byron, who went to help, among them. The Hardings blame the Frost Killer; mobs form. The massacre repeats, smaller.
 - Alice's hunt reaches Grise: Miriam's entry price was their stepfather.
-- **End of episode:** Alice learns Josephine killed Miriam. Jennie, the witness, tells her. How is open.
+- **End of episode:** the Lost One saves Jennie's life (from what is open). The guilt breaks Jennie and she tells Alice: Josephine killed Miriam. "Miriam was the best of us."
 - The Lost One confirms and confesses. "You're not her." "Why do I love you so much?" Alice walks out.
 - The same night, Nathaniel learns his mother hired Alice. Two loves break for the same reason.
 - Lambrick's coal is the only heat left. Eldgard's terms: Nathaniel marries Tamara, the East gets coal.
