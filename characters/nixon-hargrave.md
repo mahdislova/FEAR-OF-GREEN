@@ -4,6 +4,7 @@
 **Look:** to be written.
 
 - **Who he is:** the current kept Hargrave. Son of Ada and Marsh's younger sister, who died. Raised by Ada below stairs; schooled and ranked on Harding money.
+- **First appears in Ep 2,** back from the east to report the failures: village after village frozen in ice, their heat and power source faded. In Ep 1 he's absent; his empty chair is enough ("That's Nixon's chair, Nat").
 - **Wants:** to belong to the family that raised him.
 - **The lie he believes:** obedience is the price of belonging.
 - **Secret (from Ep 2):** Eldgard's right hand. Holds the keys to the house, and knows Jamie is alive. Keeps it from Nathaniel. Eldgard does not show him the pod: Nixon believes the Frost Killer is only a killer until the Harding book (Ep 8).

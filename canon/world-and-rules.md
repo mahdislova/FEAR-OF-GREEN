@@ -6,6 +6,8 @@ The light is a living thing in a freezer, and the Hardings got it by breaking a 
 ## The engine
 The light is dying. Morgana has been drained for over a century and is failing. The Works' engineers watch the yield fall; the lamps flicker; London doesn't know why. When she dies, the Hardings mean to put her child in the pod in her place.
 
+**In the east it's already happening.** Nixon reports (Ep 2) village after village frozen in ice, their heat and power source faded. Open: is this only the cold of a failing light, or something stranger?
+
 **Clock card:** every episode opens on THE LIGHT HAS 49 DAYS (counting down).
 
 ## History

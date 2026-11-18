@@ -35,7 +35,9 @@ Cold opens tell the history in pieces: the crash (Ep 1), 1873 (Ep 3 and Ep 9), t
 ## Dartboard: pitched ideas, not committed
 - Every episode opens on a clock card: **THE LIGHT HAS 49 DAYS**, counting down.
 - The engineer hears the light speak at the end of Ep 1 ("My child is out") and starts a second ledger.
-- A Harding luncheon in Ep 1: Nixon takes Nathaniel's chair, the engagement is dropped over lunch, and the table stays calm when Jamie asks what would happen if the light went out. That calm is the aura at work.
+- At the Ep 1 luncheon the engagement is dropped over lunch, and the table stays calm when Jamie asks what would happen if the light went out. That calm is the aura at work. A telegram from Nixon in the east sits face down by Eldgard's plate.
+- The gauntlet misfires because Nathaniel can't fix the part of the design he doesn't understand: the first crack in the imprint.
+- The photograph in Ep 1 has a gap at Eldgard's right hand, left for Nixon.
 - The aura is felt as "the quiet." Jamie feels nothing and lies that he does.
 - Alistair's portrait has a painted-out child, the Hargrave survivor.
 - Morgana's voice travels through the lamps; the light dims with her grief.
@@ -45,7 +47,6 @@ Cold opens tell the history in pieces: the crash (Ep 1), 1873 (Ep 3 and Ep 9), t
 - Tamara cracks the Harding book in Ep 8 and gives Nixon the Hargrave pages.
 - Marsh: "Hargrave chin," and "Ask the woman with the keys."
 - Morgana, Ep 4: "Bring me the boy who knows."
-- Josephine came home gloveless on the night of Ep 1, and Byron noticed.
 - Minor new characters: Peg the mudlark (a witness), Moss (Ajax's man).
 
 ## Open questions
@@ -57,6 +58,7 @@ Cold opens tell the history in pieces: the crash (Ep 1), 1873 (Ep 3 and Ep 9), t
 - Marsh's arrest date; Nixon's mother's name.
 - The Lantern Hymn: keep it, and is it Morgana's lullaby?
 - How the aura's finer rules work.
+- The villages frozen in the east: only the cold of a failing light, or something stranger?
 
 ## Next step
 Step 1 of the process: the season in one sentence and one paragraph, in the writer's words.
