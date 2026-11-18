@@ -30,7 +30,7 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 
 | Secret | Knows at the start | Audience learns | Character learns last |
 | --- | --- | --- | --- |
-| The light is Morgana | Eldgard, Josephine, Ada, Byron, Jamie | Ep 1 | Nathaniel: Ep 6, proposed (the 1873 memory plus Byron's confession). Nixon: unset (Ep 2 keys, or Ep 8 book) |
+| The light is Morgana | Eldgard, Josephine, Ada, Byron, Jamie | Ep 1 | Nathaniel: Ep 6 (the 1873 memory plus Byron's confession). Nixon: Ep 8 (the Harding book, hours after he delivers the Lost One believing she's only the Frost Killer) |
 | Jamie is alive | Eldgard, Josephine, Byron | Ep 2 tag | Nixon: Ep 2. Nathaniel: Ep 5 |
 | The "Frost Killer" didn't murder Jamie: the offspring ravaged him escaping | The Lost One (buried memory) | Ep 1 | Nathaniel: Ep 5 |
 | The 1873 imprint on Nathaniel | Eldgard | Ep 3 fragment, Ep 6 in full | Nathaniel: Ep 6 |

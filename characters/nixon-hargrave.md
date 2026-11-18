@@ -6,7 +6,7 @@
 - **Who he is:** the current kept Hargrave. Son of Ada and Marsh's younger sister, who died. Raised by Ada below stairs; schooled and ranked on Harding money.
 - **Wants:** to belong to the family that raised him.
 - **The lie he believes:** obedience is the price of belonging.
-- **Secret (from Ep 2):** Eldgard's right hand. Holds the keys, and knows Jamie is alive. Keeps it from Nathaniel.
+- **Secret (from Ep 2):** Eldgard's right hand. Holds the keys to the house, and knows Jamie is alive. Keeps it from Nathaniel. Eldgard does not show him the pod: Nixon believes the Frost Killer is only a killer until the Harding book (Ep 8).
 - **Wound:** he cannot tell whether Eldgard loved him or kept him. The answer is both.
 
 **Arc ladder.** Wants to belong → hunts the Frost Killer and keeps Eldgard's secrets → loses Nathaniel → postpones choosing between obeying and knowing → breaks his uncle out of Newgate with Ada's blood on his cuffs, then holds the Guard for London, not for the Hardings.
