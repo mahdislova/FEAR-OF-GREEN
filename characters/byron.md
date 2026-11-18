@@ -1,7 +1,7 @@
 # Byron
 
 **Age:** 64. **Role:** supporting. Harding butler.
-**Look:** silver-haired and straight-backed, an old soldier's moustache, white gloves somehow always white.
+**Look:** to be written.
 
 - **Wants:** to see Nathaniel safe.
 - **The lie he believes:** loyalty means silence.

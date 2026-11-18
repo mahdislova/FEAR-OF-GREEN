@@ -11,7 +11,8 @@ A ten-episode gothic drama. London, November 1889. The whole city glows green, a
 | `canon/continuity-and-reveals.md` | Timeline, who knows what and when, the reveal schedule, setups and payoffs | Anything that isn't a fact about time or knowledge |
 | `characters/*.md` | One dossier per character: look, want, lie, secret, arc ladder, relationships, key lines | Plot outlines |
 | `episodes/episode-NN.md` | One episode: its change, POV, beats, and (later) numbered scenes | World rules or character biographies |
-| `atlas/` | Story atlas pages (HTML): a snapshot view of canon on the date built. If an episode file changes, the atlas is rebuilt; the episode file wins | New facts |
+| `drafts/claude/` | Claude's drafts and proposals (e.g. the Eps 1–4 scene draft and atlas). **Not canon** | Anything finalized |
+| `board/` | The user's scene board and its exports: the user's own writing | Claude's text |
 | `reference/` | Craft material: the writers' room guide | Canon |
 | `archive/` | The old season and the old tracker. **Not canon.** Kept for reference only | Anything new |
 
@@ -21,8 +22,8 @@ A ten-episode gothic drama. London, November 1889. The whole city glows green, a
 
 - Lore rebuilt and locked.
 - Season spine locked: every episode has its change, POV, heaviest moment and tag.
-- Episodes 1–4 broken into scenes (68 total). Atlas: `atlas/green-gallows-eps-1-4-atlas.html`.
-- **Next:** break Episodes 5–10.
+- **Canon rule:** only what the user writes or finalizes is canon. Claude's Eps 1–4 scene draft lives in `drafts/claude/` as a suggestion.
+- **Next:** the user writes Episode 1 on the scene board; Claude files it as written and maps the threads.
 - The HTML tracker will be rebuilt from the new canon once scene work exists.
 
 ## Open questions
@@ -30,7 +31,5 @@ A ten-episode gothic drama. London, November 1889. The whole city glows green, a
 - The user's later plot twist (to come).
 - Josephine's fate after the finale.
 - Scale and staging of the ship's damage in Episode 10.
-- The chief engineer's name: Silas Pike, provisional.
-- The Lantern Hymn: is it Morgana's lullaby with new words?
-- Peg the mudlark (new minor witness, Eps 2–3): keep or cut.
+- A name for the Works' chief engineer.
 - Marsh's arrest date and Nixon's mother's name.

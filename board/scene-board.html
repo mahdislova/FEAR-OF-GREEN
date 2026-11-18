@@ -1,0 +1,425 @@
+<title>Green Gallows Scene Board</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: a writer's corkboard. Episode tabs on top, one column of scene cards, a thread map you can flip to. */
+:root{
+  --bg:#eef1ee; --paper:#fbfcfa; --ink:#1d2622; --muted:#5d6b65; --line:#d3dbd6; --accent:#1f7a56; --accent-ink:#ffffff; --soft:#e2ebe6; --danger:#a3392b;
+  --f-prose:"Literata",Georgia,"Times New Roman",serif; --f-ui:"IBM Plex Sans",system-ui,"Segoe UI",sans-serif; --f-mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#0f1513;--paper:#17201d;--ink:#e3ebe7;--muted:#97a7a0;--line:#2c3934;--accent:#5fcf9d;--accent-ink:#0b1310;--soft:#1e2b27;--danger:#ff8a78;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#0f1513;--paper:#17201d;--ink:#e3ebe7;--muted:#97a7a0;--line:#2c3934;--accent:#5fcf9d;--accent-ink:#0b1310;--soft:#1e2b27;--danger:#ff8a78;color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font:15px/1.5 var(--f-ui);margin:0}
+.wrap{max-width:980px;margin:0 auto;padding-block:20px 80px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+h1{font:600 26px/1.15 var(--f-prose);margin:0;text-wrap:balance}
+.sub{color:var(--muted);font-size:13px;margin:4px 0 0}
+.top{display:flex;justify-content:space-between;align-items:flex-end;gap:12px;flex-wrap:wrap}
+.status{font-size:12px;color:var(--muted);font-family:var(--f-mono)}
+.status.warn{color:var(--danger)}
+button{font:inherit;cursor:pointer;color:inherit}
+button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.btn{border:1px solid var(--line);background:var(--paper);border-radius:6px;padding:7px 12px;font-size:13px}
+.btn:hover{border-color:var(--accent)}
+.btn.primary{background:var(--accent);color:var(--accent-ink);border-color:var(--accent);font-weight:600}
+.btn.ghost{background:transparent;border-color:transparent;color:var(--muted);padding:5px 7px}
+.btn.ghost:hover{color:var(--ink);border-color:var(--line)}
+.btn.danger{color:var(--danger)}
+.tabs{display:flex;gap:4px;overflow-x:auto;margin:18px 0 0;border-bottom:1px solid var(--line);scrollbar-width:thin}
+.tab{border:1px solid transparent;border-bottom:none;background:none;padding:8px 12px;border-radius:6px 6px 0 0;font-size:13px;white-space:nowrap;color:var(--muted)}
+.tab b{font-family:var(--f-mono);font-weight:500;font-size:11px;margin-left:5px;opacity:.75}
+.tab[aria-selected="true"]{background:var(--paper);border-color:var(--line);color:var(--ink);font-weight:600;margin-bottom:-1px}
+.bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:14px 0}
+.bar select{font:inherit;font-size:13px;padding:6px 8px;border:1px solid var(--line);border-radius:6px;background:var(--paper);color:var(--ink);max-width:100%}
+.spacer{flex:1}
+.ribbon{display:flex;gap:2px;height:14px;margin:4px 0 12px}
+.ribbon a{flex:1;display:flex;flex-direction:column;border-radius:2px;overflow:hidden;background:var(--soft);min-width:4px}
+.ribbon a span{flex:1}
+.cards{display:flex;flex-direction:column;gap:12px}
+.card{background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:14px 16px 12px;position:relative}
+.card.dragging{opacity:.4}
+.card.over{box-shadow:0 -3px 0 var(--accent)}
+.card.status-final{border-left:4px solid var(--accent)}
+.card-head{display:flex;gap:10px;align-items:flex-start}
+.grip{cursor:grab;color:var(--muted);font:500 13px var(--f-mono);padding:6px 2px;user-select:none;touch-action:none;min-width:34px}
+.num{font:500 13px var(--f-mono);color:var(--muted)}
+.fields{flex:1;min-width:0;display:flex;flex-direction:column;gap:4px}
+.t-title{font:600 19px/1.25 var(--f-prose);border:none;background:none;color:var(--ink);width:100%;padding:2px 0}
+.t-place{font:italic 14px var(--f-prose);border:none;background:none;color:var(--muted);width:100%;padding:2px 0}
+.t-title::placeholder,.t-place::placeholder,textarea::placeholder{color:var(--muted);opacity:.7}
+.chip-status{border:1px solid var(--line);border-radius:20px;padding:3px 10px;font-size:12px;background:var(--soft);white-space:nowrap}
+.chip-status[data-s="final"]{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.chip-status[data-s="draft"]{border-color:var(--accent)}
+textarea{width:100%;resize:vertical;border:1px solid transparent;border-radius:6px;background:var(--bg);color:var(--ink);font:16px/1.65 var(--f-prose);padding:10px 12px;min-height:110px;margin-top:8px}
+textarea:hover{border-color:var(--line)}
+.note{min-height:48px;font:13px/1.5 var(--f-ui);margin-top:6px}
+.tagrow{display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin-top:8px}
+.tagrow .lbl{font-size:11px;letter-spacing:1px;text-transform:uppercase;color:var(--muted);min-width:76px}
+.pill{border:1px solid var(--line);border-radius:20px;padding:2px 10px;font-size:12.5px;background:transparent}
+.pill[aria-pressed="true"]{background:var(--soft);border-color:var(--ink);font-weight:500}
+.pill.thread{border-color:color-mix(in srgb,var(--c) 55%,var(--line))}
+.pill.thread[aria-pressed="true"]{background:color-mix(in srgb,var(--c) 28%,var(--paper));border-color:var(--c)}
+.pill.thread::before{content:"";display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--c);margin-right:6px;vertical-align:1px}
+.more{display:none;flex-wrap:wrap;gap:6px}
+.card.showall .more{display:flex}
+.card-foot{display:flex;gap:4px;flex-wrap:wrap;margin-top:8px;align-items:center}
+.card-foot select{font:inherit;font-size:12px;padding:4px 6px;border:1px solid var(--line);border-radius:5px;background:var(--paper);color:var(--ink)}
+.confirm{display:inline-flex;gap:6px;align-items:center;font-size:12px;color:var(--danger)}
+.empty{border:1px dashed var(--line);border-radius:8px;padding:32px 20px;text-align:center;color:var(--muted);background:var(--paper)}
+.empty h2{font:600 18px var(--f-prose);color:var(--ink);margin:0 0 6px}
+.map{overflow-x:auto;background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:12px}
+.map table{border-collapse:collapse;font-size:12px}
+.map th,.map td{padding:4px 6px;text-align:center;white-space:nowrap}
+.map th.row{text-align:left;font-weight:500;position:sticky;left:0;background:var(--paper)}
+.map th.col{font:500 11px var(--f-mono);color:var(--muted)}
+.map .dot{display:inline-block;width:14px;height:14px;border-radius:50%;background:var(--c)}
+.map .cnt{font-family:var(--f-mono);color:var(--muted)}
+dialog{border:1px solid var(--line);border-radius:10px;background:var(--paper);color:var(--ink);width:min(640px,calc(100vw - 32px));padding:18px}
+dialog::backdrop{background:rgb(0 0 0 / .4)}
+dialog h2{font:600 19px var(--f-prose);margin:0 0 10px}
+.cfg-row{display:flex;gap:8px;align-items:center;margin:6px 0}
+.cfg-row input[type=text]{flex:1;min-width:0;font:inherit;padding:6px 8px;border:1px solid var(--line);border-radius:5px;background:var(--bg);color:var(--ink)}
+.cfg-row input[type=color]{width:36px;height:30px;border:none;background:none;padding:0}
+.export{width:100%;min-height:260px;font:12.5px/1.5 var(--f-mono)}
+.hint{font-size:12.5px;color:var(--muted)}
+@media (max-width:560px){.tagrow .lbl{min-width:100%}h1{font-size:22px}}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<div class="wrap">
+  <div class="top">
+    <div>
+      <h1>The Green Gallows · Scene Board</h1>
+      <p class="sub">Your writing, your order, your tags. Claude files what's here exactly as written.</p>
+    </div>
+    <div class="status" id="status" role="status">Connecting…</div>
+  </div>
+
+  <div class="tabs" id="tabs" role="tablist" aria-label="Episodes"></div>
+
+  <div class="bar">
+    <button class="btn primary" id="add" type="button">+ New scene</button>
+    <label class="hint" for="fChar">Character</label>
+    <select id="fChar"><option value="">Everyone</option></select>
+    <label class="hint" for="fThread">Thread</label>
+    <select id="fThread"><option value="">All threads</option></select>
+    <span class="spacer"></span>
+    <button class="btn" id="viewToggle" type="button" aria-pressed="false">Thread map</button>
+    <button class="btn" id="cfgBtn" type="button">Threads &amp; cast</button>
+    <button class="btn" id="exportBtn" type="button">Send to Claude</button>
+  </div>
+
+  <div class="ribbon" id="ribbon" aria-hidden="true"></div>
+  <div id="view"></div>
+</div>
+
+<dialog id="cfg">
+  <h2>Threads &amp; cast</h2>
+  <p class="hint">Threads are the colour-coded plot lines you tag scenes with. The cast list is who you can tag.</p>
+  <h3 class="hint" style="margin:14px 0 4px">Threads</h3>
+  <div id="cfgThreads"></div>
+  <button class="btn" id="addThread" type="button">+ Add thread</button>
+  <h3 class="hint" style="margin:18px 0 4px">Cast</h3>
+  <div id="cfgCast"></div>
+  <div class="cfg-row"><input type="text" id="newChar" placeholder="Add a character"><button class="btn" id="addChar" type="button">Add</button></div>
+  <div class="bar"><span class="spacer"></span><button class="btn primary" id="cfgSave" type="button">Save</button><button class="btn" id="cfgClose" type="button">Cancel</button></div>
+</dialog>
+
+<dialog id="exp">
+  <h2>Send to Claude</h2>
+  <p class="hint">Claude can read this board directly, so just say "read the board". If you'd rather paste, copy this.</p>
+  <div class="bar">
+    <select id="expScope"><option value="ep">This episode</option><option value="all">Every episode</option></select>
+    <span class="spacer"></span>
+    <button class="btn primary" id="copy" type="button">Copy</button>
+    <button class="btn" id="expClose" type="button">Close</button>
+  </div>
+  <textarea class="export" id="expText" readonly></textarea>
+  <p class="hint" id="copyMsg"></p>
+</dialog>
+
+<script>
+(()=>{
+const EPISODES=10;
+const DEFAULT_CFG={threads:[],cast:[]};
+const STATUS=["idea","draft","final"], STATUS_LABEL={idea:"Idea",draft:"Draft",final:"Final"};
+let db=null, mode="loading";            // "db" | "local" | "loading"
+let scenes={};                           // id -> scene
+let cfg=structuredClone(DEFAULT_CFG);
+let ep=1, view="cards", fChar="", fThread="";
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+try{const v=localStorage.getItem("gg-ep");if(v)ep=+v||1;}catch(e){}
+
+/* ---------- status ---------- */
+let pending=0;
+function setStatus(){
+  const el=$("#status");
+  if(mode==="loading"){el.textContent="Connecting…";el.className="status";return;}
+  if(mode==="local"){el.textContent="Saved in this browser only";el.className="status warn";return;}
+  el.textContent=pending?"Saving…":"All changes saved";el.className="status";
+}
+
+/* ---------- storage ---------- */
+const LKEY="gg-board-v1";
+function localLoad(){try{const d=JSON.parse(localStorage.getItem(LKEY)||"null");if(d){scenes=d.scenes||{};cfg=d.cfg||cfg;}}catch(e){}}
+function localSave(){try{localStorage.setItem(LKEY,JSON.stringify({scenes,cfg}));}catch(e){}}
+
+const queues={};                          // one write at a time per doc
+function writeDoc(path,body,del=false){
+  if(mode!=="db"){localSave();return;}
+  const q=queues[path]||(queues[path]={busy:false,next:undefined});
+  q.next={body,del};
+  if(q.busy)return;
+  const run=async()=>{
+    if(!q.next){q.busy=false;return;}
+    const job=q.next;q.next=undefined;q.busy=true;pending++;setStatus();
+    try{ job.del?await db.doc(path).delete():await db.doc(path).set(job.body); }
+    catch(e){ if(e&&e.code==="invalid_argument"){$("#status").textContent="This board is read-only for you";$("#status").className="status warn";} else {$("#status").textContent="Couldn't save. Check your connection";$("#status").className="status warn";} }
+    pending--;setStatus();run();
+  };
+  run();
+}
+const timers={};
+function saveScene(id,soon=false){
+  const s=scenes[id]; if(!s)return;
+  s.updatedAt=Date.now();
+  clearTimeout(timers[id]);
+  const go=()=>{delete timers[id];writeDoc("scenes/"+id,{...s});};
+  if(soon)go(); else timers[id]=setTimeout(go,700);
+}
+function saveCfg(){writeDoc("config/main",{threads:cfg.threads,cast:cfg.cast});}
+
+/* ---------- helpers ---------- */
+const threadById=id=>cfg.threads.find(t=>t.id===id);
+function epScenes(n){return Object.values(scenes).filter(s=>s.ep===n).sort((a,b)=>a.order-b.order);}
+function uid(){return "s"+Date.now().toString(36)+Math.random().toString(36).slice(2,7);}
+
+/* ---------- render ---------- */
+function renderTabs(){
+  const t=$("#tabs");t.innerHTML="";
+  for(let n=1;n<=EPISODES;n++){
+    const c=epScenes(n).length;
+    const b=document.createElement("button");
+    b.className="tab";b.type="button";b.setAttribute("role","tab");b.setAttribute("aria-selected",n===ep);
+    b.innerHTML=`Ep ${n}<b>${c||""}</b>`;
+    b.onclick=()=>{ep=n;try{localStorage.setItem("gg-ep",n)}catch(e){};render();};
+    t.appendChild(b);
+  }
+}
+function renderFilters(){
+  const fc=$("#fChar"),ft=$("#fThread");
+  fc.innerHTML='<option value="">Everyone</option>'+cfg.cast.map(c=>`<option ${c===fChar?"selected":""}>${esc(c)}</option>`).join("");
+  ft.innerHTML='<option value="">All threads</option>'+cfg.threads.map(t=>`<option value="${esc(t.id)}" ${t.id===fThread?"selected":""}>${esc(t.name)}</option>`).join("");
+}
+function renderRibbon(list){
+  const r=$("#ribbon");
+  r.innerHTML=list.map((s,i)=>{
+    const cs=(s.threads||[]).map(threadById).filter(Boolean);
+    return `<a href="#${s.id}" title="${i+1}. ${esc(s.title||"Untitled")}">${cs.map(t=>`<span style="background:${t.color}"></span>`).join("")}</a>`;
+  }).join("");
+}
+function visible(s){return (!fChar||(s.characters||[]).includes(fChar))&&(!fThread||(s.threads||[]).includes(fThread));}
+
+function render(){
+  renderTabs();renderFilters();
+  const list=epScenes(ep);
+  renderRibbon(list);
+  $("#viewToggle").textContent=view==="cards"?"Thread map":"Scene cards";
+  $("#viewToggle").setAttribute("aria-pressed",view==="map");
+  const v=$("#view");
+  if(mode==="loading"){v.innerHTML='<div class="empty"><h2>Opening your board…</h2>Your scenes appear here in a moment.</div>';return;}
+  if(view==="map"){v.innerHTML=mapHTML(list);return;}
+  if(!list.length){
+    v.innerHTML=`<div class="empty"><h2>Episode ${ep} has no scenes yet</h2>Press <b>+ New scene</b> and write it your way. Drag the number to reorder, tag who's in it and which threads it carries, and mark it <b>Final</b> when it's canon.</div>`;
+    return;
+  }
+  v.innerHTML='<div class="cards" id="cards"></div>';
+  const box=$("#cards");
+  list.forEach((s,i)=>{ if(visible(s)) box.appendChild(cardEl(s,i+1,list.length)); });
+  if(!box.children.length) box.innerHTML='<div class="empty">No scenes in this episode match the filter.</div>';
+}
+
+function cardEl(s,num,total){
+  const el=document.createElement("article");
+  el.className="card status-"+(s.status||"idea");el.id=s.id;el.dataset.id=s.id;
+  const castOn=cfg.cast.filter(c=>(s.characters||[]).includes(c));
+  const extraCast=(s.characters||[]).filter(c=>!cfg.cast.includes(c));
+  el.innerHTML=`
+  <div class="card-head">
+    <span class="grip" draggable="true" title="Drag to reorder" aria-label="Scene ${num}. Drag to reorder">⠿ <span class="num">${num}</span></span>
+    <div class="fields">
+      <input class="t-title" id="t-${s.id}" value="${esc(s.title)}" placeholder="Scene title" aria-label="Scene title">
+      <input class="t-place" id="p-${s.id}" value="${esc(s.place)}" placeholder="Place · time" aria-label="Place and time">
+    </div>
+    <button class="chip-status" type="button" data-s="${s.status||"idea"}" title="Click to change status">${STATUS_LABEL[s.status||"idea"]}</button>
+  </div>
+  <textarea id="x-${s.id}" placeholder="Write the scene: beats, lines, the moment. Your words, exactly." aria-label="Scene text">${esc(s.text)}</textarea>
+  <div class="tagrow"><span class="lbl">Threads</span>${cfg.threads.map(t=>`<button type="button" class="pill thread" style="--c:${t.color}" data-thread="${esc(t.id)}" aria-pressed="${(s.threads||[]).includes(t.id)}">${esc(t.name)}</button>`).join("")||'<span class="hint">Add threads under “Threads &amp; cast”.</span>'}</div>
+  <div class="tagrow"><span class="lbl">Characters</span>
+    ${castOn.concat(extraCast).map(c=>`<button type="button" class="pill" data-char="${esc(c)}" aria-pressed="true">${esc(c)}</button>`).join("")}
+    <button type="button" class="btn ghost" data-act="cast">${castOn.length||extraCast.length?"Edit cast":"+ Tag characters"}</button>
+    <span class="more">${cfg.cast.filter(c=>!castOn.includes(c)).map(c=>`<button type="button" class="pill" data-char="${esc(c)}" aria-pressed="false">${esc(c)}</button>`).join("")}</span>
+  </div>
+  <textarea class="note" id="n-${s.id}" placeholder="Note to Claude (optional): questions, things to check, what you're unsure about" aria-label="Note to Claude">${esc(s.note)}</textarea>
+  <div class="card-foot">
+    <button class="btn ghost" type="button" data-act="up" ${num===1?"disabled":""} aria-label="Move up">↑</button>
+    <button class="btn ghost" type="button" data-act="down" ${num===total?"disabled":""} aria-label="Move down">↓</button>
+    <label class="hint" for="m-${s.id}">Move to</label>
+    <select id="m-${s.id}" data-act="move">${Array.from({length:EPISODES},(_,i)=>`<option value="${i+1}" ${i+1===s.ep?"selected":""}>Ep ${i+1}</option>`).join("")}</select>
+    <button class="btn ghost" type="button" data-act="insert">+ Scene after</button>
+    <span class="spacer" style="flex:1"></span>
+    <span data-slot="del"><button class="btn ghost danger" type="button" data-act="del">Delete</button></span>
+  </div>`;
+  // inputs
+  const bind=(sel,key)=>{const i=el.querySelector(sel);i.addEventListener("input",()=>{s[key]=i.value;saveScene(s.id);if(key==="title"||key==="threads")renderRibbon(epScenes(ep));});};
+  bind(".t-title","title");bind(".t-place","place");bind("#x-"+CSS.escape(s.id),"text");bind("#n-"+CSS.escape(s.id),"note");
+  el.querySelector(".chip-status").onclick=e=>{const i=STATUS.indexOf(s.status||"idea");s.status=STATUS[(i+1)%3];e.currentTarget.dataset.s=s.status;e.currentTarget.textContent=STATUS_LABEL[s.status];el.className="card status-"+s.status;saveScene(s.id,true);};
+  el.querySelectorAll("[data-thread]").forEach(b=>b.onclick=()=>{const id=b.dataset.thread;const a=new Set(s.threads||[]);a.has(id)?a.delete(id):a.add(id);s.threads=[...a];b.setAttribute("aria-pressed",a.has(id));saveScene(s.id,true);renderRibbon(epScenes(ep));});
+  el.querySelectorAll("[data-char]").forEach(b=>b.onclick=()=>{const c=b.dataset.char;const a=new Set(s.characters||[]);a.has(c)?a.delete(c):a.add(c);s.characters=[...a];b.setAttribute("aria-pressed",a.has(c));saveScene(s.id,true);});
+  el.querySelector('[data-act="cast"]').onclick=()=>el.classList.toggle("showall");
+  el.querySelector('[data-act="up"]').onclick=()=>move(s.id,-1);
+  el.querySelector('[data-act="down"]').onclick=()=>move(s.id,1);
+  el.querySelector('[data-act="insert"]').onclick=()=>addScene(s.id);
+  el.querySelector('[data-act="move"]').onchange=e=>{const n=+e.target.value;const last=epScenes(n).pop();s.ep=n;s.order=(last?last.order:0)+1000;saveScene(s.id,true);render();};
+  const slot=el.querySelector('[data-slot="del"]');
+  el.querySelector('[data-act="del"]').onclick=()=>{
+    slot.innerHTML=`<span class="confirm">Delete this scene? <button class="btn danger" type="button" data-y>Delete</button><button class="btn" type="button" data-n>Keep</button></span>`;
+    slot.querySelector("[data-y]").onclick=()=>{delete scenes[s.id];writeDoc("scenes/"+s.id,null,true);render();};
+    slot.querySelector("[data-n]").onclick=()=>render();
+  };
+  // drag
+  const grip=el.querySelector(".grip");
+  grip.addEventListener("dragstart",e=>{e.dataTransfer.setData("text/plain",s.id);e.dataTransfer.effectAllowed="move";el.classList.add("dragging");});
+  grip.addEventListener("dragend",()=>el.classList.remove("dragging"));
+  el.addEventListener("dragover",e=>{e.preventDefault();el.classList.add("over");});
+  el.addEventListener("dragleave",()=>el.classList.remove("over"));
+  el.addEventListener("drop",e=>{e.preventDefault();el.classList.remove("over");const from=e.dataTransfer.getData("text/plain");if(from&&from!==s.id)placeBefore(from,s.id);});
+  return el;
+}
+
+function mapHTML(list){
+  if(!list.length) return `<div class="empty"><h2>Nothing to map yet</h2>Add scenes to Episode ${ep} and tag their threads.</div>`;
+  if(!cfg.threads.length) return `<div class="empty"><h2>No threads defined</h2>Add threads under “Threads &amp; cast”.</div>`;
+  const head=list.map((s,i)=>`<th class="col" title="${esc(s.title)}">${i+1}</th>`).join("");
+  const rows=cfg.threads.map(t=>{
+    const cells=list.map(s=>(s.threads||[]).includes(t.id)?`<td><span class="dot" style="--c:${t.color}" title="${esc(s.title)}"></span></td>`:"<td></td>").join("");
+    const n=list.filter(s=>(s.threads||[]).includes(t.id)).length;
+    return `<tr><th class="row"><span class="dot" style="--c:${t.color};width:9px;height:9px;margin-right:6px"></span>${esc(t.name)}</th>${cells}<td class="cnt">${n}</td></tr>`;
+  }).join("");
+  return `<div class="map"><table><thead><tr><th></th>${head}<th class="col">Σ</th></tr></thead><tbody>${rows}</tbody></table></div><p class="hint">Columns are scenes in order. Hover a dot for the scene title.</p>`;
+}
+
+/* ---------- ordering ---------- */
+function renumber(n){epScenes(n).forEach((s,i)=>{const o=(i+1)*1000;if(s.order!==o){s.order=o;saveScene(s.id,true);}});}
+function move(id,dir){
+  const l=epScenes(ep),i=l.findIndex(s=>s.id===id),j=i+dir;if(j<0||j>=l.length)return;
+  [l[i].order,l[j].order]=[l[j].order,l[i].order];saveScene(l[i].id,true);saveScene(l[j].id,true);render();
+  document.getElementById(id)?.querySelector(dir<0?'[data-act="up"]':'[data-act="down"]')?.focus();
+}
+function placeBefore(fromId,toId){
+  const l=epScenes(ep).filter(s=>s.id!==fromId),i=l.findIndex(s=>s.id===toId);
+  const prev=i>0?l[i-1].order:l[i].order-1000;
+  scenes[fromId].order=(prev+l[i].order)/2;scenes[fromId].ep=ep;saveScene(fromId,true);
+  if(Math.abs(l[i].order-prev)<0.01)renumber(ep);
+  render();
+}
+function addScene(afterId){
+  const l=epScenes(ep);let order;
+  if(afterId){const i=l.findIndex(s=>s.id===afterId);order=i<l.length-1?(l[i].order+l[i+1].order)/2:l[i].order+1000;}
+  else order=(l.length?l[l.length-1].order:0)+1000;
+  const id=uid();
+  scenes[id]={id,ep,order,title:"",place:"",text:"",note:"",characters:[],threads:[],status:"idea",createdAt:Date.now()};
+  saveScene(id,true);render();
+  document.getElementById("t-"+id)?.focus();
+}
+
+/* ---------- config dialog ---------- */
+let draft=null;
+function openCfg(){
+  draft=structuredClone(cfg);drawCfg();$("#cfg").showModal();
+}
+function drawCfg(){
+  $("#cfgThreads").innerHTML=draft.threads.map((t,i)=>`<div class="cfg-row"><input type="color" value="${esc(t.color)}" data-i="${i}" data-k="color" aria-label="Thread colour"><input type="text" value="${esc(t.name)}" data-i="${i}" data-k="name" aria-label="Thread name"><button class="btn ghost danger" type="button" data-rm="${i}">Remove</button></div>`).join("")||'<p class="hint">No threads yet.</p>';
+  $("#cfgThreads").querySelectorAll("input").forEach(inp=>inp.oninput=()=>{draft.threads[+inp.dataset.i][inp.dataset.k]=inp.value;});
+  $("#cfgThreads").querySelectorAll("[data-rm]").forEach(b=>b.onclick=()=>{draft.threads.splice(+b.dataset.rm,1);drawCfg();});
+  $("#cfgCast").innerHTML=draft.cast.map((c,i)=>`<div class="cfg-row"><input type="text" value="${esc(c)}" data-ci="${i}" aria-label="Character name"><button class="btn ghost danger" type="button" data-crm="${i}">Remove</button></div>`).join("");
+  $("#cfgCast").querySelectorAll("input").forEach(inp=>inp.oninput=()=>{draft.cast[+inp.dataset.ci]=inp.value;});
+  $("#cfgCast").querySelectorAll("[data-crm]").forEach(b=>b.onclick=()=>{draft.cast.splice(+b.dataset.crm,1);drawCfg();});
+}
+$("#addThread").onclick=()=>{const palette=["#2f8f6b","#4a6fd1","#c4476f","#d38b1e","#8a5cc7","#cf5b2e","#6b7a85","#1b9aaa"];draft.threads.push({id:"t"+Date.now().toString(36),name:"New thread",color:palette[draft.threads.length%palette.length]});drawCfg();};
+$("#addChar").onclick=()=>{const v=$("#newChar").value.trim();if(v&&!draft.cast.includes(v)){draft.cast.push(v);$("#newChar").value="";drawCfg();}};
+$("#newChar").onkeydown=e=>{if(e.key==="Enter"){e.preventDefault();$("#addChar").click();}};
+$("#cfgSave").onclick=()=>{draft.cast=draft.cast.map(c=>c.trim()).filter(Boolean);draft.threads=draft.threads.filter(t=>t.name.trim());cfg=draft;saveCfg();$("#cfg").close();render();};
+$("#cfgClose").onclick=()=>$("#cfg").close();
+$("#cfgBtn").onclick=openCfg;
+
+/* ---------- export ---------- */
+function toMarkdown(scope){
+  const eps=scope==="all"?Array.from({length:EPISODES},(_,i)=>i+1):[ep];
+  const out=[];
+  for(const n of eps){
+    const l=epScenes(n);if(!l.length&&scope==="all")continue;
+    out.push(`# Episode ${n}`,"");
+    l.forEach((s,i)=>{
+      out.push(`## ${i+1}. ${s.title||"Untitled"}`);
+      if(s.place)out.push(`*${s.place}*`);
+      out.push(`Status: ${STATUS_LABEL[s.status||"idea"]}`);
+      const th=(s.threads||[]).map(threadById).filter(Boolean).map(t=>t.name);
+      if(th.length)out.push(`Threads: ${th.join(", ")}`);
+      if((s.characters||[]).length)out.push(`Characters: ${s.characters.join(", ")}`);
+      out.push("",s.text||"(no text yet)","");
+      if(s.note)out.push(`> Note to Claude: ${s.note.replace(/\n/g,"\n> ")}`,"");
+    });
+  }
+  return out.join("\n").trim()||"Nothing written yet.";
+}
+function openExp(){ $("#expText").value=toMarkdown($("#expScope").value); $("#copyMsg").textContent=""; $("#exp").showModal(); }
+$("#exportBtn").onclick=openExp;
+$("#expScope").onchange=()=>{$("#expText").value=toMarkdown($("#expScope").value);};
+$("#expClose").onclick=()=>$("#exp").close();
+$("#copy").onclick=()=>{
+  const t=$("#expText").value;
+  navigator.clipboard?.writeText(t).then(()=>{$("#copyMsg").textContent="Copied. Paste it into your chat with Claude.";},()=>{$("#expText").select();$("#copyMsg").textContent="Selected. Press Ctrl+C or ⌘C to copy.";}) ?? ($("#expText").select(),$("#copyMsg").textContent="Selected. Press Ctrl+C or ⌘C to copy.");
+};
+
+/* ---------- toolbar ---------- */
+$("#add").onclick=()=>addScene();
+$("#fChar").onchange=e=>{fChar=e.target.value;render();};
+$("#fThread").onchange=e=>{fThread=e.target.value;render();};
+$("#viewToggle").onclick=()=>{view=view==="cards"?"map":"cards";render();};
+
+/* ---------- boot ---------- */
+function goLocal(){ if(mode!=="loading")return; mode="local"; localLoad(); setStatus(); render(); }
+render();setStatus();
+const fallback=setTimeout(goLocal,10000);
+(async()=>{
+  const api=window.claude&&window.claude.use?await window.claude.use("db").catch(()=>null):null;
+  if(!api){clearTimeout(fallback);goLocal();return;}
+  db=api;
+  let gotScenes=false,gotCfg=false;
+  const ready=()=>{if(gotScenes&&gotCfg&&mode==="loading"){clearTimeout(fallback);mode="db";setStatus();render();}};
+  db.doc("config/main").onSnapshot(snap=>{
+    if(snap.exists){const d=snap.data();cfg={threads:(d.threads||[]).map(t=>({...t})),cast:[...(d.cast||[])]};}
+    gotCfg=true;ready();if(mode==="db"&&!$("#cfg").open){renderFilters();if(view==="map")render();}
+  },()=>{clearTimeout(fallback);goLocal();});
+  db.collection("scenes").onSnapshot(snap=>{
+    let changed=false;
+    snap.docChanges().forEach(ch=>{
+      const d=ch.doc.data(),id=ch.doc.id;
+      if(ch.type==="removed"){delete scenes[id];changed=true;return;}
+      if(timers[id]||ch.doc.metadata.hasPendingWrites)return;   // don't clobber what's being typed
+      const cur=scenes[id];
+      if(!cur||(d.updatedAt||0)>(cur.updatedAt||0)){scenes[id]={...d,id};changed=true;}
+    });
+    gotScenes=true;ready();
+    if(mode==="db"&&changed){
+      const a=document.activeElement;
+      if(!(a&&(a.tagName==="TEXTAREA"||a.tagName==="INPUT")&&a.closest(".card")))render(); else {renderTabs();renderRibbon(epScenes(ep));}
+    }
+  },()=>{clearTimeout(fallback);goLocal();});
+})();
+})();
+</script>

@@ -1,7 +1,7 @@
 # Tamara Lambrick
 
 **Age:** 19. **Role:** major supporting. Hector Lambrick's daughter, codebreaker, engaged to Nathaniel.
-**Look:** sharp-chinned and quick-eyed, grey silk two seasons out of fashion on purpose, ink on her middle finger, a cipher wheel hidden inside her fan.
+**Look:** to be written.
 
 - **Wants:** to be her father's heir, not his bargaining chip.
 - **The lie she believes:** if she proves her worth, her father will finally see her.

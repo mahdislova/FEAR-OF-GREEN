@@ -49,12 +49,7 @@ Eldgard traps it in an **ornament**, a piece of the ship's containment, and mesm
 3. It carries what the dying hold most. It left Jamie carrying his thought of Miriam at the bridge. It took Miriam carrying Alice, and her last words: "Go back for my sister."
 4. Its cold is the cryo energy it was soaked in. It comes out when she feels too much or chooses to use it, and it kills by touch. The cold holds Miriam's body exactly as it was in the river.
 5. Miriam's memories return to her one at a time, never in the order she'd choose, and the heaviest comes last. Glimpses of what she actually is come too: her mother's voice, a sky she has never seen.
-6. Harding technology can contain her cold. That is why Nathaniel's workshop can hide her: a cold-sink of two gauntlet cores and a copper coil wound in the imprint's spiral, worn at the wrist (Ep 3).
-
-**Morgana's voice and grief**
-1. She can speak through the Ring: lamps and the Works' speaking-pipes carry her voice. She chooses who hears.
-2. The light dips with her grief. When her child escapes (Ep 1), every lamp in London breathes in at once; the yield falls eleven points and stays down.
-3. Her child can feel her through the lamps and is drawn toward the light. Touching a lamp or a crystal tree with bare hands makes it frost over and sing.
+6. Harding technology can contain her cold. That is why Nathaniel's workshop can hide her.
 
 **Mesmerism.** Victorian mesmerism is real in this world but small: a swinging light, a quiet voice and a frightened child. It buries memories; it doesn't create them.
 
@@ -76,7 +71,7 @@ Eldgard traps it in an **ornament**, a piece of the ship's containment, and mesm
 **The kept Hargraves.** Not a faction: a family. Ada, Marsh and Nixon are what's left. Ada's faith, the Lamp Saint faith, is their way of surviving: *our dead became the light*. See `characters/ada-hargrave.md`.
 
 ## Places
-Harding House (Mayfair): the dining room, the study, the long gallery, the locked room at the top, the servants' stair, the roof leads. The Works' great hall (the Exhibition) and control room. The Ring mains: brick tunnels under the streets. Nathaniel's workshop: a converted bell-foundry in Clerkenwell. Covent Garden's Christmas crystal market. Seven Dials. The St Giles dead-house. St Bride's. Westminster, Committee Room 14. The Bond Street tea shop. Blackwood Bridge and the Thames foreshore. The Harding Works over Tyburn, with the core and the pod below. Gin Lane and the East End. The bridge where Miriam dies. The Shadwell laundry. Lambrick House. Newgate. Parliament.
+Harding House (Mayfair): the locked room at the top, the servants' stair. The Harding Works over Tyburn, with the core and the pod below. Nathaniel's workshop. Gin Lane and the East End. The bridge where Miriam dies. The Shadwell laundry. Lambrick House. Newgate. Parliament.
 
 ## The ship
 Never seen whole until the finale. Pieces of it live inside the Works machinery. The ornament is one. In Episode 10 a ship comes for Morgana.

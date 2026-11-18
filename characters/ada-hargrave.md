@@ -1,7 +1,7 @@
 # Ada Hargrave
 
 **Age:** about 60. **Role:** supporting, not a finale player. Head housekeeper at Harding House.
-**Look:** small and upright in black bombazine, a chatelaine of keys that chimes when she moves, iron-grey hair under a lace cap, hands red-knuckled from forty years of brass polish, and the serene face of a woman in church.
+**Look:** to be written.
 
 - **Who she is:** has polished the same lamps for forty years. Keeps the cryo clean, so she knows Morgana exists. Ada and Tobias Marsh are siblings; Nixon is their nephew. She raised him below stairs.
 - **The Lamp Saint faith:** how Hargrave's survivors made the massacre bearable. *Our dead became the light*: every green lamp is a Hargrave martyr shining. Morgana is **the Lady**, a saint fallen from heaven, given to the Hardings to light the world, with Hargrave's dead as her first offering. Ada tends a tortured prisoner like a shrine.

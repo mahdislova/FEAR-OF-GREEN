@@ -1,7 +1,7 @@
 # Miriam Bounds
 
 **Age:** 24. **Role:** catalyst (Episode 1 and cold opens). Alice's older sister, Vykra runner, Jamie's lover.
-**Look:** tall and long-limbed, dark hair braided tight under a wool cap, a charcoal coat with Vykra red stitched inside the collar, soft boots worn thin at the toe, a knife flat against her spine. Red mittens (carried over).
+**Look:** to be written. Red mittens (carried over).
 
 - **Character:** hard, quick and funny. Can face a street fight; cannot speak the shame of freezing as a child while Alice was hurt.
 - **The wound:** their stepfather drank and kept a belt. Under the bed Miriam promised Alice nothing would touch her while she was there. Then she never once moved. She taught Alice to count the fence posts: "Eight posts and he's done."

@@ -1,7 +1,7 @@
 # Nixon Hargrave
 
 **Age:** 23. **Role:** lead. Youngest Lantern-Captain; Nathaniel's best friend.
-**Look:** broad through the shoulders, close-cropped dark hair, a weather-cut face older than his years, a fresh scar through one eyebrow, and a soldier's careful way of standing in rooms too good for him.
+**Look:** to be written.
 
 - **Who he is:** the current kept Hargrave. Son of Ada and Marsh's younger sister, who died. Raised by Ada below stairs; schooled and ranked on Harding money.
 - **Wants:** to belong to the family that raised him.

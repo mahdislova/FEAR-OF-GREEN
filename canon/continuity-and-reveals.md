@@ -22,10 +22,7 @@
 | 1873 | The offspring escapes, imprints Jamie (9) then Nathaniel (5). Eldgard traps it in the ornament and mesmerises Nathaniel. |
 | c. 1881 | Miriam, sixteen, drowns the Bounds girls' stepfather at the Thames stairs for Grise. Joins the Vykra. |
 | 1889, days before Ep 1 | Jamie's initiation on his 25th birthday. Morgana: "Where is my child?" |
-| 2 Nov 1889, Ep 1 | The Exhibition. The ornament breaks. Jamie falls. Miriam dies. The Lost One takes her in the river. Pike hears the light speak. |
-| 3–4 Nov, Ep 2 | The Lost One rises on the foreshore and finds Alice. Alice takes the Vykra contract. Jamie's funeral. Nixon shown the top room. |
-| 9 Nov, Ep 3 | Moss killed on the Bounds stair. The crystal market. Nathaniel shelters the sisters in Clerkenwell. |
-| 13 Nov, Ep 4 | The Charter hearing. Marsh. The Works wall. Lambrick learns of the Lost One. |
+| 1889, Ep 1 | The Exhibition. The ornament breaks. Jamie falls. Miriam dies. The Lost One rises. |
 
 Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 
@@ -46,11 +43,7 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | The Hargrave massacre | Eldgard, Ada, Marsh | Ep 8 cold open | Nixon: Ep 8 |
 | Marsh is Nixon's uncle | Ada, Marsh | Ep 4 (hinted) | Nixon: Ep 9 |
 | The yield is failing | Eldgard, the chief engineer | Ep 1 | Lambrick: Ep 4. London: Ep 4 |
-| The chief engineer sold out to Lambrick | Pike, Lambrick, Ajax | Ep 4 | Eldgard: unset (asks Pike to find the traitor, Ep 4). Nathaniel: unset |
-| The light is alive and speaks | Hardings | Ep 1 | Pike: Ep 1 tag |
-| The Frost Killer is real and Nathaniel hides her | Nathaniel, Alice | Ep 3 | Lambrick and Ajax: Ep 4. Tamara overhears: Ep 4. Nixon suspects: Ep 3, knows: Ep 4 |
-| Eldgard's plan for the child | Eldgard, Josephine | Ep 4 tag | Byron overhears: Ep 4 |
-| Morgana wants "the boy who knows" | Morgana | Ep 4 | The Lost One: Ep 4 |
+| The chief engineer sold out to Lambrick | The engineer, Lambrick | Ep 4 | Nathaniel: unset |
 
 ## Setups and payoffs
 
