@@ -1,5 +1,7 @@
 # Season one
 
+**Status:** the spine is provisional; Episode 1 is the episode the writer is happy with. Ideas are locked, pitched or open (see `handoff/01-READ-FIRST.md`). Open questions live in `PROJECT.md`.
+
 ## The promise
 
 **We follow Nathaniel Harding as he hunts his brother's killer, choosing the people in front of him over the family that made him, until he must decide whether London's light is worth a child in a freezer.**
@@ -39,15 +41,30 @@ Full beats live in `episodes/`.
 | 9 | The Break-out | The truth is spoken aloud | Nixon, the Lost One | Open |
 | 10 | Lights Out | The light ends | Nathaniel, Alice | The ship; the Lost One stays |
 
-## The four threads
+## The threads
 
-**Nathaniel and Nixon.** Ep 2: Nixon gets the keys, the father, and the secret that Jamie lives. Ep 3: they lie to each other in both directions. Ep 5: Nathaniel finds Jamie and learns Nixon knew; the first break. **Ep 8, the point of no return:** Nixon leads the raid and takes the Lost One, then learns what was done to Hargrave and understands what he just did. Ep 9: same side, not friends. Ep 10: changed, not restored.
+**Nathaniel and Nixon.** Ep 1: Nixon is away in the east; his empty chair says it all ("That's Nixon's chair, Nat"). Ep 2: Nixon comes home to report village after village frozen in ice, and gets the keys, the father, and the secret that Jamie lives. Ep 3: they lie to each other in both directions. Ep 5: Nathaniel finds Jamie and learns Nixon knew; the first break. **Ep 8, the point of no return:** Nixon leads the raid and takes the Lost One, then learns what was done to Hargrave and understands what he just did. Ep 9: same side, not friends. Ep 10: changed, not restored.
 
-**The two imprints.** Ep 3 cold open: a fragment of 1873. Eps 3–5: Nathaniel's memory flickers near the Lost One. **Ep 6, reveal #1:** Nathaniel remembers all of 1873; his genius was planted and his father erased him. **Ep 9, reveal #2:** the same night from the offspring's side, Jamie's room first; Morgana tells the Lost One she sent her. Same night, two readings.
+**The two imprints.** Ep 1: the gauntlet Nathaniel can't explain, and its misfire. Ep 3 cold open: a fragment of 1873. Eps 3–5: Nathaniel's memory flickers near the Lost One. **Ep 6, reveal #1:** Nathaniel remembers all of 1873; his genius was planted and his father erased him. **Ep 9, reveal #2:** the same night from the offspring's side, Jamie's room first; Morgana tells the Lost One she sent her. Same night, two readings.
 
-**The sisters.** Ep 2: Alice gets "Miriam" back. Eps 3–6: closeness. Ep 6: Grise tells Alice Miriam's entry price, their stepfather. **Ep 7, the break:** the Lost One confirms and confesses on Miriam's behalf, which is how Alice knows. "You're not her." At the end of the episode Jennie tells her Josephine killed Miriam. Ep 8 morning: "Nine is the one where we get up." Ep 10: Alice offers her the ship; she stays.
+**The sisters.** Ep 1: the Narrows raid with Jennie, the birthday orange, "Not tonight." Ep 2: Alice gets "Miriam" back. Eps 3–6: closeness. Ep 6: Grise tells Alice Miriam's entry price, their stepfather. **Ep 7, the break:** the Lost One confirms and confesses on Miriam's behalf, which is how Alice knows. "You're not her." Ep 8 morning: "Nine is the one where we get up." Ep 10: Alice offers her the ship; she stays.
 
-**The history, told in cold opens.**
+**The killer (Josephine), one beat per episode.** Ep 1: Miriam falls; a figure in the shadows backs away; Jennie watches. Ep 2: Josephine burns her gloves (the audience knows). Ep 3: Jennie sees "Miriam" alive. Ep 4: Grise's hand-sign test; she sells the location to Lambrick. Ep 5: Josephine sees the Lost One in the mirror. Ep 6: Josephine and Grise; Josephine pays to remove the witness. Ep 7: the Lost One saves Jennie; Jennie tells Alice. Ep 8: Alice tells Nathaniel she was hired; Josephine gives Eldgard the workshop. Ep 10: Alice confronts Josephine and spares her.
+
+## Thread grid
+
+| Thread | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| The light | Initiation; the ornament breaks | Frozen villages in the east | — | The failure goes public; "use the child" | — | Byron: a woman in a pod; East End cut | The East End freezes | The Lost One taken to the pod | Storming the Works | Morgana freed; the ship; Lambrick wins |
+| Nathaniel and Nixon | Nixon's empty chair | Nixon home; the keys; Jamie's secret | Lies both ways | — | First break: "How long?" | — | — | Point of no return: the raid | Same side, not friends | Changed, not restored |
+| The imprints | The gauntlet he can't explain; the misfire | — | The 1873 fragment; "I know you" | — | The Lost One touches Jamie | Reveal #1: the full 1873 night | — | — | Reveal #2: Morgana sent her | The planted knowledge opens the pod |
+| The sisters | The Narrows; the orange; "Not tonight" | Alice gets "Miriam" back | The first kill; hiding | Closeness | The heist together | Grise: the stepfather | "You're not her" | "Nine is the one where we get up" | Her crisis: was love a plan? | Offered the ship; she stays |
+| The killer | The fall; a figure; Jennie watches | Josephine burns her gloves | Jennie sees "Miriam" alive | Grise's hand-sign test | Josephine sees her in the mirror | Josephine and Grise; the witness | Jennie saved; tells Alice | Alice confesses the contract; Josephine gives up the workshop | — | Alice spares Josephine |
+| The Hargraves | Ada's lamps | Ada and Nixon: "love" | — | Marsh: "Hargrave chin" | — | — | — | The Hargrave pages; "I forgave them" | Ada's death; Marsh freed; "Did you love me?" | Nixon holds the Guard for London |
+
+## Cold opens
+
+The history, told in pieces.
 
 | Ep | Cold open |
 | --- | --- |
