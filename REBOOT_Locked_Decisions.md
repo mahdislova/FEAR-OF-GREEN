@@ -79,6 +79,16 @@ An Alistair recipe, built from Morgana's own technology. It keeps Hardings from 
 3. Strength grows with proximity to the core and years of exposure. Nathaniel, shut out as the second son, has had the least. Being unwanted kept him free.
 4. Jamie's imprint made him immune.
 
+## Factions (agreed)
+- **Engine:** the light is dying. Clock card: THE LIGHT HAS 49 DAYS.
+- **The Lost One is the replacement:** Eldgard wants the offspring for the pod once Morgana dies.
+- **Josephine** paid for Miriam to be "stopped". Grise's knife (Jennie) did it. She then hired Alice.
+- **The Works' chief engineer** (new): not Harding blood, Nathaniel's mentor, sells the yield figures and the secret to Lambrick.
+- **Lambricks:** Hector the coal arch-nemesis; Tamara the only one who can read Alistair's cipher book; Ajax the enforcer.
+- **Vykra:** Grise; the twins merged into Jennie.
+- **Cut:** Vane and the Crown annex, Felix Hawke, Old Wren, Jennifer, Otty.
+- Full season shape in `SEASON_SPINE_v1.md`.
+
 ## Cut (added)
 Cole Pruett. Miriam's pregnancy. The Blackwood generator, the keys, Xylon, the face-veil, the lockets, the Episode 1 core raid.
 
