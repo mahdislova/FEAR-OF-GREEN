@@ -30,6 +30,7 @@ The light is a living thing in a freezer, and the Hardings got it by breaking a 
 - **The Lost One killed Jamie and doesn't remember it.** Her memories return slowly. When she understands, she goes to Nathaniel in tears and holds him tight: "I'm so sorry. There's something I have to tell you…" This is the midseason (Ep 5). The same episode, Nixon learns Nathaniel has been hiding his brother's killer: their first break.
 - **Miriam Bounds** dies at Blackwood Bridge. On screen we see only her fall and a figure in the shadows backing away. The offspring reaches her as she dies and takes her body; her last thought is Alice. That's **the Lost One**.
 - **Nathaniel's day:** Eldgard moves him out of Nixon's empty chair at lunch ("That's Nixon's chair, Nat"). At the Exhibition he demonstrates his gauntlet to impress a visiting professor and it misfires, humiliating him in Eldgard's eyes. Jamie finds him on the roof for a quiet brothers' moment ("Never lose the light within you"), then goes to free the child.
+- **Episode 2** opens cold on Nathaniel as a boy: a shadow, eyes as limitless as the sky, a shriek, a nightmare. Then a convoy to Jamie's funeral (a full house; the Duke appears), and the umbrella scene.
 - **Nixon isn't in Episode 1.** He first appears in Ep 2, back from the east to report village after village frozen in ice, their heat and power source faded.
 - **Jennie** (Vykra) rides the Narrows warehouse raid with Miriam that day, and Alice joins uninvited. That starts the bond and the rivalry between Jennie and Alice. Jennie witnesses the bridge.
 

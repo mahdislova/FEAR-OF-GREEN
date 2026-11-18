@@ -16,11 +16,11 @@ Nothing here is locked except where marked. The season shape was approved as a w
 | 9 | The Break-out | Ada's death; Nixon frees Marsh; storming the Works; imprint reveal #2 |
 | 10 | Lights Out | Morgana freed, mayhem, the ship, the Lost One stays, Lambrick wins |
 
-Cold opens tell the history in pieces: the crash (Ep 1), 1873 (Ep 3 and Ep 9), the deal (Ep 4), the sisters' childhood (Ep 7), the Hargrave freeze (Ep 8), the pod closing (Ep 10).
+Cold opens tell the history in pieces: the crash (Ep 1), Nathaniel's nightmare of 1873 (Ep 2), 1873 from the offspring's side (Ep 9), the deal (Ep 4), the sisters' childhood (Ep 7), the Hargrave freeze (Ep 8), the pod closing (Ep 10).
 
 ## Threads and their spacing
 - **Nathaniel and Nixon:** lies in both directions (Ep 3), the first break when Nixon learns Nathaniel hid Jamie's killer (Ep 5), the point of no return when Nixon leads the raid (Ep 8), the same side but not friends (Ep 9).
-- **The imprints:** a fragment (Ep 3), Nathaniel's full memory (Ep 6), and the same night from the offspring's side, where Morgana tells the Lost One she sent her (Ep 9).
+- **The imprints:** the nightmare cold open (Ep 2), Nathaniel's full memory (Ep 6), and the same night from the offspring's side, where Morgana tells the Lost One she sent her (Ep 9).
 - **The sisters:** closeness (Eps 2–6), the break (Ep 7), "Nine is the one where we get up" (Ep 8), the choice to stay (Ep 10).
 - **The killer thread, one beat per episode.** This spacing is agreed:
   - Ep 1: Miriam's fall, a figure in the shadows, Jennie watching.
@@ -49,6 +49,7 @@ Cold opens tell the history in pieces: the crash (Ep 1), 1873 (Ep 3 and Ep 9), t
 - Minor new characters: Peg the mudlark (a witness), Moss (Ajax's man).
 
 ## Open questions
+- **Ep 2:** what the umbrella scene is; who the Duke is (the writer brought him back; he appears at the funeral); the Ep 3 cold open.
 - **After cutting Jamie-alive:** the Ep 2 tag; Byron's role; the Ep 5 heist's purpose and the Ep 5 title.
 - **The writer's plot twist**, mentioned but never given. Ask for it.
 - The tag at the end of Ep 9.

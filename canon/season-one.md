@@ -47,7 +47,7 @@ Full beats live in `episodes/`.
 
 **Jamie's death.** Ep 1: the offspring, starved and half-mad, ravages Jamie as it escapes; he dies of his wounds. London blames the Frost Killer (Ep 3), and Nathaniel hunts his brother's killer while sheltering her. Her memories of it return slowly. When she finally understands what she did, she goes to Nathaniel in tears, holds him tight: "I'm so sorry. There's something I have to tell you…" (Ep 5, the midseason).
 
-**The two imprints.** Ep 1: the gauntlet Nathaniel can't explain, and its misfire. Ep 3 cold open: a fragment of 1873. Eps 3–5: Nathaniel's memory flickers near the Lost One. **Ep 6, reveal #1:** Nathaniel remembers all of 1873; his genius was planted and his father erased him. **Ep 9, reveal #2:** the same night from the offspring's side, Jamie's room first; Morgana tells the Lost One she sent her. Same night, two readings.
+**The two imprints.** Ep 1: the gauntlet Nathaniel can't explain, and its misfire. Ep 2 cold open: Nathaniel as a boy, a shadow and eyes as limitless as the sky, a shriek; a nightmare. Eps 3–5: Nathaniel's memory flickers near the Lost One. **Ep 6, reveal #1:** Nathaniel remembers all of 1873; his genius was planted and his father erased him. **Ep 9, reveal #2:** the same night from the offspring's side, Jamie's room first; Morgana tells the Lost One she sent her. Same night, two readings.
 
 **The sisters.** Ep 1: the Narrows raid with Jennie, the birthday orange, "Not tonight." Ep 2: Alice gets "Miriam" back. Eps 3–6: closeness. Ep 6: Grise tells Alice Miriam's entry price, their stepfather. **Ep 7, the break:** the Lost One confirms and confesses on Miriam's behalf, which is how Alice knows. "You're not her." Ep 8 morning: "Nine is the one where we get up." Ep 10: Alice offers her the ship; she stays.
 
@@ -59,7 +59,7 @@ Full beats live in `episodes/`.
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | The light | Initiation; the ornament breaks | Frozen villages in the east | — | The failure goes public; "use the child" | — | Byron: a woman in a pod; East End cut | The East End freezes | The Lost One taken to the pod | Storming the Works | Morgana freed; the ship; Lambrick wins |
 | Nathaniel and Nixon | Nixon's empty chair | Nixon home; the keys | Lies both ways | — | First break: Nathaniel is hiding Jamie's killer | — | — | Point of no return: the raid | Same side, not friends | Changed, not restored |
-| The imprints | The gauntlet he can't explain; the misfire | — | The 1873 fragment; "I know you" | — | — | Reveal #1: the full 1873 night | — | — | Reveal #2: Morgana sent her | The planted knowledge opens the pod |
+| The imprints | The gauntlet he can't explain; the misfire | The nightmare cold open | "I know you" | — | — | Reveal #1: the full 1873 night | — | — | Reveal #2: Morgana sent her | The planted knowledge opens the pod |
 | The sisters | The Narrows; the orange; "Not tonight" | Alice gets "Miriam" back | The first kill; hiding | Closeness | The confession to Nathaniel | Grise: the stepfather | "You're not her" | "Nine is the one where we get up" | Her crisis: was love a plan? | Offered the ship; she stays |
 | The killer | The fall; a figure; Jennie watches | Josephine burns her gloves | Jennie sees "Miriam" alive | Grise's hand-sign test | Josephine sees her in the mirror | Josephine and Grise; the witness | Jennie saved; tells Alice | Alice confesses the contract; Josephine gives up the workshop | — | Alice spares Josephine |
 | The Hargraves | Ada's lamps | Ada and Nixon: "love" | — | Marsh: "Hargrave chin" | — | — | — | The Hargrave pages; "I forgave them" | Ada's death; Marsh freed; "Did you love me?" | Nixon holds the Guard for London |
@@ -71,7 +71,8 @@ The history, told in pieces.
 | Ep | Cold open |
 | --- | --- |
 | 1 | c. 1780. The crash in the Harding woods. Alistair's lantern finds a hand in the wreck. |
-| 3 | 1873. A child's room, green light at the window. A fragment. |
+| 2 | Nathaniel as a boy: a shadow, eyes as limitless as the sky, a shriek. A nightmare. |
+| 3 | Open. |
 | 4 | The deal. Morgana teaches; Alistair: "You have my word." |
 | 7 | The Bounds girls under the bed, counting. A belt buckle. |
 | 8 | Hargrave freezes in one night. A child survivor in Alistair's coat. |

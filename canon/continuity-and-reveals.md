@@ -33,7 +33,7 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | The light is Morgana | Eldgard, Josephine, Ada, Byron, Jamie | Ep 1 | Nathaniel: Ep 6 (the 1873 memory plus Byron's confession). Nixon: Ep 8 (the Harding book, hours after he delivers the Lost One believing she's only the Frost Killer) |
 | The Lost One killed Jamie | Nobody: the memory is buried in her | Ep 1 (we see it happen) | The Lost One: slowly, memory by memory. Nathaniel: Ep 5, when she tells him. Nixon: Ep 5 |
 | The "Frost Killer" didn't murder Jamie: the offspring ravaged him escaping | The Lost One (buried memory) | Ep 1 | Nathaniel: Ep 5 |
-| The 1873 imprint on Nathaniel | Eldgard | Ep 3 fragment, Ep 6 in full | Nathaniel: Ep 6 |
+| The 1873 imprint on Nathaniel | Eldgard | Ep 2 cold open (as a nightmare), Ep 6 in full | Nathaniel: Ep 6 |
 | The 1873 imprint on Jamie, and that Morgana sent her | Morgana | Ep 9 | The Lost One: Ep 9 |
 | Eldgard plans to put the Lost One in the pod | Eldgard, Josephine | Ep 4 tag | Nathaniel: Ep 8 |
 | Alice was hired to get close to Nathaniel | Josephine, Grise, Alice | Ep 2 | Nathaniel: Ep 8 (Alice tells him herself) |
@@ -53,7 +53,7 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | --- | --- |
 | Ada polishes lamps and calls Nixon "love" (Ep 1 onward) | Her death on the servants' stair (Ep 9) |
 | Marsh pinches Nixon's chin (Ep 4) | Nixon learns he's his uncle (Ep 9) |
-| The swinging lantern (Ep 3 fragment) | The full 1873 memory (Ep 6) |
+| The nightmare: a shadow, eyes as limitless as the sky (Ep 2 cold open) | The full 1873 memory (Ep 6) |
 | Nathaniel's unexplained genius (Ep 1) | It was planted (Ep 6), and it opens the pod (Ep 10) |
 | Miriam's last thought is Alice (Ep 1) | Why the Lost One goes to Alice (Ep 2) |
 | The counting game, "eight posts" (Ep 2 onward) | "Nine is the one where we get up" (Ep 8) |

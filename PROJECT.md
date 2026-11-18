@@ -30,6 +30,7 @@ A ten-episode gothic drama. London, November 1889. The whole city glows green, a
 ## Open questions
 
 - The writer's plot twist (mentioned, not yet given).
+- **Ep 2:** what the umbrella scene is; who the Duke is; the Ep 3 cold open (the 1873 fragment moved to Ep 2).
 - **After cutting Jamie-alive:** the Ep 2 tag; Byron's secret; the purpose of the Ep 5 heist; the Ep 5 title and tag.
 - The tag at the end of Episode 9.
 - Josephine's fate after the finale.

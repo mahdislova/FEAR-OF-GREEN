@@ -1,6 +1,6 @@
 # Episode 3 — The Frost Killer
 
-**Cold open:** 1873. A child's room, green light at the window. A fragment.
+**Cold open:** open (the 1873 fragment moved to Ep 2).
 
 **Change:** Nathaniel takes a side. **POV:** Nixon and Nathaniel.
 - The Lost One kills a man who attacks Alice. Her cold, by touch. London names a Frost Killer, and blames Jamie's death on it.
