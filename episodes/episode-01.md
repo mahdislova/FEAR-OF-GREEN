@@ -10,7 +10,6 @@
 - Ada polishing lamps (seed her from Ep 1).
 - Cross-cut: Jamie at Harding House breaks the ornament; the offspring, starved and half-mad, ravages him and goes out of the window. Miriam waits at the bridge. We see only her fall, and a figure in the shadows backing away (Josephine, unrevealed). Jennie watches from the stair. The river.
 - **Closing image:** Miriam drowning, intercut with Nathaniel coming into the study where Jamie is bleeding out.
-- **Tag:** the lamps of the Exhibition flicker. In the dark, Morgana: "My child is out."
 
 ## Scenes
 

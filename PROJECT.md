@@ -30,13 +30,12 @@ A ten-episode gothic drama. London, November 1889. The whole city glows green, a
 ## Open questions
 
 - The writer's plot twist (mentioned, not yet given).
-- **After cutting Jamie-alive:** the midseason turn (Ep 5); what the first break between Nathaniel and Nixon is about; the Ep 2 tag; Byron's secret; the purpose of the Ep 5 heist.
-- Which episode the Lost One confesses to Nathaniel that she killed Jamie.
+- **After cutting Jamie-alive:** the Ep 2 tag; Byron's secret; the purpose of the Ep 5 heist; the Ep 5 title and tag.
 - The tag at the end of Episode 9.
 - Josephine's fate after the finale.
 - The scale and staging of the ship's damage in Episode 10.
 - The villages frozen in the east (Ep 2): only the cold of a failing light, or something stranger?
-- The chief engineer's name.
+- The chief engineer's name. (His Ep 1 tag scene is cut.)
 - Marsh's arrest date; Nixon's mother's name.
 - The Lantern Hymn: keep it, and is it Morgana's lullaby?
 - The aura's finer rules (proximity, exposure).

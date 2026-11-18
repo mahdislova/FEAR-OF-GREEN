@@ -9,7 +9,7 @@ Nothing here is locked except where marked. The season shape was approved as a w
 | 2 | The Wake | Two grieving siblings get missions; Alice takes the contract |
 | 3 | The Frost Killer | Nathaniel takes a side without knowing it; he shelters the sisters |
 | 4 | The Hearing | The light's failure goes public (Lambrick in Parliament) |
-| 5 | Open | Midseason turn open (Jamie-alive is cut) |
+| 5 | Open (title) | Midseason: the Lost One confesses she killed Jamie; Nixon learns Nathaniel hid her |
 | 6 | The Remembering | A quiet aftermath. Nathaniel recovers the 1873 memory; the East End is cut off |
 | 7 | The Girl Who Isn't | The East End freezes; "You're not her"; Alice learns about Josephine |
 | 8 | The Wedding | Nathaniel marries Tamara for coal; Nixon's raid takes the Lost One for the pod |
@@ -19,7 +19,7 @@ Nothing here is locked except where marked. The season shape was approved as a w
 Cold opens tell the history in pieces: the crash (Ep 1), 1873 (Ep 3 and Ep 9), the deal (Ep 4), the sisters' childhood (Ep 7), the Hargrave freeze (Ep 8), the pod closing (Ep 10).
 
 ## Threads and their spacing
-- **Nathaniel and Nixon:** lies in both directions (Ep 3), the first break (open), the point of no return when Nixon leads the raid (Ep 8), the same side but not friends (Ep 9).
+- **Nathaniel and Nixon:** lies in both directions (Ep 3), the first break when Nixon learns Nathaniel hid Jamie's killer (Ep 5), the point of no return when Nixon leads the raid (Ep 8), the same side but not friends (Ep 9).
 - **The imprints:** a fragment (Ep 3), Nathaniel's full memory (Ep 6), and the same night from the offspring's side, where Morgana tells the Lost One she sent her (Ep 9).
 - **The sisters:** closeness (Eps 2–6), the break (Ep 7), "Nine is the one where we get up" (Ep 8), the choice to stay (Ep 10).
 - **The killer thread, one beat per episode.** This spacing is agreed:
@@ -34,7 +34,6 @@ Cold opens tell the history in pieces: the crash (Ep 1), 1873 (Ep 3 and Ep 9), t
 
 ## Dartboard: pitched ideas, not committed
 - Every episode opens on a clock card: **THE LIGHT HAS 49 DAYS**, counting down.
-- The engineer hears the light speak at the end of Ep 1 ("My child is out") and starts a second ledger.
 - At the Ep 1 luncheon the engagement is dropped over lunch, and the table stays calm when Jamie asks what would happen if the light went out. That calm is the aura at work. A telegram from Nixon in the east sits face down by Eldgard's plate.
 - The gauntlet misfires because Nathaniel can't fix the part of the design he doesn't understand: the first crack in the imprint.
 - The photograph in Ep 1 has a gap at Eldgard's right hand, left for Nixon.
@@ -50,7 +49,7 @@ Cold opens tell the history in pieces: the crash (Ep 1), 1873 (Ep 3 and Ep 9), t
 - Minor new characters: Peg the mudlark (a witness), Moss (Ajax's man).
 
 ## Open questions
-- **After cutting Jamie-alive:** the midseason turn; the first Nathaniel–Nixon break; the Ep 2 tag; Byron's role; which episode the Lost One confesses to Nathaniel.
+- **After cutting Jamie-alive:** the Ep 2 tag; Byron's role; the Ep 5 heist's purpose and the Ep 5 title.
 - **The writer's plot twist**, mentioned but never given. Ask for it.
 - The tag at the end of Ep 9.
 - Josephine's fate after the finale.

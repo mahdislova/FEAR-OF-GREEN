@@ -31,7 +31,7 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Secret | Knows at the start | Audience learns | Character learns last |
 | --- | --- | --- | --- |
 | The light is Morgana | Eldgard, Josephine, Ada, Byron, Jamie | Ep 1 | Nathaniel: Ep 6 (the 1873 memory plus Byron's confession). Nixon: Ep 8 (the Harding book, hours after he delivers the Lost One believing she's only the Frost Killer) |
-| The Lost One killed Jamie | Nobody: the memory is buried in her | Ep 1 (we see it happen) | The Lost One: slowly, memory by memory. Nathaniel: when she tells him (episode open) |
+| The Lost One killed Jamie | Nobody: the memory is buried in her | Ep 1 (we see it happen) | The Lost One: slowly, memory by memory. Nathaniel: Ep 5, when she tells him. Nixon: Ep 5 |
 | The "Frost Killer" didn't murder Jamie: the offspring ravaged him escaping | The Lost One (buried memory) | Ep 1 | Nathaniel: Ep 5 |
 | The 1873 imprint on Nathaniel | Eldgard | Ep 3 fragment, Ep 6 in full | Nathaniel: Ep 6 |
 | The 1873 imprint on Jamie, and that Morgana sent her | Morgana | Ep 9 | The Lost One: Ep 9 |
