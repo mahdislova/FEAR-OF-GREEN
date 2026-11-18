@@ -7,7 +7,7 @@
 - **First appears in Ep 2,** back from the east to report the failures: village after village frozen in ice, their heat and power source faded. In Ep 1 he's absent; his empty chair is enough ("That's Nixon's chair, Nat").
 - **Wants:** to belong to the family that raised him.
 - **The lie he believes:** obedience is the price of belonging.
-- **Secret (from Ep 2):** Eldgard's right hand. Holds the keys to the house, and knows Jamie is alive. Keeps it from Nathaniel. Eldgard does not show him the pod: Nixon believes the Frost Killer is only a killer until the Harding book (Ep 8).
+- **Secret (from Ep 2):** Eldgard's right hand. Holds the keys to the house. Eldgard does not show him the pod: Nixon believes the Frost Killer is only a killer until the Harding book (Ep 8).
 - **Wound:** he cannot tell whether Eldgard loved him or kept him. The answer is both.
 
 **Arc ladder.** Wants to belong → hunts the Frost Killer and keeps Eldgard's secrets → loses Nathaniel → postpones choosing between obeying and knowing → breaks his uncle out of Newgate with Ada's blood on his cuffs, then holds the Guard for London, not for the Hardings.

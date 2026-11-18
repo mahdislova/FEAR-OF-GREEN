@@ -46,9 +46,9 @@ Eldgard traps it in an **ornament**, a piece of the ship's containment, and mesm
 4. Jamie's 1873 imprint made him immune.
 
 **The offspring and the Lost One**
-1. The offspring has no body. It can try to wear a living person, but the living fight back. That is what ravaged Jamie: it tried, failed and tore back out.
+1. The offspring has no body. Starved and half-mad after sixteen years in the ornament, it ravaged Jamie when he freed it, and he died of his wounds.
 2. It can take a body at the moment of death. That is how it became the Lost One, in Miriam.
-3. It carries what the dying hold most. It left Jamie carrying his thought of Miriam at the bridge. It took Miriam carrying Alice, and her last words: "Go back for my sister."
+3. It carries what the dying hold most. It left Jamie carrying his thought of Miriam at the bridge. It took Miriam as she died, and Miriam's last thought was Alice.
 4. Its cold is the cryo energy it was soaked in. It comes out when she feels too much or chooses to use it, and it kills by touch. The cold holds Miriam's body exactly as it was in the river.
 5. Miriam's memories return to her one at a time, never in the order she'd choose, and the heaviest comes last. Glimpses of what she actually is come too: her mother's voice, a sky she has never seen.
 6. Harding technology can contain her cold. That is why Nathaniel's workshop can hide her.
@@ -73,7 +73,7 @@ Eldgard traps it in an **ornament**, a piece of the ship's containment, and mesm
 **The kept Hargraves.** Not a faction: a family. Ada, Marsh and Nixon are what's left. Ada's faith, the Lamp Saint faith, is their way of surviving: *our dead became the light*. See `characters/ada-hargrave.md`.
 
 ## Places
-Harding House (Mayfair): the locked room at the top, the servants' stair. The Harding Works over Tyburn, with the core and the pod below. Nathaniel's workshop. Gin Lane and the East End. The bridge where Miriam dies. The Shadwell laundry. Lambrick House. Newgate. Parliament.
+Harding House (Mayfair): the study, the servants' stair. The Harding Works over Tyburn, with the core and the pod below. Nathaniel's workshop. Gin Lane and the East End. The bridge where Miriam dies. The Shadwell laundry. Lambrick House. Newgate. Parliament.
 
 ## The ship
 Never seen whole until the finale. Pieces of it live inside the Works machinery. The ornament is one. In Episode 10 a ship comes for Morgana.

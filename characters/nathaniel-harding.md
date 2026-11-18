@@ -14,6 +14,6 @@
 - **Alice:** the investigation partner; the season-long will-they-won't-they. The romance starts as her paid lie.
 - **Nixon:** best friend, then the replacement son who gets everything he wanted. Breaks at Ep 5; point of no return at Ep 8.
 - **Eldgard:** the father who shut him out of the work, and in 1873 erased his memory.
-- **Jamie:** the brother he grieves, who is alive two floors above him.
+- **Jamie:** the brother he grieves. Found him bleeding out (Ep 1). Hunts his killer all season while sheltering her.
 - **Tamara:** the fiancée of a merger; married in Ep 8 to buy coal for the freezing East.
 - **The aura:** least exposed of any Harding. Being unwanted kept him free.

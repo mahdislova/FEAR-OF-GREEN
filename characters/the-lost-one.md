@@ -5,7 +5,7 @@
 
 - **Wants:** to free her mother.
 - **The lie she believes:** love is a weakness of the body she wears.
-- **Secret:** she lets Alice believe she's Miriam. She is keeping Miriam's last request: "Go back for my sister."
+- **Secret:** she lets Alice believe she's Miriam. She killed Jamie Harding escaping the ornament and doesn't remember it. The memories return slowly; when she understands, she goes to Nathaniel in tears and holds him: "I'm so sorry. There's something I have to tell you…" (episode open).
 - **What she doesn't know:** in 1873 she imprinted both Harding boys, on her mother's instruction (revealed Ep 9).
 
 **Two griefs in one body.** Miriam's memories and guilt, returning one at a time, heaviest last. And glimpses of what she is: her mother's voice, a sky she has never seen.

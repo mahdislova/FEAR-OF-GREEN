@@ -30,6 +30,8 @@ A ten-episode gothic drama. London, November 1889. The whole city glows green, a
 ## Open questions
 
 - The writer's plot twist (mentioned, not yet given).
+- **After cutting Jamie-alive:** the midseason turn (Ep 5); what the first break between Nathaniel and Nixon is about; the Ep 2 tag; Byron's secret; the purpose of the Ep 5 heist.
+- Which episode the Lost One confesses to Nathaniel that she killed Jamie.
 - The tag at the end of Episode 9.
 - Josephine's fate after the finale.
 - The scale and staging of the ship's damage in Episode 10.
