@@ -21,7 +21,7 @@ Read `PROJECT.md` first. It maps every folder.
 - `drafts/claude/`: Claude's drafts and proposals. Not canon.
 - `board/`: the user's scene board and its exports.
 - `reference/`: craft material, not canon.
-- `archive/`: the old season. **Never canon. Never edit. Never draw facts from it without the user's say-so.**
+- `archive/`: superseded material (the old season, early reboot logs, superseded drafts). **Never canon. Never edit. Never draw facts from it without the user's say-so.**
 
 ## One fact, one home
 Every fact lives in exactly one file. Point to it; don't copy it. When a decision changes, update its home file and anything that points at it in the same commit. When an episode change affects a reveal or a setup, update `canon/continuity-and-reveals.md` too.

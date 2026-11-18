@@ -24,7 +24,7 @@ London, 1889. The whole city glows green. The light is a living being kept in a 
 
 ## Where things are (repo `mahdislova/FEAR-OF-GREEN`)
 - `canon/`, `characters/`, `episodes/`: canon, one fact per home. The episode files hold beat lists from the provisional spine. No scenes are canon yet.
-- `drafts/claude/`: the previous assistant's drafts. Scene drafts of Episodes 1–4, an atlas page, and a prose chapter for Episode 1. Not canon.
+- `drafts/claude/`: for your drafts and proposals. Not canon. (The previous assistant's early drafts are superseded and live in `archive/superseded-claude-drafts/`.)
 - `board/`: the writer's scene board (a claude.ai artifact). Episode 1's draft scenes are loaded there as editable cards marked Draft.
 - `reference/`: a craft guide drawn from the Rings of Power writers' room.
-- `archive/`: the old, abandoned version of the season. Never canon.
+- `archive/`: superseded material: the old season, early reboot logs, old drafts. Never canon. Where it conflicts with canon, canon wins.
