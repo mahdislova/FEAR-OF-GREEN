@@ -1,0 +1,660 @@
+#TITLE The Green Gallows
+#SUB Episode One · The Harding Chapter
+#CARD THE LIGHT HAS 49 DAYS
+#DATE London, 2 November 1889
+
+The coal bin caught Nathaniel Harding the way it caught everything else in the gauntlet shop: without enthusiasm and with a great deal of soot.
+
+*Whumph.*
+
+He lay in it for a moment, looking up through the black cloud he'd raised at the iron trusses forty feet above, and listened to the leap-gauntlet on his right arm tick as it cooled. *Tik. Tik. Tik.* Somewhere below the shop's windows, a hundred feet down, the core housings hummed their one long note, the note that had been in his teeth since he was old enough to have teeth. Brass domes the size of chapels, each one cast with the same three words and a date. PROVIDENCE AND IRON. EST. 1783. The Works liked to remind you that it had been here first.
+
+So, he thought. Distance: good. Landing: a matter for further study.
+
+"Very graceful, sir." Byron's face appeared over the lip of the bin, upside down from where Nathaniel lay. The Harding butler was sixty-four years old, silver-haired and straight-backed, with an old soldier's moustache clipped to regulation and white gloves that were, by some private sorcery, still white. Byron had once been a sergeant of the Lantern Guard. He still stood like one, as if somebody might at any moment ask him to hold a door against an army. "The coal agrees with you."
+
+"The coal's jealous." Nathaniel sat up. Soot slid off his shoulders in a soft black landslide. He was twenty-one and too long in every direction, all wrists and shins, ink-stained to the elbow, his sleeves rolled, his waistcoat buttoned one hole wrong, brass goggles pushed up into hair that needed cutting and had needed cutting since August. "Did you see the height on that? Did you see the *height*?"
+
+"I saw it from several angles, sir. Most of them alarming."
+
+"Thirty feet. Thirty-one. Clean across." He held up the gauntlet: a forearm rig of brass ribs and copper coil, a gallowglass core in a cage at the wrist glowing faintly green, two crystal-fed thrust valves under the palm. Three years of evenings. Two hundred and six failed couplings. One coal bin. "The Guard's rigs bleed heat at the valve. That's why they can't hold a charge past thirty seconds. Mine doesn't bleed."
+
+"Why doesn't it bleed, sir?"
+
+Nathaniel opened his mouth to explain, and found he couldn't.
+
+He knew *what* he'd done. He'd wound the coolant coil in a tightening spiral around the valve throat, each turn a little closer to the last, like a snail's shell, like water going down a drain. He knew it worked. He'd known it would work before he built it, the way you know your own front door in the dark. What he didn't know was where the idea had come from. He'd been sketching something else entirely, one night in September, and his hand had drawn the spiral, and he'd looked at it, and it had looked *right*.
+
+"It just does," he said.
+
+"Ah." Byron reached down a gloved hand and hauled him out of the bin with a strength that had nothing to do with sixty-four. "Then it will be a great comfort to the Lantern Guard to know it just does."
+
+Boots on the iron stair. The shop's door banged open and Silas Pike came in with a ledger under his arm and the smell of the furnace floor on him. The Works' chief engineer was a spare grey man in his fifties, pince-nez on a black ribbon, a leather apron over a good suit worn shiny at the cuffs. His hands were the thing you noticed: burn-scarred to the wrist, shiny and puckered, the hands of a man who'd come up from the bottom of the Works the hard way and had the receipts.
+
+Pike did not look at Nathaniel. He looked at the chalkboard on the wall, where somebody had been keeping a tally of dark hours by district. *Barking 3. Ilford 2. Essex (whole) 4.* Somebody had underlined *Essex* twice, hard enough to snap the chalk. Pike stood in front of it for a long moment. Then he opened his ledger, wrote something, and closed it again.
+
+Then he looked at the gauntlet. Then he looked closer.
+
+"Who wound that?"
+
+"I did."
+
+Pike lifted Nathaniel's wrist without asking, turned it to the light, and studied the spiral at the valve throat for so long that Nathaniel began to feel like a horse at auction. The engineer's thumb, scarred and careful, traced the coil. Once. Twice.
+
+"Where did you learn to wind it like that?"
+
+"I didn't. It just looked right."
+
+"It just looked right." Pike let go of his wrist. Something moved behind the pince-nez, and Nathaniel, who had spent his whole life watching grown men decide whether he mattered, couldn't read it at all. "We've been trying to stop that bleed for ten years, Mr Harding. Ten years. Forty men. I wrote a paper on why it couldn't be done."
+
+"Then I'm sorry about your paper."
+
+"Don't be." Pike tucked the ledger back under his arm. At the door he paused, and said, without turning, in a voice so quiet it was almost kind: "Don't show your father."
+
+"I'm showing him tonight. In front of the Board of Trade, the press, half the Lords. He'll *have* to look."
+
+"That," Pike said, "is what I'm afraid of." And he was gone, boots ringing down the iron stair. *Clang. Clang. Clang.*
+
+Nathaniel stared at the door.
+
+"He's a very serious man, Mr Pike," Byron said, after a while.
+
+"He's jealous."
+
+"Undoubtedly, sir." Byron produced a clothes brush from somewhere about his person, the way other men produce a handkerchief. "Tonight he sees it. In front of everyone. Then I'll brush you twice." He began on Nathaniel's shoulders. *Fft. Fft.* Then he stopped, and said, carefully, to the back of Nathaniel's coat: "And, sir. If he doesn't look—"
+
+"He'll look."
+
+A pause.
+
+"Yes, sir," Byron said, and brushed him twice.
+
+When the old man went down the servants' stair afterward, he lit his way with a tallow candle, not a green lamp. He had done it for as long as Nathaniel could remember. In twenty-one years, it had never once occurred to Nathaniel to ask why.
+
+* * *
+
+The Hardings ate luncheon the way other families took communion: at the same hour, in the same order, in silence broken only by the things that mattered.
+
+The dining room at Harding House was forty feet long and lit at one in the afternoon by a chandelier of four hundred gallowglass drops, each one polished to such a hard green shine that the light seemed to have edges. The table could seat thirty. It seated four, and they sat at it as though it were full.
+
+Nathaniel was late, which was its own small crime, and arrived with soot still in the creases of his knuckles, which was another. He had his speech ready. He'd been rehearsing it on the stairs. *Father, the coupling holds. Thirty-one feet. Mr Pike says it can't be done, and I've done it, and I'd like ten minutes of your time to show you before tonight, because—*
+
+His chair was taken.
+
+His chair, at his father's right hand, where he had sat since he was old enough to be trusted with a soup spoon. In it was a broad young man in a Lantern Guard greatcoat that still had marsh-mud dried grey on the hem.
+
+Nixon.
+
+Nixon Hargrave was twenty-three and built like the end of an argument: broad through the shoulders, close-cropped dark hair, a weather-cut face that had looked thirty since he was sixteen, and a fresh scar running pink along his jaw that hadn't been there in August. He sat the way he always sat in rooms too good for him, as though the chair might be taken back at any moment, very upright, hands flat on the cloth. When he saw Nathaniel in the doorway, his whole face opened like a window.
+
+"Nat."
+
+"Nix. You're *back*." And then, because it was Nixon, because they had grown up fighting over cricket bats and stolen cigars and which of them Byron liked better, Nathaniel forgot the chair entirely for three full seconds and was simply glad. "Look at your jaw. Did a marsh do that?"
+
+"A marshman," Nixon said. "With a boathook."
+
+"Nixon held the Essex line nine nights." Eldgard Harding did not look up from his plate. He did not need to. The patriarch of House Harding was fifty-eight, broad and grey and very still, in a black coat so perfectly cut it seemed to have been poured onto him. On his right hand he wore his grandfather's wolf-crest signet, heavy gold. Eldgard had a voice he never raised, because he had never once in his life needed to; rooms leaned toward him to hear it. "Nine nights with tallow and rifles, while the papers wrote our obituary. Nine."
+
+There was a newspaper folded face-down beside his father's plate. Nathaniel could read the headline through the back of the paper, backward, the ink bleeding through: THE END OF THE GREEN? ESSEX DARK FOURTH NIGHT.
+
+"You're in Nixon's place, darling," said his mother. "Sit by Jamie."
+
+Josephine Harding was fifty and wore black silk the colour of a closed piano. Her grey-streaked hair was coiled at the nape of her neck as tight as ship's rope, and at her throat she wore a brooch of jet, carved like a closed eye, that she had never once in Nathaniel's hearing explained. She wore kid gloves at table. She wore kid gloves everywhere. She moved her family the way she moved furniture, with two fingers and no argument, and she had just moved him.
+
+"He's in Nathaniel's place, Mother," said Jamie. "It's a different sentence."
+
+Nathaniel sat by his brother.
+
+James Harding, heir to the house, was twenty-five and looked, at all times, like the illustration on the box. Tall, immaculate, evening-dress elegant even at luncheon, dark hair parted like a ruled line. His cravat was already crooked. He'd been pulling at it. Nathaniel had never in his life seen Jamie's cravat crooked before dinner. And his eyes, grey like their father's, were the eyes of a man who had not slept in three days. He had barely touched his soup.
+
+Under the table, Jamie's knee knocked against his. *Courage,* it said. Or possibly, *I'm sorry.* With Jamie it was often both.
+
+Behind them all, moving among the chairs without a sound except for the soft chime of the keys at her waist, came Ada.
+
+Ada Hargrave had been housekeeper at Harding House for longer than Nathaniel had been alive. She was small and upright in black bombazine, iron-grey hair under a lace cap, a chatelaine of thirty keys on a silver chain that rang like a distant church when she walked. Her hands were red-knuckled and cracked at the joints from forty years of rottenstone and brass polish, and her face, always, had the faraway serenity of a woman listening to a sermon only she could hear. She served the soup. She served Nixon first.
+
+Nathaniel watched her do it. He watched her hand rest, for one second, on Nixon's shoulder as she passed, and watched Nixon lean into it without knowing he did. Nobody else at the table was touched.
+
+*Well,* thought Nathaniel. *Of course.* Ada had raised Nixon below stairs, since he was a boy brought in from nowhere with nothing but a surname. If she loved him best, she'd earned it. It was only that, today of all days, everybody seemed to love him best.
+
+"Lord Lambrick brings his daughter tonight," his mother said, cutting a piece of grouse very small. "Nathaniel, you'll take Tamara in to supper."
+
+"Why me?"
+
+"Because you're engaged to her."
+
+The room did not exactly go quiet. It had been quiet. It went quieter.
+
+"Since when?"
+
+"Since Tuesday," said his father, and turned a page of nothing.
+
+"Congratulations, Nat." Jamie lifted his claret, and the green light ran down the glass like water. "You've been sold. Coal and light." He drank. "I'd make a speech, but I'm told I'm making one tonight."
+
+"James," said Josephine.
+
+"Mother."
+
+"She's a clever girl. You'll like her."
+
+"I'm sure I'll like her," Nathaniel said, and heard his own voice come out very level and very far away. "I'm sure we'll be very polite to each other."
+
+"For forty years," said Jamie, "if you're lucky."
+
+Nathaniel looked at his father. His father was looking at Nixon. Telling him something about the eastern lines, the Ilford substation, the way the crystal fouled in the damp. Nixon nodded, serious, a soldier taking orders. Nathaniel thought of the gauntlet upstairs in its case, thirty-one feet, ten years, Pike's paper, and his whole speech went out of him the way air goes out of a bellows. *Tonight,* he told himself. *In front of everyone. He can't say no in front of everyone.*
+
+"Nix." Jamie said it lightly, too lightly, turning his glass by the stem. "You were out there. In the dark. What would happen, do you think, if it simply went out? All of it. London. One night."
+
+Nixon frowned. He took the question the way he took everything, seriously and at face value. "People would freeze, sir. I've seen it in Essex. The old go first. Then children." He hesitated. "It'd be very bad, sir."
+
+"Yes," said Jamie. "I expect it would."
+
+And here was the strange thing, the thing Nathaniel would turn over and over that night and for many nights after: nobody reacted. Nobody at all. The heir to House Harding had just asked, at his father's table, over his father's grouse, what would happen if the Harding light went out, and his mother went on cutting her meat into very small pieces, and his father went on reading his upside-down newspaper, and the room was so calm, so smooth and warm and green, that Nathaniel almost didn't notice that it should have been anything else.
+
+"Eat your soup, James," said Eldgard.
+
+Then the chandelier breathed in.
+
+That was what it looked like. Four hundred drops of crystal guttered at once, a long, slow dip into half-dark, the whole room going the colour of deep water, and the sound of it, *whmmmmmmm*, a hum dropping an octave, felt in the teeth. Every face at the table turned up. Nixon's hand went to where his rifle would have been.
+
+Eldgard kept cutting his grouse.
+
+*Scrrk. Scrrk.* Silver on china, steady as a clock.
+
+The light came back. Ada was already at the wall sconce, hand steady, adjusting a valve that didn't need adjusting, her lips moving very slightly, as though she were saying a word over it. Then she went back to the sideboard and the keys at her waist chimed once and were still.
+
+"The east again," said Josephine.
+
+"A fault," said Eldgard. "Pike's crews are on it."
+
+Under the table, Jamie's knee had stopped knocking. Nathaniel glanced at him. His brother was staring at the chandelier as though it had said his name.
+
+* * *
+
+The study was the house's memory, and Jamie had always hated it.
+
+Brass model of the Ring under its glass dome, every green vein of London's lamp grid running inward to one point at Tyburn like the strands of a web to the spider. Alistair Harding's portrait over the fire, the founder in a threadbare scholar's coat, holding up a lantern. A telegram on the blotter. YIELD 61. CROWN ENQUIRES. And on the desk, among the paperweights and seals and a silver letter-knife shaped like a heron, the ornament.
+
+You could have mistaken it for a paperweight. Everybody did. A fist-sized lump of glass the colour of pond ice in January, caged in brass filigree, sitting on a square of black velvet where it had sat for Jamie's whole remembered life. He had played with it as a child, rolling it across the carpet, until his father took it away from him without a word and he never touched it again.
+
+It was warm. Everything else in the room was cold, because Eldgard kept his study cold the way other men kept their wine, and the ornament was warm. If you put your ear close to it, it hummed.
+
+Three nights ago, Jamie had learned that if you put your ear close to it, it hummed *back*.
+
+"Now you know what we are," his father said behind him, pouring two glasses of brandy with a hand that didn't shake. "Tonight you smile for them anyway."
+
+Jamie didn't turn round. "You keep it on your desk."
+
+"Where I can see it."
+
+"Does it know where it is?"
+
+The decanter's stopper went back in. *Tink.*
+
+"Drink with me, James."
+
+Jamie looked at the ornament, and the ornament, with no eyes at all, looked back, and he was three nights away and two hundred feet down.
+
+---
+
+It had been his birthday. Twenty-five. The age at which, his father had told him across a lifetime of hints and silences, a Harding son was *told*.
+
+They had gone down after midnight, the two of them, through the Works, through doors Jamie had never known existed, and then down a stair cut straight into the clay of the old gallows field. The stair went down further than any stair should. The walls sweated. Every twenty steps there was a lamp, and every lamp was green, and the green got colder the lower they went. The air smelled of iron and of something else Jamie had no word for, something like snow about to fall.
+
+At the bottom, a door. In the door, set into the iron like jewels, six plates of glass the same pond-ice colour as the ornament on his father's desk, each one etched with a line of script in no alphabet he knew.
+
+Beyond the door, the vault.
+
+And in the vault, her.
+
+The pod was the length of three men laid end to end. It looked grown rather than built: a long ribbed shell of frozen glass, curved like a ribcage, braided all over with Works cable as thick as a man's arm, and every cable ran up into the dark above, into the bones of the city, to Mayfair and Gin Lane and the Strand and the Narrows and every lamp in London. Frost lay on the pod in feathers. Through the frost, blurred, like a face seen through bathwater, there was a woman.
+
+Too tall to be a woman. Long-limbed, folded small. Skin like the blue at the heart of a glacier. A long, strange skull crowned with something that was either hair or frost or both.
+
+Her eyes were closed.
+
+His father's hand settled on his shoulder: the painted hand, the hand from every portrait in the long gallery, the father's hand on the heir's shoulder.
+
+"Do you feel that?" Eldgard asked him, very softly. "The quiet?"
+
+Jamie felt nothing.
+
+He felt cold. He felt his heart going like a hammer. He felt sick. He felt, very distantly, the beginning of a scream somewhere at the back of his throat that he knew, if he let it out, would never stop. What he didn't feel was quiet.
+
+"That's the house," his father said. "It means you're home."
+
+And Jamie looked at his father's face in the green light. He saw how much he wanted it. He saw something he'd never once seen in it in twenty-five years: Eldgard Harding afraid. Afraid his son would say no.
+
+"Yes," Jamie said. "I feel it."
+
+His father's whole body eased. The hand on his shoulder squeezed.
+
+That was when her eyes opened.
+
+They had no whites. No whites at all, only depth, like looking down into a well with stars at the bottom. And she looked at Jamie, only at Jamie, and her voice was suddenly inside his head, not in any language at all and yet in perfect, gentle English, the voice of a nurse at a sickbed, the voice of every kind woman he had ever wished his mother was:
+
+*Where is my child?*
+
+"She talks," Eldgard said. His hand tightened on Jamie's shoulder until it hurt. "Don't answer her. Not ever."
+
+---
+
+"James."
+
+Jamie came back. The study. The cold. The ornament, warm on its velvet.
+
+His father was holding out a glass of brandy. Jamie looked at it for a long moment. Then he walked past it, and on his way out he took his pocket watch from his waistcoat, wound it, and set it on the blotter beside the telegram, ticking.
+
+Eldgard didn't notice. He never did.
+
+* * *
+
+Three generations of Hardings watched them from the long gallery walls, and every one of them was the same picture.
+
+Nathaniel had noticed it when he was seven and never been able to stop noticing. Each portrait: the eldest son holding up a brass lantern, the father's hand on his shoulder. Younger sons at the edges, half out of the frame, looking at something the painter hadn't bothered to include. Alistair's portrait hung first, the founder in his threadbare coat. If you stood close, which you weren't supposed to, you could see in the dark varnish beside his knee the ghost of something painted out: a small shape, a child's height, overpainted in brown. Ada dusted that frame herself. Nobody else was permitted to touch it.
+
+"James, at your father's left. With the lantern." Josephine moved them with two fingers. "Nathaniel, behind."
+
+"Behind," said Nathaniel.
+
+"You're taller, darling. It's composition, not a verdict."
+
+"It's always a little bit of a verdict," said Jamie.
+
+The photographer, a damp pink man named Mr Ellery, fussed under a black cloth. His flash-tray was heaped with powdered gallowglass, which was the new process, which was apparently very modern and very expensive and, according to the newspapers, occasionally set photographers on fire.
+
+"And Nixon," said Eldgard.
+
+Nixon, in borrowed evening dress that strained across the shoulders, said, "Sir, I don't think—"
+
+"At my right."
+
+And Nixon was at his right, and Nathaniel was moved one more step, to the very edge of the frame, behind his brother and his father's ward, half out of the picture, looking at something the painter hadn't bothered to include.
+
+*Well,* thought Nathaniel. *There it is. Now it's in a photograph.*
+
+"Hold very still," Mr Ellery said. "The new powder wants a long exposure."
+
+"How long?" asked Josephine.
+
+"A count of eight, madam."
+
+*Fsssshhhhhhh.*
+
+The powder caught. The gallery went the green of deep water. Four Hardings and one Hargrave held five smiles.
+
+*One.* Nobody blinked.
+
+*Two.* His father's smile reached nothing at all.
+
+*Three.* His mother's gloved hand tightened on Jamie's sleeve.
+
+*Four.* Somewhere in the bones of the house, faint, so faint he thought it was the powder hissing, Nathaniel heard a woman crying.
+
+*Five.* His eyes moved. Nobody else's did.
+
+*Six.* The brass lantern trembled, just slightly, in Jamie's hand. Jamie held it higher.
+
+*Seven.* The crying was under the floor now. Under their feet. It was coming up through the boards.
+
+*Eight.*
+
+It stopped.
+
+"Lovely!" Mr Ellery emerged from his cloth, flushed and triumphant. "Very natural."
+
+His father was already walking. "Nathaniel, your toy—"
+
+"It isn't a toy, it's a—"
+
+"After."
+
+His mother was already walking too. Nixon looked at Nathaniel across the gallery with an expression that said *sorry* and *I didn't ask for this* and *you know I didn't*, and then he followed Eldgard, because that was what Nixon did.
+
+Jamie set the lantern back on its stand very carefully, the way you'd set down something that burned. His eyes went to Alistair's portrait, to the brown ghost by the founder's knee. Then he followed them out.
+
+Nathaniel stood alone in the gallery, under three generations of eldest sons, and listened very hard to the floor. It had nothing more to say.
+
+* * *
+
+He was losing a fight with his cravat when Jamie came in.
+
+He had been losing it for ten minutes. The knot had become a philosophical position. The gauntlet schematic lay folded on his dresser like a love letter, and on the wall behind the mirror he'd pinned his own drawings of the Ring, every line of it, every main and substation and return, all of them running in toward Tyburn. Where they met, he'd drawn a question mark, because he'd never been allowed past the core doors and didn't know what was on the other side, and it had begun, lately, to bother him.
+
+Jamie took the cravat out of his hands without a word and tied it for him. He had been doing it since Nathaniel was six. His fingers were quick and sure, and close up he smelled of cold air and brandy he hadn't drunk.
+
+"You're showing him tonight."
+
+"If he asks."
+
+"He won't ask." Jamie tugged the knot straight. "Show him anyway. In front of everyone. He can't say no in front of everyone."
+
+Nathaniel laughed. "You'd make a terrible Harding."
+
+"I'm the only one who's had the training." Something went across his brother's face and was gone. "Go on, then. Give me the speech."
+
+"You give the speech. You're the heir."
+
+"*You* do it. I want to hear how it sounds from outside."
+
+Nathaniel struck an attitude at the mirror, chin up, one hand on an imaginary lantern, and did his father's voice, which every Harding child could do by the age of nine. "*A hundred years ago, our ancestor Alistair Harding, an inventor the Royal Society laughed at, found that the iron under Tyburn could be grown into light—*"
+
+"Stop," said Jamie. "God. Is that what it sounds like?"
+
+"You've said it a hundred times."
+
+"I've never once meant it." Jamie finished the knot. "Tonight I'll say it perfectly."
+
+His eyes went past Nathaniel's shoulder to the wall. To the drawings. To the question mark. He looked at it for a long time, long enough that Nathaniel turned to see what was wrong with it.
+
+"Nat. If you could leave, would you?"
+
+"Leave what?"
+
+"This. All of it. The house. The Works."
+
+"Why would I leave? The work's here." Nathaniel gestured at the schematic, the drawings, the whole wall of his life. "Everything I've ever built is here."
+
+Jamie looked at him: at the schematic, at the drawings, at his little brother, who had spent his whole life trying to be useful to a man who wouldn't look up from his plate. Whatever he'd come to say, he didn't say it. Instead he pulled Nathaniel into a hug, sudden and hard, one hand on the back of his neck the way he'd held him when they were small and something had frightened them both. It went on a beat too long. Then a beat longer.
+
+"What's that for?" Nathaniel said into his shoulder.
+
+"Your cravat was crooked."
+
+He let go. At the door, with his hand on the frame and his back to the room, he said:
+
+"The work isn't worth you. Remember I said it."
+
+Nathaniel thought it was a joke. He laughed. It was the last thing his brother would say to him awake.
+
+* * *
+
+The Exhibition was held in the great hall of the Works, where on any other night of the year they built the engines that fed London, and on this night they had swept the floor and hung it with silk and two hundred of the most important people in the city drank champagne under a thousand green chandeliers and did not think about what the floor was for.
+
+Glass cases lined the walls. Every one of them told the story the family wanted told. ALISTAIR HARDING'S FIRST LAMP, 1783: a crude brass thing, blackened at the chimney, roped off with velvet like a saint's bone. A scale model of the Ring under glass, a tiny brass London with green veins pulsing under its streets, all of them running to one point. A framed deed from the year the Hardings bought the gallows field, the Crown's seal at the bottom, the ink gone brown.
+
+Nathaniel stood by the model of the Ring in a cravat his brother had tied and a coat Byron had brushed twice, holding a glass of champagne he wasn't drinking, with his gauntlet strapped to his right arm under his sleeve like a secret.
+
+All around him, people were saying the same three words. He heard them the way you hear rain.
+
+*Essex again.*
+
+*On Tuesday. Kent on Thursday.*
+
+*My cousin's mill's been running on coal all week.*
+
+Somebody passed a broadsheet hand to hand behind a pillar. ESSEX DARK AGAIN. HARDING SAYS "A FAULT." Somebody laughed at it, and somebody else didn't.
+
+"I'm told we're to be very polite to each other."
+
+He turned.
+
+Tamara Lambrick was nineteen and did not look like anyone's idea of an alliance. She was sharp-chinned and quick-eyed and wore grey silk two seasons out of fashion so precisely that it could only be on purpose, the way a duellist might wear an old coat to show she didn't need a new one. There was ink on the middle finger of her right hand, a callus where a pen would rest, and she held a closed fan in a way that suggested it was not, primarily, a fan.
+
+"For how long?" he said.
+
+"Forty years, I think." She considered him. "Perhaps forty-five. My grandmother lived to ninety."
+
+"I can manage polite."
+
+"Can you manage clean?" She looked pointedly at his cuff, where the coal bin had left a signature Byron's brush had missed.
+
+He looked at it. He looked at her. "Not reliably."
+
+The corner of her mouth moved. It might have been the beginning of a smile, or the beginning of a calculation; on Tamara Lambrick he suspected the two were often the same.
+
+Behind her, like weather arriving, came her father. Lord Hector Lambrick, the coal king, was fifty-five, heavy and pink, with black in the creases of his knuckles that no valet in England had ever got out, a diamond pin in his cravat like a wet eye, and the friendliest smile in London. Nathaniel had once watched him smile at a man at his club for a full minute while explaining, in a perfectly pleasant voice, how he intended to buy the man's company and fire his sons.
+
+Lambrick found Eldgard by the case with Alistair's lamp. Nathaniel was close enough to hear.
+
+"Lovely light, Harding," said Lambrick, admiring the chandeliers the way a man admires a horse he intends to buy. "Essex had none of it Tuesday."
+
+"A fault in the line."
+
+"My grandfather kept a lawn at Lambrick, you know. Greenest in the county. Used to say grass only stays green while somebody keeps paying to water it." He tapped the glass over the first lamp with one sooty fingernail. *Tik. Tik.* "It won't stay green for ever, Eldgard. Nothing does. Ask your Alistair."
+
+His father smiled for the room and said nothing at all.
+
+Across the hall, by the doors to the engine floor, Silas Pike stood in his good suit with his scarred hands behind his back. For exactly one second, Nathaniel saw Pike's eyes meet Lambrick's. Lambrick didn't nod. Pike didn't either. Then a footman bent to Lambrick's ear and murmured something, and Lambrick's smile stayed exactly where it was while his hand closed on his champagne glass so hard the stem should have snapped.
+
+Then the hall went quiet, because his father had taken the gallery stair.
+
+Eldgard Harding did not need to raise his voice. He promised new lines to the east. He promised a new Works. He promised light for another hundred years, and two hundred people who had spent the evening saying *Essex* applauded him as though they had never heard the word.
+
+"My son," he said, "and heir. James."
+
+Jamie came up the stair and stood beside the case with Alistair's lamp, and he said it perfectly.
+
+"A hundred years ago, our ancestor Alistair Harding, an inventor the Royal Society laughed at, found that the iron under Tyburn could be grown into light. He gave London its first lamp." His voice was warm and clear and carried to the back of the hall without effort. It was their father's voice, but kinder. "Every lamp in this hall is his gift. And our promise."
+
+The applause was enormous. Jamie smiled into it like a man swallowing broken glass. He did not look at their father once. Nathaniel saw that, and saw that nobody else did.
+
+*Now,* thought Nathaniel. *Show him anyway. In front of everyone.*
+
+He set down his glass. He pushed back his sleeve. The gauntlet's core caught the chandeliers and glowed. He stepped out into the open floor below the stair, where two hundred people could see him, and raised his arm.
+
+"Father—"
+
+"Not tonight." Eldgard didn't even pause. He smiled down at the crowd, easy, indulgent, a man with a clever dog. "Toys after supper."
+
+Laughter. Warm, general, forgiving laughter. Two hundred people laughing at a younger son with soot on his cuff.
+
+Nathaniel felt his face go hot, then cold. He looked for Jamie.
+
+His brother had come down the stair. He was standing by the service door at the side of the hall, and he had stopped, and he was looking at Nathaniel, and he took one step back toward him.
+
+Nathaniel looked away first.
+
+When he looked again, the service door was swinging shut, and Jamie was gone.
+
+On the gallery above, his mother stood at the rail in her piano-black silk, watching the place where her elder son had been. Byron was at her shoulder, as he always was at these things.
+
+"That boy," Josephine said quietly, "is planning something."
+
+"Then he takes after you, madam," said Byron.
+
+She looked at him. He looked at the chandeliers. Thirty years of something passed between them and was put away again unopened, and a few minutes later, Nathaniel noticed, his mother had a headache and went home early in her own carriage. He thought nothing of it. His mother never had headaches. He thought nothing of that, either.
+
+He took a step toward the service door. A hand closed on his arm.
+
+"The Board of Trade, Nathaniel." His father, at his elbow, steering him. "Mr Hollis would like a word."
+
+Mr Hollis was a grey man with a grey moustache who had read, it turned out, a monograph on leap-apparatus valve design, and wanted to know about heat bleed.
+
+Nathaniel looked at the service door, closing on its spring. *Shhhk. Thunk.*
+
+Then he turned to Mr Hollis, and told him about the spiral.
+
+* * *
+
+The house was dark when Jamie came home, except for one light coming up the back stair.
+
+Ada, on her nightly round. She went up the servants' stair every night at eleven with a taper and a cloth and lit the landing lamps one by one, polishing each chimney as she went. Jamie had watched her do it as a boy, sitting on the top step in his nightshirt. At each lamp she touched her lips, very lightly, to the warm glass before she lit it, and whispered something he could never hear. He'd asked her once what she said. She had only smiled and told him to go to bed.
+
+She met him on the half-landing: Jamie in evening dress, rain on his shoulders, home three hours early, with one of Nathaniel's spanners in his hand.
+
+She looked at the spanner. She looked at him.
+
+"You're home early, Master James."
+
+"Go to bed, Ada."
+
+"I've the second landing still."
+
+"Please."
+
+Something in his voice. She looked at him a moment longer, her face in the taper-light as calm as a church, and then she went down. At the turn of the stair, where he couldn't see her, she stopped, and stood very still, and listened.
+
+Jamie didn't know that. He would never know that.
+
+He went into his father's study and locked the door behind him and stood in the cold and the dark and looked at the ornament on its square of black velvet.
+
+It was humming. It was humming *louder*. As if it knew. As if it had been waiting sixteen years for exactly this, for a Harding with a spanner, and was holding its breath.
+
+*Where is my child?*
+
+"Here," Jamie said aloud. His voice cracked. "It's here. You poor— it's *here*."
+
+He set the jaws of Nathaniel's spanner to the brass cage.
+
+*Krrk.*
+
+The filigree was old, and stronger than it looked. He set his feet and leaned.
+
+*Krrk. Krrk. KRANG.*
+
+The cage split. He pulled it apart with his fingers, cutting them, not caring, and lifted the glass out of it. It was warm in his bleeding hands. It was warm the way an animal is warm. It was *beating*.
+
+He thought of his father's hand on his shoulder. He thought of the quiet he hadn't felt. He thought of Miriam, waiting on Blackwood Bridge in red mittens, with three tickets in her coat.
+
+He brought it down on the corner of the desk.
+
+It didn't shatter. It *exhaled*.
+
+*KSSSSSHHHHHHHHHH.*
+
+Light. Light the colour of the deep heart of ice, flooding the study wall to wall, so bright he saw the bones of his own hand through it. The fire in the grate went out flat, as if a door had slammed on it. Frost raced across the carpet in ferns, *tik-tik-tik-tik-tik*, up the legs of the desk, up the spines of the books, across the face of Alistair Harding in his frame. Jamie's breath came out of him in a white blade.
+
+The light was starving.
+
+He felt it understand that he was there: the only living thing in the room. He felt it come for him the way a drowning man comes for a spar.
+
+It went *into* him.
+
+There was no pain at first. There was cold, a cold so total it was almost gentle, starting at his fingertips and going up his arms like water up a wick. Then he felt it begin to *look* for something, inside him, rummaging, trying doors. Trying to find room. Trying to put him on like a coat.
+
+Frost bloomed up his throat. He felt it spread over his jaw, felt his lips go stiff, felt ice in his eyelashes. His heart slowed. *Thud.* … *Thud.*
+
+*No.*
+
+He fought. He didn't know how; nobody had ever taught him how to fight a thing like this. So he did the only thing he could think of. He held onto the one thought in him that was entirely his own, that nobody had given him and nobody could take away.
+
+*The bridge. The bridge, midnight. She's waiting. She's waiting for me.*
+
+The light took the thought like a hand taking a key from a hook.
+
+He felt it go still inside him, considering. Turning the thought over. *Her. Bridge. Waiting.*
+
+"Not me," Jamie whispered, through a mouth of ice. "Not me. She's at the bridge. Go. *Go.*"
+
+It tore out of him.
+
+He felt it go, the way you'd feel a tooth pulled from your skull: all at once, with a sound like ripping silk, taking something with it. The window behind the desk burst outward. *KSSHH-HHH.* Glass and rain and lead came apart into the night, and something bright, small and terribly fast, went down over the dark roofs of Mayfair like a falling star going the wrong way.
+
+Jamie lay on the frozen carpet with his eyes open.
+
+He could see the ceiling. Frost was growing across it in slow ferns. He couldn't move his hands. He couldn't feel his feet. His heart went *thud* and then, after a long, long time, *thud* again.
+
+*Go,* he thought, at the window, at the night, at the star going the wrong way. *Go. She's waiting.*
+
+His pocket watch, on his father's blotter, went on ticking. *Tick. Tick. Tick.* He listened to it for a while.
+
+Then he stopped listening.
+
+* * *
+
+The chandeliers of the great hall breathed in.
+
+All of them, all thousand, at once, a long dip into half-dark that made two hundred people stop mid-sentence. The hum dropped. *Whmmmmmmmmmm.* For three seconds, the whole Exhibition was a candle somebody had cupped a hand around, and beyond the tall windows Byron saw the city do the same: Mayfair, the river, the lamps on the bridges, every light in London leaning toward the dark together.
+
+Somebody laughed nervously. "Essex again?"
+
+Under the floor, under the hall, something screamed.
+
+Byron heard it. He'd heard it before, once, thirty-one years ago, when he'd been a Lantern sergeant on the core watch, before he'd learned not to ask. He saw Master Nathaniel hear it too: saw the boy's head come up, saw his face go white.
+
+"Can't you hear that?" Nathaniel said, to nobody. "Can't you *hear* that?"
+
+Nobody could. Nobody else ever could.
+
+A Harding footboy, soaked through, red-faced from running, was pushing through the silk to Lord Harding's elbow. He held out a note. Byron knew the handwriting from across the room: small, upright, careful, the hand of a woman who wrote out the inventories of thirty keys. *Ada.*
+
+Lord Harding read it once. He folded it. He did not look for his wife, because his wife had gone home with a headache an hour ago. He simply walked, and Byron, who had been walking behind Hardings for fifty years, walked after him.
+
+They went through the night in the Harding carriage with the horses at a dead run. Lord Harding did not speak. Byron sat across from him and watched the green lamps of London go by the windows, steady again now, as if nothing had happened, and felt the cold come up in him that he hadn't felt since he was young.
+
+The study door was open. Ada stood in it with her lamp, her face perfectly serene and perfectly white.
+
+Byron went past her and knelt.
+
+Master James lay on the carpet in a ruin of frost. His eyes were open. His lips were blue. Ice had grown in the hollows of his throat in fine white feathers, like the pattern on a winter window, and it ran down under his collar and was still growing, very slowly. The room smelled of thunder and wet stone. The window gaped. Rain blew in over a carpet of broken glass, and among the glass lay the shards of something that had been, for sixteen years, a paperweight.
+
+Byron pulled off one white glove with his teeth and laid two bare fingers on the boy's throat.
+
+Cold. Cold as a step in January.
+
+He waited.
+
+*Thud.*
+
+He went on waiting. He counted under his breath, the old sergeant's count. *One. Two. Three. Four.* Somewhere around eleven:
+
+*Thud.*
+
+"He's alive," Byron said. His own voice surprised him. "Barely. He's alive."
+
+Lord Harding had not knelt. He had gone straight past his son to the window, and he stood there now with the rain on his face, looking out into the dark over Mayfair, at the place where the thing had gone.
+
+Footsteps in the hall. Fast, light.
+
+Lady Josephine came into the study.
+
+She came in last, after all of them, in her piano-black silk, her coiled hair gone damp at the temples with the fog off the river, and she went straight to her son on the floor and went down on her knees beside him in the glass without seeming to feel it, and took his frozen face in her hands.
+
+Byron looked at her hands.
+
+Her hands were bare.
+
+In thirty-one years, Byron had never once seen Josephine Harding's hands without gloves outside her own bedroom. Not at table. Not in summer. Not once. They were long hands, strong, with old white scars across the knuckles that he had seen exactly one other time in his life, by lantern-light at a gate, a long time ago. They were shaking.
+
+"Then send for—" she said.
+
+"No one." Lord Harding turned from the window. His face was perfectly calm. "He let it out. If he wakes, the first thing he'll say is what's under the Works."
+
+"He is our *son*."
+
+"As of tonight," said Eldgard Harding, "he's dead."
+
+The words lay in the room like the frost.
+
+"A burglar," his lordship went on, in the same even voice he used for the eastern lines and the price of crystal. "The window. A struggle. Cold took him before he was found. The coffin will be closed. Byron, the top room. Ada—"
+
+"I saw nothing, sir." Ada, in the doorway, with her lamp.
+
+He looked at her for a long moment.
+
+"I know," he said.
+
+Byron looked at Lady Josephine's bare hands on her son's face, at the scars across the knuckles. He looked at the damp in her hair. He thought of a gate, and a lantern, and a girl of nineteen with a knife, a long time ago. And then, because he had learned a long time ago what loyalty meant in this house, he took his eyes away and put his glove back on, finger by finger.
+
+"Yes, my lord," he said. "The top room."
+
+* * *
+
+Nathaniel came home last.
+
+The Board of Trade had kept him an hour. Mr Hollis had introduced him to a Mr Fairweather and a Mr Coyne, and Mr Coyne had held his gauntlet, actually held it, turned it in the light, and said the words *Admiralty contract*. Nobody had laughed. Nobody had said *toy*. For one hour, in a corner of his father's hall under a thousand green lights, Nathaniel Harding had been taken entirely seriously, and he came up the front steps of Harding House at one in the morning with the gauntlet case under his arm, happier than he had been in years.
+
+The hall was full of the wrong people at the wrong hour.
+
+Servants on the stairs in their nightclothes. A constable by the door with his helmet in his hands, looking at the floor. Two of the maids holding each other. Every lamp in the house lit, and every one of them burning steady and green, as if nothing could ever be wrong.
+
+On the great stair, Byron stood with one gloved hand out, palm toward him. Not a gesture you made to a master. A gesture you made to a man at a cliff edge.
+
+"Sir," Byron said. "Don't go up."
+
+Nathaniel put his hand on the banister to go up anyway.
+
+It was cold.
+
+Frost had grown on the polished mahogany in ferns, fine and white and perfect, like the pattern on a winter window, all the way up the curve of the stair toward the dark. He took his hand away. The print of his palm stayed in the frost.
+
+It didn't melt.
+
+"Byron," he said. His voice sounded very young. "Where's Jamie?"
+
+Byron didn't answer.
+
+Upstairs, two floors up, past the family floors and the servants' floor, on a landing Nathaniel had never been allowed to climb to, a door closed.
+
+*Click.*
