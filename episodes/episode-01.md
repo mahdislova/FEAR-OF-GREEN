@@ -5,7 +5,7 @@
 **Change:** the secret gets out. **POV:** Nathaniel and Jamie.
 - Jamie's initiation, days earlier: the stair, the vault, Morgana in the pod. "Where is my child?"
 - The Exhibition at the Works: Nathaniel's gauntlet unveiled, his proudest night. Nixon home from the marshes a hero. Ada polishing lamps and straightening Nixon's collar: "love."
-- Cross-cut: Jamie at Harding House breaks the ornament; the offspring tears through him and out of the window. Miriam waits at the bridge; Jennie's knife; the river.
+- Cross-cut: Jamie at Harding House breaks the ornament; the offspring tears through him and out of the window. Miriam waits at the bridge. We see only her fall, and a figure in the shadows backing away (Josephine, unrevealed). Jennie watches from the stair. The river.
 - **Heaviest moment:** Miriam, drowning: "Go back for my sister."
 - **Tag:** the lamps of the Exhibition flicker. In the dark, Morgana: "My child is out."
 

@@ -7,7 +7,7 @@
 - **The wound:** their stepfather drank and kept a belt. Under the bed Miriam promised Alice nothing would touch her while she was there. Then she never once moved. She taught Alice to count the fence posts: "Eight posts and he's done."
 - **The secret:** at sixteen she held him under at the Thames stairs, counting, because Grise offered her the Vykra knot for "one simple task." She told herself she did it for Alice. She never knew if that was true, and never told anyone.
 - **After:** turned cold, took Grise's work far from the city, and loved Alice by keeping her out of the life. Meant to come back for Alice the night she ran with Jamie, with an apology and a confession.
-- **Death (Ep 1):** quitting the Vykra to run with a Harding heir. Jennie's knife on the bridge. In the river, dying, she sees something reaching for her: "Go back for my sister."
+- **Death (Ep 1):** quitting the Vykra to run with a Harding heir. Josephine's knife on the bridge (on screen in Ep 1 we see only Miriam falling and a figure in the shadows backing away). In the river, dying, she sees something reaching for her: "Go back for my sister."
 
 **The irony.** The Lost One isn't Miriam, but she gives the apology and the confession, and that's how Alice knows her sister is dead.
 

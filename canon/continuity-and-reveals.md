@@ -38,8 +38,8 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Eldgard plans to put the Lost One in the pod | Eldgard, Josephine | Ep 4 tag | Nathaniel: Ep 8 |
 | Alice was hired to get close to Nathaniel | Josephine, Grise, Alice | Ep 2 | Nathaniel: Ep 7 |
 | Miriam drowned their stepfather to join the Vykra | Grise (Miriam is dead) | Ep 7 | Alice: Ep 7 |
-| Jennie killed Miriam | Jennie, Grise | Ep 1 | Alice: Ep 7 |
-| Josephine paid for Miriam to be "stopped" | Josephine, Grise | Ep 9 tag | Alice: Ep 9 |
+| Josephine killed Miriam | Josephine; Jennie (witness) | Ep 1 shows only a figure in the shadows; identity open for the audience | Alice: end of Ep 7 |
+| Grise sold Josephine the rendezvous | Grise, Josephine | Ep 1 (black wax) | Alice: Ep 7 |
 | The Hargrave massacre | Eldgard, Ada, Marsh | Ep 8 cold open | Nixon: Ep 8 |
 | Marsh is Nixon's uncle | Ada, Marsh | Ep 4 (hinted) | Nixon: Ep 9 |
 | The yield is failing | Eldgard, the chief engineer | Ep 1 | Lambrick: Ep 4. London: Ep 4 |
@@ -57,6 +57,6 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | The counting game, "eight posts" (Ep 2 onward) | "Nine is the one where we get up" (Ep 8) |
 | Alistair's book in cipher | Tamara cracks it (Ep 8) |
 | The chief engineer's yield figures (Ep 4) | Lambrick learns the secret |
-| Jennie's doubt (seed Eps 3 and 7) | She turns and names Josephine (Ep 9) |
+| Jennie rides the Narrows raid with Miriam and Alice (Ep 1); witnesses the bridge | She tells Alice: Josephine (end of Ep 7) |
 | Morgana: "Where is my child?" (Ep 1) | "My child." (Ep 8 tag) |
 | Alistair: "You have my word." (Ep 4 cold open) | He closes the pod (Ep 10 cold open) |

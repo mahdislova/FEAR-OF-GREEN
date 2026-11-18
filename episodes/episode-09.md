@@ -8,7 +8,7 @@
 - Nathaniel, Alice and Nixon storm the Works.
 - **Imprint reveal #2:** Morgana tells the Lost One she did what she was told: both boys, both seeds. The Lost One's crisis: was her love for Alice a plan as well?
 - Eldgard's confession. Nixon: "Did you love me, or did you keep me?" Eldgard: "Yes."
-- **Tag:** Jennie tells Alice who paid for Miriam: Josephine.
+- **Tag:** open (the Josephine reveal moved to the end of Ep 7).
 
 ## Scenes
 

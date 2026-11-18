@@ -34,9 +34,9 @@ Full beats live in `episodes/`.
 | 4 | The Hearing | The light's failure goes public | Lambrick, Tamara, Nathaniel | Eldgard: when the mother dies, use the child |
 | 5 | The Locked Room | The family's lie cracks | Nathaniel | "How long?" |
 | 6 | The Remembering | Nathaniel learns what his father did to him | Nathaniel, Byron | The East End goes dark |
-| 7 | The Girl Who Isn't | Every love Alice has was bought | Alice | "Tell my father yes." |
+| 7 | The Girl Who Isn't | Every love Alice has was bought | Alice | Alice learns Josephine killed Miriam |
 | 8 | The Wedding | The child is taken | Nixon | Morgana: "My child." |
-| 9 | The Break-out | The truth is spoken aloud | Nixon, the Lost One | Jennie: Josephine paid |
+| 9 | The Break-out | The truth is spoken aloud | Nixon, the Lost One | Open |
 | 10 | Lights Out | The light ends | Nathaniel, Alice | The ship; the Lost One stays |
 
 ## The four threads
@@ -45,7 +45,7 @@ Full beats live in `episodes/`.
 
 **The two imprints.** Ep 3 cold open: a fragment of 1873. Eps 3–5: Nathaniel's memory flickers near the Lost One. **Ep 6, reveal #1:** Nathaniel remembers all of 1873; his genius was planted and his father erased him. **Ep 9, reveal #2:** the same night from the offspring's side, Jamie's room first; Morgana tells the Lost One she sent her. Same night, two readings.
 
-**The sisters.** Ep 2: Alice gets "Miriam" back. Eps 3–6: closeness. **Ep 7, the break:** Grise reveals Miriam's entry price, their stepfather; the Lost One confirms and confesses on Miriam's behalf, which is how Alice knows. "You're not her." Ep 8 morning: "Nine is the one where we get up." Ep 10: Alice offers her the ship; she stays.
+**The sisters.** Ep 2: Alice gets "Miriam" back. Eps 3–6: closeness. **Ep 7, the break:** Grise reveals Miriam's entry price, their stepfather; the Lost One confirms and confesses on Miriam's behalf, which is how Alice knows. "You're not her." The same night she learns Josephine killed Miriam. Ep 8 morning: "Nine is the one where we get up." Ep 10: Alice offers her the ship; she stays.
 
 **The history, told in cold opens.**
 
