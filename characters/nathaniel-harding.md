@@ -1,7 +1,7 @@
 # Nathaniel Harding
 
 **Age:** 21. **Role:** lead. Second son of House Harding, gauntlet engineer at the Works.
-**Look:** to be written.
+**Look:** lanky, ink-stained to the wrist, sleeves rolled, brass goggles pushed up into hair that needs cutting, a waistcoat buttoned wrong. A face that hasn't learned yet to hide how much it wants things.
 
 - **Wants:** his father's respect and a seat in "the work."
 - **The lie he believes:** being useful is the same as being loved.

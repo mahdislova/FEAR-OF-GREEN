@@ -24,11 +24,11 @@ Episodes 9 and 10 cash out the five changes. No new mythology after Episode 8.
 
 ## Episodes at a glance
 
-Full beats live in `episodes/`.
+Full beats live in `episodes/`. Episodes 1–4 are broken into scenes; the interactive view is `atlas/green-gallows-eps-1-4-atlas.html`.
 
 | Ep | Title | Change | POV | Tag |
 | --- | --- | --- | --- | --- |
-| 1 | The Exhibition | The secret gets out | Nathaniel, Jamie | Morgana: "My child is out." |
+| 1 | The Exhibition | The secret gets out | Nathaniel, Jamie | Pike hears the light: "My child is out." |
 | 2 | The Wake | Two grieving siblings get missions | Alice | "He's alive. Nathaniel must never know." |
 | 3 | The Frost Killer | Nathaniel takes a side | Nixon, Nathaniel | The Lost One: "I know you." |
 | 4 | The Hearing | The light's failure goes public | Lambrick, Tamara, Nathaniel | Eldgard: when the mother dies, use the child |

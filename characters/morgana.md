@@ -1,7 +1,7 @@
 # Morgana
 
 **Role:** the being at the core.
-**Look:** to be written. Never fully seen until late in the season.
+**Look:** nine feet folded small, skin like the blue at the heart of a glacier, a long skull crowned with something between hair and frost, eyes with no whites, only depth. Never fully seen until late in the season.
 
 - Captured c. 1780 by Alistair Harding, tortured, betrayed after keeping her side of the deal. Frozen in her own cryo pod and drained ever since.
 - A built-in universal translator: she speaks to anyone in their own language. Every word is intimate and terrifying.

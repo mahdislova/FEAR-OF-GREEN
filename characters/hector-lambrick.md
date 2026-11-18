@@ -1,7 +1,7 @@
 # Lord Hector Lambrick
 
 **Age:** 55. **Role:** arch-nemesis. The coal baron.
-**Look:** to be written.
+**Look:** heavy and pink, soot in the creases of his knuckles no valet has ever got out, a diamond pin like a wet eye, the friendliest smile in London.
 
 - **Wants:** the Harding light dead and London back on coal, and owned by him.
 - **Arc:** the greed curve. Wants the light gone until he learns what it is; then wants to own her. He'd bleed her faster.

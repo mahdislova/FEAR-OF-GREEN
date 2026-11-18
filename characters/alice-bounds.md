@@ -1,7 +1,7 @@
 # Alice Bounds
 
 **Age:** 20. **Role:** lead. Undercity glim-runner and Vykra novice. Gin Lane.
-**Look:** to be written.
+**Look:** small and wiry, hair chopped short with a knife, a borrowed coat two sizes too big, knuckles wrapped in rag, wolf's eyes.
 
 - **Wants:** first, to stand where her sister stands and be seen. Then, Miriam's killer, and to keep "Miriam."
 - **The lie she believes:** love means holding on by any means, because nobody ever stood in front of her.

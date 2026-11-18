@@ -1,7 +1,7 @@
 # Eldgard Harding
 
 **Age:** 58. **Role:** antagonist-father. Patriarch, Keeper of the core. Alistair's grandson.
-**Look:** to be written.
+**Look:** broad and grey and very still, a perfectly cut black coat, his grandfather's wolf-crest signet. Never raises his voice because he has never needed to.
 
 - **Wants:** to keep London warm.
 - **The lie he believes:** the many outweigh my sons.
