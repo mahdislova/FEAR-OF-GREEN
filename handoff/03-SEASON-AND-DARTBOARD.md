@@ -27,10 +27,10 @@ Cold opens tell the history in pieces: the crash (Ep 1), Nathaniel's nightmare o
   - Ep 2: Josephine burns her gloves.
   - Ep 3: Jennie sees "Miriam" alive.
   - Ep 4: Grise tests "Miriam" with a Vykra hand-sign, sees it fail, and sells her location to Lambrick.
-  - Ep 5: Josephine sees the Lost One in a mirror.
+  - Ep 5: Alice reports privately to Josephine.
   - Ep 6: Josephine and Grise ("You were the one holding the knife"). Josephine pays to remove the witness. Grise tells Alice that Miriam drowned their stepfather.
   - Ep 7: Grise's man comes for Jennie, the Lost One saves her. Jennie names Josephine in Ep 8 after Alice returns.
-  - Ep 8: Alice tells Nathaniel herself that his mother hired her; Josephine gives Eldgard the workshop.
+  - Ep 8: Alice tells Nathaniel herself that his mother hired her; Josephine supplies a lead for the arrest.
 
 ## Dartboard: pitched ideas, not committed
 - Every episode opens on a clock card: **THE LIGHT HAS 49 DAYS**, counting down.
@@ -50,7 +50,7 @@ Cold opens tell the history in pieces: the crash (Ep 1), Nathaniel's nightmare o
 
 ## Open questions
 - **Ep 2:** what the umbrella scene is; who the Duke is (the writer brought him back; he appears at the funeral); the Ep 3 cold open.
-- **After cutting Jamie-alive:** the Ep 2 tag; Byron's role; the Ep 5 heist's purpose and the Ep 5 title.
+- **After cutting Jamie-alive:** the Ep 2 tag; Byron's role; the Ep 5 title and the Ep 8 arrest lead.
 - **The writer's plot twist**, mentioned but never given. Ask for it.
 - The tag at the end of Ep 9.
 - Josephine's fate after the finale.
