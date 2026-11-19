@@ -11,4 +11,4 @@
 
 **Key lines.** "Where is my child?" (to Jamie, Ep 1). "My child is out." (Ep 1 tag). "My child." (Ep 8 tag).
 
-**End (Ep 10).** Freed. Kills Eldgard. Too weak to fight on, boards the ship, which does substantial damage and retreats. Vows revenge: hell brought down on this hellhole.
+**End (Ep 10).** Freed. Kills Eldgard. The ship damages London. Morgana waits aboard the ship. When her child chooses Alice, she lets her stay and departs in silence.

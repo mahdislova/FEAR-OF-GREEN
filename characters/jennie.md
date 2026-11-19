@@ -11,4 +11,4 @@
 - **Seed her doubt** in Eps 3 and 7.
 - **Ep 4:** fetches "Miriam" to the laundry for Grise's test.
 - **Ep 7, Act One:** Grise's man comes for her in the riot; the Lost One saves her life.
-- **End of Ep 7:** The thing wearing the face of the woman she watched die has just saved the witness who did nothing. The guilt breaks her, and she tells Alice: Josephine killed Miriam. "Miriam was the best of us."
+- **Ep 8, after Alice returns:** The thing wearing the face of the woman she watched die has just saved the witness who did nothing. The guilt breaks her, and she tells Alice: Josephine killed Miriam. "Miriam was the best of us."

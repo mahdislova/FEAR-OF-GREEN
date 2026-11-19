@@ -11,7 +11,7 @@ Nothing here is locked except where marked. The season shape was approved as a w
 | 4 | The Hearing | The light's failure goes public (Lambrick in Parliament) |
 | 5 | Open (title) | Nixon discovers Nathaniel hid the suspected Frost Killer; their first break |
 | 6 | The Remembering | A quiet aftermath. Nathaniel recovers the 1873 memory; the East End is cut off |
-| 7 | The Girl Who Isn't | Alice learns Miriam died; she and Nathaniel hear the Jamie confession together; Alice stops him, sends the Lost One away; Jennie reveals Josephine |
+| 7 | The Girl Who Isn't | Alice learns Miriam died; she and Nathaniel hear the Jamie confession together; Alice stops him, sends the Lost One away |
 | 8 | The Wedding | Alice returns by choice; Nathaniel confirms the confession to Nixon; the wedding and raid take the Lost One for the pod |
 | 9 | The Break-out | Ada's death; Nixon frees Marsh; storming the Works; imprint reveal #2 |
 | 10 | Lights Out | Morgana freed, mayhem, the ship, the Lost One stays, Lambrick wins |
@@ -29,7 +29,7 @@ Cold opens tell the history in pieces: the crash (Ep 1), Nathaniel's nightmare o
   - Ep 4: Grise tests "Miriam" with a Vykra hand-sign, sees it fail, and sells her location to Lambrick.
   - Ep 5: Josephine sees the Lost One in a mirror.
   - Ep 6: Josephine and Grise ("You were the one holding the knife"). Josephine pays to remove the witness. Grise tells Alice that Miriam drowned their stepfather.
-  - Ep 7: Grise's man comes for Jennie, the Lost One saves her, and Jennie tells Alice.
+  - Ep 7: Grise's man comes for Jennie, the Lost One saves her. Jennie names Josephine in Ep 8 after Alice returns.
   - Ep 8: Alice tells Nathaniel herself that his mother hired her; Josephine gives Eldgard the workshop.
 
 ## Dartboard: pitched ideas, not committed

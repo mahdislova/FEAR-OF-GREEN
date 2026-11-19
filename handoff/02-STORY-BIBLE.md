@@ -37,7 +37,7 @@ The light is a living thing in a freezer, and the Hardings got it by breaking a 
 ## Who killed Miriam
 **Josephine Harding**, ex-Vykra, in person. She went to stop the girl her son meant to run away with, and her old training took over. "I didn't go there to kill her. My hands did." Thirty years ago she escaped the Vykra by marrying a Harding, which was Miriam's exact plan.
 - The audience learns it in **Episode 2**, when she burns her gloves and the Vykra knot is stitched inside. Played as dread, not a twist. (The writer asked the previous assistant to choose this timing.)
-- Alice learns it at the **end of Episode 7.** The Lost One saves Jennie's life, and the guilt breaks Jennie: "Miriam was the best of us."
+- Alice learns it in **Episode 8, after choosing to return to the Lost One.** The Lost One saves Jennie's life, and the guilt breaks Jennie: "Miriam was the best of us."
 - Josephine hired Alice, through Grise, to get close to Nathaniel.
 
 ## Main characters
@@ -56,7 +56,7 @@ The light is a living thing in a freezer, and the Hardings got it by breaking a 
 
 ## The ending
 - Nathaniel frees Morgana and the light ends.
-- Morgana is too weak to fight on. She boards a ship that comes for her, it does substantial damage to London and retreats, and she vows revenge. That's Season 2's dread.
+- Morgana is too weak to fight on. The ship damages London. Morgana waits aboard the ship. When her child chooses Alice, she lets her stay and departs in silence.
 - **Lambrick wins:** London is dark and runs on his coal.
 - **Final image:** the lone ship in the sky. The Lost One looks up at it, then back at Alice, and stays.
 

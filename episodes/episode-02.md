@@ -8,7 +8,7 @@
 - **The umbrella scene** (details to come from the writer).
 - **The funeral:** a full house. **The Duke makes an appearance** (who the Duke is: to come from the writer).
 - The Lost One walks out of the river and finds Alice. Alice gets her sister back.
-- Nathaniel takes a shard of strange glass from his brother's room and vows to find the killer.
+- Eldgard's first question about the study was whether Jamie opened anything. Nathaniel heard the old accusation in it. He pockets a shard from the room. Alone with Nixon, he answers his friend's question about whether Jamie was alive when he reached him. Nixon opens his journal and asks whether anything had been disturbed. Nathaniel says he saw nothing. Nixon records his account. Nathaniel keeps the shard to investigate for himself.
 - Josephine, alone, burns her gloves in her grate. The Vykra knot is stitched inside them. The audience now knows who was on the bridge.
 - Grise gives Alice her first contract: get close to Nathaniel Harding. Paid by Josephine.
 - Eldgard makes Nixon his right hand and gives him the keys.

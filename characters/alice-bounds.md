@@ -9,6 +9,6 @@
 
 **The wound.** See `miriam-bounds.md`: the stepfather, the belt, the counting game ("eight posts and he's done"), **behind the eightfold fence**. Alice believes he drowned drunk. She once saw Miriam crying at his grave and thought she was grieving him.
 
-**Arc ladder.** Wants Miriam's killer and to keep "Miriam" → takes Josephine's money to spy on Nathaniel → learns what Miriam did (Ep 6), learns the Lost One's identity and hears her Jamie confession beside Nathaniel (Ep 7), stops him taking her but sends her away, then learns who killed Miriam (end of Ep 7) → returns to the Lost One by choice and confesses the contract to Nathaniel herself (Ep 8) → postpones choosing between holding on and letting go → offers the Lost One the ship and lets her choose.
+**Arc ladder.** Wants Miriam's killer and to keep "Miriam" → takes Josephine's money to spy on Nathaniel → learns what Miriam did (Ep 6), learns the Lost One's identity and hears her Jamie confession beside Nathaniel (Ep 7), stops him taking her but sends her away → returns to the Lost One by choice, hears Jennie name Josephine and confesses the contract to Nathaniel herself (Ep 8) → postpones choosing between holding on and letting go → offers the Lost One the ship and lets her choose.
 
 **Key moments.** "You're not her" (Ep 7). Stops Nathaniel restraining the Lost One but does not yet forgive her. "Nine is the one where we get up" (Ep 8). Spares Josephine (Ep 10). "Us" at the lock (Ep 10).

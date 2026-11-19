@@ -13,4 +13,4 @@
 
 **The face comes back.** Ep 5: sees the Lost One in the hall mirror during the heist. Ep 6: confronts Grise, works out that the creature wears the face of her crime, and pays to remove the witness. Ep 8: gives Eldgard the workshop, so the evidence goes in the pod.
 
-**End.** Alice learns the truth at the end of Ep 7. Confronted by Alice and spared (Ep 10). Fate after the finale: open.
+**End.** Alice learns the truth in Ep 8, after Alice returns. Confronted by Alice and spared (Ep 10). Fate after the finale: open.
