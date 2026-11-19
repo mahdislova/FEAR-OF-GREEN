@@ -30,6 +30,8 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 
 | Secret | Knows at the start | Audience learns | Character learns last |
 | --- | --- | --- | --- |
+| The Harding–Lambrick engagement | The parents arrange it | Nathaniel learns at the Ep 1 luncheon | Tamara knows by her private Ep 3 meeting with Nixon. Nixon and Alice learn at the Ep 5 toast. The coal terms reach Nathaniel in Ep 7. |
+| Tamara and Nixon are lovers | Both lovers | Their private embrace in Ep 3 | Nathaniel is unaware at the Ep 5 announcement. |
 | The light is Morgana | Eldgard, Josephine, Ada, Byron, Jamie | Ep 1 | Nathaniel: Ep 6 (the 1873 memory plus Byron's confession). Nixon: Ep 8 (the Harding book, hours after he delivers the Lost One believing she's only the Frost Killer) |
 | The Lost One killed Jamie | Nobody: the memory is buried in her | Ep 1 (we see it happen) | The Lost One: fragments through Ep 5, fully enough to confess in Ep 7. Nathaniel: Ep 7, in Alice's presence. Nixon: suspects Ep 5; Nathaniel confirms her account in Ep 8 before the raid |
 | The "Frost Killer" didn't murder Jamie: the offspring ravaged him escaping | The Lost One (buried memory) | Ep 1 | Nathaniel: Ep 7, with Alice |
@@ -52,6 +54,9 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Setup | Payoff |
 | --- | --- |
 | Nixon records Nathaniel’s false account of the study (Ep 2) | The Works drawing gives Nathaniel reason to doubt it (Ep 4). He produces the shard after dinner and Nixon takes his statement again (Ep 5). |
+| Alice buttons Josephine’s cuff while reporting (Ep 4) | She stops halfway after Jennie names Josephine (Ep 8). Josephine lets her see Nathaniel alone. |
+| Nixon and Tamara plot a relief route together (Ep 3) | It carries the coal secured by Tamara’s marriage to Nathaniel (Eps 7–8). |
+| Ada sends Marsh his spectacles (Ep 4) | Nixon’s first kindness to his uncle comes from the aunt who reported him. He frees him in Ep 9. |
 | Ada polishes lamps and calls Nixon "love" (Ep 1 onward) | Her death on the servants' stair (Ep 9) |
 | Marsh pinches Nixon's chin (Ep 4) | Nixon learns he's his uncle (Ep 9) |
 | The nightmare: a shadow, eyes as limitless as the sky (Ep 2 cold open) | The full 1873 memory (Ep 6) |
