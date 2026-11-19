@@ -7,6 +7,7 @@
 - The Lost One kills a man who attacks Alice. Her cold, by touch. London names a Frost Killer, and blames Jamie's death on it.
 - The Guard hunts her through the Christmas market. Ajax hunts too, for Lambrick, who has heard the killer leaves frost like gallowglass.
 - Nathaniel finds the sisters and hides them in his workshop. His tech can manage her cold. First lie to Nixon.
+- The only chair that does not squeak is missing a leg. Alice tries it, drops neatly into her sister’s lap and, after a beat, announces that it takes two to sit in this house. The Lost One laughs before Alice does. They spend a minute trying out the other furniture with elaborate caution. It is their first joke since the river.
 - **Tag:** the Lost One studies Nathaniel's face: "I know you."
 
 ## Scenes
