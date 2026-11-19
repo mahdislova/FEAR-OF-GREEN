@@ -31,15 +31,15 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Secret | Knows at the start | Audience learns | Character learns last |
 | --- | --- | --- | --- |
 | The light is Morgana | Eldgard, Josephine, Ada, Byron, Jamie | Ep 1 | Nathaniel: Ep 6 (the 1873 memory plus Byron's confession). Nixon: Ep 8 (the Harding book, hours after he delivers the Lost One believing she's only the Frost Killer) |
-| The Lost One killed Jamie | Nobody: the memory is buried in her | Ep 1 (we see it happen) | The Lost One: slowly, memory by memory. Nathaniel: Ep 5, when she tells him. Nixon: Ep 5 |
-| The "Frost Killer" didn't murder Jamie: the offspring ravaged him escaping | The Lost One (buried memory) | Ep 1 | Nathaniel: Ep 5 |
+| The Lost One killed Jamie | Nobody: the memory is buried in her | Ep 1 (we see it happen) | The Lost One: fragments through Ep 5, fully enough to confess in Ep 7. Nathaniel: Ep 7, in Alice's presence. Nixon: suspects Ep 5; Nathaniel confirms her account in Ep 8 before the raid |
+| The "Frost Killer" didn't murder Jamie: the offspring ravaged him escaping | The Lost One (buried memory) | Ep 1 | Nathaniel: Ep 7, with Alice |
 | The 1873 imprint on Nathaniel | Eldgard | Ep 2 cold open (as a nightmare), Ep 6 in full | Nathaniel: Ep 6 |
 | The 1873 imprint on Jamie, and that Morgana sent her | Morgana | Ep 9 | The Lost One: Ep 9 |
 | Eldgard plans to put the Lost One in the pod | Eldgard, Josephine | Ep 4 tag | Nathaniel: Ep 8 |
 | Alice was hired to get close to Nathaniel | Josephine, Grise, Alice | Ep 2 | Nathaniel: Ep 8 (Alice tells him herself) |
 | Miriam drowned their stepfather to join the Vykra | Grise (Miriam is dead) | Ep 6 | Alice: Ep 6 (Grise); confirmed Ep 7 (the Lost One) |
 | Josephine killed Miriam | Josephine; Jennie (witness) | Ep 2 (she burns her gloves). Played as dread, not a twist | Alice: end of Ep 7 |
-| The Lost One isn't Miriam | The Lost One | Ep 1 | Jennie: Ep 3 (saw Miriam die). Grise: Ep 4 (the hand-sign). Josephine: Ep 5 (the mirror). Alice: Ep 7 |
+| The Lost One isn't Miriam | The Lost One | Ep 1 | Jennie: Ep 3 (saw Miriam die). Grise: Ep 4 (the hand-sign). Josephine: Ep 5 (the mirror, understood in Ep 6). Alice: Ep 7, told by the Lost One just before Nathaniel hears the Jamie confession |
 | Josephine paid Grise to remove the witness | Josephine, Grise | Ep 6 | Jennie: Ep 7 |
 | Grise sold Josephine the rendezvous | Grise, Josephine | Ep 1 (black wax) | Alice: Ep 7 |
 | The Hargrave massacre | Eldgard, Ada, Marsh | Ep 8 cold open | Nixon: Ep 8 |
@@ -56,6 +56,8 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | The nightmare: a shadow, eyes as limitless as the sky (Ep 2 cold open) | The full 1873 memory (Ep 6) |
 | Nathaniel's unexplained genius (Ep 1) | It was planted (Ep 6), and it opens the pod (Ep 10) |
 | Miriam's last thought is Alice (Ep 1) | Why the Lost One goes to Alice (Ep 2) |
+| Nathaniel conceals the suspected Frost Killer from Nixon (Eps 3–5) | Nixon discovers the concealment (Ep 5); Nathaniel hears her account with Alice (Ep 7) and confirms it to Nixon before the raid (Ep 8) |
+| Alice stops Nathaniel restraining the Lost One, then sends her away (Ep 7) | She returns to the Lost One by choice (Ep 8); Nathaniel opposes the child's imprisonment without forgiving Jamie's death |
 | The counting game, "eight posts" (Ep 2 onward) | "Nine is the one where we get up" (Ep 8) |
 | Alistair's book in cipher | Tamara cracks it (Ep 8) |
 | The chief engineer's yield figures (Ep 4) | Lambrick learns the secret |

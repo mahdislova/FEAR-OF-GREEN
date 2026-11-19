@@ -16,7 +16,7 @@ A short version for newcomers is in `handoff/` (read `01-READ-FIRST.md`, then `0
 - **Jamie Harding dies in Episode 1.** The starving, half-mad offspring ravages him when he frees it; Nathaniel finds him bleeding out. There is no secret room and no coma.
 - **Josephine Harding killed Miriam** on Blackwood Bridge. The audience learns it in Episode 2; Alice learns it at the end of Episode 7.
 - **Nixon first appears in Episode 2,** back from the east to report village after village frozen in ice.
-- **The Lost One killed Jamie** and doesn't remember it; she confesses to Nathaniel at the midseason (Episode 5).
+- **The Lost One killed Jamie** and doesn't remember it; she tells Nathaniel and Alice together in Episode 7. Nixon discovers Nathaniel hid the suspected Frost Killer in Episode 5 and hears confirmation before his Episode 8 raid.
 
 ## Not the story
 

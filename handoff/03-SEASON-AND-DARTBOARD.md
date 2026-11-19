@@ -9,19 +9,19 @@ Nothing here is locked except where marked. The season shape was approved as a w
 | 2 | The Wake | Two grieving siblings get missions; Alice takes the contract |
 | 3 | The Frost Killer | Nathaniel takes a side without knowing it; he shelters the sisters |
 | 4 | The Hearing | The light's failure goes public (Lambrick in Parliament) |
-| 5 | Open (title) | Midseason: the Lost One confesses she killed Jamie; Nixon learns Nathaniel hid her |
+| 5 | Open (title) | Nixon discovers Nathaniel hid the suspected Frost Killer; their first break |
 | 6 | The Remembering | A quiet aftermath. Nathaniel recovers the 1873 memory; the East End is cut off |
-| 7 | The Girl Who Isn't | The East End freezes; "You're not her"; Alice learns about Josephine |
-| 8 | The Wedding | Nathaniel marries Tamara for coal; Nixon's raid takes the Lost One for the pod |
+| 7 | The Girl Who Isn't | Alice learns Miriam died; she and Nathaniel hear the Jamie confession together; Alice stops him, sends the Lost One away; Jennie reveals Josephine |
+| 8 | The Wedding | Alice returns by choice; Nathaniel confirms the confession to Nixon; the wedding and raid take the Lost One for the pod |
 | 9 | The Break-out | Ada's death; Nixon frees Marsh; storming the Works; imprint reveal #2 |
 | 10 | Lights Out | Morgana freed, mayhem, the ship, the Lost One stays, Lambrick wins |
 
 Cold opens tell the history in pieces: the crash (Ep 1), Nathaniel's nightmare of 1873 (Ep 2), 1873 from the offspring's side (Ep 9), the deal (Ep 4), the sisters' childhood (Ep 7), the Hargrave freeze (Ep 8), the pod closing (Ep 10).
 
 ## Threads and their spacing
-- **Nathaniel and Nixon:** lies in both directions (Ep 3), the first break when Nixon learns Nathaniel hid Jamie's killer (Ep 5), the point of no return when Nixon leads the raid (Ep 8), the same side but not friends (Ep 9).
+- **Nathaniel and Nixon:** lies in both directions (Ep 3); the first break when Nixon discovers Nathaniel hid the suspected Frost Killer (Ep 5); Nathaniel hears her account beside Alice (Ep 7) and confirms it to Nixon before Nixon leads the raid (Ep 8); the same side but not friends (Ep 9).
 - **The imprints:** the nightmare cold open (Ep 2), Nathaniel's full memory (Ep 6), and the same night from the offspring's side, where Morgana tells the Lost One she sent her (Ep 9).
-- **The sisters:** closeness (Eps 2–6), the break (Ep 7), "Nine is the one where we get up" (Ep 8), the choice to stay (Ep 10).
+- **The sisters:** closeness (Eps 2–6); the Lost One tells Alice who she is, Alice stops Nathaniel restraining her but sends her away (Ep 7); Alice returns by choice, "Nine is the one where we get up" (Ep 8); the choice to stay (Ep 10).
 - **The killer thread, one beat per episode.** This spacing is agreed:
   - Ep 1: Miriam's fall, a figure in the shadows, Jennie watching.
   - Ep 2: Josephine burns her gloves.
