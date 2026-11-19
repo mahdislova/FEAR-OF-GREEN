@@ -55,7 +55,7 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | --- | --- |
 | Nixon records Nathaniel’s false account of the study (Ep 2) | The Works drawing gives Nathaniel reason to doubt it (Ep 4). He produces the shard after dinner and Nixon takes his statement again (Ep 5). |
 | Alice buttons Josephine’s cuff while reporting (Ep 4) | She stops halfway after Jennie names Josephine (Ep 8). Josephine lets her see Nathaniel alone. |
-| Nixon and Tamara plot a relief route together (Ep 3) | It carries the coal secured by Tamara’s marriage to Nathaniel (Eps 7–8). |
+| Tamara asks Nixon for time to speak to Hector (Ep 3) | The public toast reaches Nixon before she tells him herself (Ep 5). |
 | Ada sends Marsh his spectacles (Ep 4) | Nixon’s first kindness to his uncle comes from the aunt who reported him. He frees him in Ep 9. |
 | Ada polishes lamps and calls Nixon "love" (Ep 1 onward) | Her death on the servants' stair (Ep 9) |
 | Marsh pinches Nixon's chin (Ep 4) | Nixon learns he's his uncle (Ep 9) |
