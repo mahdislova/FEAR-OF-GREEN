@@ -13,6 +13,6 @@
 
 **Arc ladder.** Wants to belong → hunts the Frost Killer and keeps Eldgard's secrets → loses Nathaniel → postpones choosing between obeying and knowing → breaks his uncle out of Newgate with Ada's blood on his cuffs, then holds the Guard for London, not for the Hardings.
 
-**Key moments.** Ep 5: caught knowing about Jamie. Ep 8: leads the raid that takes the Lost One, then reads the Hargrave pages. "Did you know?" (to Ada). Ep 9: Ada's death; "Did you love me, or did you keep me?" Eldgard: "Yes."
+**Key moments.** Ep 5: learns Nathaniel has been hiding Jamie's killer. Ep 8: leads the raid that takes the Lost One, then reads the Hargrave pages. "Did you know?" (to Ada). Ep 9: Ada's death; "Did you love me, or did you keep me?" Eldgard: "Yes."
 
 **With Tamara:** in love with her; hands her the ring properly at her wedding to Nathaniel.

@@ -1,6 +1,6 @@
 # Season one
 
-**Status:** the spine is provisional; Episode 1 is the episode the writer is happy with. Ideas are locked, pitched or open (see `handoff/01-READ-FIRST.md`). Open questions live in `PROJECT.md`.
+**Status:** the spine is provisional; Episode 1 is the episode the writer is happy with. Ideas are locked, pitched or open (see `handoff/GREEN-GALLOWS-HANDOFF.md`, section 1). Open questions live in `PROJECT.md`.
 
 ## The promise
 
