@@ -6,9 +6,9 @@
 - On the day of Jamie’s funeral the Lost One comes out of the river mute. Alice has spent the intervening days looking for Miriam.
 - Letters from the darkened east interrupt the convoy. The Duke honours Jamie; the Lanterns lower their crystal lights. Nixon returns to Nathaniel under the mended umbrella. Tamara persuades Hector and Ajax to wait for a Harding coal order.
 - Two children and a frightened gang give Alice a trail. Miriam’s fighting reflex survives in a body the Lost One is still learning to use.
-- Alice brings her home. Ren offers a provisional explanation for the silence and memory loss. The girl chooses Alice for company.
-- Nathaniel keeps the shard. Nixon records his friend’s account and accepts Eldgard’s keys. Tamara and Nixon steal a minute together at the wake.
-- Josephine burns her Vykra gloves. Grise sends Josephine’s paid assignment to Alice at home. Jennie arrives to sit with the girl and sees Miriam’s face.
+- Alice brings her home. The girl’s skin stays cold long after she is dry; Alice blames the river. Ren offers a provisional explanation for the silence and memory loss. The girl chooses Alice for company.
+- Ada feeds Nixon at the wake: “love.” Nathaniel keeps the shard. He watches Eldgard give Nixon the keys, then lies to his friend, knowing the account goes to his father. Tamara and Nixon steal a minute together at the wake.
+- Josephine burns her Vykra gloves. Grise sends Josephine’s paid assignment to Alice at home. With Ren paid and almost nothing left, Alice takes the money. Jennie arrives to sit with the girl and sees Miriam’s face.
 - **Tag:** Jennie stops on the threshold. Alice takes her coat off.
 
 ## Scenes
@@ -41,7 +41,7 @@ Local boys see a soaking woman who cannot tell them whose coat she is wearing. O
 
 ### 7. The scullery fire
 
-The Harding radiators have barely warmed the wake room. Tamara gets an elderly guest a seat at the scullery grate. In the yard Ajax brings Hector the broken Lambrick tally from the Narrows consignment the Vykra hit. The family paid for the cargo; the warehouse loss comes out of their pocket. Ajax wants to call in their coal buyers today, while the Hardings are answering for the dark and the Guard is at a funeral. Hector asks what price he could get by supper.
+The Harding radiators have barely warmed the wake room. Tamara gets an elderly guest a seat at the scullery grate. In the yard Ajax wants to make up the Narrows loss the Vykra cost them by calling in their coal buyers today, while the Hardings answer for the dark. Hector asks what price he could get by supper.
 
 Tamara points to the woman from the convoy. She has come around to the service door to buy one scuttle. If Hector puts up the price today, by supper she’ll remember what the Lambricks charged her. If the house asks them for fuel, Eldgard himself will have to acknowledge what it’s worth. Hector studies the cold grate in the public room. He tells Ajax to leave the price alone. A minute later the Harding steward comes out to ask if their cart can spare a load. Hector lets Tamara take the order. The driver carries coal in through the front doors.
 
@@ -53,11 +53,13 @@ The children remember the coat and its buttons. They point Alice to the passage.
 
 Nathaniel and Nixon get a plate between them. Nathaniel remembers the three boys standing in a receiving line when they were too small to see over the guests’ bellies. Jamie taught the other two a squeeze on the shoulder: did you want him to get you out? Cover his hand and he’d stay where he was. The first time Nathaniel used it, Jamie solemnly told the Duke that Nixon was going to be sick. Nixon remembers the rest. “He made me go upstairs and do it.” Nathaniel laughs with food in his mouth. For a few seconds he gets to be Jamie’s little brother again.
 
+Ada comes down the table with the teapot and puts another slice on Nixon’s plate without asking. “You’re thin, love. The east doesn’t feed you.” He lets her. She tops up Nathaniel’s cup too, and moves on before either of them can thank her.
+
 Nixon asks if, before he goes, Nathaniel will take him through the night Jamie died. Nathaniel agrees. Eldgard catches Nixon as he gets up. Nixon names the last village where he ate a hot meal and the frozen settlements beyond it. The letters outside were telling the truth.
 
 ### 10. The Bounds room, afternoon
 
-Dry clothes, a towel, too many questions. Alice first takes the silence for Miriam’s usual refusal to explain herself. Then she offers two shifts and asks which scratches. The girl patiently watches Alice’s mouth even after Alice has finished asking. Alice remembers the shift on the pillow. She helps her into it, fetches a coat and takes her straight to Ren.
+Dry clothes, a towel, too many questions. Alice first takes the silence for Miriam’s usual refusal to explain herself. Then she offers two shifts and asks which scratches. The girl patiently watches Alice’s mouth even after Alice has finished asking. Alice remembers the shift on the pillow. She helps her into it. The skin under her hands is still cold, though the girl has been dry for an hour. Alice chafes her arms and blames the river. Then she fetches a coat and takes her straight to Ren.
 
 ### 11. Nixon and Tamara, service yard
 
@@ -73,16 +75,22 @@ Josephine unpins the mourning ribbon she tied to Jamie’s bedroom door. It leav
 
 He begins by asking when Jamie’s behaviour changed. Nathaniel tells him Jamie came up to the Exhibition roof to see him after the gauntlet failed. Eldgard wants to know where Jamie went next. Nathaniel snaps: did he ever once ask what Jamie did on that roof? “He went to see if you were all right,” Eldgard says. “I should have gone myself.” It takes the wind out of Nathaniel. Then his father asks again where Jamie went. Even now he needs the answer. Nathaniel walks out.
 
-Back in the study Nathaniel follows Jamie’s last movements for himself. His father’s first question that night was whether Jamie had opened anything. He gets down beside the skirting and finds a shard the sweep missed. He pockets it as Nixon comes to take his promised account.
+Back in the study Nathaniel follows Jamie’s last movements for himself. His father’s first question that night was whether Jamie had opened anything. He gets down beside the skirting and finds a shard the sweep missed. He pockets it. Out in the hall, Nixon has arrived for his promised account.
 
-### 14. Nixon’s journal / Eldgard’s keys
+### 14. Eldgard’s keys / Nixon’s journal
 
-Alone with Nixon, Nathaniel answers when his friend asks if Jamie was alive when he reached the study. Then Nixon opens his journal. Was anything disturbed? Nathaniel feels the shard in his pocket and says he saw nothing. Nixon enters it. Later Eldgard gives Nixon the keys and the authority to make inquiries for the house. His first account is already on the page.
+In the hall Eldgard gives Nixon the keys of the house and the authority to make inquiries for the family. Through the open study door Nathaniel watches his friend take them. His father’s first question that night was whether Jamie had opened anything. Whatever Nathaniel tells Nixon now goes up the stairs on that ring.
+
+Alone with Nixon, Nathaniel answers when his friend asks if Jamie was alive when he reached the study. Then Nixon opens his journal. Was anything disturbed? Nathaniel feels the shard in his pocket and says he saw nothing. Nixon enters it.
 
 ### 15. Josephine commissions Grise
 
-Nathaniel shuts the study door on his way out. From the landing Josephine sees where her conversation with Eldgard has sent their surviving son. At home that evening she burns the gloves she wore on the bridge. The Vykra knot shows as the lining catches. She goes to Grise in Shadwell with a fee. She wants someone close enough to Nathaniel to tell her where he goes and turn him aside if he follows Jamie’s steps. Grise chooses Alice. Her messenger brings the assignment to the Bounds room. Alice accepts and sends a separate request for Jennie to sit with Miriam while she goes to Grise.
+Nathaniel shuts the study door on his way out. From the landing Josephine sees where her conversation with Eldgard has sent their surviving son. At home that evening she burns the gloves she wore on the bridge. The Vykra knot shows as the lining catches. She goes to Grise in Shadwell with a fee. She wants someone close enough to Nathaniel to tell her where he goes and turn him aside if he follows Jamie’s steps. Grise chooses Alice.
 
-### 16. Jennie at the door
+### 16. The fee
+
+Alice is counting what is left after Ren. It comes to less than a week’s rent. Grise’s messenger sets a purse down beside the coins: a Harding son, where he goes, a report each week. Alice looks past him to the bed. The girl is asleep in the shift that doesn’t scratch, one hand closed on the coat Alice took off her. Alice picks up the purse. She writes a note asking Jennie to sit with Miriam while she goes to Grise.
+
+### 17. Jennie at the door
 
 Dusk. Alice has her coat halfway on when Jennie arrives. She is explaining what Ren said when she notices Jennie is still outside. From Jennie’s place in the doorway we see the face she last saw going over the rail. The girl edges toward Alice. Alice takes off her coat. All three stay there. The job can wait until morning.

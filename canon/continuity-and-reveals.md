@@ -56,14 +56,15 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 
 | Setup | Payoff |
 | --- | --- |
-| Nixon records Nathaniel’s false account of the study (Ep 2) | The Works drawing gives Nathaniel reason to doubt it (Ep 4). He produces the shard after dinner and Nixon takes his statement again (Ep 5). |
+| Nathaniel watches Eldgard give Nixon the keys, then gives Nixon a false account of the study (Ep 2) | The Works drawing gives Nathaniel reason to doubt it (Ep 4). He produces the shard after dinner and Nixon takes his statement again (Ep 5). |
 | Alice buttons Josephine’s cuff while reporting (Ep 4) | She stops halfway after Jennie names Josephine (Ep 8). Josephine lets her see Nathaniel alone. |
 | Tamara asks Nixon for time to speak to Hector (Ep 3) | The public toast reaches Nixon before she tells him herself (Ep 5). |
 | Ada sends Marsh his spectacles (Ep 4) | Nixon’s first kindness to his uncle comes from the aunt who reported him. He frees him in Ep 9. |
-| Ada polishes lamps and calls Nixon "love" (Ep 1 onward) | Her death on the servants' stair (Ep 9) |
+| Ada polishes lamps (Ep 1) and feeds Nixon at the wake: "You're thin, love" (Ep 2) | Her death on the servants' stair (Ep 9) |
 | Marsh pinches Nixon's chin (Ep 4) | Nixon learns he's his uncle (Ep 9) |
 | The nightmare: a shadow, eyes as limitless as the sky (Ep 2 cold open) | The full 1873 memory (Ep 6) |
 | Nathaniel's unexplained genius (Ep 1) | It was planted (Ep 6), and it opens the pod (Ep 10) |
+| The girl's skin stays cold an hour after the river; Alice blames the river (Ep 2) | Her cold kills the man who attacks Alice (Ep 3) |
 | Miriam's last thought is Alice (Ep 1) | Why the Lost One gravitates to Alice once Alice finds her (Ep 2) |
 | Nathaniel conceals the suspected Frost Killer from Nixon (Eps 3–5) | Nixon discovers the concealment (Ep 5); Nathaniel hears her account with Alice (Ep 7) and confirms it to Nixon before the raid (Ep 8) |
 | Alice stops Nathaniel restraining the Lost One, then sends her away (Ep 7) | She returns to the Lost One by choice (Ep 8); Nathaniel opposes the child's imprisonment without forgiving Jamie's death |
