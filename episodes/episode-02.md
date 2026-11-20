@@ -2,9 +2,9 @@
 
 **Cold open:** Five-year-old Nathaniel gets out of bed. Something slips into his room. He sees eyes as limitless as the sky. A shriek wakes him.
  
-**Change:** Alice joins the Vykra believing her sister abandoned her, then finds her and discovers she needs to earn her trust. Nathaniel starts an investigation by lying to the friend in charge of it. **POV:** Alice.
+**Change:** With Miriam missing, Alice takes the oath her sister always opposed. Hours later she finds her and has to earn her trust. Nathaniel starts an investigation by lying to the friend in charge of it. **POV:** Alice.
 - On the day of Jamie’s funeral the Lost One comes out of the river mute. Alice has spent the intervening days looking for Miriam.
-- Grise, who knows Miriam is dead, tells Alice her sister ran off and left her, and offers her the knot. Alice is initiated at the laundry, with her first envelope set for the next morning. Jennie watches her swear.
+- Grise, who knows Miriam is dead, tells Alice her sister ran off and left her, and offers her the knot. Jennie watches Alice swear at the laundry. Grise tells Alice to collect her gloves in the morning.
 - Letters from the darkened east interrupt the convoy. The Duke honours Jamie; the Lanterns lower their crystal lights. Nixon returns to Nathaniel under the mended umbrella. At the wake the Duke privately asks Hector how much coal his sister’s house east of the line will need. Hector sends him to another merchant and learns from the hour of the question that the Duke expects the light to fail. Tamara writes the time on the back of the Narrows tally. Hector sends Ajax to find out what was taken.
 - Two children and a frightened gang give Alice a trail. Miriam’s fighting reflex survives in a body the Lost One is still learning to use.
 - Alice brings her home. The girl’s skin stays cold long after she is dry; Alice blames the river. Ren offers a provisional explanation for the silence and memory loss. The girl chooses Alice for company.
@@ -30,7 +30,7 @@ Alice folds the shift and puts it back on the pillow. She crosses yesterday’s 
 
 ### 3. The knot
 
-Noon at the Shadwell laundry. Steam, lye, the slap of wet linen. The women stop work at the tubs to watch. Alice swears the guild’s oath with her hand flat on Grise’s ledger. Grise tells her that her gloves will be stitched by tonight and her first envelope will be waiting in the morning. Alice looks for one face among the women and finds Jennie. Jennie knows where Miriam went. She says nothing. Alice goes back to the river to keep looking.
+Noon at the Shadwell laundry. Steam, lye, the slap of wet linen. The women stop work at the tubs to watch. Alice swears the guild’s oath with her hand flat on Grise’s ledger. “Come for your gloves in the morning,” Grise says. Alice looks for one face among the women and finds Jennie. Jennie knows where Miriam went. She says nothing. Alice goes back to the river to keep looking.
 
 ### 4. The Duke at the funeral doors
 
@@ -60,7 +60,7 @@ Hector asks whether she still uses the old kitchen range. The Duke says yes. Hec
 
 “How long has the boy been in the ground?” Hector says.
 
-She understands. An hour after standing over Jamie’s coffin and asking London to put its faith in the Hardings, the Duke is making private arrangements for the light to fail. Hector has learned more from that question than he could have got by cornering the man over dinner. She turns the Narrows tally over and writes the time on the back. Ajax has been waiting throughout for an answer. Hector finally gives it: find out what was taken before anybody gets hurt trying to recover it.
+Tamara turns the Narrows tally over and writes the time on the back. Ajax has been waiting throughout for an answer. Hector finally gives it: find out what was taken before anybody gets hurt trying to recover it.
 
 ### 9. Alice finds her
 
@@ -96,7 +96,7 @@ Back in the study Nathaniel follows Jamie’s last movements for himself. His fa
 
 ### 15. Eldgard’s keys / Nixon’s journal
 
-In the hall Eldgard gives Nixon the keys of the house and the authority to make inquiries for the family. Through the open study door Nathaniel watches his friend take them. His father’s first question that night was whether Jamie had opened anything. Whatever Nathaniel tells Nixon now goes up the stairs on that ring.
+In the hall Eldgard gives Nixon the keys of the house and the authority to make inquiries for the family. Through the open study door Nathaniel watches his friend take them. Nixon slips the keys into the pocket where he keeps his journal.
 
 Alone with Nixon, Nathaniel answers when his friend asks if Jamie was alive when he reached the study. Then Nixon opens his journal. Was anything disturbed? Nathaniel feels the shard in his pocket and says he saw nothing. Nixon enters it.
 
@@ -104,7 +104,7 @@ Alone with Nixon, Nathaniel answers when his friend asks if Jamie was alive when
 
 Nathaniel shuts the study door on his way out. From the landing Josephine sees where her conversation with Eldgard has sent their surviving son. At home that evening she burns the gloves she wore on the bridge. Cross-cut: in Shadwell, Grise draws a needle through the lining of a new pair. The Vykra knot shows in Josephine’s grate as the lining catches. In the laundry Grise pulls the same knot tight.
 
-Josephine comes to Grise with a fee. She wants someone close enough to Nathaniel to tell her where he goes and turn him aside if he follows Jamie’s steps. Grise doesn’t put down the gloves. She has just the girl. When Josephine has gone, Grise gives the gloves to Jennie to take to the Bounds room.
+Josephine comes to Grise with a fee. She wants someone close enough to Nathaniel to tell her where he goes and turn him aside if he follows Jamie’s steps. Grise doesn’t put down the gloves. When Josephine has gone, Grise puts the gloves in Jennie’s hands. “Take them to Alice. Tell her I want her first thing.”
 
 ### 17. Jennie at the door
 
