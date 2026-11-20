@@ -49,7 +49,8 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Grise sold Josephine the rendezvous | Grise, Josephine | Ep 1 (black wax) | Alice: Ep 8, from Jennie |
 | The Hargrave massacre | Eldgard, Ada, Marsh | Ep 8 cold open | Nixon: Ep 8 |
 | Marsh is Nixon's uncle | Ada, Marsh | Ep 4 (hinted) | Nixon: Ep 9 |
-| The yield is failing | Eldgard, the chief engineer | Ep 1 | Lambrick: Ep 4. London: Ep 4 |
+| The yield is failing | Eldgard, the chief engineer | Ep 1 | Lambrick: suspects Ep 2 (the hour of the Duke’s question), confirms Ep 4. London: Ep 4 |
+| A book in the Lambrick Narrows consignment; Miriam stole it for Grise | Hector, Miriam, Grise | Ep 1 | Open |
 | The chief engineer sold out to Lambrick | The engineer, Lambrick | Ep 4 | Nathaniel: unset |
 
 ## Setups and payoffs
@@ -69,6 +70,7 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Nathaniel conceals the suspected Frost Killer from Nixon (Eps 3–5) | Nixon discovers the concealment (Ep 5); Nathaniel hears her account with Alice (Ep 7) and confirms it to Nixon before the raid (Ep 8) |
 | Alice stops Nathaniel restraining the Lost One, then sends her away (Ep 7) | She returns to the Lost One by choice (Ep 8); Nathaniel opposes the child's imprisonment without forgiving Jamie's death |
 | The counting game, "eight posts" (Ep 2 onward) | "Nine is the one where we get up" (Ep 8) |
+| Tamara writes the time of the Duke’s question on the back of the Narrows tally (Ep 2) | Open |
 | Alistair's book in cipher | Tamara cracks it (Ep 8) |
 | The chief engineer's yield figures (Ep 4) | Lambrick learns the secret |
 | Jennie rides the Narrows raid with Miriam and Alice (Ep 1); witnesses the bridge | She tells Alice: Josephine (Ep 8, after Alice returns) |

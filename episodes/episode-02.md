@@ -4,7 +4,7 @@
  
 **Change:** Alice finds her missing sister and discovers she needs to earn her trust. Nathaniel starts an investigation by lying to the friend in charge of it. **POV:** Alice.
 - On the day of Jamie’s funeral the Lost One comes out of the river mute. Alice has spent the intervening days looking for Miriam.
-- Letters from the darkened east interrupt the convoy. The Duke honours Jamie; the Lanterns lower their crystal lights. Nixon returns to Nathaniel under the mended umbrella. Tamara persuades Hector and Ajax to wait for a Harding coal order.
+- Letters from the darkened east interrupt the convoy. The Duke honours Jamie; the Lanterns lower their crystal lights. Nixon returns to Nathaniel under the mended umbrella. At the wake the Duke privately asks Hector how much coal his sister’s house east of the line will need. Hector sends him to another merchant and learns from the hour of the question that the Duke expects the light to fail. Tamara writes the time on the back of the Narrows tally. Hector sends Ajax to find out what was taken.
 - Two children and a frightened gang give Alice a trail. Miriam’s fighting reflex survives in a body the Lost One is still learning to use.
 - Alice brings her home. The girl’s skin stays cold long after she is dry; Alice blames the river. Ren offers a provisional explanation for the silence and memory loss. The girl chooses Alice for company.
 - Ada feeds Nixon at the wake: “love.” Nathaniel keeps the shard. He watches Eldgard give Nixon the keys, then lies to his friend, knowing the account goes to his father. Tamara and Nixon steal a minute together at the wake.
@@ -23,7 +23,7 @@ Alice comes in from another night of looking. For one second she expects to see 
 
 ### 3. The Duke at the funeral doors
 
-The Duke has come as an old friend. At the doors a reporter asks if the eastern failures have reached London. He gives the family room to carry Jamie inside. From the lectern he remembers coming to dinner after his wife died. Eldgard had kept his usual place. Young Jamie sat beside him and ate the things he left on his plate so nobody would fuss over him. “It took me three Thursdays to catch him at it.” A few people laugh, Josephine among them. The Duke asks them to keep coming to one another’s tables in the weeks ahead. Outside, the woman with the letter is still waiting for an answer.
+The Duke has come as an old friend. At the doors a reporter asks if the eastern failures have reached London. He gives the family room to carry Jamie inside. From the lectern he remembers coming to dinner after his wife died. Eldgard had kept his usual place. Young Jamie sat beside him and ate the things he left on his plate so nobody would fuss over him. “It took me three Thursdays to catch him at it.” A few people laugh, Josephine among them. The Duke asks them to keep coming to one another’s tables in the weeks ahead.
 
 ### 4. Buttons
 
@@ -39,11 +39,17 @@ Nathaniel stays while the chairs are folded. Rain stops hitting his collar. Over
 
 Local boys see a soaking woman who cannot tell them whose coat she is wearing. One blocks the passage. Another catches her sleeve. Before she has found a word he is on the flags, winded, and she is standing exactly as Miriam would stand after a throw. She studies her hands. His friends start toward her. She runs. No frost; everyone gets back up.
 
-### 7. The scullery fire
+### 7. Hector and the Duke
 
-The Harding radiators have barely warmed the wake room. Tamara gets an elderly guest a seat at the scullery grate. In the yard Ajax wants to make up the Narrows loss the Vykra cost them by calling in their coal buyers today, while the Hardings answer for the dark. Hector asks what price he could get by supper.
+The Harding radiators have barely warmed the wake room. During the reception, Ajax brings Hector the broken tally from the Narrows. He wants permission to take his men down there tonight. Tamara sees the Duke crossing the room toward her father and quietly takes the tally from Ajax. To anybody watching, the Duke is coming to offer condolences to another family friend.
 
-Tamara points to the woman from the convoy. She has come around to the service door to buy one scuttle. If Hector puts up the price today, by supper she’ll remember what the Lambricks charged her. If the house asks them for fuel, Eldgard himself will have to acknowledge what it’s worth. Hector studies the cold grate in the public room. He tells Ajax to leave the price alone. A minute later the Harding steward comes out to ask if their cart can spare a load. Hector lets Tamara take the order. The driver carries coal in through the front doors.
+What he actually says is, “My sister’s house is east of the line. How many days would I need to lay in?”
+
+Hector asks whether she still uses the old kitchen range. The Duke says yes. Hector tells him how much coal to order, offers him the name of a local merchant and lets him go. He doesn’t even ask for the sale. Tamara waits until the Duke is out of earshot. She wants to know why her father let another merchant have the business.
+
+“What time did he ask me?” Hector says.
+
+She understands. An hour after standing over Jamie’s coffin and asking London to put its faith in the Hardings, the Duke is making private arrangements for the light to fail. Hector has learned more from that question than he could have got by cornering the man over dinner. She turns the Narrows tally over and writes the time on the back. Ajax has been waiting throughout for an answer. Hector finally gives it: find out what was taken before anybody gets hurt trying to recover it.
 
 ### 8. Alice finds her
 
@@ -63,7 +69,7 @@ Dry clothes, a towel, too many questions. Alice first takes the silence for Miri
 
 ### 11. Nixon and Tamara, service yard
 
-Tamara is signing the steward’s coal order. Nixon sets his cold tea beside her ledger. She has noticed his hands shaking since he came in from the east. She pours him a fresh cup, closes her fingers over his around it and waits until he can hold it steady. He asks if she’ll be here tomorrow. She gives him a time before his shift. At the sound of the returning driver she lets go. “Your tea, Captain.”
+Tamara is writing on the back of the Narrows tally. Nixon sets his cold tea beside it. She turns the tally face down. She has noticed his hands shaking since he came in from the east. She pours him a fresh cup, closes her fingers over his around it and waits until he can hold it steady. He asks if she’ll be here tomorrow. She gives him a time before his shift. At the sound of her father’s voice in the passage she lets go. “Your tea, Captain.”
 
 ### 12. Ren’s rooms
 
