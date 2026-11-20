@@ -47,7 +47,7 @@ What he actually says is, “My sister’s house is east of the line. How many d
 
 Hector asks whether she still uses the old kitchen range. The Duke says yes. Hector tells him how much coal to order, offers him the name of a local merchant and lets him go. He doesn’t even ask for the sale. Tamara waits until the Duke is out of earshot. She wants to know why her father let another merchant have the business.
 
-“What time did he ask me?” Hector says.
+“How long has the boy been in the ground?” Hector says.
 
 She understands. An hour after standing over Jamie’s coffin and asking London to put its faith in the Hardings, the Duke is making private arrangements for the light to fail. Hector has learned more from that question than he could have got by cornering the man over dinner. She turns the Narrows tally over and writes the time on the back. Ajax has been waiting throughout for an answer. Hector finally gives it: find out what was taken before anybody gets hurt trying to recover it.
 
