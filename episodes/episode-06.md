@@ -13,4 +13,10 @@
 
 ## Scenes
 
-Not yet broken. 
+### The Works meeting — morning after the toast
+
+Hector has left the engineer’s figures at Tamara’s place. She reads them while Eldgard asks how many hours cutting the East will buy. The engineer gives him the number. Tamara has a finger beside the same figure on the page. “And when do they come back on?” The engineer waits for Eldgard. Eldgard asks for the next estimate. The engineer turns his page.
+
+Last night she wanted to hear what went missing from the papers. By the time the meeting ends she understands that nobody has agreed when the East will get its light back. She keeps her copy of the figures. Eldgard makes the decision at the end of the episode.
+
+The remaining scenes are still to be broken. 
