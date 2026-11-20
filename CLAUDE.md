@@ -28,3 +28,6 @@ Every fact lives in exactly one file. Point to it; don't copy it. When a decisio
 
 ## Read only what the task needs
 For an episode task: that episode file, `canon/season-one.md`, and the dossiers of the characters in it. Pull in `world-and-rules.md` when a rule is involved.
+
+## Logic check before pitching or filing
+Before suggesting or filing any beat, walk every character in the scene through it: what do they know right now, what were they just told, what do they fear, and would they actually do this? A character who acts against what they know (walking a secret into the room of the person they were just warned about) breaks the story. Check existing canon beats the same way and flag breaks as soon as they're spotted.
