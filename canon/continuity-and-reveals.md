@@ -44,7 +44,7 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Alice was hired to get close to Nathaniel | Josephine, Grise, Alice | Ep 2 | Nathaniel: Ep 8 (Alice tells him herself) |
 | Miriam drowned their stepfather to join the Vykra | Grise (Miriam is dead) | Ep 6 | Alice: Ep 6 (Grise); confirmed Ep 7 (the Lost One) |
 | Josephine killed Miriam | Josephine; Jennie (witness) | Ep 2 (she burns her gloves). Played as dread, not a twist | Alice: Ep 8, after her return |
-| The Lost One isn't Miriam | The Lost One | Ep 1 | Jennie: Ep 3 (saw Miriam die). Grise: Ep 4 (the hand-sign). Josephine: Ep 6 (from Alice’s reports and Grise’s test). Alice: Ep 7, told by the Lost One just before Nathaniel hears the Jamie confession |
+| The Lost One isn't Miriam | The Lost One | Ep 1 | Jennie: Ep 2 threshold (saw Miriam fall; recognizes the impossible return). Grise: Ep 4 (the hand-sign). Josephine: Ep 6 (from Alice’s reports and Grise’s test). Alice: Ep 7, told by the Lost One just before Nathaniel hears the Jamie confession |
 | Josephine paid Grise to remove the witness | Josephine, Grise | Ep 6 | Jennie: Ep 7 |
 | Grise sold Josephine the rendezvous | Grise, Josephine | Ep 1 (black wax) | Alice: Ep 8, from Jennie |
 | The Hargrave massacre | Eldgard, Ada, Marsh | Ep 8 cold open | Nixon: Ep 8 |
@@ -64,7 +64,7 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Marsh pinches Nixon's chin (Ep 4) | Nixon learns he's his uncle (Ep 9) |
 | The nightmare: a shadow, eyes as limitless as the sky (Ep 2 cold open) | The full 1873 memory (Ep 6) |
 | Nathaniel's unexplained genius (Ep 1) | It was planted (Ep 6), and it opens the pod (Ep 10) |
-| Miriam's last thought is Alice (Ep 1) | Why the Lost One goes to Alice (Ep 2) |
+| Miriam's last thought is Alice (Ep 1) | Why the Lost One gravitates to Alice once Alice finds her (Ep 2) |
 | Nathaniel conceals the suspected Frost Killer from Nixon (Eps 3–5) | Nixon discovers the concealment (Ep 5); Nathaniel hears her account with Alice (Ep 7) and confirms it to Nixon before the raid (Ep 8) |
 | Alice stops Nathaniel restraining the Lost One, then sends her away (Ep 7) | She returns to the Lost One by choice (Ep 8); Nathaniel opposes the child's imprisonment without forgiving Jamie's death |
 | The counting game, "eight posts" (Ep 2 onward) | "Nine is the one where we get up" (Ep 8) |

@@ -25,7 +25,7 @@ Cold opens tell the history in pieces: the crash (Ep 1), Nathaniel's nightmare o
 - **The killer thread, one beat per episode.** This spacing is agreed:
   - Ep 1: Miriam's fall, a figure in the shadows, Jennie watching.
   - Ep 2: Josephine burns her gloves.
-  - Ep 3: Jennie sees "Miriam" alive.
+  - Ep 2 tag: Jennie sees Miriam alive at Alice’s door. Ep 3: she withholds the bridge account.
   - Ep 4: Grise tests "Miriam" with a Vykra hand-sign, sees it fail, and sells her location to Lambrick.
   - Ep 5: Alice reports privately to Josephine.
   - Ep 6: Josephine and Grise ("You were the one holding the knife"). Josephine pays to remove the witness. Grise tells Alice that Miriam drowned their stepfather.
@@ -50,7 +50,7 @@ Cold opens tell the history in pieces: the crash (Ep 1), Nathaniel's nightmare o
 
 ## Open questions
 - **Ep 2:** what the umbrella scene is; who the Duke is (the writer brought him back; he appears at the funeral); the Ep 3 cold open.
-- **After cutting Jamie-alive:** the Ep 2 tag; Byron's role; the Ep 5 title and the Ep 8 arrest lead.
+- **After cutting Jamie-alive:** Byron's role; the Ep 5 title and the Ep 8 arrest lead.
 - **The writer's plot twist**, mentioned but never given. Ask for it.
 - The tag at the end of Ep 9.
 - Josephine's fate after the finale.

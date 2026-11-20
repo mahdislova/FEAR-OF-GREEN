@@ -31,7 +31,7 @@ Full beats live in `episodes/`.
 | Ep | Title | Change | POV | Tag |
 | --- | --- | --- | --- | --- |
 | 1 | The Exhibition | The secret gets out | Nathaniel, Jamie | Nathaniel kneels by Jamie, bleeding out |
-| 2 | The Wake | Two grieving siblings get missions | Alice | Open |
+| 2 | The Wake | Alice brings the girl home; Nathaniel conceals the shard | Alice | Jennie at the door |
 | 3 | The Frost Killer | Nathaniel takes a side | Nixon, Nathaniel | The Lost One: "I know you." |
 | 4 | The Hearing | The light's failure goes public | Lambrick, Tamara, Nathaniel | Eldgard: when the mother dies, use the child |
 | 5 | Open (midseason) | Nixon discovers Nathaniel hid the suspected Frost Killer | Nathaniel | Open |
@@ -51,7 +51,7 @@ Full beats live in `episodes/`.
 
 **The sisters.** Ep 1: the Narrows raid with Jennie, the birthday orange, "Not tonight." Ep 2: Alice gets "Miriam" back. Eps 3–6: closeness. Ep 6: Grise tells Alice Miriam's entry price, their stepfather. **Ep 7, the break:** the Lost One tells Alice that Miriam died; Nathaniel arrives for her account of Jamie's death. Alice stops him restraining the Lost One, then sends her away without forgiving her. "You're not her." **Ep 8 morning:** Alice returns by choice. "Nine is the one where we get up." Ep 10: Alice offers her the ship; she stays.
 
-**The killer (Josephine), one beat per episode.** Ep 1: Miriam falls; a figure in the shadows backs away; Jennie watches. Ep 2: Josephine burns her gloves (the audience knows). Ep 3: Jennie sees "Miriam" alive. Ep 4: Grise's hand-sign test; she sells the location to Lambrick. Ep 5: Josephine summons Alice privately. Ep 6: Josephine and Grise; Josephine pays to remove the witness. Ep 7: the Lost One saves Jennie. Ep 8: after Alice returns, Jennie names Josephine. Alice tells Nathaniel she was hired; Josephine supplies a lead for the arrest. Ep 10: Alice confronts Josephine and spares her.
+**The killer (Josephine), one beat per episode.** Ep 1: Miriam falls; a figure in the shadows backs away; Jennie watches. Ep 2: Josephine burns her gloves; Jennie sees Miriam’s face in Alice’s room. Ep 3: Jennie withholds the bridge account. Ep 4: Grise's hand-sign test; she sells the location to Lambrick. Ep 5: Josephine summons Alice privately. Ep 6: Josephine and Grise; Josephine pays to remove the witness. Ep 7: the Lost One saves Jennie. Ep 8: after Alice returns, Jennie names Josephine. Alice tells Nathaniel she was hired; Josephine supplies a lead for the arrest. Ep 10: Alice confronts Josephine and spares her.
 
 ## Thread grid
 
@@ -61,7 +61,7 @@ Full beats live in `episodes/`.
 | Nathaniel and Nixon | Nixon's empty chair | Nixon home; the keys | Lies both ways | — | First break: Nathaniel hid the suspected Frost Killer | — | Nathaniel hears the confession with Alice | Nathaniel confirms it to Nixon; the raid | Same side, not friends | Changed, not restored |
 | The imprints | The gauntlet he can't explain; the misfire | The nightmare cold open | "I know you" | — | — | Reveal #1: the full 1873 night | — | — | Reveal #2: Morgana sent her | The planted knowledge opens the pod |
 | The sisters | The Narrows; the orange; "Not tonight" | Alice gets "Miriam" back | The first kill; hiding | Closeness | Incomplete Jamie memory | Grise: the stepfather | Identity and Jamie confessed; Alice intervenes, then separates | Alice returns by choice | Her crisis: was love a plan? | Offered the ship; she stays |
-| The killer | The fall; a figure; Jennie watches | Josephine burns her gloves | Jennie sees "Miriam" alive | Grise's hand-sign test | Alice summoned to Harding House | Josephine and Grise; the witness | Jennie saved | Jennie names Josephine after Alice returns; Alice confesses the contract; Guard arrest; transfer to Works | — | Alice spares Josephine |
+| The killer | The fall; a figure; Jennie watches | Josephine burns her gloves; Jennie at the door | Jennie withholds the bridge account | Grise's hand-sign test | Alice summoned to Harding House | Josephine and Grise; the witness | Jennie saved | Jennie names Josephine after Alice returns; Alice confesses the contract; Guard arrest; transfer to Works | — | Alice spares Josephine |
 | The Hargraves | Ada's lamps | Ada and Nixon: "love" | — | Marsh: "Hargrave chin" | — | — | — | The Hargrave pages; "I forgave them" | Ada's death; Nixon flies Marsh out of Newgate; Marsh stops the draw; "Did you love me?" | Nixon holds the Guard for London |
 
 ## Cold opens
