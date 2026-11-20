@@ -49,7 +49,7 @@ Cold opens tell the history in pieces: the crash (Ep 1), Nathaniel's nightmare o
 - Minor new characters: Peg the mudlark (a witness), Moss (Ajax's man).
 
 ## Open questions
-- **Ep 2:** what the umbrella scene is; who the Duke is (the writer brought him back; he appears at the funeral); the Ep 3 cold open.
+- **Ep 3:** the cold open remains open.
 - **After cutting Jamie-alive:** Byron's role; the Ep 5 title and the Ep 8 arrest lead.
 - **The writer's plot twist**, mentioned but never given. Ask for it.
 - The tag at the end of Ep 9.

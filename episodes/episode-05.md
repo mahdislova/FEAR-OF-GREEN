@@ -48,7 +48,7 @@ Hector lets go of the bell. Through the open dining-room door Tamara can see Nix
 
 ### 7. The toast
 
-Tamara stands before the steward can call for quiet. Nathaniel is still chewing when she announces their engagement. Nixon looks up at the sound of her voice. She finishes looking straight at him. He turns to Nathaniel first and squeezes his shoulder exactly as he would have done if the news had made him happy. Nathaniel covers Nixon’s hand with his own. For a moment Nixon has to stand there and let his friend be grateful. When Nathaniel turns to accept the next hand, Nixon gets a moment beside her. “Did you speak to him?”
+Tamara stands before the steward can call for quiet. Nathaniel is still chewing when she announces their engagement. Nixon looks up at the sound of her voice. She finishes looking straight at him. He turns to Nathaniel first and squeezes his shoulder exactly as he would have done if the news had made him happy. Nathaniel covers Nixon’s hand with his own, the answer Jamie taught them in the receiving line. Stay. For a moment Nixon has to stand there and let his friend be grateful. When Nathaniel turns to accept the next hand, Nixon gets a moment beside her. “Did you speak to him?”
 
 “Yes.”
 
