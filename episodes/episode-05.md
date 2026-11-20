@@ -5,7 +5,7 @@
 **Change:** Nathaniel's secret shelter becomes a betrayal in Nixon's eyes. Nixon discovers he has hidden the suspected Frost Killer. **POV:** Nathaniel.
 - At the Works, declining output costs a shift. Getting the men paid forces the engineer to take the loss to Eldgard, who requests district-cut estimates for tomorrow.
 - Grise's sale brings Ajax to Shadwell. Jennie signs a truthful sighting at the Guard office to protect the sisters’ refuge. Nixon receives her account after delivering Ada’s spectacles to Marsh at Newgate.
-- Josephine summons Alice to wait upstairs and report where Nathaniel goes after dinner. The Lost One asks for the workshop to herself. Alice agrees. Nixon hears the public engagement toast. Nathaniel, unaware of Nixon and Tamara’s relationship, tells Alice upstairs afterwards.
+- Josephine summons Alice to wait upstairs and report where Nathaniel goes after dinner. The Lost One asks for the workshop to herself. Alice agrees. Tamara offers to announce the engagement before Hector raises Jamie’s study. In return she gets a seat at the next morning’s Works meeting. Nixon hears her make the toast herself. Nathaniel, unaware of Nixon and Tamara’s relationship, tells Alice upstairs afterwards.
 - Alone, the Lost One sketches the inside of the object from Nathaniel’s exterior drawing. She folds her sketch away. She still cannot account for Jamie’s death.
 - Nixon vouches for Nathaniel's account of the study at dinner. Afterwards Nathaniel shows him the shard voluntarily and admits helping the woman at the market. Nixon asks where she is. Nathaniel refuses. Nixon opens his journal to the first statement and asks him to start again from the moment he opened the study door. This time he writes down the question about Jamie too.
 - Nathaniel stays at Harding House after giving the second statement. Going back to the workshop could lead Nixon to the sisters. Alice returns alone and explains his absence.
@@ -36,9 +36,25 @@ At the Guard office, Ajax waits while Jennie dictates a statement. She gives her
 
 Josephine receives Alice before the guests sit down. She expects Nathaniel to slip out after dinner. She wants to know where he goes. She tells him in passing that Alice is waiting upstairs. Both hear precisely as much of the arrangement as Josephine wants them to hear.
 
+Downstairs, Tamara catches Nixon on his way in. She has come to ask Hector to put off the announcement. Nixon sees her watching the door for her father. “Tomorrow will do,” he says. He gives her hand a brief squeeze and goes in to dinner.
+
+In the little room off the hall, Hector is trying a question under his breath. “Before we go any further, Captain, when Nathaniel gave his account…” Tamara shuts the door. “If you put it like that, Eldgard will think the marriage depends on the answer. He’ll answer for the boy himself.” Hector asks how she would put it. “After the toast. Then you’re his father-in-law asking his friend what happened.” Hector reaches for the bell to cue the steward. She keeps her hand on it. “I’ll do it. I want a chair at the Works meeting tomorrow.”
+
+“You read everything they send me.”
+
+“I know. I’d like to hear what they leave out.”
+
+Hector lets go of the bell. Through the open dining-room door Tamara can see Nixon settling into his place. She could still go over to him.
+
 ### 7. The toast
 
-Nixon hears Nathaniel’s name and Tamara’s in the same sentence. Tamara is looking straight at him. He lets her see that he heard. He turns to Nathaniel first and squeezes his shoulder exactly as he would have done if the news had made him happy. Nathaniel covers Nixon’s hand with his own. For a moment Nixon has to stand there and let his friend be grateful. Then he offers Tamara his congratulations.
+Tamara stands before the steward can call for quiet. Nathaniel is still chewing when she announces their engagement. Nixon looks up at the sound of her voice. She finishes looking straight at him. He turns to Nathaniel first and squeezes his shoulder exactly as he would have done if the news had made him happy. Nathaniel covers Nixon’s hand with his own. For a moment Nixon has to stand there and let his friend be grateful. When Nathaniel turns to accept the next hand, Nixon gets a moment beside her. “Did you speak to him?”
+
+“Yes.”
+
+Hector draws a chair up beside his for the conversation about the Works. Nixon sees him do it. “Congratulations, Tamara.”
+
+She takes the chair.
 
 ### 8. Two drawings
 
