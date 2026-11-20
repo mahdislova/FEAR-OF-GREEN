@@ -3,7 +3,7 @@
 **Cold open:** open (the 1873 fragment moved to Ep 2).
 
 **Change:** Nathaniel takes a side. **POV:** Nixon and Nathaniel.
-- Morning in the Bounds room. Alice asks Jennie what frightened her. Jennie says she thought Miriam was gone and lets Alice hear only that much. With Grise expecting her and the girl unwilling to stay behind, Alice takes her along. At the market the girl follows a simple spoken instruction from Alice for the first time. Her first clear words come in the workshop tag.
+- Morning in the Bounds room. Still in disbelief, Jennie tells Alice to keep it a secret that Miriam is back. Alice asks her why. Jennie can't say, and leaves. With Grise expecting her and the girl unwilling to stay behind, Alice takes her along. At the market the girl follows a simple spoken instruction from Alice for the first time. Her first clear words come in the workshop tag.
 - Before his shift Nixon meets Tamara privately. She embraces him the moment the door closes. He wants to walk her home openly. He asks whether his pay and his place in the household make him someone she can only see here. She loves him. She asks for time to speak to Hector herself. She knows about the Harding arrangement and lets Nixon leave believing the timing is still theirs to choose.
 - The Lost One kills a man who attacks Alice. Her cold, by touch. London names a Frost Killer, and blames Jamie's death on it.
 - Nixon opens the Christmas market gates and puts the Lantern Guard overhead. Alice buys the sisters a way out under the descending paper stars. Ajax hunts too, for Lambrick, who has heard the killer leaves frost like gallowglass.
