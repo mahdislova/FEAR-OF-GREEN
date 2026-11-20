@@ -36,6 +36,7 @@ A ten-episode gothic drama. London, November 1889. The whole city glows green, a
 - The tag at the end of Episode 9.
 - Josephine's fate after the finale.
 - The scale and staging of the ship's damage in Episode 10.
+- The book Miriam stole from the Lambrick Narrows consignment (Ep 1): what it is, and what the Lambricks aren't admitting.
 - The villages frozen in the east (Ep 2): only the cold of a failing light, or something stranger?
 - The chief engineer's name. (His Ep 1 tag scene is cut.)
 - Marsh's arrest date; Nixon's mother's name.
