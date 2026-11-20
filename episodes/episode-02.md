@@ -4,7 +4,7 @@
  
 **Change:** Alice finds her missing sister and discovers she needs to earn her trust. Nathaniel starts an investigation by lying to the friend in charge of it. **POV:** Alice.
 - On the day of Jamie’s funeral the Lost One comes out of the river mute. Alice has spent the intervening days looking for Miriam.
-- Letters from the darkened east interrupt the convoy. The Duke honours Jamie; the Lanterns lower their crystal lights. Nixon returns to Nathaniel under the mended umbrella. At the wake Tamara persuades Hector to move his coal east. Ajax sends Moss to the market after the stolen Narrows cargo.
+- Letters from the darkened east interrupt the convoy. The Duke honours Jamie; the Lanterns lower their crystal lights. Nixon returns to Nathaniel under the mended umbrella. Tamara persuades Hector and Ajax to wait for a Harding coal order.
 - Two children and a frightened gang give Alice a trail. Miriam’s fighting reflex survives in a body the Lost One is still learning to use.
 - Alice brings her home. Ren offers a provisional explanation for the silence and memory loss. The girl chooses Alice for company.
 - Nathaniel keeps the shard. Nixon records his friend’s account and accepts Eldgard’s keys. Tamara and Nixon steal a minute together at the wake.
@@ -39,11 +39,11 @@ Nathaniel stays while the chairs are folded. Rain stops hitting his collar. Over
 
 Local boys see a soaking woman who cannot tell them whose coat she is wearing. One blocks the passage. Another catches her sleeve. Before she has found a word he is on the flags, winded, and she is standing exactly as Miriam would stand after a throw. She studies her hands. His friends start toward her. She runs. No frost; everyone gets back up.
 
-### 7. The carriers at the wake
+### 7. The scullery fire
 
-Three coal carriers are eating standing up in the service yard, hats under their arms. Each owns his horses. All three have come on their own time to ask Hector where they should send tomorrow’s loads. He keeps them waiting while Ajax shows him the broken tally from the smuggled Narrows consignment. Ajax wants the market receivers hauled in tonight. Tamara asks him which receiver he expects to open for business after the first arrest. Leave them open and whoever took the load will come looking for a buyer. Hector gives Ajax until tomorrow. Ajax sends Moss, who knows the Narrows thieves by sight, to the covered market.
+The Harding radiators have barely warmed the wake room. Tamara gets an elderly guest a seat at the scullery grate. In the yard Ajax brings Hector the broken Lambrick tally from the Narrows consignment the Vykra hit. The family paid for the cargo; the warehouse loss comes out of their pocket. Ajax wants to call in their coal buyers today, while the Hardings are answering for the dark and the Guard is at a funeral. Hector asks what price he could get by supper.
 
-Hector calls the carriers over. Tamara has heard which eastern towns are losing their light. At her suggestion Hector names one eastern siding for all three loads. One carrier points out that he’s promised his team elsewhere. Hector offers to cover the broken hire and asks what time the man can be at the siding. Six. The other two can make five. Hector settles their accounts here among the dirty plates. By the time the bells finish, three men with their own names painted on their wagons are carrying out the same order.
+Tamara points to the woman from the convoy. She has come around to the service door to buy one scuttle. If Hector puts up the price today, by supper she’ll remember what the Lambricks charged her. If the house asks them for fuel, Eldgard himself will have to acknowledge what it’s worth. Hector studies the cold grate in the public room. He tells Ajax to leave the price alone. A minute later the Harding steward comes out to ask if their cart can spare a load. Hector lets Tamara take the order. The driver carries coal in through the front doors.
 
 ### 8. Alice finds her
 
@@ -61,7 +61,7 @@ Dry clothes, a towel, too many questions. Alice first takes the silence for Miri
 
 ### 11. Nixon and Tamara, service yard
 
-Tamara is writing out the carriers’ new destinations. Nixon sets his cold tea beside her ledger. She has noticed his hands shaking since he came in from the east. She pours him a fresh cup, closes her fingers over his around it and waits until he can hold it steady. He asks if she’ll be here tomorrow. She gives him a time before his shift. At the sound of a returning carrier she lets go. “Your tea, Captain.”
+Tamara is signing the steward’s coal order. Nixon sets his cold tea beside her ledger. She has noticed his hands shaking since he came in from the east. She pours him a fresh cup, closes her fingers over his around it and waits until he can hold it steady. He asks if she’ll be here tomorrow. She gives him a time before his shift. At the sound of the returning driver she lets go. “Your tea, Captain.”
 
 ### 12. Ren’s rooms
 

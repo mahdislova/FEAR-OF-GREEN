@@ -72,7 +72,7 @@ The history, told in pieces.
 | --- | --- |
 | 1 | c. 1780. The crash in the Harding woods. Alistair's lantern finds a hand in the wreck. |
 | 2 | Nathaniel as a boy: a shadow, eyes as limitless as the sky, a shriek. A nightmare. |
-| 3 | The coal teams reach the eastern siding. |
+| 3 | Open. |
 | 4 | The deal. Morgana teaches; Alistair: "You have my word." |
 | 7 | The Bounds girls under the bed, counting. A belt buckle. |
 | 8 | Hargrave freezes in one night. A child survivor in Alistair's coat. |
