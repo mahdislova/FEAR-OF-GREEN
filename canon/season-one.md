@@ -19,7 +19,7 @@ The audience's pleasure: an investigation, a forbidden intimacy, and dread that 
 | 1 | 1 | **The secret gets out.** The child escapes, Jamie falls, Miriam dies. | Ep 2 is the wake: grief before plot. |
 | 2 | 3 | **Nathaniel takes a side without knowing it.** He shelters the Frost Killer. | Eps 3–4: the lie to Nixon grows slowly. |
 | 3 | 5 | **The suspected killer is in the house.** Nixon discovers Nathaniel has hidden the Frost Killer, whom London blames for Jamie's death. Neither man yet has her confession. | Ep 6 absorbs the break with Nixon before the joint revelation in Ep 7. |
-| 4 | 6–7 | **The light kills again.** The East End is cut and freezes; Hargrave repeats. Alice and Nathaniel learn together who wears Miriam's face and what happened to Jamie. Alice protects the Lost One from capture, then sends her away. | Ep 7 needs room for the frozen streets, the joint confrontation and its aftermath. |
+| 4 | 6–7 | **The light kills again.** Cutting the East blows apart Gin Lane and leaves the surviving streets to freeze. Alice and Nathaniel learn together who wears Miriam's face and what happened to Jamie. Alice protects the Lost One from capture, then sends her away. | Ep 7 needs room for the frozen streets, the joint confrontation and its aftermath. |
 | 5 | 8 | **The child is taken.** Everyone has to pick a side. | Ep 9 opens on Ada's death; Nixon carries it all episode. |
 
 Episodes 9 and 10 cash out the five changes. No new mythology after Episode 8.
@@ -35,7 +35,7 @@ Full beats live in `episodes/`.
 | 3 | The Frost Killer | Nathaniel takes a side | Nixon, Nathaniel | The Lost One: "I know you." |
 | 4 | The Hearing | The light's failure goes public | Lambrick, Tamara, Nathaniel | Eldgard: when the mother dies, use the child |
 | 5 | Open (midseason) | Nixon discovers Nathaniel hid the suspected Frost Killer | Nathaniel | Open |
-| 6 | The Remembering | Nathaniel learns what his father did to him | Nathaniel, Byron | The East End goes dark |
+| 6 | The Remembering | Nathaniel learns what his father did to him | Nathaniel, Byron | The Gin Lane block explodes |
 | 7 | The Girl Who Isn't | Alice and Nathaniel learn the Lost One's truths together; Alice stops Nathaniel | Alice | Alice lets the Lost One go |
 | 8 | The Wedding | The child is taken | Nixon | Morgana: "My child." |
 | 9 | The Break-out | The truth is spoken aloud | Nixon, the Lost One | Open |
@@ -57,12 +57,12 @@ Full beats live in `episodes/`.
 
 | Thread | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| The light | Initiation; the ornament breaks | Frozen villages in the east | — | The failure goes public; "use the child" | — | Byron: a woman in a pod; East End cut | The East End freezes | The Lost One taken to the pod | Storming the Works | Morgana freed; the ship; Lambrick wins |
+| The light | Initiation; the ornament breaks | Frozen villages in the east | — | The failure goes public; "use the child" | — | Byron: a woman in a pod; East End cut | Gin Lane’s dead; Byron survives and bears witness | The Lost One taken to the pod | Storming the Works | Morgana freed; the ship; Lambrick wins |
 | Nathaniel and Nixon | Nixon's empty chair | Nixon home; the keys | Lies both ways | — | First break: Nathaniel hid the suspected Frost Killer | — | Nathaniel hears the confession with Alice | Nathaniel confirms it to Nixon; the raid | Same side, not friends | Changed, not restored |
 | The imprints | The gauntlet he can't explain; the misfire | The nightmare cold open | "I know you" | — | — | Reveal #1: the full 1873 night | — | — | Reveal #2: Morgana sent her | The planted knowledge opens the pod |
 | The sisters | The Narrows; the orange; "Not tonight" | Alice gets "Miriam" back | The first kill; hiding | Closeness | Incomplete Jamie memory | Grise: the stepfather | Identity and Jamie confessed; Alice intervenes, then separates | Alice returns by choice | Her crisis: was love a plan? | Offered the ship; she stays |
 | The killer | The fall; a figure; Jennie watches | Josephine burns her gloves | Jennie sees "Miriam" alive | Grise's hand-sign test | Alice summoned to Harding House | Josephine and Grise; the witness | Jennie saved | Jennie names Josephine after Alice returns; Alice confesses the contract; Guard arrest; transfer to Works | — | Alice spares Josephine |
-| The Hargraves | Ada's lamps | Ada and Nixon: "love" | — | Marsh: "Hargrave chin" | — | — | — | The Hargrave pages; "I forgave them" | Ada's death; Marsh freed; "Did you love me?" | Nixon holds the Guard for London |
+| The Hargraves | Ada's lamps | Ada and Nixon: "love" | — | Marsh: "Hargrave chin" | — | — | — | The Hargrave pages; "I forgave them" | Ada's death; Nixon flies Marsh out of Newgate; Marsh stops the draw; "Did you love me?" | Nixon holds the Guard for London |
 
 ## Cold opens
 

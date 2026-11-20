@@ -9,6 +9,7 @@
 - The wedding. Nixon hands Tamara the ring properly. Tamara has cracked Alistair's book and gives Nixon the Hargrave pages.
 - Nixon to Ada: "Did you know?" "Forgive them? Love, I forgave them before you were born."
 - At the altar Nathaniel learns she's been taken, and says "I will" anyway, because the East is freezing. Once he learns Eldgard intends to put her in the pod, he leaves the wedding breakfast to get her. He has not excused Jamie's death: his choice is that grief cannot justify condemning a child to the captivity that is killing her mother.
+- In the Hargrave pages Nixon recognizes Marsh’s boyhood duty at the Works draw room. Nathaniel needs a way inside before the next draw. Nixon sends him and Alice to the old freight terminus and lays out his papers for the first upland prison train. Ada sees the timetable and his transfer papers. She understands what he is going to do.
 - **Tag:** the Lost One in the Works, face to face with her mother's pod. Morgana: "My child."
 
 ## Scenes

@@ -14,7 +14,7 @@
 
 ### 1. The men on the night shift
 
-At shift change in the Works, the chief engineer hands the incoming foreman a sheet with the figures from yesterday’s hearing. A second sheet, for actual use, has a lower figure. The foreman asks which one he is supposed to spend. A bank of workers stands waiting to start the presses. The engineer orders them left idle and signs for the lost shift himself. The hearing was yesterday. Today people go home without wages.
+At shift change in the Works, the chief engineer hands the incoming foreman a sheet with the figures from yesterday’s hearing. A second sheet, for actual use, has a lower figure. The foreman asks which one he is supposed to spend. A bank of workers stands waiting to start the presses. The engineer orders them left idle and signs for the lost shift himself. Before the foreman isolates the press he waits for the green to bleed away. An apprentice reaches too soon. The foreman shows him the split in the old crystal housing. On a press it costs a finger. Below Gin Lane a whole block shares one housing. The hearing was yesterday. Today people go home without wages.
 
 ### 2. What Grise sold
 
@@ -22,7 +22,7 @@ Ajax comes to the Shadwell laundry to collect on Hector’s purchase. Grise give
 
 ### 3. A prisoner reads the paper
 
-Before the family dinner Nixon makes the gaoler open Marsh’s cell and delivers Ada’s spectacles as promised. Marsh asks to borrow the captain’s newspaper. With the glasses on, he can finally read yesterday’s hearing for himself. He asks Nixon to leave him the page with the district figures. Nixon does. Outside, the gaoler records the gift under Nixon’s name. A small visit has made their acquaintance a matter of record.
+Before the family dinner Nixon makes the gaoler open Marsh’s cell and delivers Ada’s spectacles as promised. Marsh notices Works grit in the newspaper fold. As a boy he carried those same returns up from the draw room in a Hargrave servant’s apron. Nixon lends him the paper. With the glasses on, he can finally read yesterday’s hearing for himself. He asks Nixon to leave him the page with the district figures. Nixon does. Outside, the gaoler records the gift under Nixon’s name. A small visit has made their acquaintance a matter of record. Back at Harding House, Byron chips his ring carrying in a tray. Eldgard turns the old green stone toward Byron’s palm, the way it sat when he gave it to him. Byron wears it to finish the service.
 
 ### 4. The workshop, before dinner
 

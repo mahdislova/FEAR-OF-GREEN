@@ -73,3 +73,8 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Jennie rides the Narrows raid with Miriam and Alice (Ep 1); witnesses the bridge | She tells Alice: Josephine (Ep 8, after Alice returns) |
 | Morgana: "Where is my child?" (Ep 1) | "My child." (Ep 8 tag) |
 | Alistair: "You have my word." (Ep 4 cold open) | He closes the pod (Ep 10 cold open) |
+
+## Gin Lane and the Works approach
+
+- Ep 5 establishes the isolation fault, Byron’s gift and Marsh’s boyhood service. Ep 6 ends on the shield. Ep 7 follows Byron out of it and into the relief effort.
+- Ep 8 gives Nixon a reason to seek Marsh before Ada confronts him. Ep 9 confirms the kinship and the cleaning shutdown in Marsh’s own words. Marsh halts extraction. Ep 10 frees Morgana and ends the light.

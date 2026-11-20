@@ -58,6 +58,10 @@ Eldgard traps it in an **ornament**, a piece of the ship's containment, and mesm
 ## What gallowglass does
 - Burned in lamps and furnaces, it gives a green-white light and steady heat. **The Ring**, London's lamp grid, carries it under every street.
 - The Works can cut the Ring district by district. In Episode 6 Eldgard cuts the East End to keep the West lit.
+- Green trapped in a loaded branch becomes unstable after abrupt isolation. Damaged common housings put an entire block at risk. Safe draw-down takes time. The Gin Lane blast follows a deliberate decision to spend that time keeping the West lit.
+- Eldgard gave Byron a Harding protection ring. A surge crystallizes its stone into a close shell around its wearer. The spent shell crumbles. The ring protects one person once.
+- Newgate is London's mountain prison, served by an upland railway. A dropping transfer tower and a moving stair link its cliff galleries. Lantern patrol wings can glide to the valley freight line. Guard crystal bombs flower into temporary barriers.
+- The cleaning wheel in the Works draw room stops extraction for servicing. Reserves briefly carry the load. The captives remain in place until the pod is opened.
 - Ground to dust it becomes **glim**, the undercity's drug. Users hear **the Weeping**: a woman crying under the hum. It is Morgana in the pod. *(Carried over from the old bible; re-review when scenes are written.)*
 
 ## Factions
