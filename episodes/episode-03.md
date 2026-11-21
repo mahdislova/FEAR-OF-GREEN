@@ -2,9 +2,16 @@
 
 **Cold open:** open (the 1873 fragment moved to Ep 2).
 
+**In short:** The girl's cold breaks out at the market and London names a Frost Killer. Nathaniel hides the sisters and sends Nixon's search to the wrong street.
+
 **Change:** Nathaniel takes a side.
+
 **Foreground:** The Frost Killer: the market outburst, the hunt, Nathaniel hiding the sisters.
+
 **Background:** Alice playing Grise; Hector pays the widows; Eldgard names the monster; Nixon and Tamara.
+
+**Not in this episode:** Josephine, Ada, Marsh, Byron, Morgana.
+
 - Morning in the Bounds room. Still in disbelief, Jennie tells Alice to keep it a secret that Miriam is back. Alice asks her why. Jennie can't say, and leaves. Grise swore Miriam ran off and left her; Miriam is in Alice's bed. Grise lied.
 - Alice leaves the girl with Ren and goes to the laundry alone. She plays the grieving initiate and takes her first envelope: Nathaniel Harding. "Any word of my sister?" "Still gone, love." Now Alice knows Grise is lying to her face, and Grise doesn't know she knows. She says nothing. She takes the job to stay inside long enough to learn what Grise had to do with the bridge.
 - The girl slips away from Ren the way a child slips a sitter, pulled toward Alice. She finds her at the market, where Alice is stalking Nathaniel. Alice yelps, "Hey, what are you doing here?" The girl holds up her hand: "Food." At the market the girl follows a simple spoken instruction from Alice for the first time. Her first clear words come in the workshop tag.

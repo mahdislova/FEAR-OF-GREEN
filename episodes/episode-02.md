@@ -2,9 +2,16 @@
 
 **Cold open:** Five-year-old Nathaniel gets out of bed. Something slips into his room. He sees eyes as limitless as the sky. A shriek wakes him.
  
+**In short:** Jamie's funeral. Lied to by Grise, Alice takes the oath her sister fought, then finds "Miriam" mute on the river steps and brings her home. Nathaniel pockets the shard and lies to Nixon.
+
 **Change:** With Miriam missing, Alice takes the oath her sister always opposed. Hours later she finds her and has to earn her trust. Nathaniel starts an investigation by lying to the friend in charge of it.
+
 **Foreground:** Alice: Grise's lie, the oath, finding the girl from the river.
+
 **Background:** Jamie's funeral and the wake; Nathaniel lies to Nixon; the Duke's word; Josephine hires Grise.
+
+**Not in this episode:** Marsh, Byron, Morgana, the chief engineer.
+
 - On the day of Jamie’s funeral the Lost One comes out of the river mute. Alice has spent the intervening days looking for Miriam.
 - Grise, who knows Miriam is dead, tells Alice her sister ran off and left her, and offers her the knot. Jennie watches Alice swear at the laundry. Grise tells Alice to collect her gloves in the morning.
 - **The Duke's word.** Before the service, in the vestry, Eldgard asks his old friend to tell the Lords the eastern failures are a fault in the lines, temporary, being mended. "You're asking me to be wrong in public, so you don't have to be." "Will you?" "For Jamie. Not for the light." Two hours later the same Duke privately asks Hector about coal: we know what Hector doesn't yet.

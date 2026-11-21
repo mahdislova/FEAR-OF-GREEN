@@ -2,9 +2,16 @@
 
 **Cold open:** None. Straight in.
 
+**In short:** At the family dinner Nathaniel admits to Nixon that he helped the woman at the market, and refuses to give her up. Nixon hands Eldgard the journal.
+
 **Change:** Nathaniel's secret shelter becomes a betrayal in Nixon's eyes. Nixon discovers he has hidden the suspected Frost Killer.
+
 **Foreground:** Nathaniel and Nixon: the dinner, the admission, the journal.
+
 **Background:** Jennie's sighting; Josephine summons Alice; the Lost One's sketch; Tamara's bargain and the toast.
+
+**Not in this episode:** Morgana.
+
 - At the Works, declining output costs a shift. Getting the men paid forces the engineer to take the loss to Eldgard, who requests district-cut estimates for tomorrow.
 - Grise's sale brings Ajax to Shadwell. Jennie signs a truthful sighting at the Guard office to protect the sisters’ refuge. Nixon receives her account after delivering Ada’s spectacles to Marsh at Newgate.
 - Josephine summons Alice to wait upstairs and report where Nathaniel goes after dinner. The Lost One asks for the workshop to herself. Alice agrees. Tamara offers to announce the engagement before Hector raises Jamie’s study. In return she gets a seat at the next morning’s Works meeting. Nixon hears her make the toast herself. Nathaniel, unaware of Nixon and Tamara’s relationship, tells Alice upstairs afterwards.

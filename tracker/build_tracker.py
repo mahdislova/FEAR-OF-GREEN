@@ -61,11 +61,13 @@ for p in sorted(glob.glob(os.path.join(ROOT, "episodes", "episode-*.md"))):
     change = re.search(r"\*\*Change:\*\*\s*(.+?)\n", head)
     fg = re.search(r"\*\*Foreground:\*\*\s*(.+)", head)
     bg = re.search(r"\*\*Background:\*\*\s*(.+)", head)
+    short = re.search(r"\*\*In short:\*\*\s*(.+)", head)
+    absent = re.search(r"\*\*Not in this episode:\*\*\s*(.+)", head)
     beats = [(l[2:] if l.startswith("- ") else "↳ " + l.strip()[2:]) for l in head.split("\n") if l.startswith("- ") or l.startswith("  - ")]
     scenes = t.split("## Scenes", 1)[1].strip() if "## Scenes" in t else ""
     has_scenes = bool(re.search(r"^### ", scenes, re.M))
     eps.append(dict(title=title, cold=cold.group(1).strip() if cold else "", change=change.group(1).strip().rstrip(".") if change else "",
-                    fg=fg.group(1).strip() if fg else "", bg=bg.group(1).strip() if bg else "", beats=beats, has_scenes=has_scenes))
+                    fg=fg.group(1).strip() if fg else "", bg=bg.group(1).strip() if bg else "", short=short.group(1).strip() if short else "", absent=absent.group(1).strip() if absent else "", beats=beats, has_scenes=has_scenes))
 
 # cast
 cast = []
@@ -112,7 +114,7 @@ footer{color:var(--muted);font-size:13px;border-top:1px solid var(--line);paddin
 """
 
 ep_html = "".join(f"""<article class="ep" id="ep{n}"><div class="num">Episode {n}</div><h3>{inline(e['title'].split(' — ',1)[-1])}{'<span class="tag">scenes in progress</span>' if e['has_scenes'] else ''}</h3>
-<p class="meta"><b>Change:</b> {inline(e['change'])}</p><p class="meta"><b>Foreground:</b> {inline(e['fg'])}</p><p class="meta"><b>Background:</b> {inline(e['bg'])}</p><p class="meta"><b>Cold open:</b> {inline(e['cold'])}</p>
+<p>{inline(e['short'])}</p><p class="meta"><b>Change:</b> {inline(e['change'])}</p><p class="meta"><b>Foreground:</b> {inline(e['fg'])}</p><p class="meta"><b>Background:</b> {inline(e['bg'])}</p><p class="meta"><b>Not in this episode:</b> {inline(e['absent'])}</p><p class="meta"><b>Cold open:</b> {inline(e['cold'])}</p>
 <ul>{''.join(f'<li>{inline(b)}</li>' for b in e['beats'])}</ul></article>""" for n, e in enumerate(eps, 1))
 cast_html = "".join(f"<div><b>{inline(n)}</b>{inline(f)}</div>" for n, f in cast)
 today = datetime.date.today().isoformat()

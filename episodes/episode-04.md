@@ -2,9 +2,16 @@
 
 **Cold open:** The deal. Morgana teaches; Alistair: "You have my word."
 
+**In short:** Lambrick takes the light's failure to Parliament and breaks the Duke in public. Grise tests "Miriam". Eldgard decides that when the mother dies, they use the child.
+
 **Change:** the light's failure goes public.
+
 **Foreground:** The hearing: Lambrick's attack, the Duke broken, Tamara's move.
+
 **Background:** Nathaniel and Alice match the shard; Grise's test; Nixon at Newgate.
+
+**Not in this episode:** Byron.
+
 - Lambrick attacks the Harding Charter in Parliament with yield figures smuggled out by the Works' chief engineer. The lamps flicker in the chamber on cue.
 - **The Duke keeps his word** and tells the Lords it's a fault in the lines. Hector asks him one question: "Your Grace, how many days did you tell your sister to lay in?" The Hardings' most respected witness is broken in public, and so is a friendship.
 - Tamara at the hearing: the codebreaker, the engagement as a merger on both sides.
