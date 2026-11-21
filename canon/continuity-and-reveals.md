@@ -50,7 +50,7 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | "Miriam" is back | Alice, Ren, Jennie | Ep 2 | Grise: Ep 3, from the street after the market |
 | Grise sold Josephine the rendezvous | Grise, Josephine | Ep 1 (black wax) | Alice: Ep 8, from Jennie |
 | Eldgard learns Nathaniel is hiding the market woman, and that Jamie was alive when Nathaniel reached him | Nathaniel, Nixon | Ep 5 tag | Eldgard: Ep 5 (Nixon's journal) |
-| Josephine knows the girl she hired is Miriam's sister | Josephine, Grise | Ep 2 | Alice: never told; she learns Josephine killed Miriam in Ep 8 |
+| Josephine knows the girl she hired is Miriam's sister | Josephine, Grise | Ep 2 | Alice: open (she learns Josephine killed Miriam in Ep 8; whether and when she learns Josephine hired her knowingly is open) |
 | Eldgard named the Frost Killer | Eldgard, Nixon | Ep 3 | Nathaniel: open |
 | The Duke privately expects the light to fail | The Duke, Hector | Ep 2 | London: Ep 4 (the hearing) |
 | The Hargrave massacre | Eldgard, Ada, Marsh | Ep 8 cold open | Nixon: Ep 8 |
