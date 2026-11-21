@@ -1,84 +1,147 @@
-# Tamara Lambrick: the arc (pitch)
+# Tamara Lambrick: the arc, v2 (pitch)
 
-**Status:** pitch, not canon. Built on what's already in canon (the tally in Ep 2, Nixon's tea, the widows' ledger, the bargain for a seat and the toast in Ep 5, the Works meeting and the runner in Ep 6, the ring and the pages in Ep 8, the depots in Ep 10) and joined into one active arc.
+**Status:** pitch, not canon. This replaces v1, which the writer found too generic: it had the steps but not the conflict, the cunning, or Tamara's relationships with the other leads.
 
-## The diagnosis
+## What the *Arcane* room says about building a character like this
 
-Tamara keeps being right in rooms where nobody listens: she reads the Duke before her father does, asks when the East comes back on, and tries to clear the washhouse. But she's still a **reactor**. Her father makes the deals, Eldgard sets the terms of her marriage, and the Harding book she cracks in Ep 8 arrives from nowhere, because the story never gives her access to it. She has a want (to be the heir, not the currency) and a love (Nixon), but the two never collide in a decision that costs her.
+From interviews with Christian Linke, Alex Yee and Amanda Overton (sources at the end). These are the principles this version is built on:
 
-## The engine
+1. **Character first.** Linke: what people actually respond to is the characters. The plot serves the relationships, not the other way round.
+2. **The best relationships reach across a divide.** Yee: the most exciting pairings are the ones where two characters have to reach across a divide. Their world shapes who they become, and that's where the friction is.
+3. **Entwine them so deeply that only a wound can split them.** Yee on the sisters: they had to be so close that only something that traumatic could drive a wedge between them. Closeness has to be *earned on screen* before the break.
+4. **Ideals against family, with a cost.** Linke on Silco and Vander: Vander put family above the cause; Silco told himself his people's cost didn't matter as long as he reached his goal. Every major character sits somewhere on that line.
+5. **Betraying home.** Linke on Vi: the hardest thing for her was feeling like a traitor to her own home. Ambition that requires betraying where you come from is the richest kind.
+6. **Know the ending first.** The creators say Vi and Jinx's final scene stayed unchanged for six years and guided the whole series. Overton on Mel: "We always knew that Mel would be a mage, and she would have this arc." Fix Tamara's last image, and build backward.
+7. **Find something personal, and let them surprise you.** Overton: find something personal in every character. Linke: the most interesting characters do things that take you by surprise. Mel, Overton says, was warm under a hard shell.
 
-**Want:** power of her own: a seat, the books, the heat. Not her father's approval; his position.
-**The lie she believes:** if she proves her worth, they'll have to make room for her.
-**The truth she learns:** nobody makes room. You take the room, and it costs you the people who loved you before you had it.
-**Her stance on the season's question ("is keeping someone the same as loving them?"):** she wants to keep both: the power and Nixon. She tries to keep Nixon the way the Hardings keep everything, and he's the one person in London who can't bear to be kept again.
+**Tamara's closest *Arcane* parallel is Mel Medarda:** a political mind raised by a brutal parent, in love across a line she can't cross in public, warm under the armour. **Her dynamic with Eldgard borrows from Silco and Jinx:** the first powerful adult who *sees* her, and the most dangerous thing that could happen to her.
 
-**What makes her Cersei, with nuance:** she's ruthless in service of things that are often *right*. Heat for the East, warning the washhouse, freeing the prisoner in the pod. The audience agrees with her ends and flinches at her means, and in Ep 10 she's the only person in the show who wins.
+---
+
+## The spine
+
+**Fixed final image (built backward from this):** Ep 10. The frozen East End in the dark. Tamara stands on a Lambrick coal cart, handing out coal under her own name, every family by name from a list she copied in Ep 3. Across the street, Nixon leads the Guard. They see each other. Neither crosses.
+
+**Want:** a seat at the table that nobody can take back. Not her father's approval: his position.
+**The lie she believes:** if she proves her worth, they'll make room for her.
+**What she learns:** nobody makes room. You take it, and it costs you everyone who loved you before you had it.
+**Something personal (Overton's rule):** she has never once been *seen* by a man with power. She's been valued, priced, admired, but never seen. The first person who sees her is the most dangerous man in London.
+**Warm under the shell:** with Nixon, and only Nixon, she's a girl who laughs.
+**On the season's question:** she tries to keep both the power and the man. He's the one person who will not be kept again.
+
+---
+
+## Her four relationships
+
+### Nixon: the lovers across the divide
+A coal heiress and a kept servant's son with an officer's rank on Harding money. Following Yee's rule, **they're so entwined early that only a betrayal can split them.** Their shared private thing: she taught him a cipher, and he writes to her in the margins of his own reports. Arc: secret joy (Eps 2–3) → her public choice of power (Ep 5) → she authors the marriage (Ep 7) → the ask he refuses (Ep 8) → across the street (Ep 10).
+
+### Eldgard: the man who sees her
+Linke's Silco and Jinx. **Eldgard is the first man who sees what she is,** and he sees an heir. His own sons failed him: Jamie is dead, Nathaniel is rebellious. In his daughter-in-law he recognises his own mind. He grooms her, and she's seduced by being seen. It's the most dangerous relationship she has, because it's the one that feels like love.
+
+### Nathaniel: rivals for one father, then allies, then betrayed
+They're both currency in the same merger. Nathaniel watches his father look at Tamara the way he's never looked at him: the spare son against the brilliant daughter-in-law. That's resentment first. After the hand and the confession, an honest pact of allies (Ep 7). Then she breaks it (Ep 9).
+
+### Hector: the father she overthrows
+Vi's betrayal of home, turned ambitious. Every move she makes for herself is made against him, using his own methods.
 
 ---
 
 ## Episode by episode
 
-### Ep 1: The Exhibition. *She asks about the absent man.*
-At the Exhibition, being "very polite for forty years" with Nathaniel, she asks one question nobody else does all night: when is Captain Hargrave back from the east? Nathaniel doesn't know. She does: Tuesday. **Purpose:** it plants the love before we know it exists, in a room where Nixon's empty chair has already told us his status. One line, no shoehorn: she's already in the scene.
+### Ep 1: *The only one who doesn't laugh*
+At the Exhibition, when Nathaniel's gauntlet misfires, two hundred people laugh. **Tamara doesn't.** She watched the valve, and afterwards she tells him exactly which turn of his spiral failed. She's a codebreaker; she reads patterns. He's stunned: she's right, and nobody else in the room even understood the machine. Then, lightly, the only question nobody else asks all night: when is Captain Hargrave back from the east? "Tuesday," she answers herself. **Purpose:** she enters as Nathaniel's intellectual equal and Nixon's secret, in one scene that already exists.
 
-### Ep 2: The Wake. *She's right first; her father acts.* (canon, sharpened)
-She reads the Duke's question before Hector does, and it's her pen that writes the hour on the tally. Hector gets the conclusion and the decision; she gets the scrap of wood. **Purpose:** it sets up her grievance in one image: her mind, his credit. The tea with Nixon stays as written: the one place she's soft.
+### Ep 2: *Eldgard notices*
+She reads the Duke's question before her father does, and takes the tally from Ajax's hand (canon). **Eldgard sees her do it,** from across the wake room. Later, passing her with a cup of tea: "Your father has a clever daughter. Does he know?" She has no answer. Nobody has ever said that to her. Then the tea with Nixon (canon): his shaking hands steadied by hers, the warmest thing in the episode. **Purpose:** two men, two kinds of being seen. One loves her. One recognises her.
 
-### Ep 3: The Frost Killer. *She keeps the list.*
-On Gin Lane she holds the ledger while her father pays the widows (canon). Add one action: that night she copies the names into her own book. Every family, every address. **Purpose:** it's a long fuse. In Ep 10 this list is how she takes the East from her father. And the letter in her glove with Nixon (canon) is her first choice of power over love: she doesn't tell him.
+### Ep 3: *The list*
+The embrace with Nixon, the letter in her glove she doesn't show him (canon): her first choice of power over love, in silence. Then Gin Lane at dawn: she holds Hector's ledger while he pays the widows (canon). **That night she copies every name and address into her own book.** Nobody asked her to. **Purpose:** the fuse for her Ep 10 coup, and the first sign she's building something of her own.
 
-### Ep 4: The Hearing. *Her move, his applause.*
-She's the one who decoded the engineer's ciphered figures, and the one who hands her father the Duke question from her tally note. Hector asks it in Parliament and breaks the Duke; the chamber applauds him. She watches from the gallery. **Purpose:** it's the last time she lets him take credit. It motivates Ep 5's bargain from inside her, rather than from plot.
+### Ep 4: *She sells her father's source to his enemy*
+This is the move that makes her dangerous. She decoded the chief engineer's ciphered figures for her father, and the figures win Hector the hearing. From the cipher's style and the Works terms in it, **she knows who leaked them.** After the hearing, she goes to Eldgard privately and gives him the leaker's name.
 
-### Ep 5: The Toast. *She sells her own engagement.* (canon)
-She bargains her toast for a seat at the Works meeting. Keep it exactly. Add one clause to the bargain: **the right to the Harding library as part of the settlement.** Hector thinks it's a bride's vanity; it's the book. **Purpose:** it solves the "book from nowhere" problem in canon: she gets access by asking for it, in a scene that already exists.
+Her price: **the Harding library.** "A bride's curiosity," she calls it. Eldgard agrees, smiling. He believes Alistair's cipher is unbreakable; three generations of Hardings have failed at it. He has just underestimated her, and so has the audience.
 
-### Ep 6: The Remembering. *She's right, and it isn't enough.*
-At the Works meeting (canon) she asks when the East comes back on, and argues for draining the Gin Lane branch before the cut. Eldgard's triage is defensible, and he overrules her. She sends the runner herself (canon). It arrives too late. **Add:** that night, in the Harding library, she's working on Alistair's cipher by one lamp. Ada brings her tea, sees which book is open, and says nothing. **Purpose:** we see the book being cracked over time, and Ada becomes afraid, which sets up Ada's "Did you know?" in Ep 8 and her alarm in Ep 9.
+> **ELDGARD:** Why tell me?
+> **TAMARA:** Because my father would have used it once. You'll use it for years.
 
-### Ep 7: The Girl Who Isn't. *She writes her own marriage.*
-**This is the change that makes her a player.** In canon the coal-for-marriage terms are Eldgard's. Instead, **Tamara brokers it.** With Gin Lane dead and the East freezing, she goes to Eldgard with her father's coal and her own terms: coal to the East tonight, the wedding on Saturday, and the library as the bride's right. Then she goes to Hector and tells him it's done. Both fathers think the other one blinked. Nathaniel's "Tell my father yes" now agrees to *her* deal.
+**Purpose:** it's cunning visible from a mile away, as the writer asked. She betrays her father's best asset to her father's rival for access to the one thing nobody thinks she can use. It's double-dealing between the two fathers. **It solves the "book from nowhere" problem with a deal.** And Eldgard now knows his engineer is a traitor, and keeps him on to use him, which plays as dread under every engineer scene that follows.
 
-Nixon learns it was her doing. **The first real fight:**
+### Ep 5: *Two men at the toast*
+The bargain with Hector and the toast (canon): she chooses power over Nixon in public. Keep it exactly. **Add the second look:** as the toast ends, Eldgard raises his glass to her alone. Nathaniel sees it. His father looks at her the way he has never looked at him. Nixon sees it too, and understands something worse: she isn't being sold, she's being chosen. **Purpose:** in one shot, Tamara's choice costs her Nixon and makes her Nathaniel's rival, both through a look from Eldgard.
+
+### Ep 6: *Right, and it isn't enough*
+At the Works meeting (canon) she asks when the East comes back on, and argues for draining Gin Lane's branch first. Eldgard overrules her. His triage is defensible. Afterwards, alone, he tells her the truth she'll carry all season:
+> **ELDGARD:** You were right about the branch.
+> **TAMARA:** Then why—
+> **ELDGARD:** Because being right about one street is easy. You'll learn.
+
+She sends the runner herself (canon). It arrives too late. Gin Lane dies. **That night, in the Harding library, she works on Alistair's cipher by one lamp until she can read the first line.** Ada brings her tea, sees which book is open, and goes very still. **Purpose:** her first real failure, and her first lesson from her new teacher. Is she horrified or seduced? Both.
+
+### Ep 7: *She writes her own marriage*
+With Gin Lane dead, **Tamara brokers the coal-for-marriage deal herself** (replacing Eldgard's terms): coal to the East tonight, the wedding Saturday. She goes to Eldgard, then to Hector, and each father thinks the other blinked.
+
+**The fight with Nixon:**
 > **NIXON:** You chose this.
 > **TAMARA:** I chose the East getting coal tonight. The rest came with it.
 > **NIXON:** The rest is me.
 
-**Purpose:** she's right (the East needs heat now) and self-serving (the Harding name, the library), at the same time, and it costs her the man she loves. It's her season's dilemma made concrete.
+**The pact with Nathaniel.** She finds him with his ruined hand, raw from the Lost One's confession. No romance between them, and she doesn't pretend:
+> **TAMARA:** Neither of us is marrying for love. Let's at least not lie to each other.
+> **NATHANIEL:** Is that a vow?
+> **TAMARA:** It's the only one I mean.
 
-### Ep 8: The Wedding. *Two gifts, and the ask that loses him.*
-- **She cracks the book** (canon), and reads what the Hardings did to Hargrave.
-- **She gives Nixon the Hargrave pages** (canon). Why? Love, because he deserves the truth. And power, because Nixon with the truth will break Eldgard, which weakens the house she's marrying into and strengthens her own. Both are true. She doesn't know which matters more, and neither will we.
-- **She brings Nathaniel the word at the altar** that the Lost One went to the Works, not Newgate. (This fills the open question.) She reads the transfer order through her Works seat, and she understands what the pod means because she's read the book. **She lets her groom leave her own wedding** to free the creature, knowing that when the light goes out, coal is king. It's mercy and strategy in one gesture.
-- **The ask.** After the vows, she asks Nixon to stay: be hers, inside this. A Harding wife and her Captain. He has just read that his whole family was kept. "I've been kept my whole life." He refuses. **Purpose:** the season's question answered against her by the person she loves most. She can keep power, but she can't keep him.
+**Purpose:** she's right (the East needs heat now) and self-serving (the Harding name), and it costs her Nixon. Meanwhile she makes the one honest promise of the season, to the man she isn't in love with.
 
-### Ep 9: The Break-out. *She takes the house.*
-While Eldgard is at the Works and Nathaniel storms it, the new Mrs Harding is at Harding House with the keys Nixon left behind. She takes the house: the household books, the Works reserve orders, and Alistair's book in her own safe. **And she knows something no one else does:** Alistair's notes describe the beacon. She knows what opening the pod might call. **She doesn't tell Nathaniel.** **Purpose:** it's her darkest and most Cersei-like choice, and it's a long fuse into Season 2: when the ship comes, Tamara knew.
+### Ep 8: *Two gifts, and the ask that loses him*
+- **She has cracked the book** (canon). She reads what the Hardings did to Hargrave.
+- **She gives Nixon the Hargrave pages** (canon). It's love, because he deserves the truth. It's also strategy, because Nixon with that truth will break Eldgard, and a weaker Harding house means a stronger Tamara. She doesn't know which matters more.
+- **She keeps the pact.** Through her Works seat she sees the transfer order: the Lost One went to the Works, not Newgate. **She brings Nathaniel the word at the altar**, and lets her groom leave their own wedding to free the creature, knowing that when the light goes out, coal is king. Honest, merciful and calculating, all at once. (This closes the open question.)
+- **The ask.** After the vows, she asks Nixon to stay: a Harding wife and her Captain, kept inside this. He has just read that his whole family was kept. "I've been kept my whole life." He walks out.
 
-### Ep 10: Lights Out. *The coup.*
-The depots open to the East for nothing (canon). Re-read it as what it is: **a coup against her father.** She opens them under her own name, using the widows' list from Ep 3, family by family, on the same streets Hector paid for. Gin Lane's loyalty, which Hector bought, goes to her. When Hector arrives, the East already knows whose coal kept them alive. He's outplayed by his own method, by the daughter who held his ledger. **She's the only person in the season who wins.**
+### Ep 9: *The poisoned inheritance*
+Before Eldgard goes down to the Works for the last time, he gives his daughter-in-law the last page of Alistair's book: the beacon. "If they open it, you'll need to know what comes." **He's naming his heir,** and it isn't either son.
 
-And Nixon, leading the Guard for London, sees her from across the frozen street, handing out coal. Neither of them crosses it.
+While the men storm the Works, the new Mrs Harding takes the house: the books, the reserve orders, the keys. And **she doesn't tell Nathaniel about the beacon.** She breaks the only vow she meant. **Purpose:** the Silco and Jinx inheritance: the mentor's poison, accepted. Her darkest choice, and the fuse into Season 2.
+
+### Ep 10: *The coup*
+London goes dark. Eldgard dies at Morgana's hand, and she has lost the only man who saw her. The depots open to the East for nothing (canon), **under her own name, by the list**, family by family, on the streets her father paid for. When Hector arrives, the street already knows whose coal kept them alive.
+
+> **HECTOR:** You took this from me.
+> **TAMARA:** You taught me what grief costs. I only paid it forward.
+
+The fixed final image: across the frozen street, Nixon, leading the Guard for London. Neither crosses.
 
 ---
 
 ## Season 2 setup
-
-- **Tamara holds both houses:** the Harding name by marriage, the Lambrick coal by coup, and Alistair's book in her safe.
-- **She knew about the beacon.** When the ship's damage is counted, that secret is a bomb.
-- **She and Nixon are the two powers left standing in the dark city,** and they love each other across a street neither will cross.
-- **Hector,** outplayed and humiliated, is her first enemy.
+- Tamara holds both houses: Harding by marriage, Lambrick coal by coup, and Alistair's book.
+- She knew about the beacon. When Nathaniel learns that, the pact becomes a feud.
+- Hector, outplayed by his own daughter, is her first enemy.
+- She and Nixon are the two powers left standing in the dark, and they love each other across a street.
 
 ## What this changes in canon (if approved)
-- **Ep 1:** her question about Nixon at the Exhibition.
-- **Ep 3:** she copies the widows' list.
-- **Ep 4:** she decoded the figures and gave her father the Duke question.
-- **Ep 5:** the library clause in her bargain.
-- **Ep 6:** the cipher at night; Ada sees the book.
-- **Ep 7:** **she brokers the coal-for-marriage deal (replacing Eldgard's terms)**; the fight with Nixon.
-- **Ep 8:** she brings word of the Works to the altar; the ask Nixon refuses.
-- **Ep 9:** she takes the house and keeps the beacon to herself.
-- **Ep 10:** the coup with the widows' list.
-- Dossiers: Tamara, Hector, Nixon, Ada. Continuity: the library clause → the book; the widows' list → Ep 10; the beacon knowledge (Tamara, Ep 9).
-- The Ep 8 open question (who brings word of the Works) is closed: Tamara.
+- **Ep 1:** she doesn't laugh; she reads the misfire; she asks about Nixon.
+- **Ep 2:** Eldgard notices her.
+- **Ep 3:** the widows' list.
+- **Ep 4:** she gives Eldgard the leaker's name for the library. Eldgard keeps the engineer on, knowing.
+- **Ep 5:** the second look at the toast.
+- **Ep 6:** "being right about one street"; the cipher at night; Ada sees the book.
+- **Ep 7:** she brokers the deal; the fight with Nixon; the pact with Nathaniel.
+- **Ep 8:** she brings Nathaniel the word; the ask Nixon refuses.
+- **Ep 9:** Eldgard gives her the beacon page; she takes the house; she withholds the beacon.
+- **Ep 10:** the coup by the list; Hector; across the street.
+- Dossiers: Tamara, Eldgard, Nathaniel, Nixon, Hector, the engineer, Ada. Continuity: the library deal, the widows' list, the beacon page, the pact.
+
+## Sources
+- [SYFY: Alex Yee unpacks the Act I twists](https://www.syfy.com/index%2Ephp/syfy-wire/arcane-co-creator-alex-yee-unpacks-the-act-i-twists)
+- [Inverse: Christian Linke and Amanda Overton on Season 2](https://www.inverse.com/gaming/arcane-season-2-interview-showrunner-christian-linke-amanda-overton)
+- [AWN: Christian Linke talks silent characters and last lines](https://awn.com/animationworld/christian-linke-talks-animation-secrets-silent-characters-and-last-lines-arcane)
+- [AWN: Beyond the Game, the making of Season 2](https://awn.com/animationworld/beyond-game-making-arcane-season-2)
+- [GamesRadar: Amanda Overton on Mel](https://gamesradar.com/games/league-of-legends/arcane-writer-says-it-was-always-our-hope-to-get-a-character-from-the-show-into-league-of-legends)
+- [GamesRadar: the final scene unchanged for six years](https://gamesradar.com/entertainment/animation-shows/vi-and-jinxs-final-arcane-scene-has-never-changed-since-being-written-six-years-ago-it-has-stayed-our-guiding-light-for-the-entire-series)
+- [Discussing Film: Arcane creators interview](https://discussingfilm.net/2025/06/11/arcane-creators-netflix-interview/)
+- [MeinMMO: the showrunner on what changes in Season 2](https://mein-mmo.de/en/season-2-turns-everything-upside-down-the-showrunner-of-arcane-explains-what-changes-in-the-series,1140620)
+- [Gizmodo: Amanda Overton on love and conflict](https://gizmodo.com/arcanes-amanda-overton-talks-love-conflict-and-all-things-caitvi-2000537334)
+- [TechRadar: why a Caitlyn and Vi moment was held for Season 2](https://www.techradar.com/au/streaming/netflix/we-couldnt-have-done-it-in-season-1-arcane-creators-reveal-why-a-big-moment-involving-caitlyn-and-vi-was-held-back-until-season-2)
