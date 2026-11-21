@@ -30,11 +30,13 @@ A ten-episode gothic drama. London, November 1889. The whole city glows green, a
 ## Open questions
 
 - The writer's plot twist (mentioned, not yet given).
-- **Ep 2:** what the umbrella scene is; who the Duke is; the Ep 3 cold open (the 1873 fragment moved to Ep 2).
-- **After cutting Jamie-alive:** the Ep 2 tag; Byron's secret; the purpose of the Ep 5 heist; the Ep 5 title and tag.
+- **Ep 3:** the cold open remains open.
+- **After cutting Jamie-alive:** Byron's secret; the Ep 5 title; the Ep 8 arrest site and discovery.
+- **New reveal staging:** what brings Nathaniel into Alice and the Lost One's Ep 7 conversation; enough aftermath for the East End freeze, shared confession and Jennie's Josephine disclosure; how Nathaniel learns Eldgard's pod plan in Ep 8.
 - The tag at the end of Episode 9.
 - Josephine's fate after the finale.
 - The scale and staging of the ship's damage in Episode 10.
+- The book Miriam stole from the Lambrick Narrows consignment (Ep 1): what it is, and what the Lambricks aren't admitting.
 - The villages frozen in the east (Ep 2): only the cold of a failing light, or something stranger?
 - The chief engineer's name. (His Ep 1 tag scene is cut.)
 - Marsh's arrest date; Nixon's mother's name.

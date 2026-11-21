@@ -8,12 +8,12 @@
 - **Secret he doesn't know he has:** the offspring imprinted him in 1873 with understanding of the ship's technology. His genius was planted. His "nightmare" is a buried memory.
 - **Season mission:** find who killed his brother.
 
-**Arc ladder.** Wants his father's respect → hides the Frost Killer while hunting his brother's killer, lying to his father and to Nixon → loses Nixon, then Alice's trust, then London's light → postpones choosing between the family and the girl in his workshop → opens the pod and puts out the light.
+**Arc ladder.** Wants his father's respect → hides the suspected Frost Killer while hunting Jamie's killer, lying to Nixon → Nixon discovers the concealment (Ep 5) → hears the Lost One confess Jamie's death beside Alice (Ep 7) and moves to restrain her; Alice stops him → tells Nixon her account before the raid (Ep 8) → learns his father intends to imprison the child in the pod and moves to save her without forgiving Jamie's death → opens the pod and puts out the light.
 
 **Relationships**
 - **Alice:** the investigation partner; the season-long will-they-won't-they. The romance starts as her paid lie.
-- **Nixon:** best friend, then the replacement son who gets everything he wanted. Breaks at Ep 5; point of no return at Ep 8.
+- **Nixon:** best friend, then the replacement son who gets everything he wanted. Breaks over the concealment in Ep 5; Nathaniel confirms the Jamie confession before Nixon's Ep 8 raid.
 - **Eldgard:** the father who shut him out of the work, and in 1873 erased his memory.
-- **Jamie:** the brother he grieves. Found him bleeding out (Ep 1). Hunts his killer all season while sheltering her.
+- **Jamie:** the brother he grieves. Found him bleeding out (Ep 1). Shelters the woman accused of killing him; learns the truth from her in Alice's presence (Ep 7).
 - **Tamara:** the fiancée of a merger; married in Ep 8 to buy coal for the freezing East.
 - **The aura:** least exposed of any Harding. Being unwanted kept him free.
