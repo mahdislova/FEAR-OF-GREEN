@@ -2,7 +2,9 @@
 
 **Cold open:** None. Straight in.
 
-**Change:** Nathaniel learns what his father did to him. **POV:** Nathaniel and Byron.
+**Change:** Nathaniel learns what his father did to him.
+**Foreground:** Nathaniel remembers 1873; Byron tells him what the light is.
+**Background:** Nathaniel and Alice, and her contract confession; Nixon follows Nathaniel; Josephine and Grise; Grise tells Alice about the stepfather; Tamara gets the book; the East cut.
 - The Lost One asks Alice to bring Nathaniel back when it is safe. She gives him both drawings. He now has evidence she knows the inside of the ornament. How they arrange a safe return remains to be broken.
 - **Imprint reveal #1:** the full 1873 night. His genius was planted; his father erased him. Among what comes back: the knowledge that the pod's machinery holds a signal down.
 - Byron tells Nathaniel what the light is: a woman in a pod under the Works. "You were always enough."

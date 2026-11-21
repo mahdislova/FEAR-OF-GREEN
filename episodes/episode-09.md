@@ -2,7 +2,9 @@
 
 **Cold open:** 1873, the offspring's side. Jamie's room first.
 
-**Change:** the truth is spoken aloud. **POV:** Nixon and the Lost One.
+**Change:** the truth is spoken aloud.
+**Foreground:** Nixon: Ada's death, Marsh, storming the Works, "Did you love me?"
+**Background:** The Lost One and Morgana (reveal #2); Eldgard's confession; Tamara covers Ada.
 - **Opening:** Ada works out the break-out plan and goes to report Nixon. The servants' stair. The lamp smashes. After Ada dies, Nixon rights the lamp out of the habit of saving her a job. He has promised to carve on Sunday. For a few seconds he stands there with the lamp in his hands.
 - At Newgate Marsh tells Nixon he is his uncle. As a Hargrave servant boy he entered the Works by freight and helped close its draw every cleaning day. He can get them in and shut down the extraction. Nixon breaks him out with Ada’s blood on his cuffs.
 - Nathaniel, Alice and Nixon storm the Works.

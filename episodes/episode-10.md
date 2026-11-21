@@ -2,7 +2,9 @@
 
 **Cold open:** Alistair closes the pod on her. The broken word.
 
-**Change:** the light ends. **POV:** Nathaniel and Alice.
+**Change:** the light ends.
+**Foreground:** Nathaniel and Alice open the pod; the light ends; the Lost One stays.
+**Background:** Alice spares Josephine; Lambrick's coal and Tamara's coup; Nixon leads the Guard for London.
 - Morgana is dying. Eldgard moves to put the Lost One in the pod.
 - Alice confronts Josephine and doesn't kill her. Here Alice learns the last layer: Josephine knew who she was from the first day. "I chose you so I'd have to look at you." Alice's mercy lands harder because Josephine never spared herself.
 - Nathaniel uses the knowledge planted in 1873 to open the pod. His ruined hand can't work the lock alone; it takes Alice's hand on it too. "Us" at the lock: both of them choose it, and he literally can't do it without her. Opening the pod releases the beacon Alistair silenced.

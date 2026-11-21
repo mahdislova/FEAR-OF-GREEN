@@ -30,18 +30,18 @@ Episodes 9 and 10 cash out the five changes. No new mythology after Episode 8.
 
 Full beats live in `episodes/`.
 
-| Ep | Title | Change | POV | Tag |
+| Ep | Title | Change | Foreground | Tag |
 | --- | --- | --- | --- | --- |
-| 1 | The Exhibition | The secret gets out | Nathaniel, Jamie | Nathaniel kneels by Jamie, bleeding out |
-| 2 | The Wake | Alice brings the girl home; Nathaniel conceals the shard | Alice | Jennie at the door |
-| 3 | The Frost Killer | Nathaniel takes a side | Nixon, Nathaniel | The Lost One: "I know you." |
-| 4 | The Hearing | The light's failure goes public | Lambrick, Tamara, Nathaniel | Eldgard: when the mother dies, use the child |
-| 5 | Open (midseason) | Nixon discovers Nathaniel hid the suspected Frost Killer | Nathaniel | Eldgard reads Nixon's journal: "Find her." |
-| 6 | The Remembering | Nathaniel learns what his father did to him | Nathaniel, Byron | The Gin Lane block explodes |
-| 7 | The Girl Who Isn't | Alice and Nathaniel learn the Lost One's truths together; Alice stops Nathaniel | Alice | Alice lets the Lost One go |
-| 8 | The Wedding | The child is taken | Nixon | Morgana: "My child." |
-| 9 | The Break-out | The truth is spoken aloud | Nixon, the Lost One | Open |
-| 10 | Lights Out | The light ends | Nathaniel, Alice | The ship; the Lost One stays |
+| 1 | The Exhibition | The secret gets out | Nathaniel's day; Jamie frees the child | Nathaniel kneels by Jamie, bleeding out |
+| 2 | The Wake | Alice brings the girl home; Nathaniel conceals the shard | Alice joins the Vykra and finds the girl | Jennie at the door |
+| 3 | The Frost Killer | Nathaniel takes a side | The Frost Killer and the hunt | The Lost One: "I know you." |
+| 4 | The Hearing | The light's failure goes public | The hearing | Eldgard: when the mother dies, use the child |
+| 5 | Open (midseason) | Nixon discovers Nathaniel hid the suspected Frost Killer | Nathaniel and Nixon break | Eldgard reads Nixon's journal: "Find her." |
+| 6 | The Remembering | Nathaniel learns what his father did to him | Nathaniel remembers 1873 | The Gin Lane block explodes |
+| 7 | The Girl Who Isn't | Alice and Nathaniel learn the Lost One's truths together; Alice stops Nathaniel | Alice and the Lost One | Alice lets the Lost One go |
+| 8 | The Wedding | The child is taken | Nixon: the arrest and the wedding | Morgana: "My child." |
+| 9 | The Break-out | The truth is spoken aloud | Nixon: Ada, Marsh, the Works | Open |
+| 10 | Lights Out | The light ends | The pod opens; the light ends | The ship; the Lost One stays |
 
 ## The threads
 
