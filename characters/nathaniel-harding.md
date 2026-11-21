@@ -8,6 +8,8 @@
 - **Secret he doesn't know he has:** the offspring imprinted him in 1873 with understanding of the ship's technology. His genius was planted. His "nightmare" is a buried memory.
 - **Season mission:** find who killed his brother.
 
+- **Ep 3, the wrong street:** points Nixon's search away from Clerkenwell. He learns he's good at deceiving people: his father's skill.
+
 **Arc ladder.** Wants his father's respect → hides the suspected Frost Killer while hunting Jamie's killer, lying to Nixon → Nixon discovers the concealment (Ep 5) → hears the Lost One confess Jamie's death beside Alice (Ep 7) and moves to restrain her; Alice stops him → tells Nixon her account before the raid (Ep 8) → learns his father intends to imprison the child in the pod and moves to save her without forgiving Jamie's death → opens the pod and puts out the light.
 
 **Relationships**

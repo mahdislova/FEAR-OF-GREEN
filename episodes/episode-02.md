@@ -5,11 +5,12 @@
 **Change:** With Miriam missing, Alice takes the oath her sister always opposed. Hours later she finds her and has to earn her trust. Nathaniel starts an investigation by lying to the friend in charge of it. **POV:** Alice.
 - On the day of Jamie’s funeral the Lost One comes out of the river mute. Alice has spent the intervening days looking for Miriam.
 - Grise, who knows Miriam is dead, tells Alice her sister ran off and left her, and offers her the knot. Jennie watches Alice swear at the laundry. Grise tells Alice to collect her gloves in the morning.
+- **The Duke's word.** Before the service, in the vestry, Eldgard asks his old friend to tell the Lords the eastern failures are a fault in the lines, temporary, being mended. "You're asking me to be wrong in public, so you don't have to be." "Will you?" "For Jamie. Not for the light." Two hours later the same Duke privately asks Hector about coal: we know what Hector doesn't yet.
 - Letters from the darkened east interrupt the convoy. The Duke honours Jamie; the Lanterns lower their crystal lights. Nixon returns to Nathaniel under the mended umbrella. At the wake the Duke privately asks Hector how much coal his sister’s house east of the line will need. Hector sends him to another merchant and learns from the hour of the question that the Duke expects the light to fail. Tamara writes the time on the back of the Narrows tally. Hector sends Ajax to find out what was taken.
 - Two children and a frightened gang give Alice a trail. Miriam’s fighting reflex survives in a body the Lost One is still learning to use.
 - Alice brings her home. The girl’s skin stays cold long after she is dry; Alice blames the river. Ren offers a provisional explanation for the silence and memory loss. The girl chooses Alice for company.
 - Ada feeds Nixon at the wake: “love.” Nathaniel keeps the shard. He watches Eldgard give Nixon the keys, then lies to his friend, knowing the account goes to his father. Tamara and Nixon steal a minute together at the wake.
-- Josephine burns her Vykra gloves while Grise stitches the knot into Alice’s. Josephine hires Grise to put someone close to Nathaniel; Grise chooses Alice and sends Jennie with the gloves. Jennie sees Miriam’s face.
+- Josephine burns her Vykra gloves while Grise stitches the knot into Alice’s. Josephine hires Grise to put someone close to Nathaniel. **Grise names Alice in front of her: "Bounds."** Josephine knowingly hires the sister of the girl she killed. Grise sends Jennie with the gloves. Jennie sees Miriam’s face.
 - **Tag:** Alice reaches for her gloves. Jennie doesn’t let go.
 
 ## Scenes
@@ -104,7 +105,19 @@ Alone with Nixon, Nathaniel answers when his friend asks if Jamie was alive when
 
 Nathaniel shuts the study door on his way out. From the landing Josephine sees where her conversation with Eldgard has sent their surviving son. At home that evening she burns the gloves she wore on the bridge. Cross-cut: in Shadwell, Grise draws a needle through the lining of a new pair. The Vykra knot shows in Josephine’s grate as the lining catches. In the laundry Grise pulls the same knot tight.
 
-Josephine comes to Grise with a fee. She wants someone close enough to Nathaniel to tell her where he goes and turn him aside if he follows Jamie’s steps. Grise doesn’t put down the gloves. When Josephine has gone, Grise puts the gloves in Jennie’s hands. “Take them to Alice. Tell her I want her first thing.”
+Josephine comes to Grise with a fee. She wants someone close enough to Nathaniel to tell her where he goes and turn him aside if he follows Jamie’s steps. Grise doesn’t put down the gloves.
+
+“I’ve a girl. New. Hungry. Her sister ran off and left her.” A beat. “Bounds.”
+
+Josephine goes perfectly still. “No.”
+
+“She’ll never suspect the woman paying her. And if she ever learns what you did on that bridge, you’ll want her where you can see her.”
+
+“You’re selling me my own risk.”
+
+“I’m selling you the only person in London who’d look for you. Better she looks at your cuffs than your past.”
+
+Josephine pays. When Josephine has gone, Grise puts the gloves in Jennie’s hands. “Take them to Alice. Tell her I want her first thing.”
 
 ### 17. Jennie at the door
 

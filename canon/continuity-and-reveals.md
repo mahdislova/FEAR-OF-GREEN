@@ -50,6 +50,9 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | "Miriam" is back | Alice, Ren, Jennie | Ep 2 | Grise: Ep 3, from the street after the market |
 | Grise sold Josephine the rendezvous | Grise, Josephine | Ep 1 (black wax) | Alice: Ep 8, from Jennie |
 | Eldgard learns Nathaniel is hiding the market woman, and that Jamie was alive when Nathaniel reached him | Nathaniel, Nixon | Ep 5 tag | Eldgard: Ep 5 (Nixon's journal) |
+| Josephine knows the girl she hired is Miriam's sister | Josephine, Grise | Ep 2 | Alice: never told; she learns Josephine killed Miriam in Ep 8 |
+| Eldgard named the Frost Killer | Eldgard, Nixon | Ep 3 | Nathaniel: open |
+| The Duke privately expects the light to fail | The Duke, Hector | Ep 2 | London: Ep 4 (the hearing) |
 | The Hargrave massacre | Eldgard, Ada, Marsh | Ep 8 cold open | Nixon: Ep 8 |
 | Marsh is Nixon's uncle | Ada, Marsh | Ep 4 (hinted) | Nixon: Ep 9 |
 | The yield is failing | Eldgard, the chief engineer | Ep 1 | Lambrick: suspects Ep 2 (the hour of the Duke’s question), confirms Ep 4. London: Ep 4 |
@@ -60,6 +63,9 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 
 | Setup | Payoff |
 | --- | --- |
+| The Duke's word to Eldgard; his coal question to Hector (Ep 2) | Hector breaks him at the hearing (Ep 4) |
+| Hector pays the Gin Lane widows; Tamara holds the ledger (Ep 3) | Gin Lane trusts Lambrick coal (Ep 7); Tamara gives it away free (Ep 10) |
+| Nathaniel sends Nixon's search to the wrong street (Ep 3) | Nixon remembers the map (Ep 5) |
 | Miriam's one-handed throw on the Narrows raid (Ep 1) | The girl throws a boy the same way; Alice recognises it (Ep 2) |
 | Tamara's fingers on the engagement letter in her glove (Ep 3) | The toast she makes herself (Ep 5) |
 | Nathaniel watches Eldgard give Nixon the keys, then gives Nixon a false account of the study (Ep 2) | The Works drawing gives Nathaniel reason to doubt it (Ep 4). He produces the shard after dinner and Nixon takes his statement again (Ep 5). |

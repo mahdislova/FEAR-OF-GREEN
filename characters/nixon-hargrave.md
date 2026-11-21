@@ -8,6 +8,7 @@
 - **Wants:** to belong to the family that raised him.
 - **The lie he believes:** obedience is the price of belonging.
 - **Secret (from Ep 2):** Eldgard's right hand. Holds the keys to the house. Eldgard does not show him the pod: Nixon believes the Frost Killer is only a killer until the Harding book (Ep 8).
+- **Ep 3:** signs Eldgard's Frost Killer statement, his first signature under a lie. That night Nathaniel sends his men to the wrong street.
 - **Ep 5, the first break with Nathaniel:** discovers Nathaniel has hidden the Frost Killer, whom London suspects of killing Jamie. Nathaniel says it is unproved. In Ep 8 Nathaniel confirms what she admitted in Ep 7, and Nixon takes her in the raid without yet knowing Eldgard's plan for the pod.
 - **Wound:** he cannot tell whether Eldgard loved him or kept him. The answer is both.
 
