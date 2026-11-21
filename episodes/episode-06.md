@@ -12,9 +12,8 @@
 - **Alice's hunt reaches Grise.** Grise, out of cruelty, tells her what Miriam paid to join the Vykra: their stepfather, drowned at sixteen. Alice walks home with it.
 - **Tamara's track.**
   - *The Works meeting (canon):* she argues for draining the Gin Lane branch first. Eldgard overrules her.
-  - *The corridor:* "You were right about the branch." "Then why—" "Because being right about one street is easy. You'll learn." She sends her runner herself (canon).
-  - *Gin Lane, after the blast:* nobody sends her; she goes. Nixon is carrying the dead out on doors. She takes off her gloves and takes the other end. They carry three people without a word. When they set the third down, his hand covers hers on the wood for one second. Then the sergeant calls his name.
-  - *The Harding library, night:* the first line of Alistair's cipher opens. Ada brings tea, sees which book is open, sets the cup down very carefully, and goes.
+  - *The corridor:* "You were right about the branch." "Then why—" "Because being right about one street is easy. You'll learn." Then he gives her a book no Harding has been able to read: Alistair's, in his private cipher. Morgana is failing faster than the yield admits, the child is loose, and he needs the old instructions for putting a living thing in the pod. He has no one else who can read it. "Can you?" She sends her runner herself (canon).
+  - *The Harding library, night:* the first line opens. Ada brings tea, sees which book is open, sets the cup down very carefully, and goes.
 - **Tag:** Eldgard orders the East End cut to keep the West lit. The green left in the severed Gin Lane branch goes unstable. The washhouse block explodes. Byron survives inside the crystal shield cast by Eldgard’s ring.
 
 ## Scenes

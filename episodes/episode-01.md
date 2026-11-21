@@ -14,9 +14,7 @@
 - Cross-cut: Jamie at Harding House breaks the ornament; the offspring, starved and half-mad, ravages him and goes out of the window. Miriam waits at the bridge. We see only her fall, and a figure in the shadows backing away (Josephine, unrevealed). Jennie watches from the stair. The river.
 - **Closing image:** Miriam drowning, intercut with Nathaniel coming into the study where Jamie is bleeding out.
 - **Tamara's track.**
-  - *Lambrick House, afternoon:* Hector tells her the engagement is settled and she'll see the ring. She reads the contract upside down on his desk while he talks: her price is the Pimlico depots, as dowry. She says nothing.
-  - *The Exhibition:* "very polite for forty years" with Nathaniel. When the gauntlet misfires two hundred people laugh; she doesn't. "The fourth turn. Your spiral tightens too fast at the throat." She's right. Then, lightly: "When is Captain Hargrave back from the east?" Nathaniel doesn't know. "Tuesday."
-  - *Her room, night:* she writes to Nixon in the cipher she taught him. The first draft says *they've sold me*; she burns it. The second: *The lamps are lovely tonight. T.* In their cipher, "lamps" means *come home*.
+  - *The Exhibition:* "very polite for forty years" with Nathaniel (canon). When the gauntlet misfires, two hundred people laugh. She doesn't.
 
 ## Scenes
 

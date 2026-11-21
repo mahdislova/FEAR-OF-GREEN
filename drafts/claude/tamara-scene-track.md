@@ -1,6 +1,6 @@
 # Tamara's scene track: Season One (draft)
 
-**What this is:** every scene Tamara is in, episode by episode, in order. Each scene says where it happens, what she wants walking in, what she does, and the state it leaves her in, which causes the next scene. Scenes marked *(canon)* already exist; the rest are new. **Filed in canon:** these scenes now live in each episode's "Tamara's track". The episode files are the home; this draft is kept for reference. It builds on the anchors in `tamara-arc-pitch.md`.
+**What this is:** every scene Tamara is in, episode by episode, in order. Each scene says where it happens, what she wants walking in, what she does, and the state it leaves her in, which causes the next scene. Scenes marked *(canon)* already exist; the rest are new. **Superseded:** this draft was filed and then cut back in a logic pass. The episode files' "Tamara's track" is the current version; this file is kept only for reference. It builds on the anchors in `tamara-arc-pitch.md`.
 
 **How to read the Nixon thread:** she never says "I'm choosing power over you." Every time she chooses it, she gives him something he needs in the same breath. The gift is the confession.
 

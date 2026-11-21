@@ -11,10 +11,8 @@
 - End on the separation. Alice has given the Lost One a way out. Alice directs her to Jennie, whose life she saved. Jennie shelters her for the night outside Grise’s control. Alice stays behind.
 - **The overnight step.** Before dawn Jennie sends word: the girl is bleeding from the nose and won't stop. It's the cost of the cold she used to save Jennie, and to save Nathaniel. Alice can't hold the grudge against that. It's why she goes back in Ep 8.
 - **Tamara's track.**
-  - *Eldgard's study:* she brings her father's coal and her own terms: coal to the East tonight, the wedding Saturday. He agrees.
-  - *The Lambrick carriage:* "Harding asked for Saturday." Each father thinks the other blinked.
+  - *Eldgard's study:* the East is freezing. She comes with her father's coal and her own terms: coal to the East tonight, the wedding Saturday. Eldgard agrees. Hector, told it's done, hands her the delivery: "Your terms. Your carts." From tonight the East's coal moves on her orders.
   - *The rented room, the fight:* "You chose this." "I chose the East getting coal tonight. The rest came with it." "The rest is me." She doesn't answer. She holds out the coat she relined. He takes it, because it's freezing.
-  - *Nathaniel's rooms:* his hand bandaged, raw from the confession. "Neither of us is marrying for love. Let's at least not lie to each other." "Is that a vow?" "It's the only one I mean."
 
 ## Scenes
 

@@ -10,9 +10,7 @@
 - Eldgard's confession. **He makes the full argument, with numbers:** how many die in one winter without the light, and which wards and pumps go first. It should sound right, because it partly is.
 - Then Nixon: "Did you love me, or did you keep me?" Eldgard: "Yes."
 - **Tamara's track.**
-  - *Eldgard's study, before dawn:* before he goes down to the Works, Eldgard gives her the last page of Alistair's book: the beacon. "If they open it, you'll need to know what comes." He names his heir, and it isn't either son.
   - *The servants' stair (Ada's aftermath):* she's the one who finds Ada. Nixon is standing over her with the lamp in his hands and blood on his cuffs. She understands in one look. She takes the lamp from him, sends the footman away and tells the household Mrs Hargrave fell. "Tamara—" "Go. Whatever you're doing, go now." Love: she saves him. Power: she holds his worst act forever.
-  - *The hall:* Nathaniel comes for the keys and the Works plans. She gives him everything except the beacon page in her pocket. She breaks the only vow she meant.
 - **Tag:** open.
 
 ## Scenes

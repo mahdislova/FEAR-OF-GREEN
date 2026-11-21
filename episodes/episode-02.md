@@ -14,8 +14,7 @@
 - **Tamara's track.**
   - *The wake:* she takes the Narrows tally from Ajax's hand and writes the hour of the Duke's question (canon). Across the room, Eldgard sees her do it.
   - *The tea urn:* Eldgard: "Your father has a clever daughter. Does he know?" "He knows my price." "That isn't the same thing." The first time a man with power has seen her, not priced her.
-  - *The service yard (canon):* she steadies Nixon's hands. Her letter shows in his breast pocket, carried home from the east. Neither mentions it.
-  - *The carriage home:* Hector says Ajax will find what was stolen: "Ledgers." She keeps his ledgers; none are missing. Her father is hiding something in his own cargo from her.
+  - *The service yard (canon):* she steadies Nixon's shaking hands around the cup.
 - **Tag:** Alice reaches for her gloves. Jennie doesn’t let go.
 
 ## Scenes

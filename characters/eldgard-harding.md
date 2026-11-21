@@ -9,7 +9,7 @@
 - **The frozen villages:** he reads Nixon's report (Ep 2) as the beginning of the end of his power. He always knew this day would come. So he keeps up a front and tries to control the narrative.
 - **Ep 2, the Duke's word:** asks his old friend to tell the Lords the failures are temporary.
 - **Ep 3, the name:** drafts the Guard's statement himself and makes Nixon sign it. "The Frost Killer" is his name for the child: the city hunts her for him.
-- **Tamara:** sees her at the wake (Ep 2) and recognises his own mind. Takes her deal for the leaker's name (Ep 4) and keeps the engineer on, knowing. Raises his glass to her alone (Ep 5). "Being right about one street is easy" (Ep 6). Names her his heir with the beacon page (Ep 9).
+- **Tamara:** sees her at the wake (Ep 2). Raises his glass to her alone (Ep 5). "Being right about one street is easy" (Ep 6), and gives her Alistair's book to decode the instructions for putting the child in the pod: he has no one else who can read it.
 - **Ep 5, the journal:** reads in Nixon's journal that Nathaniel is hiding the woman London blames, and that Jamie was alive when Nathaniel reached him. He never asked. He breaks; the house's quiet settles him; he asks nothing about Jamie and says, "Find her."
 - **Right once (Ep 6):** the East cut is engineering triage. The West holds the hospitals, the pumps and the Works; the East's housings are the oldest. Gin Lane is the price of a defensible choice. In Ep 9 he makes the full argument, with numbers, and in Ep 10 the dark proves him partly right.
 - **The aura:** its most loyal and most comfortable servant. It made choosing comfortable; it didn't choose for him.
