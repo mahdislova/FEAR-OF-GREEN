@@ -32,13 +32,12 @@ A ten-episode gothic drama. London, November 1889. The whole city glows green, a
 - The writer's plot twist (mentioned, not yet given).
 - **Ep 3:** the cold open remains open.
 - **After cutting Jamie-alive:** Byron's secret; the Ep 5 title; the Ep 8 arrest site and discovery.
-- **New reveal staging:** what brings Nathaniel into Alice and the Lost One's Ep 7 conversation; enough aftermath for the East End freeze, shared confession and Jennie's Josephine disclosure; how Nathaniel learns Eldgard's pod plan in Ep 8.
+- **New reveal staging:** what brings Nathaniel into Alice and the Lost One's Ep 7 conversation; enough aftermath for the East End freeze, shared confession and Jennie's Josephine disclosure. Who brings word in Ep 8 that the Lost One was taken to the Works, not Newgate.
 - The tag at the end of Episode 9.
 - Josephine's fate after the finale.
 - The scale and staging of the ship's damage in Episode 10.
 - The book Miriam stole from the Lambrick Narrows consignment (Ep 1): what it is, and what the Lambricks aren't admitting.
 - Whether Nathaniel knows what opening the pod will call (the beacon).
-- The cost of the Ep 7 raid: Nathaniel's hand (proposed) or a death.
 - The chief engineer's name. (His Ep 1 tag scene is cut.)
 - Marsh's arrest date; Nixon's mother's name.
 - The Lantern Hymn: keep it, and is it Morgana's lullaby?

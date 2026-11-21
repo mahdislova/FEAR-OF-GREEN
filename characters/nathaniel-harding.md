@@ -10,7 +10,8 @@
 
 - **Ep 3, the wrong street:** points Nixon's search away from Clerkenwell. He learns he's good at deceiving people: his father's skill.
 
-- **Ep 7, the hand:** in the dawn raid on the workshop he throws himself under a Guard flash-net to free the Lost One; her cold saves him and takes his right hand. He loses two fingers of his working hand and can no longer build alone. In Ep 10 he can't work the pod's lock without Alice's hand. *(Proposed cost: confirm.)*
+- **Ep 7, the hand:** in the dawn raid on the workshop he throws himself under a Guard flash-net to free the Lost One; her cold saves him and takes his right hand. He loses two fingers of his working hand and can no longer build alone. In Ep 10 he can't work the pod's lock without Alice's hand.
+- **Ep 7, the pod:** the Lost One tells him that if she's taken she'll go where her mother is, and that the way in is buried in his 1873 memory. He's reminded of it, and doesn't want to believe her yet.
 - **Ep 8, the relapse:** confirming her confession to Nixon is the useful son handing his father justice one last time. The rescue is him breaking that pattern.
 
 **Arc ladder.** Wants his father's respect → hides the suspected Frost Killer while hunting Jamie's killer, lying to Nixon → Nixon discovers the concealment (Ep 5) → hears the Lost One confess Jamie's death beside Alice (Ep 7) and moves to restrain her; Alice stops him → tells Nixon her account before the raid (Ep 8) → learns his father intends to imprison the child in the pod and moves to save her without forgiving Jamie's death → opens the pod and puts out the light.

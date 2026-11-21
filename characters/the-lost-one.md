@@ -12,6 +12,8 @@
 
 **Ep 7:** in the raid her cold saves Nathaniel and takes his hand. In the riot it saves Jennie. That night she bleeds and won't stop.
 
+**Ep 7, the pod:** after "You're not her" and the Jamie confession, she tells Nathaniel about the pod, and that the way in is buried inside him.
+
 **Two griefs in one body.** Miriam's memories and guilt, returning one at a time, heaviest last. And glimpses of what she is: her mother's voice, a sky she has never seen.
 
 **Arc ladder.** Wants to free her mother → wears Miriam and lets Alice believe → admits her identity and Jamie's death in Ep 7, loses Alice for a night, and receives her chosen return in Ep 8 → learns she was a tool too: her mother sent her → postpones choosing between her mother and Alice → stays.

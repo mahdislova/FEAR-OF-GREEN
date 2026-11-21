@@ -40,7 +40,7 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | The "Frost Killer" didn't murder Jamie: the offspring ravaged him escaping | The Lost One (buried memory) | Ep 1 | Nathaniel: Ep 7, with Alice |
 | The 1873 imprint on Nathaniel | Eldgard | Ep 2 cold open (as a nightmare), Ep 6 in full | Nathaniel: Ep 6 |
 | The 1873 imprint on Jamie, and that Morgana sent her | Morgana | Ep 9 | The Lost One: Ep 9 |
-| Eldgard plans to put the Lost One in the pod | Eldgard, Josephine | Ep 4 tag | Nathaniel: Ep 8 |
+| Eldgard plans to put the Lost One in the pod | Eldgard, Josephine | Ep 4 tag | Nathaniel: Ep 7 (the Lost One tells him; he doesn't believe it yet), confirmed Ep 8 when she's taken to the Works |
 | Alice was hired to get close to Nathaniel | Josephine, Grise, Alice | Ep 2 | Nathaniel: Ep 6 (Alice tells him herself, the night they get together) |
 | Miriam drowned their stepfather to join the Vykra | Grise (Miriam is dead) | Ep 6 | Alice: Ep 6 (Grise); confirmed Ep 7 (the Lost One) |
 | Josephine killed Miriam | Josephine; Jennie (witness) | Ep 2 (she burns her gloves). Played as dread, not a twist | Alice: Ep 8, after her return |
@@ -55,7 +55,7 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | The Duke privately expects the light to fail | The Duke, Hector | Ep 2 | London: Ep 4 (the hearing) |
 | Josephine left the Exhibition before midnight | Josephine; Byron suspects and covers for her | Ep 1 | Byron says nothing |
 | Nixon followed Nathaniel to the workshop | Nixon, Eldgard | Ep 6 | Nathaniel: Ep 7 (the raid) |
-| How Nathaniel learns the pod plan (Ep 8) | | | Open: source to be decided |
+| The way into the pod is buried in Nathaniel's 1873 memory | The Lost One | Ep 7 | Nathaniel: Ep 7, when she reminds him |
 | The Hargrave massacre | Eldgard, Ada, Marsh | Ep 8 cold open | Nixon: Ep 8 |
 | Marsh is Nixon's uncle | Ada, Marsh | Ep 4 (hinted) | Nixon: Ep 9 |
 | The yield is failing | Eldgard, the chief engineer | Ep 1 | Lambrick: suspects Ep 2 (the hour of the Duke’s question), confirms Ep 4. London: Ep 4 |
