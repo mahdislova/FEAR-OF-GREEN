@@ -14,6 +14,8 @@
 
 **Arc ladder.** Wants to belong → hunts the Frost Killer and keeps Eldgard's secrets → loses Nathaniel → postpones choosing between obeying and knowing → breaks his uncle out of Newgate with Ada's blood on his cuffs, then holds the Guard for London, not for the Hardings.
 
+- **Eps 6–7, "Find her":** follows Nathaniel to the workshop and leads the dawn raid. From the roof he sees the Frost Killer freeze his best friend's hand. It's why, in Ep 8, he believes she belongs in custody.
+
 **Key moments.** Ep 5: catches Nathaniel hiding the suspect, then hands Eldgard his journal and watches it become a hunt ("Find her."); Ep 8: hears confirmation of Jamie's death before the raid. Ep 8: leads the raid that takes the Lost One, then reads the Hargrave pages. "Did you know?" (to Ada). Ep 9: Ada's death; "Did you love me, or did you keep me?" Eldgard: "Yes."
 
 **With Tamara:** in love with her; hands her the ring properly at her wedding to Nathaniel.

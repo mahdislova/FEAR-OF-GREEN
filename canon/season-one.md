@@ -82,6 +82,6 @@ The history, told in pieces.
 | 10 | Alistair closes the pod on her. The broken word. |
 
 ## The ending
-London is dark. Morgana, freed and too weak to fight on, boards the ship after it damages the city. Morgana waits aboard the ship. When her child chooses Alice, she lets her stay and departs in silence. Lambrick's coal is king: Nathaniel's righteous act has handed London to his nemesis. Tamara opens the depots to the East for nothing. The Lost One looks up at the ship, then back at Alice, and stays.
+London is dark, and the dark kills: Eldgard was partly right. Opening the pod released the beacon Alistair silenced, and that is what calls the ship. Morgana, freed and too weak to fight on, boards the ship after it damages the city. Morgana waits aboard the ship. When her child chooses Alice, she lets her stay and departs in silence. Lambrick's coal is king: Nathaniel's righteous act has handed London to his nemesis. Tamara opens the depots to the East for nothing. The Lost One looks up at the ship, then back at Alice, and stays.
 
 **Season 2 setup:** a dark London run on Lambrick coal, the ship somewhere above.

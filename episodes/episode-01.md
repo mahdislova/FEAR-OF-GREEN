@@ -1,6 +1,6 @@
 # Episode 1 — The Exhibition
 
-**Cold open:** c. 1780. The crash in the Harding woods. Alistair's lantern finds a hand in the wreck.
+**Cold open:** c. 1780. The crash in the Harding woods. Alistair's lantern finds a hand in the wreck. Somewhere in the hull a signal is pulsing, steady as a heartbeat. Alistair finds where it comes from and silences it.
 
 **Change:** the secret gets out. **POV:** Nathaniel and Jamie.
 - Jamie's initiation, days earlier: the stair, the vault, Morgana in the pod. "Where is my child?"
@@ -10,6 +10,7 @@
 - Ada polishing lamps (seed her from Ep 1).
 - On the Narrows raid Miriam drops a man with her one-handed throw, the move Alice has watched her whole life. (It pays off in Ep 2 when the girl from the river throws a boy the same way and Alice recognises it.)
 - On the Narrows raid Miriam steals a book from the Lambrick consignment and hands it to Grise. There is more to the cargo than the Lambricks want to admit.
+- **Byron covers for Josephine.** She is the Exhibition's hostess and must leave before midnight. Byron tells anyone who asks that the mistress went home with a headache. He suspects, and says nothing: loyalty means silence.
 - Cross-cut: Jamie at Harding House breaks the ornament; the offspring, starved and half-mad, ravages him and goes out of the window. Miriam waits at the bridge. We see only her fall, and a figure in the shadows backing away (Josephine, unrevealed). Jennie watches from the stair. The river.
 - **Closing image:** Miriam drowning, intercut with Nathaniel coming into the study where Jamie is bleeding out.
 

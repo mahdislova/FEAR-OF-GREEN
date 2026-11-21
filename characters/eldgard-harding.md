@@ -10,6 +10,7 @@
 - **Ep 2, the Duke's word:** asks his old friend to tell the Lords the failures are temporary.
 - **Ep 3, the name:** drafts the Guard's statement himself and makes Nixon sign it. "The Frost Killer" is his name for the child: the city hunts her for him.
 - **Ep 5, the journal:** reads in Nixon's journal that Nathaniel is hiding the woman London blames, and that Jamie was alive when Nathaniel reached him. He never asked. He breaks; the house's quiet settles him; he asks nothing about Jamie and says, "Find her."
+- **Right once (Ep 6):** the East cut is engineering triage. The West holds the hospitals, the pumps and the Works; the East's housings are the oldest. Gin Lane is the price of a defensible choice. In Ep 9 he makes the full argument, with numbers, and in Ep 10 the dark proves him partly right.
 - **The aura:** its most loyal and most comfortable servant. It made choosing comfortable; it didn't choose for him.
 
 **With Nixon:** the father who never was. Raised him, taught him, pinned the lantern on him, and kept a Hargrave where he could see him. "Did you love me, or did you keep me?" "Yes."

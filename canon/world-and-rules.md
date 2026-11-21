@@ -58,10 +58,10 @@ Eldgard traps it in an **ornament**, a piece of the ship's containment, and mesm
 
 ## What gallowglass does
 - Burned in lamps and furnaces, it gives a green-white light and steady heat. **The Ring**, London's lamp grid, carries it under every street.
-- The Works can cut the Ring district by district. In Episode 6 Eldgard cuts the East End to keep the West lit.
+- The Works can cut the Ring district by district. In Episode 6 Eldgard cuts the East End to keep the West lit. **It is engineering triage, not only class:** the West holds the hospitals, the water pumps and the Works itself, and the East's housings are the oldest and the first to fail. The engineer's figures prove it.
 - Green trapped in a loaded branch becomes unstable after abrupt isolation. Damaged common housings put an entire block at risk. Safe draw-down takes time. The Gin Lane blast follows a deliberate decision to spend that time keeping the West lit.
-- Eldgard gave Byron a Harding protection ring. A surge crystallizes its stone into a close shell around its wearer. The spent shell crumbles. The ring protects one person once.
-- Newgate is London's mountain prison, served by an upland railway. A dropping transfer tower and a moving stair link its cliff galleries. Lantern patrol wings can glide to the valley freight line. Guard crystal bombs flower into temporary barriers.
+- Byron wears a Harding protection ring, issued to him as a guard of the core: a tool of the post, not a gift of love. A surge crystallizes its stone into a close shell around its wearer. The spent shell crumbles. The ring protects one person once.
+- Newgate is London's hill prison, on a great chalk hill at the city's edge, served by an upland railway. Its cell galleries are cut into the hill's face. A dropping transfer tower and a moving stair link them. Lantern patrol wings can glide down to the valley freight line. Guard crystal bombs flower into temporary barriers.
 - The cleaning wheel in the Works draw room stops extraction for servicing. Reserves briefly carry the load. The captives remain in place until the pod is opened.
 - Ground to dust it becomes **glim**, the undercity's drug. Users hear **the Weeping**: a woman crying under the hum. It is Morgana in the pod. *(Carried over from the old bible; re-review when scenes are written.)*
 
@@ -84,7 +84,9 @@ Harding House (Mayfair): the study, the servants' stair. The Harding Works over 
 She stays in the background. Until she is freed, she is helpless.
 
 ## The ship
-Never seen whole until the finale. Pieces of it live inside the Works machinery. The ornament is one. In Episode 10 a ship comes for Morgana.
+Never seen whole until the finale. Pieces of it live inside the Works machinery. The ornament is one.
+
+**The beacon.** When Alistair took the wreck, he silenced its beacon. Ever since, the pod's machinery has held that signal down. **Opening the pod releases it.** That is what calls the ship in Episode 10: the ship is the consequence of Nathaniel's choice, not a miracle. Morgana does nothing to send it; the machine does. (Whether Nathaniel knows what opening the pod will call is open.)
 
 ## Cut from the old bible
 The White, the wolves, the Tithe and first snow, the Orchard and Hargrave breeding, Edric, both Marians, all 1489 lore, the lockets, the Blackwood generator and keys, Xylon, the face-veil, the Heartglass, Vane and the 1689 annex, Felix Hawke, Old Wren, Jennifer, Otty, Cole Pruett, Miriam's pregnancy.

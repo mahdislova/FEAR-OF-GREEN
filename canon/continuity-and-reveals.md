@@ -53,6 +53,9 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Josephine knows the girl she hired is Miriam's sister | Josephine, Grise | Ep 2 | Alice: Ep 8 (Josephine killed Miriam); Ep 10 (Josephine knew who she was hiring) |
 | Eldgard named the Frost Killer | Eldgard, Nixon | Ep 3 | Nathaniel: open |
 | The Duke privately expects the light to fail | The Duke, Hector | Ep 2 | London: Ep 4 (the hearing) |
+| Josephine left the Exhibition before midnight | Josephine; Byron suspects and covers for her | Ep 1 | Byron says nothing |
+| Nixon followed Nathaniel to the workshop | Nixon, Eldgard | Ep 6 | Nathaniel: Ep 7 (the raid) |
+| How Nathaniel learns the pod plan (Ep 8) | | | Open: source to be decided |
 | The Hargrave massacre | Eldgard, Ada, Marsh | Ep 8 cold open | Nixon: Ep 8 |
 | Marsh is Nixon's uncle | Ada, Marsh | Ep 4 (hinted) | Nixon: Ep 9 |
 | The yield is failing | Eldgard, the chief engineer | Ep 1 | Lambrick: suspects Ep 2 (the hour of the Duke’s question), confirms Ep 4. London: Ep 4 |
@@ -63,6 +66,9 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 
 | Setup | Payoff |
 | --- | --- |
+| Alistair silences the wreck's beacon (Ep 1 cold open); Nathaniel's memory: the pod holds a signal down (Ep 6) | Opening the pod releases it and calls the ship (Ep 10) |
+| The Lost One's cold takes Nathaniel's hand (Ep 7) | He can't work the lock without Alice's hand: "Us" (Ep 10) |
+| The East cut as triage (Ep 6); Eldgard's argument with numbers (Ep 9) | The dark kills in Ep 10: he was partly right |
 | The Duke's word to Eldgard; his coal question to Hector (Ep 2) | Hector breaks him at the hearing (Ep 4) |
 | Hector pays the Gin Lane widows; Tamara holds the ledger (Ep 3) | Gin Lane trusts Lambrick coal (Ep 7); Tamara gives it away free (Ep 10) |
 | Nathaniel sends Nixon's search to the wrong street (Ep 3) | Nixon remembers the map (Ep 5) |
