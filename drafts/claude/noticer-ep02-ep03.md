@@ -1,6 +1,8 @@
 # The Noticer: Episodes 2 and 3
 
-The Thematic, Fun and Exciting Noticer, run on Episodes 2 and 3 as they stand on main. **Every suggestion is a pitch.** Nothing changes in canon without the writer's approval.
+The Thematic, Fun and Exciting Noticer, run on Episodes 2 and 3 as they stand on main. **Outcome:** the writer kept two pitches, Miriam's throw planted in Ep 1 and Tamara almost telling Nixon in Ep 3, and both are now filed in canon. The rest were not adopted.
+
+**Every suggestion is a pitch.** Nothing changes in canon without the writer's approval.
 
 ---
 

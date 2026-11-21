@@ -60,6 +60,8 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 
 | Setup | Payoff |
 | --- | --- |
+| Miriam's one-handed throw on the Narrows raid (Ep 1) | The girl throws a boy the same way; Alice recognises it (Ep 2) |
+| Tamara's fingers on the engagement letter in her glove (Ep 3) | The toast she makes herself (Ep 5) |
 | Nathaniel watches Eldgard give Nixon the keys, then gives Nixon a false account of the study (Ep 2) | The Works drawing gives Nathaniel reason to doubt it (Ep 4). He produces the shard after dinner and Nixon takes his statement again (Ep 5). |
 | Alice buttons Josephine’s cuff while reporting (Ep 4) | She stops halfway after Jennie names Josephine (Ep 8). Josephine lets her see Nathaniel alone. |
 | Tamara asks Nixon for time to speak to Hector (Ep 3) | The public toast reaches Nixon before she tells him herself (Ep 5). |
