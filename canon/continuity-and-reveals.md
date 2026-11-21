@@ -49,6 +49,7 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Grise's lie that Miriam ran off and left Alice | Grise, Jennie | Ep 2 | Alice knows Grise is lying: Ep 3 (she has Miriam at home). Alice learns Miriam died: Ep 7. That Grise sold the rendezvous: Ep 8 |
 | "Miriam" is back | Alice, Ren, Jennie | Ep 2 | Grise: Ep 3, from the street after the market |
 | Grise sold Josephine the rendezvous | Grise, Josephine | Ep 1 (black wax) | Alice: Ep 8, from Jennie |
+| Eldgard learns Nathaniel is hiding the market woman, and that Jamie was alive when Nathaniel reached him | Nathaniel, Nixon | Ep 5 tag | Eldgard: Ep 5 (Nixon's journal) |
 | The Hargrave massacre | Eldgard, Ada, Marsh | Ep 8 cold open | Nixon: Ep 8 |
 | Marsh is Nixon's uncle | Ada, Marsh | Ep 4 (hinted) | Nixon: Ep 9 |
 | The yield is failing | Eldgard, the chief engineer | Ep 1 | Lambrick: suspects Ep 2 (the hour of the Duke’s question), confirms Ep 4. London: Ep 4 |
@@ -70,7 +71,7 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | The girl's skin stays cold an hour after the river; Alice blames the river (Ep 2) | Her cold kills the man who attacks Alice (Ep 3) |
 | Grise: Miriam "isn't here to object" (Ep 2) | Alice scolds the returned girl for disappearing (Ep 2); the girl can't object either |
 | Grise stitches Alice's knot as Josephine burns hers (Ep 2) | Alice confronts Josephine (Ep 10) |
-| Jennie: keep Miriam's return a secret (Ep 3) | The secret lasts one day; the girl breaks it at the market. Jennie must fetch her for Grise (Ep 4) |
+| Jennie: keep Miriam's return a secret (Ep 3) | The secret lasts one day; the girl breaks it at the market. Grise uses Alice's contract to force the visit (Ep 4); Jennie lies that she lost them |
 | Miriam's last thought is Alice (Ep 1) | Why the Lost One gravitates to Alice once Alice finds her (Ep 2) |
 | Nathaniel conceals the suspected Frost Killer from Nixon (Eps 3–5) | Nixon discovers the concealment (Ep 5); Nathaniel hears her account with Alice (Ep 7) and confirms it to Nixon before the raid (Ep 8) |
 | Alice stops Nathaniel restraining the Lost One, then sends her away (Ep 7) | She returns to the Lost One by choice (Ep 8); Nathaniel opposes the child's imprisonment without forgiving Jamie's death |

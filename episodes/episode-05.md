@@ -9,6 +9,7 @@
 - Alone, the Lost One sketches the inside of the object from Nathaniel’s exterior drawing. She folds her sketch away. She still cannot account for Jamie’s death.
 - Nixon vouches for Nathaniel's account of the study at dinner. Afterwards Nathaniel shows him the shard voluntarily and admits helping the woman at the market. Nixon asks where she is. Nathaniel refuses. Nixon opens his journal to the first statement and asks him to start again from the moment he opened the study door. This time he writes down the question about Jamie too.
 - Nathaniel stays at Harding House after giving the second statement. Going back to the workshop could lead Nixon to the sisters. Alice returns alone and explains his absence.
+- **Tag: the journal.** The family's inquiry requires Nixon to report to Eldgard. He could keep the journal back. He hands it over. In the study where Jamie died, Eldgard reads the second statement: his son has been hiding the woman London blames for Jamie's death, and refuses to say where. Then the line Nixon wrote last. *Was Jamie alive when you reached him?* Nathaniel's answer: yes. Jamie died with his brother. Eldgard never asked. His first question that night was whether Jamie had opened anything. For the first time we see him break: grief, real and terrible, the man under the front. Then the quiet of the house settles over him like a hand, and his face goes still again. He closes the journal. He doesn't ask Nixon a single thing about Jamie. "Find her." Nixon understands what he's handed over: not a friend's confession to a grieving father, but a hunt. Two floors up, Nathaniel is asleep in the house so as not to lead anyone to her.
 
 ## Scenes
 
@@ -18,7 +19,7 @@ At shift change in the Works, the chief engineer hands the incoming foreman a sh
 
 ### 2. What Grise sold
 
-Ajax comes to the Shadwell laundry to collect on Hector’s purchase. Grise gives him exactly what she has: the Frost Killer came here yesterday, and Jennie fetched her. Ajax wants Jennie. Grise calls the girl over in front of the other women and tells her she may take the rest of the day off. Her own girls see what a customer’s money buys. Outside, Ajax offers Jennie a choice: take him to the woman, or give the Guard a signed account of where she saw her. He can use either.
+Ajax comes to the Shadwell laundry to collect on Hector’s purchase. Grise gives him exactly what she has: the Frost Killer came here yesterday with her sister, and Jennie walked them out and lost them in the fog. Ajax wants Jennie. Grise calls the girl over in front of the other women and tells her she may take the rest of the day off. Her own girls see what a customer’s money buys. Outside, Ajax offers Jennie a choice: take him to the woman, or give the Guard a signed account of where she saw her. He can use either.
 
 ### 3. A prisoner reads the paper
 

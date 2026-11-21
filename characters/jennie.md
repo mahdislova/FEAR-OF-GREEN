@@ -10,6 +10,6 @@
 - **Ep 2:** watches Alice swear in on Grise's lie that Miriam ran away. Grise sends her with Alice's gloves; at the door she sees Miriam's face.
 - **She knows the Lost One can't be Miriam.** She watched Miriam die. When she sees her alive (Ep 2, the Bounds room), she's the one person in London who knows the face is wrong, and she's terrified of it.
 - **Seed her doubt** in Eps 3 and 7.
-- **Ep 4:** fetches "Miriam" to the laundry for Grise's test.
+- **Ep 4:** carries Grise's ultimatum to Alice and walks the sisters out after the test. Ordered to follow them home, she says she lost them in the fog: her first lie to Grise.
 - **Ep 7, Act One:** Grise's man comes for her in the riot; the Lost One saves her life.
 - **Ep 8, after Alice returns:** The thing wearing the face of the woman she watched die has just saved the witness who did nothing. The guilt breaks her, and she tells Alice: Josephine killed Miriam. "Miriam was the best of us."

@@ -36,7 +36,7 @@ Full beats live in `episodes/`.
 | 2 | The Wake | Alice brings the girl home; Nathaniel conceals the shard | Alice | Jennie at the door |
 | 3 | The Frost Killer | Nathaniel takes a side | Nixon, Nathaniel | The Lost One: "I know you." |
 | 4 | The Hearing | The light's failure goes public | Lambrick, Tamara, Nathaniel | Eldgard: when the mother dies, use the child |
-| 5 | Open (midseason) | Nixon discovers Nathaniel hid the suspected Frost Killer | Nathaniel | Open |
+| 5 | Open (midseason) | Nixon discovers Nathaniel hid the suspected Frost Killer | Nathaniel | Eldgard reads Nixon's journal: "Find her." |
 | 6 | The Remembering | Nathaniel learns what his father did to him | Nathaniel, Byron | The Gin Lane block explodes |
 | 7 | The Girl Who Isn't | Alice and Nathaniel learn the Lost One's truths together; Alice stops Nathaniel | Alice | Alice lets the Lost One go |
 | 8 | The Wedding | The child is taken | Nixon | Morgana: "My child." |
@@ -60,7 +60,7 @@ Full beats live in `episodes/`.
 | Thread | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | The light | Initiation; the ornament breaks | Frozen villages in the east | — | The failure goes public; "use the child" | — | Byron: a woman in a pod; East End cut | Gin Lane’s dead; Byron survives and bears witness | The Lost One taken to the pod | Storming the Works | Morgana freed; the ship; Lambrick wins |
-| Nathaniel and Nixon | Nixon's empty chair | Nixon home; the keys | Lies both ways | — | First break: Nathaniel hid the suspected Frost Killer | — | Nathaniel hears the confession with Alice | Nathaniel confirms it to Nixon; the raid | Same side, not friends | Changed, not restored |
+| Nathaniel and Nixon | Nixon's empty chair | Nixon home; the keys | Lies both ways | — | First break: Nathaniel hid the suspected Frost Killer; Nixon hands Eldgard the journal | — | Nathaniel hears the confession with Alice | Nathaniel confirms it to Nixon; the raid | Same side, not friends | Changed, not restored |
 | The imprints | The gauntlet he can't explain; the misfire | The nightmare cold open | "I know you" | — | — | Reveal #1: the full 1873 night | — | — | Reveal #2: Morgana sent her | The planted knowledge opens the pod |
 | The sisters | The Narrows; the orange; "Not tonight" | Alice gets "Miriam" back | The first kill; hiding | Closeness | Incomplete Jamie memory | Grise: the stepfather | Identity and Jamie confessed; Alice intervenes, then separates | Alice returns by choice | Her crisis: was love a plan? | Offered the ship; she stays |
 | The killer | The fall; a figure; Jennie watches | Josephine burns her gloves; Jennie at the door | Jennie withholds the bridge account | Grise's hand-sign test | Alice summoned to Harding House | Josephine and Grise; the witness; Alice confesses the contract | Jennie saved | Jennie names Josephine after Alice returns; Guard arrest; transfer to Works | — | Alice spares Josephine |

@@ -26,7 +26,7 @@ Cold opens tell the history in pieces: the crash (Ep 1), Nathaniel's nightmare o
   - Ep 1: Miriam's fall, a figure in the shadows, Jennie watching.
   - Ep 2: Josephine burns her gloves.
   - Ep 2 tag: Jennie sees Miriam alive at Alice’s door. Ep 3: she withholds the bridge account.
-  - Ep 4: Grise tests "Miriam" with a Vykra hand-sign, sees it fail, and sells her location to Lambrick.
+  - Ep 4: Grise forces the visit with Alice's contract, tests "Miriam" with a Vykra hand-sign, sees it fail, and sells Lambrick a sighting. Jennie lies that she lost them.
   - Ep 5: Alice reports privately to Josephine.
   - Ep 6: Josephine and Grise ("You were the one holding the knife"). Josephine pays to remove the witness. Grise tells Alice that Miriam drowned their stepfather.
   - Ep 7: Grise's man comes for Jennie, the Lost One saves her. Jennie names Josephine in Ep 8 after Alice returns.

@@ -7,6 +7,7 @@
 - **The lie he believes:** the many outweigh my sons.
 - **Secrets:** In 1873 he mesmerised Nathaniel. When Morgana dies, he means to put her child in the pod. He orders the East End cut (Ep 6).
 - **The frozen villages:** he reads Nixon's report (Ep 2) as the beginning of the end of his power. He always knew this day would come. So he keeps up a front and tries to control the narrative.
+- **Ep 5, the journal:** reads in Nixon's journal that Nathaniel is hiding the woman London blames, and that Jamie was alive when Nathaniel reached him. He never asked. He breaks; the house's quiet settles him; he asks nothing about Jamie and says, "Find her."
 - **The aura:** its most loyal and most comfortable servant. It made choosing comfortable; it didn't choose for him.
 
 **With Nixon:** the father who never was. Raised him, taught him, pinned the lantern on him, and kept a Hargrave where he could see him. "Did you love me, or did you keep me?" "Yes."

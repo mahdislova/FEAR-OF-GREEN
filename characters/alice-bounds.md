@@ -12,4 +12,6 @@
 
 **Arc ladder.** Wants to stand where Miriam stood → joins the Vykra on Grise's lie that Miriam abandoned her, then gets "Miriam" back (Ep 2) → her first envelope, paid by Josephine, is Nathaniel → learns what Miriam did and confesses the contract to Nathaniel herself (Ep 6), learns the Lost One's identity and hears her Jamie confession beside Nathaniel (Ep 7), stops him taking her but sends her away → returns to the Lost One by choice, hears Jennie name Josephine (Ep 8) → postpones choosing between holding on and letting go → offers the Lost One the ship and lets her choose.
 
+**Ep 4, the first bad choice:** Grise threatens to tell Nathaniel about the contract unless Alice brings her sister in. Exposure would cost the sisters their refuge, so Alice walks Miriam into Grise's room on her own terms.
+
 **Key moments.** "You're not her" (Ep 7). Stops Nathaniel restraining the Lost One but does not yet forgive her. "Nine is the one where we get up" (Ep 8). Spares Josephine (Ep 10). "Us" at the lock (Ep 10).
