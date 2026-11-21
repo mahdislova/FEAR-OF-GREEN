@@ -50,7 +50,7 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | "Miriam" is back | Alice, Ren, Jennie | Ep 2 | Grise: Ep 3, from the street after the market |
 | Grise sold Josephine the rendezvous | Grise, Josephine | Ep 1 (black wax) | Alice: Ep 8, from Jennie |
 | Eldgard learns Nathaniel is hiding the market woman, and that Jamie was alive when Nathaniel reached him | Nathaniel, Nixon | Ep 5 tag | Eldgard: Ep 5 (Nixon's journal) |
-| Josephine knows the girl she hired is Miriam's sister | Josephine, Grise | Ep 2 | Alice: open (she learns Josephine killed Miriam in Ep 8; whether and when she learns Josephine hired her knowingly is open) |
+| Josephine knows the girl she hired is Miriam's sister | Josephine, Grise | Ep 2 | Alice: Ep 8 (Josephine killed Miriam); Ep 10 (Josephine knew who she was hiring) |
 | Eldgard named the Frost Killer | Eldgard, Nixon | Ep 3 | Nathaniel: open |
 | The Duke privately expects the light to fail | The Duke, Hector | Ep 2 | London: Ep 4 (the hearing) |
 | The Hargrave massacre | Eldgard, Ada, Marsh | Ep 8 cold open | Nixon: Ep 8 |
@@ -66,6 +66,7 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | The Duke's word to Eldgard; his coal question to Hector (Ep 2) | Hector breaks him at the hearing (Ep 4) |
 | Hector pays the Gin Lane widows; Tamara holds the ledger (Ep 3) | Gin Lane trusts Lambrick coal (Ep 7); Tamara gives it away free (Ep 10) |
 | Nathaniel sends Nixon's search to the wrong street (Ep 3) | Nixon remembers the map (Ep 5) |
+| Josephine offers her wrist for the buttons (Ep 4); "Have you family, Miss Bounds?" (Ep 5) | Alice stops at two buttons (Ep 8); "I chose you so I'd have to look at you" (Ep 10) |
 | Miriam's one-handed throw on the Narrows raid (Ep 1) | The girl throws a boy the same way; Alice recognises it (Ep 2) |
 | Tamara's fingers on the engagement letter in her glove (Ep 3) | The toast she makes herself (Ep 5) |
 | Nathaniel watches Eldgard give Nixon the keys, then gives Nixon a false account of the study (Ep 2) | The Works drawing gives Nathaniel reason to doubt it (Ep 4). He produces the shard after dinner and Nixon takes his statement again (Ep 5). |

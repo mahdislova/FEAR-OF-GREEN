@@ -10,6 +10,8 @@
 - **Mirror:** thirty years ago Josephine was a Vykra girl who escaped the guild by marrying a Harding: Miriam's exact plan. She kills the next girl trying the same way out.
 
 - **Ep 2, the hire:** Grise names Alice in front of her: "Bounds." Josephine knowingly hires the sister of the girl she killed. Grise now holds her.
+- **The penance direction.** She tells herself it's control: safer close than out there looking. Underneath, it's penance: she is the only person in the show who chooses to keep her guilt within arm's reach. Ep 4: offers her wrist for the buttons on purpose. Ep 5: "Have you family, Miss Bounds?", and sits through her crime told back as an abandonment. Ep 6: Grise: "And you hired her sister." Ep 8: uses Alice's reports to give up the Lost One, then, when Alice stops at two buttons, tells her where Nathaniel is: the moment she has waited for. Ep 10: Alice learns Josephine knew from the first day. "I chose you so I'd have to look at you."
+- **What must stay true:** she never confesses on her own, never asks forgiveness, and never stops using Alice. The penance is real and so is the use.
 
 **The audience knows from Ep 2:** alone, she burns her gloves in the grate; the Vykra knot is stitched inside them. No music, no twist. From then on every scene between her and Alice runs on dread.
 

@@ -4,7 +4,7 @@
 
 **Change:** the light ends. **POV:** Nathaniel and Alice.
 - Morgana is dying. Eldgard moves to put the Lost One in the pod.
-- Alice confronts Josephine and doesn't kill her.
+- Alice confronts Josephine and doesn't kill her. Here Alice learns the last layer: Josephine knew who she was from the first day. "I chose you so I'd have to look at you." Alice's mercy lands harder because Josephine never spared herself.
 - Nathaniel uses the knowledge planted in 1873 to open the pod. "Us" at the lock: both of them choose it.
 - Morgana goes free. Her vengeance: Eldgard. London goes dark.
 - The ship does substantial damage across London. Morgana boards it and waits for her child.

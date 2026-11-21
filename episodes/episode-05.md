@@ -38,6 +38,8 @@ At the Guard office, Ajax waits while Jennie dictates a statement. She gives her
 
 Josephine receives Alice before the guests sit down. She expects Nathaniel to slip out after dinner. She wants to know where he goes. She tells him in passing that Alice is waiting upstairs. Both hear precisely as much of the arrangement as Josephine wants them to hear.
 
+Before she sends Alice upstairs, Josephine asks lightly, "Have you family, Miss Bounds?" Alice gives her the lie Grise gave her: a sister who ran off and left her. Josephine has to sit and hear her own crime told back to her as an abandonment. She says something kind about it.
+
 Downstairs, Tamara catches Nixon on his way in. She has come to ask Hector to put off the announcement. Nixon sees her watching the door for her father. “Tomorrow will do,” he says. He gives her hand a brief squeeze and goes in to dinner.
 
 In the little room off the hall, Hector is trying a question under his breath. “Before we go any further, Captain, when Nathaniel gave his account…” Tamara shuts the door. “If you put it like that, Eldgard will think the marriage depends on the answer. He’ll answer for the boy himself.” Hector asks how she would put it. “After the toast. Then you’re his father-in-law asking his friend what happened.” Hector reaches for the bell to cue the steward. She keeps her hand on it. “I’ll do it. I want a chair at the Works meeting tomorrow.”

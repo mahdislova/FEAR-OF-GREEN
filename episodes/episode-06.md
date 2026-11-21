@@ -7,7 +7,7 @@
 - **Imprint reveal #1:** the full 1873 night. His genius was planted; his father erased him.
 - Byron tells Nathaniel what the light is: a woman in a pod under the Works. "You were always enough."
 - Nathaniel and Alice: the night they finally stop circling. **That night Alice tells him herself that his mother hired her to get close to him: paid at first, never after.** It costs her with him going into Ep 7.
-- Josephine follows up on Alice’s reports through Grise. Grise has tested the returned Miriam herself. Josephine connects the timing to the escape from the ornament and pays to silence Jennie. Open beat: the precise detail Alice believes safe to report.
+- Josephine follows up on Alice’s reports through Grise. Grise has tested the returned Miriam herself. Grise reminds her she's been buying her own sentence since Episode 2: "You were the one holding the knife. And you hired her sister." Josephine connects the timing to the escape from the ornament: the sister she hired is living with the face of the girl she killed. She pays to silence Jennie. Open beat: the precise detail Alice believes safe to report.
 - **Alice's hunt reaches Grise.** Grise, out of cruelty, tells her what Miriam paid to join the Vykra: their stepfather, drowned at sixteen. Alice walks home with it.
 - **Tag:** Eldgard orders the East End cut to keep the West lit. The green left in the severed Gin Lane branch goes unstable. The washhouse block explodes. Byron survives inside the crystal shield cast by Eldgard’s ring.
 
