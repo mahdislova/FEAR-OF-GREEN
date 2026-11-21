@@ -11,6 +11,11 @@
 - Alice brings her home. The girl’s skin stays cold long after she is dry; Alice blames the river. Ren offers a provisional explanation for the silence and memory loss. The girl chooses Alice for company.
 - Ada feeds Nixon at the wake: “love.” Nathaniel keeps the shard. He watches Eldgard give Nixon the keys, then lies to his friend, knowing the account goes to his father. Tamara and Nixon steal a minute together at the wake.
 - Josephine burns her Vykra gloves while Grise stitches the knot into Alice’s. Josephine hires Grise to put someone close to Nathaniel. **Grise names Alice in front of her: "Bounds."** Josephine knowingly hires the sister of the girl she killed. Grise sends Jennie with the gloves. Jennie sees Miriam’s face.
+- **Tamara's track.**
+  - *The wake:* she takes the Narrows tally from Ajax's hand and writes the hour of the Duke's question (canon). Across the room, Eldgard sees her do it.
+  - *The tea urn:* Eldgard: "Your father has a clever daughter. Does he know?" "He knows my price." "That isn't the same thing." The first time a man with power has seen her, not priced her.
+  - *The service yard (canon):* she steadies Nixon's hands. Her letter shows in his breast pocket, carried home from the east. Neither mentions it.
+  - *The carriage home:* Hector says Ajax will find what was stolen: "Ledgers." She keeps his ledgers; none are missing. Her father is hiding something in his own cargo from her.
 - **Tag:** Alice reaches for her gloves. Jennie doesn’t let go.
 
 ## Scenes

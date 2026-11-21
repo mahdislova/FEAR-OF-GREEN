@@ -15,6 +15,10 @@
 - Nathaniel finds the sisters and hides them in his workshop. His tech can manage her cold.
 - **The first lie to Nixon: the wrong street.** At the Guard post that night, Nixon gratefully shows Nathaniel the search map. Nathaniel reads it like an engineer and points the frost along the old drains toward Gin Lane. "That's where I'd look." Twenty men move to Gin Lane; Clerkenwell stays open. "I don't know what I'd do without you tonight." "Neither do I."
 - The only chair that does not squeak is missing a leg. Alice tries it, drops neatly into her sister’s lap and, after a beat, announces that it takes two to sit in this house. The Lost One laughs before Alice does. They spend a minute trying out the other furniture with elaborate caution. It is their first joke since the river.
+- **Tamara's track.**
+  - *The rented room (canon, sharpened):* instead of telling Nixon about the engagement, she gives him his Guard greatcoat relined in grey wool. "I can sew. Nobody's ever asked me to." "Walk with me on Sunday." *(buttoning it on him)* "Give me a little time."
+  - *Gin Lane, dawn (canon):* she writes each widow's name in the ledger as Hector pays.
+  - *Her room, night:* she copies every name and address into a small book of her own. Nobody asked her to.
 - **Tag:** the Lost One studies Nathaniel's face: "I know you."
 
 ## Scenes

@@ -60,7 +60,7 @@ for p in sorted(glob.glob(os.path.join(ROOT, "episodes", "episode-*.md"))):
     cold = re.search(r"\*\*Cold open:\*\*\s*(.+)", head)
     change = re.search(r"\*\*Change:\*\*\s*(.+?)(?:\*\*POV|\n)", head)
     pov = re.search(r"\*\*POV:\*\*\s*(.+?)(?:\*\*|\n|$)", head)
-    beats = [l[2:] for l in head.split("\n") if l.startswith("- ")]
+    beats = [(l[2:] if l.startswith("- ") else "↳ " + l.strip()[2:]) for l in head.split("\n") if l.startswith("- ") or l.startswith("  - ")]
     scenes = t.split("## Scenes", 1)[1].strip() if "## Scenes" in t else ""
     has_scenes = bool(re.search(r"^### ", scenes, re.M))
     eps.append(dict(title=title, cold=cold.group(1).strip() if cold else "", change=change.group(1).strip().rstrip(".") if change else "",

@@ -14,6 +14,8 @@
 - **Ep 7, the pod:** the Lost One tells him that if she's taken she'll go where her mother is, and that the way in is buried in his 1873 memory. He's reminded of it, and doesn't want to believe her yet.
 - **Ep 8, the relapse:** confirming her confession to Nixon is the useful son handing his father justice one last time. The rescue is him breaking that pattern.
 
+- **Tamara:** the only one who doesn't laugh at the misfire (Ep 1). Watches his father raise a glass to her (Ep 5). Their pact: "Let's at least not lie to each other" (Ep 7). She brings him word at the altar (Ep 8), then withholds the beacon (Ep 9).
+
 **Arc ladder.** Wants his father's respect → hides the suspected Frost Killer while hunting Jamie's killer, lying to Nixon → Nixon discovers the concealment (Ep 5) → hears the Lost One confess Jamie's death beside Alice (Ep 7) and moves to restrain her; Alice stops him → tells Nixon her account before the raid (Ep 8) → learns his father intends to imprison the child in the pod and moves to save her without forgiving Jamie's death → opens the pod and puts out the light.
 
 **Relationships**

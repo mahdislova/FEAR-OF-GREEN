@@ -14,6 +14,8 @@
 
 **Death (Ep 9).** She works out the break-out plan and goes to report Nixon to Eldgard, as she reported her brother. On the servants' stair he begs her to wait one night. She touches his cheek: "I'm saving you, love. We're not them. We were never going to be them. We're Hargraves." He panics and holds his hand over her mouth too long. Her lamp smashes on the stairs. She dies still believing.
 
+**Ep 6:** sees Tamara reading Alistair's book in the library, and is afraid. **Ep 9 aftermath:** Tamara finds her body and tells the household she fell.
+
 **Requirements.** Seed her from Ep 1 (the lamps). Her "love" with Nixon starts when he arrives in Ep 2. Her death needs aftermath: someone finds her, and Nixon chooses whether to lie.
 
 **Mirror.** A sibling betrayed to protect the order (Ada), a man drowned to protect a sibling (Miriam), a hand over a mouth (Nixon).

@@ -32,7 +32,7 @@ A ten-episode gothic drama. London, November 1889. The whole city glows green, a
 - The writer's plot twist (mentioned, not yet given).
 - **Ep 3:** the cold open remains open.
 - **After cutting Jamie-alive:** Byron's secret; the Ep 5 title; the Ep 8 arrest site and discovery.
-- **New reveal staging:** what brings Nathaniel into Alice and the Lost One's Ep 7 conversation; enough aftermath for the East End freeze, shared confession and Jennie's Josephine disclosure. Who brings word in Ep 8 that the Lost One was taken to the Works, not Newgate.
+- **New reveal staging:** what brings Nathaniel into Alice and the Lost One's Ep 7 conversation; enough aftermath for the East End freeze, shared confession and Jennie's Josephine disclosure.
 - The tag at the end of Episode 9.
 - Josephine's fate after the finale.
 - The scale and staging of the ship's damage in Episode 10.

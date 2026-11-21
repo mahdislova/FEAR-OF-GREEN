@@ -26,6 +26,7 @@ The light is a living thing in a freezer, and the Hardings got it by breaking a 
 - **The ship is called, not a miracle:** Alistair silenced the wreck's beacon; the pod held it down; opening the pod releases it.
 - **Eldgard is right once:** the East cut is engineering triage (hospitals, pumps and the Works are in the West). In Ep 10 the dark kills.
 - **Newgate** stands on a great chalk hill at London's edge.
+- **Tamara** is a full lead: a Cersei who is often right. Seen by Eldgard, she sells her father's leaker for the Harding library, writes her own marriage, gives Nixon the Hargrave pages, covers Ada's death, withholds the beacon from Nathaniel, and ends the season holding both houses. Her scenes are in each episode's "Tamara's track".
 - **The light is dying.** Morgana has been drained for about a century and is failing. That's the season's clock, and it replaces the old Tithe.
 - **The Lost One is the replacement.** Eldgard means to put the offspring in the pod when the mother dies.
 - **The Harding aura.** An Alistair recipe that keeps Hardings from betraying the secret. It persuades rather than compels: it amplifies loyalty and dulls doubt, so Eldgard's choices are still his own. It works on Harding blood only, so Josephine and Nixon are outside it. Jamie's imprint made him immune. The finer rules (proximity, exposure) were proposed but should be confirmed.

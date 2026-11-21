@@ -10,6 +10,11 @@
 - Nathaniel and Alice: the night they finally stop circling. His return to the workshop to be with her is what leads Nixon there. **That night Alice tells him herself that his mother hired her to get close to him: paid at first, never after.** It costs her with him going into Ep 7.
 - Josephine follows up on Alice’s reports through Grise. Grise has tested the returned Miriam herself. Grise reminds her she's been buying her own sentence since Episode 2: "You were the one holding the knife. And you hired her sister." Josephine connects the timing to the escape from the ornament: the sister she hired is living with the face of the girl she killed. She pays to silence Jennie. Open beat: the precise detail Alice believes safe to report.
 - **Alice's hunt reaches Grise.** Grise, out of cruelty, tells her what Miriam paid to join the Vykra: their stepfather, drowned at sixteen. Alice walks home with it.
+- **Tamara's track.**
+  - *The Works meeting (canon):* she argues for draining the Gin Lane branch first. Eldgard overrules her.
+  - *The corridor:* "You were right about the branch." "Then why—" "Because being right about one street is easy. You'll learn." She sends her runner herself (canon).
+  - *Gin Lane, after the blast:* nobody sends her; she goes. Nixon is carrying the dead out on doors. She takes off her gloves and takes the other end. They carry three people without a word. When they set the third down, his hand covers hers on the wood for one second. Then the sergeant calls his name.
+  - *The Harding library, night:* the first line of Alistair's cipher opens. Ada brings tea, sees which book is open, sets the cup down very carefully, and goes.
 - **Tag:** Eldgard orders the East End cut to keep the West lit. The green left in the severed Gin Lane branch goes unstable. The washhouse block explodes. Byron survives inside the crystal shield cast by Eldgard’s ring.
 
 ## Scenes

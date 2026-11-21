@@ -56,6 +56,11 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Josephine left the Exhibition before midnight | Josephine; Byron suspects and covers for her | Ep 1 | Byron says nothing |
 | Nixon followed Nathaniel to the workshop | Nixon, Eldgard | Ep 6 | Nathaniel: Ep 7 (the raid) |
 | The way into the pod is buried in Nathaniel's 1873 memory | The Lost One | Ep 7 | Nathaniel: Ep 7, when she reminds him |
+| The chief engineer leaked the figures | Tamara (from the cipher) | Ep 4 | Eldgard: Ep 4 (Tamara sells him the name). Hector: never told |
+| Tamara's library deal with Eldgard | Tamara, Eldgard | Ep 4 | Hector: open |
+| Tamara can read Alistair's book | Tamara; Ada (sees it, Ep 6) | Ep 6 | Eldgard: open |
+| The beacon (what opening the pod calls) | Eldgard, Tamara (Ep 9) | Ep 1 cold open | Nathaniel: not told by Tamara (Ep 9) |
+| Nixon killed Ada | Nixon, Tamara | Ep 9 | The household is told she fell |
 | The Hargrave massacre | Eldgard, Ada, Marsh | Ep 8 cold open | Nixon: Ep 8 |
 | Marsh is Nixon's uncle | Ada, Marsh | Ep 4 (hinted) | Nixon: Ep 9 |
 | The yield is failing | Eldgard, the chief engineer | Ep 1 | Lambrick: suspects Ep 2 (the hour of the Duke’s question), confirms Ep 4. London: Ep 4 |
@@ -69,6 +74,10 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Alistair silences the wreck's beacon (Ep 1 cold open); Nathaniel's memory: the pod holds a signal down (Ep 6) | Opening the pod releases it and calls the ship (Ep 10) |
 | The Lost One's cold takes Nathaniel's hand (Ep 7) | He can't work the lock without Alice's hand: "Us" (Ep 10) |
 | The East cut as triage (Ep 6); Eldgard's argument with numbers (Ep 9) | The dark kills in Ep 10: he was partly right |
+| Tamara copies the widows' list (Ep 3) | Her coup at the depots (Ep 10) |
+| The coat she relines for Nixon (Ep 3) | He wears it across the frozen street (Ep 10) |
+| "Keep that one thing yours" (Ep 5) | He gives Eldgard the journal anyway (Ep 5 tag) |
+| "Let's at least not lie to each other" (Ep 7) | She withholds the beacon (Ep 9) |
 | The Duke's word to Eldgard; his coal question to Hector (Ep 2) | Hector breaks him at the hearing (Ep 4) |
 | Hector pays the Gin Lane widows; Tamara holds the ledger (Ep 3) | Gin Lane trusts Lambrick coal (Ep 7); Tamara gives it away free (Ep 10) |
 | Nathaniel sends Nixon's search to the wrong street (Ep 3) | Nixon remembers the map (Ep 5) |

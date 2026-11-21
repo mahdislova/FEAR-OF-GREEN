@@ -10,6 +10,11 @@
 - Nixon to Ada: "Did you know?" "Forgive them? Love, I forgave them before you were born."
 - At the altar Nathaniel learns she's been taken, and says "I will" anyway, because the East is freezing. When word comes that she was taken to the Works, not Newgate, he knows what the Lost One told him in Ep 7 was true: Eldgard means to put her in the pod. So he leaves the wedding breakfast to get her. He has not excused Jamie's death: his choice is that grief cannot justify condemning a child to the captivity that is killing her mother.
 - In the Hargrave pages Nixon recognizes Marsh’s boyhood duty at the Works draw room. Nathaniel needs a way inside before the next draw. Nixon sends him and Alice to the old freight terminus and lays out his papers for the first upland prison train. Ada sees the timetable and his transfer papers. She understands what he is going to do.
+- **Tamara's track.**
+  - *The library, dawn:* she finishes the book and reads what was done to Hargrave. She cuts the Hargrave pages out with a penknife.
+  - *The vestry:* she gives Nixon the pages. "Who you are. Don't read them today." He reads them in the chapel; she knew he would. Love and strategy at once.
+  - *The altar:* through her Works seat she has seen the transfer order. Under her breath she tells Nathaniel the Lost One went to the Works, not Newgate. She keeps the pact, and lets her groom leave their wedding, knowing that when the light goes out, coal is king.
+  - *The empty chapel:* she asks Nixon to stay, her Captain inside her marriage. "I've been kept my whole life." He hands her the empty ring box and walks out.
 - **Tag:** the Lost One in the Works, face to face with her mother's pod. Morgana: "My child."
 
 ## Scenes

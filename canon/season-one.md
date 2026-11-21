@@ -55,6 +55,8 @@ Full beats live in `episodes/`.
 
 **The killer (Josephine), one beat per episode.** Ep 1: Miriam falls; a figure in the shadows backs away; Jennie watches. Ep 2: Josephine burns her gloves; Jennie sees Miriam’s face in Alice’s room. Ep 3: Jennie withholds the bridge account. Ep 4: Grise's hand-sign test; she sells the location to Lambrick. Ep 5: Josephine summons Alice privately. Ep 6: Josephine and Grise; Josephine pays to remove the witness. The same night Alice tells Nathaniel herself that his mother hired her. Ep 7: the Lost One saves Jennie. Ep 8: after Alice returns, Jennie names Josephine. Josephine supplies a lead for the arrest. Ep 10: Alice confronts Josephine and spares her.
 
+**Tamara.** Ep 1: reads the misfire; asks Nixon home in cipher. Ep 2: Eldgard sees her. Ep 3: the relined coat; the widows' list. Ep 4: sells her father's leaker to Eldgard for the Harding library. Ep 5: the toast; the conservatory ("I'm going to be very good at it, Nix"). Ep 6: right about the branch, too late; carries the dead with Nixon; the cipher opens. Ep 7: writes her own marriage; "The rest is me"; the pact with Nathaniel. Ep 8: the pages; the word at the altar; the ask Nixon refuses. Ep 9: Eldgard's beacon page; covers Ada's death; withholds the beacon. Ep 10: the coup by the list; across the street.
+
 ## Thread grid
 
 | Thread | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
@@ -64,6 +66,7 @@ Full beats live in `episodes/`.
 | The imprints | The gauntlet he can't explain; the misfire | The nightmare cold open | "I know you" | — | — | Reveal #1: the full 1873 night | — | — | Reveal #2: Morgana sent her | The planted knowledge opens the pod |
 | The sisters | The Narrows; the orange; "Not tonight" | Alice gets "Miriam" back | The first kill; hiding | Closeness | Incomplete Jamie memory | Grise: the stepfather | Identity and Jamie confessed; Alice intervenes, then separates | Alice returns by choice | Her crisis: was love a plan? | Offered the ship; she stays |
 | The killer | The fall; a figure; Jennie watches | Josephine burns her gloves; Jennie at the door | Jennie withholds the bridge account | Grise's hand-sign test | Alice summoned to Harding House | Josephine and Grise; the witness; Alice confesses the contract | Jennie saved | Jennie names Josephine after Alice returns; Guard arrest; transfer to Works | — | Alice spares Josephine |
+| Tamara | Reads the misfire; "come home" | Eldgard sees her | The coat; the list | Sells the leaker for the library | The conservatory | Carries the dead; the cipher opens | Writes her marriage; the pact | The pages; the altar; the ask | Covers Ada; keeps the beacon | The coup; across the street |
 | The Hargraves | Ada's lamps | Ada and Nixon: "love" | — | Marsh: "Hargrave chin" | — | — | — | The Hargrave pages; "I forgave them" | Ada's death; Nixon flies Marsh out of Newgate; Marsh stops the draw; "Did you love me?" | Nixon holds the Guard for London |
 
 ## Cold opens

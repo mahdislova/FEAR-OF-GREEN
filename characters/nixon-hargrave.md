@@ -18,4 +18,6 @@
 
 **Key moments.** Ep 5: catches Nathaniel hiding the suspect, then hands Eldgard his journal and watches it become a hunt ("Find her."); Ep 8: hears confirmation of Jamie's death before the raid. Ep 8: leads the raid that takes the Lost One, then reads the Hargrave pages. "Did you know?" (to Ada). Ep 9: Ada's death; "Did you love me, or did you keep me?" Eldgard: "Yes."
 
-**With Tamara:** in love with her; hands her the ring properly at her wedding to Nathaniel.
+- **Ep 9:** Tamara finds him over Ada's body and covers it up ("Mrs Hargrave fell"). He owes her his freedom and she holds his worst act.
+
+**With Tamara:** in love with her. She asks him home in cipher (Ep 1), relines his coat (Ep 3), warns him not to give Eldgard the journal (Ep 5), carries the dead with him (Ep 6), writes her own marriage (Ep 7), gives him the Hargrave pages and asks him to stay inside it; he refuses (Ep 8). Across the frozen street in her coat (Ep 10).
