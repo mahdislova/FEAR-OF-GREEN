@@ -30,7 +30,8 @@ Cold opens tell the history in pieces: the crash (Ep 1), Nathaniel's nightmare o
   - Ep 5: Alice reports privately to Josephine.
   - Ep 6: Josephine and Grise ("You were the one holding the knife"). Josephine pays to remove the witness. Grise tells Alice that Miriam drowned their stepfather.
   - Ep 7: Grise's man comes for Jennie, the Lost One saves her. Jennie names Josephine in Ep 8 after Alice returns.
-  - Ep 8: Alice tells Nathaniel herself that his mother hired her; Josephine supplies a lead for the arrest.
+  - Ep 6: Alice tells Nathaniel herself that his mother hired her.
+  - Ep 8: Josephine supplies a lead for the arrest.
 
 ## Dartboard: pitched ideas, not committed
 - Every episode opens on a clock card: **THE LIGHT HAS 49 DAYS**, counting down.
@@ -45,7 +46,6 @@ Cold opens tell the history in pieces: the crash (Ep 1), Nathaniel's nightmare o
 - The Lost One's first kill is one of Ajax's men attacking Alice.
 - Tamara cracks the Harding book in Ep 8 and gives Nixon the Hargrave pages.
 - Marsh: "Hargrave chin," and "Ask the woman with the keys."
-- Morgana, Ep 4: "Bring me the boy who knows."
 - Minor new characters: Peg the mudlark (a witness), Moss (Ajax's man).
 
 ## Open questions
@@ -59,7 +59,6 @@ Cold opens tell the history in pieces: the crash (Ep 1), Nathaniel's nightmare o
 - Marsh's arrest date; Nixon's mother's name.
 - The Lantern Hymn: keep it, and is it Morgana's lullaby?
 - How the aura's finer rules work.
-- The villages frozen in the east: only the cold of a failing light, or something stranger?
 
 ## Next step
 Step 1 of the process: the season in one sentence and one paragraph, in the writer's words.

@@ -41,7 +41,7 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | The 1873 imprint on Nathaniel | Eldgard | Ep 2 cold open (as a nightmare), Ep 6 in full | Nathaniel: Ep 6 |
 | The 1873 imprint on Jamie, and that Morgana sent her | Morgana | Ep 9 | The Lost One: Ep 9 |
 | Eldgard plans to put the Lost One in the pod | Eldgard, Josephine | Ep 4 tag | Nathaniel: Ep 8 |
-| Alice was hired to get close to Nathaniel | Josephine, Grise, Alice | Ep 2 | Nathaniel: Ep 8 (Alice tells him herself) |
+| Alice was hired to get close to Nathaniel | Josephine, Grise, Alice | Ep 2 | Nathaniel: Ep 6 (Alice tells him herself, the night they get together) |
 | Miriam drowned their stepfather to join the Vykra | Grise (Miriam is dead) | Ep 6 | Alice: Ep 6 (Grise); confirmed Ep 7 (the Lost One) |
 | Josephine killed Miriam | Josephine; Jennie (witness) | Ep 2 (she burns her gloves). Played as dread, not a twist | Alice: Ep 8, after her return |
 | The Lost One isn't Miriam | The Lost One | Ep 1 | Jennie: Ep 2 threshold (saw Miriam fall; recognizes the impossible return). Grise: Ep 4 (the hand-sign). Josephine: Ep 6 (from Alice’s reports and Grise’s test). Alice: Ep 7, told by the Lost One just before Nathaniel hears the Jamie confession |

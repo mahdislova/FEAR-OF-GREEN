@@ -1,5 +1,7 @@
 # Morgana
 
+**Stays in the background. Until she is freed, she is helpless.**
+
 **Role:** the being at the core.
 **Look:** to be written. Never fully seen until late in the season.
 

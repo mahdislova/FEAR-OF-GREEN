@@ -6,7 +6,7 @@
 - The Lost One asks Alice to bring Nathaniel back when it is safe. She gives him both drawings. He now has evidence she knows the inside of the ornament. How they arrange a safe return remains to be broken.
 - **Imprint reveal #1:** the full 1873 night. His genius was planted; his father erased him.
 - Byron tells Nathaniel what the light is: a woman in a pod under the Works. "You were always enough."
-- Nathaniel and Alice: the night they finally stop circling, while his concealed Frost Killer and her concealed contract remain between them.
+- Nathaniel and Alice: the night they finally stop circling. **That night Alice tells him herself that his mother hired her to get close to him: paid at first, never after.** It costs her with him going into Ep 7.
 - Josephine follows up on Alice’s reports through Grise. Grise has tested the returned Miriam herself. Josephine connects the timing to the escape from the ornament and pays to silence Jennie. Open beat: the precise detail Alice believes safe to report.
 - **Alice's hunt reaches Grise.** Grise, out of cruelty, tells her what Miriam paid to join the Vykra: their stepfather, drowned at sixteen. Alice walks home with it.
 - **Tag:** Eldgard orders the East End cut to keep the West lit. The green left in the severed Gin Lane branch goes unstable. The washhouse block explodes. Byron survives inside the crystal shield cast by Eldgard’s ring.

@@ -6,7 +6,7 @@ The light is a living thing in a freezer, and the Hardings got it by breaking a 
 ## The engine
 The light is dying. Morgana has been drained for over a century and is failing. The Works' engineers watch the yield fall; the lamps flicker; London doesn't know why. When she dies, the Hardings mean to put her child in the pod in her place.
 
-**In the east it's already happening.** Nixon reports (Ep 2) village after village frozen in ice, their heat and power source faded. Open: is this only the cold of a failing light, or something stranger?
+**In the east it's already happening.** Nixon reports (Ep 2) village after village frozen in ice, their heat and power source faded. These are the failing light at its edges. Eldgard reads them as the beginning of the end of his power. He always knew this day would come, so he keeps up a front and tries to control the narrative.
 
 **Clock card:** every episode opens on THE LIGHT HAS 49 DAYS (counting down).
 
@@ -50,8 +50,9 @@ Eldgard traps it in an **ornament**, a piece of the ship's containment, and mesm
 2. It can take a body at the moment of death. That is how it became the Lost One, in Miriam.
 3. It carries what the dying hold most. It left Jamie carrying his thought of Miriam at the bridge. It took Miriam as she died, and Miriam's last thought was Alice.
 4. Its cold is the cryo energy it was soaked in. It comes out when she feels too much or chooses to use it, and it kills by touch. The cold holds Miriam's body exactly as it was in the river.
-5. Miriam's memories return to her one at a time, never in the order she'd choose, and the heaviest comes last. Glimpses of what she actually is come too: her mother's voice, a sky she has never seen.
-6. Harding technology can contain her cold. That is why Nathaniel's workshop can hide her.
+5. **The cold takes a toll on Miriam's body.** After every burst she bleeds from the nose. Until she learns to control it, she is at the mercy of its consequences.
+6. Miriam's memories return to her one at a time, never in the order she'd choose, and the heaviest comes last. Glimpses of what she actually is come too: her mother's voice, a sky she has never seen.
+7. Harding technology can contain her cold. That is why Nathaniel's workshop can hide her.
 
 **Mesmerism.** Victorian mesmerism is real in this world but small: a swinging light, a quiet voice and a frightened child. It buries memories; it doesn't create them.
 
@@ -78,6 +79,9 @@ Eldgard traps it in an **ornament**, a piece of the ship's containment, and mesm
 
 ## Places
 Harding House (Mayfair): the study, the servants' stair. The Harding Works over Tyburn, with the core and the pod below. Nathaniel's workshop. Gin Lane and the East End. The bridge where Miriam dies. The Shadwell laundry. Lambrick House. Newgate. Parliament.
+
+## Morgana
+She stays in the background. Until she is freed, she is helpless.
 
 ## The ship
 Never seen whole until the finale. Pieces of it live inside the Works machinery. The ornament is one. In Episode 10 a ship comes for Morgana.

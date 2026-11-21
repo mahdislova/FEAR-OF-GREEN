@@ -19,6 +19,10 @@ The light is a living thing in a freezer, and the Hardings got it by breaking a 
   Eldgard traps it in an **ornament** and mesmerises Nathaniel with a swinging lantern so the memory becomes a dream.
 
 ## Rules
+- **The season's question:** is keeping someone the same as loving them?
+- **The cold's toll:** after every burst the Lost One bleeds from the nose; until she controls it she's at the mercy of its consequences.
+- **Morgana stays in the background.** Until she's freed, she's helpless.
+- **The frozen villages** are the failing light at its edges. Eldgard reads them as the end of his power coming, keeps up a front and tries to control the narrative.
 - **The light is dying.** Morgana has been drained for about a century and is failing. That's the season's clock, and it replaces the old Tithe.
 - **The Lost One is the replacement.** Eldgard means to put the offspring in the pod when the mother dies.
 - **The Harding aura.** An Alistair recipe that keeps Hardings from betraying the secret. It persuades rather than compels: it amplifies loyalty and dulls doubt, so Eldgard's choices are still his own. It works on Harding blood only, so Josephine and Nixon are outside it. Jamie's imprint made him immune. The finer rules (proximity, exposure) were proposed but should be confirmed.
