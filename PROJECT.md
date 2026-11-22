@@ -32,7 +32,7 @@ A ten-episode gothic drama. London, November 1889. The whole city glows green, a
 - The writer's plot twist: given and placed. Hector orders Tamara killed; Ajax sells him to her; she kills him in the Gin Lane crater (Ep 9 tag).
 - **Ep 3:** the cold open: the Essex marsh line, Nixon's scarf.
 - ~~Byron's secret~~ dropped. Ep 5 is titled **The Second Statement**.
-- **Ep 7 staging:** Nathaniel arrives at the Bounds room from Ren's table. Still thin: how the Lost One gets from the riot to the Bounds room isn't shown.
+- **Ep 7 staging:** Nathaniel arrives at the Bounds room from Ren's table. The Lost One walks home from the riot on Miriam's feet and waits on the stair without a key ("The stair").
 - The tag at the end of Episode 9: Tamara kills Hector in the Gin Lane crater. (The fracture across Morgana's glass closes the vault scene before it.)
 - Josephine's fate: Grise takes her downriver in the first dark night (Ep 10). They flee together. Season 2.
 - The scale and staging of the ship's damage in Episode 10: it comes down over Tyburn; its wake tears off church spires and brings chimneys down across Fleet Street.

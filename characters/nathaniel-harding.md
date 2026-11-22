@@ -26,3 +26,7 @@
 - **Jamie:** the brother he grieves. Found him bleeding out (Ep 1). Shelters the woman accused of killing him; learns the truth from her in Alice's presence (Ep 7).
 - **Tamara:** the fiancée of a merger; married in Ep 8 to buy coal for the freezing East.
 - **The aura:** least exposed of any Harding. Being unwanted kept him free.
+
+**The two endings he gets (Eps 9–10).**
+- **The question his father never answers.** "Did you ever see a son? Or did you just see the lock?" Eldgard opens his mouth, and Morgana's palm hits the glass (Ep 9). In Ep 10 he stands in front of his father sealed in crystal, eyes still moving. "You were going to tell me." He never will. Byron turns him away.
+- **His mother.** On a cellar step in the first dark night Alice tells him Josephine killed Miriam, and that she left her alive. He takes her burned hand in his ruined one. At Harding House the jewel case is empty and Jamie's photograph is still on the mantel: she took the pearls and left her son.

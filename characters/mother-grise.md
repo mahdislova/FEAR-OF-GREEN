@@ -12,5 +12,5 @@
 - **Ep 6:** the two-hander with Josephine ("You were the one holding the knife"). Takes Josephine's money to remove the witness. Tells Alice what Miriam paid to join, as cruelty.
 - **Ep 7:** sends a man after Jennie, her own best girl.
 - **Ep 7:** Garrow is found frozen at the basin and Jennie walks away. Grise crosses his name out and doesn't write Jennie's; her girls watch her do nothing.
-- **Ep 9:** Jennie signs her statement naming Josephine. Grise burns the bridge-night page (the one Alice couldn't read in Ep 6) and finds she'd need to burn every page.
+- **Ep 10 (first):** Jennie's statement naming Josephine reaches the laundry. Grise burns the bridge-night page (the one Alice couldn't read in Ep 6) and finds she'd need to burn every page.
 - **Ep 10, the end of her arc:** in the dark her laundry empties. Her protection was the one thing she sold that her girls needed, and tonight it's worth nothing. She walks to Mayfair and takes Josephine out of London: "Vykra look after their own, love. When it pays." A new pair of gloves, the knot inside. They go downriver with the Harding pearls. Survival was always her only loyalty. Season 2: loose with the richest client in England and every secret in London.

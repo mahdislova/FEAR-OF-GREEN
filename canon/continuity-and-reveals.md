@@ -62,7 +62,9 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Eldgard is alive inside the gallowglass | Morgana | Ep 10 | The Royal Engineers, at dusk (Ep 10). London: Season 2 |
 | Hector ordered Tamara killed | Hector, Ajax | Ep 9 | Tamara: from Ajax, before the tag (off screen; the audience learns it in the crater) |
 | Tamara killed Hector | Tamara, Ajax | Ep 9 tag | London blames the East (Ep 10). Lord Lambrick: suspects at dawn (Ep 10) and never asks. Nixon: Season 2 |
-| Josephine fled with Grise | Josephine, Grise, a waterman | Ep 10 | Alice: Season 2 (she left Josephine for the law) |
+| Josephine fled with Grise | Josephine, Grise, a waterman | Ep 10 | Nathaniel: finds the empty jewel case that night (Ep 10). Alice: Season 2 (she left Josephine for the law) |
+| Josephine killed Miriam (Nathaniel) | — | — | Nathaniel: Ep 10, from Alice on the cellar step |
+| Marsh died at the wheel | The two core guard | Ep 9 | Nixon: Ep 10, when he finds the body |
 | The Crown means to enter the vaults | The Duke, Eldgard | Ep 6 (the ultimatum) | Everyone: Ep 9 (the warrant) |
 | The Hargrave massacre | Eldgard, Ada, Marsh | Ep 8 cold open | Nixon: Ep 8 |
 | Marsh is Nixon's uncle | Ada, Marsh | Ep 4 (hinted) | Nixon: Ep 9 |
@@ -122,9 +124,13 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Lord Lambrick: "Hector will have it. You'll be the one who keeps him alive." (Ep 7) | "Don't make me regret the one who lived." (Ep 10) |
 | Tamara does up Hector's cuff on her wedding morning; he shares his breakfast (Ep 8) | She does up his cuff as he dies (Ep 9 tag) |
 | Lord Lambrick sends for his lawyer, and for Tamara alone (Ep 9) | It's what makes Hector order the hit (Ep 9) |
-| Grise's bridge-night page Alice can't read (Ep 6) | Grise burns it when Jennie signs (Ep 9) |
+| Grise's bridge-night page Alice can't read (Ep 6) | Grise burns it with her last match when Jennie's statement reaches her (Ep 10) |
 | Josephine burns her gloves while Grise stitches a knot (Ep 2) | Grise hands Josephine a new pair, knot inside, and takes her downriver (Ep 10) |
 | Eldgard put the lock's mind in Nathaniel (Ep 6); he asks his son to turn it (Ep 9) | Nathaniel turns it the other way (Ep 10) |
+| "Did you ever see a son? Or did you just see the lock?" Cut off by Morgana's palm (Ep 9) | "You were going to tell me." The crystal father can never answer (Ep 10) |
+| Ada sends Marsh his spectacles, mended with thread (Eps 4–5) | He dies in them at the wheel (Ep 9); Nixon keeps them (Ep 10) |
+| Byron's years as a guard of the core; the ring (Eps 5–6) | He comes through the core guard's stair and talks half the guard down (Ep 9) |
+| Miriam's feet know the throw (Eps 1–2, 7) | They walk the Lost One home to a door she has no key for (Ep 7) |
 | Byron sealed alive in the ring's green shell (Ep 6) | Morgana keeps Eldgard in gallowglass, alive (Ep 10) |
 | The Duke's warrant: engineers at dusk (Ep 9) | They find Eldgard in crystal beside the empty pod (Ep 10) |
 | Under the bed: "At fifty we run" (Ep 7 cold open) | Alice's love as holding on: "You're mine" (Ep 9); she lets go at the ship (Ep 10) |

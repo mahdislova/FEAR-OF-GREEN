@@ -145,3 +145,16 @@ The writer's vision: Hector is Tamara's older (half-)brother, and their dying fa
 | 10 | The one who lived | "And Gin Lane?" "The East had every reason, Father." He signs her heir anyway. |
 
 The writer's own filed scenes changed only where the relationship words had to: Ep 2 ("her brother", twice), Ep 5 ("her brother"; "Then you're family asking his friend"), and Ep 8 (Lord Lambrick in his chair; "his sister", twice). Everything else in those scenes is untouched.
+
+---
+
+## Fourth pass (22 Nov): the readiness gaps
+
+- **Ep 7, "The stair":** the Lost One walks home from the riot on Miriam's feet and waits on the top step with no key; Miriam's key is in the river. Alice unlocks the door and leaves it open.
+- **Ep 9, "Yes":** Nathaniel asks, "Did you ever see a son? Or did you just see the lock?" Eldgard opens his mouth, and Morgana's palm hits the glass. The answer never comes.
+- **Ep 9, "The wheel":** Marsh dies holding the cleaning wheel, unseen, in Ada's spectacles. Byron comes through the core guard's stair in his old coat, saves Alice, and talks half the guard down.
+- **Ep 10:**
+  - Nathaniel stands before his crystal father: "You were going to tell me." Byron: "He's had all of you he's getting."
+  - Nixon keeps Marsh's spectacles: the last Hargrave.
+  - **"What your mother did":** Alice tells Nathaniel on a cellar step, with burned hand in ruined hand. Harding House is empty except for Jamie's photograph.
+  - Grise's page-burning moves here from Ep 9 to lighten that episode.

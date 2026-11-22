@@ -9,3 +9,5 @@
 - **Ep 9:** broken out by Nixon, with Ada's blood on his cuffs. Nixon learns he's his uncle.
 
 Unset: arrest date.
+- **Ep 9, his death:** when Eldgard orders the draw restarted, two core guard come for the cleaning wheel. Marsh puts his arm through the spokes and won't come off. "I've stood here before you were born, son. I'll stand here after." They kill him; his body jams the wheel, and the draw stays stopped. Nobody sees him die. He's wearing the spectacles Ada sent him.
+- **Ep 10:** Nixon frees his body from the wheel and keeps the spectacles, mended with Ada's thread. Nixon is the last Hargrave.

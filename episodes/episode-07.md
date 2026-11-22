@@ -72,9 +72,19 @@ She holds out her hand through a fold of her coat. Jennie watched Miriam go over
 
 In Shadwell that night Grise hears that Garrow was found frozen at the canal basin and Jennie walked away from it. She crosses Garrow's name out of the ledger. She doesn't write Jennie's anywhere. At the tubs the women have heard too; for the first time, they watch Grise to see what she'll do, and she does nothing.
 
-### 8. You're not her
+### 8. The stair
 
-The Bounds room. Alice brings home what Grise told her about their stepfather. The Lost One confirms it from Miriam's memory, then tells Alice the truth: Miriam died at the bridge; the one before her entered Miriam's body and carries her memories.
+At the end of the basin Jennie lets go of the hand as if it burns, and runs. The Lost One doesn't follow her.
+
+She walks home through an East End with no lamps, holding her sleeve to her nose. Nobody stops her; nobody can see her face. Twice she takes the wrong turning, and twice her feet correct it: Miriam's feet, which know these streets the way they knew the throw. Gin Lane. The stair. The door.
+
+She has no key. Miriam's key is at the bottom of the river. So she sits down on the top step with her back to the door, the way a child waits for a sister who is late, and puts her bleeding face on her knees.
+
+That's where Alice finds her an hour later, coming home from Ren's with what Grise told her still in her mouth. Alice stands on the landing below and looks at her for a long time. Then she climbs past her, unlocks the door and leaves it open. After a while the girl gets up and comes in.
+
+### 9. You're not her
+
+The Bounds room. Alice tells her what Grise told her about their stepfather. The Lost One confirms it from Miriam's memory, then tells Alice the truth: Miriam died at the bridge; the one before her entered Miriam's body and carries her memories.
 
 "You're not her."
 
@@ -86,17 +96,17 @@ Nathaniel waits for the part where somebody tried to help his brother. She has r
 
 He reaches left-handed for the device. She tells him where the Hardings will put her if he gives her up: in her mother's pod. He saw the way in as a boy, in 1873. He remembers enough to be frightened of believing her. "Alice. Hold her still."
 
-### 9. The door
+### 10. The door
 
 The first time he used the device, he waited for the girl to offer one finger. This time Alice opens the door. "Go to Jennie. Tell her I sent you." The girl picks up Alice's coat as well as her own. For a second Alice lets her hold it. Then she takes it out of her hands and hangs it back on the peg. "I need you to go."
 
 She goes alone. Nathaniel gets as far as Alice. To follow he would have to pull her out of the doorway. He hears the last footstep downstairs and lowers his hand.
 
-### 10. After she goes
+### 11. After she goes
 
 "You could see what it was doing to her," Nathaniel says. "Could you see what it was doing to me?" Alice says yes. "And you opened the door." "I did." Alice draws up a chair. "I can stay a bit." He looks at the coat on the peg. She stayed for him, and right now he can't bear to be grateful for it. "I'd rather you went." She takes her coat. After she's gone, he sits in the chair she pulled out.
 
-### 11. Her terms
+### 12. Her terms
 
 Eldgard's study. The East is freezing. Tamara comes with her family's coal and her own terms: coal to the East tonight, the wedding on Saturday. Eldgard agrees.
 
@@ -116,16 +126,16 @@ Hector goes down to see the carts off. Their father keeps hold of Tamara's wrist
 
 He lets go. She tucks the blanket round his knees, the way the nurse never does it properly, and goes out with the orders under her arm.
 
-### 12. The rest is me
+### 13. The rest is me
 
 The rented room. Nixon is waiting. "You chose this." "I chose the East getting coal tonight. The rest came with it." "The rest is me." She doesn't answer. His coat is still on the hook where he left it the night of the toast. She takes it down and holds it out. He takes it, because it's freezing.
 
-### 13. That night
+### 14. That night
 
 Jennie opens her door over the dyehouse expecting Alice. The girl is standing there alone. "She said you'd let me in." Jennie takes the wet coat. There's only one chair. She gives it to the girl and sits on the floor against the door.
 
 At Harding House Nathaniel hears Tamara's terms: the marriage on Saturday will secure coal for the East. "Tell Tamara I'll be there. Has the first cart gone?" He waits for an answer about the cart before he goes upstairs.
 
-### 14. The overnight step
+### 15. The overnight step
 
 Before dawn Jennie sends word: the girl is bleeding from the nose and it won't stop. It's the cost of the cold she used to save Jennie, and to save Nathaniel. Alice asks the messenger whether the girl wanted her sent for. He doesn't know. She goes anyway.

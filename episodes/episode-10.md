@@ -10,12 +10,15 @@
 
 **Background:** Alice spares Josephine; Grise's laundry empties, and she and Josephine flee together; Tamara's coup, with Ajax at her side; Nixon leads the Guard for London.
 
-**Not in this episode:** Hector (dead, Ep 9; Lord Lambrick appears), Marsh, Byron, the chief engineer. (Jennie appears only in the last scene.)
+**Not in this episode:** Hector (dead, Ep 9), the chief engineer. Marsh appears only as his body (he died in Ep 9). Lord Lambrick appears. (Jennie appears only in the last scene.)
 
 - Morgana is dying. Eldgard moves to put the Lost One in the pod. **He asks Nathaniel to turn the lock (Ep 9). Nathaniel turns it, the other way.**
 - Alice confronts Josephine and doesn't kill her. Here Alice learns the last layer: Josephine knew who she was from the first day. "I chose you so I'd have to look at you." Alice's mercy lands harder because Josephine never spared herself.
 - Nathaniel uses the knowledge planted in 1873 to open the pod. His ruined hand can't work the lock alone; it takes Alice's hand on it too. "Us" at the lock: both of them choose it, and he literally can't do it without her. The Lost One lays her palm on the glass, and her mother's meets it from inside; the lock wants both of them. (Ep 9: "Opening Morgana’s pod still takes Nathaniel and the Lost One.") Opening the pod releases the beacon Alistair silenced.
 - Morgana goes free. Her vengeance: Eldgard. She doesn't kill him; she keeps him. One touch and he turns to gallowglass where he stands, alive, eyes open: the keeper kept, sealed the way the ring sealed Byron, for ever. London goes dark. At dusk the Royal Engineers come down under the Duke's warrant and find him.
+- **The question that never gets answered.** Nathaniel stands in front of his father in the crystal: "You were going to tell me." The eyes can't move. Son or lock, the answer is sealed in green for ever (set up in Ep 9). Byron turns him away: "He's had all of you he's getting."
+- **Nathaniel learns what his mother did.** On a cellar step in the first dark night, Alice tells him Josephine killed Miriam, and that she left her alive. He takes her burned hand in his ruined one; their last scene together this season. At Harding House he finds the jewel case empty and Jamie's photograph left behind: she took the pearls and left her son.
+- **Nixon and Marsh.** Nixon frees his uncle's body from the wheel and pockets the spectacles, mended with Ada's thread. The last Hargrave.
 - **Why Alice goes to Josephine:** Morgana leaves the Works with her child, and the Lost One walks beside her mother without looking back. (She isn't leaving Alice yet; her mother's voice fills her head. But Alice can't know that, and neither can we. The doubt is what makes the ramp land.) Alice thinks she has lost her sister twice. With nothing left to keep, she goes to the woman who took the first one.
 - **Grise's ending.** In the dark the laundry's women walk out one by one; her protection was the only thing she sold that they needed, and tonight it's worth nothing. Jennie's statement will reach the rendezvous she sold. Grise takes her purse and goes to Mayfair. After Alice has gone, she comes for Josephine: "Vykra look after their own, love. When it pays." Josephine fills a pillowcase with Harding jewels and leaves with her. They go downriver in the dark, the only road in London with no lamps to miss. Season 2: the old knife and the matriarch, loose in the world with a fortune and every secret.
 - **The answer to "You're mine" (Ep 9).** At the ship they choose each other. Alice chooses her knowing she isn't Miriam ("I don't want my sister back. I want you."), and then doesn't hold on: she offers the Lost One the ship and means it. The Lost One chooses Alice freely. That's the season's question answered: the Lost One stays because she was free to leave. "I choose the cold with you."
@@ -40,7 +43,7 @@ His mechanic holds out the key and asks how they are to record her consent. Alis
 
 ### 2. Turn it
 
-The pod chamber, minutes after the fracture. Morgana is dying; the yield needle on the gallery sinks toward nothing. Dusk is hours away and the engineers will come at dusk. Eldgard calls the core guard down: begin the transfer. Two attendants wheel the Lost One's frame toward the pod's feed. Nixon goes up the gallery stair into the guard.
+The pod chamber, minutes after the fracture. Morgana is dying; the yield needle on the gallery sinks toward nothing. Dusk is hours away and the engineers will come at dusk. Eldgard calls the core guard down: begin the transfer. Two attendants wheel the Lost One's frame toward the pod's feed. Byron and Nixon hold the gallery stair against the guard who didn't stand down. In the draw room below, the wheel stays where Marsh's body holds it.
 
 "Turn it, Nat," Eldgard says. "The lock knows you."
 
@@ -54,6 +57,14 @@ Somewhere in the machine a signal Alistair held down for a hundred years comes f
 
 The pod opens in a flood of green. Morgana steps out onto the plates, too weak to stand straight and still terrible to look at. Eldgard doesn't run. She crosses to him and lays her palm on his chest. Frost chimes through him. His skin, his hands, his face go to gallowglass, and he stays standing where he was. His eyes are still moving. She doesn't kill him. She keeps him, the way he kept her. "Now you know."
 
+Nathaniel walks across the wet plates and stands in front of what his father has become. The crystal is perfectly clear. Inside it Eldgard's eyes find him, and stay.
+
+"You were going to tell me," Nathaniel says. "Just then. Before she hit the glass. You were finally going to tell me."
+
+The eyes don't move. They can't. Whatever the answer was, son or lock, it's sealed in green with the man who knew it, for as long as gallowglass lasts. Nathaniel waits anyway, the way he waited at the end of the table for twenty years.
+
+A hand on his shoulder. Byron, with blood on his old coat. "Come away, Master Nat. He's had all of you he's getting." Nathaniel lets himself be turned round.
+
 Across London the Ring dies street by street. Bridges, the Parliament towers, the hospitals, the docks. Three million people in the dark, and the cold comes in behind it.
 
 ### 4. She goes with her mother
@@ -63,6 +74,8 @@ Morgana gathers her child out of the broken restraints. The Lost One rises and g
 ### 5. The laundry empties
 
 The Shadwell laundry in the dark. The stoves are out and the tubs are freezing. The women put on their coats one by one and go home to whoever they have. Nobody asks Grise's leave. Her protection was the only thing she sold that they needed, and tonight it's worth nothing. One of them stops at the door. "Jennie's not coming back either, Mother." Grise nods as if she'd ordered it.
+
+Word came at noon from the Guard desk: Jennie has signed a statement naming Josephine Harding for Blackwood Bridge, and the rendezvous Grise sold leads straight back to this room. Grise opens the ledger to the bridge night, the page in her private marks that Alice couldn't read, tears it out along the spine and feeds it to the dead stove with her last match. Then she looks at the rest: every sale, every girl, every price. There isn't a stove in London big enough.
 
 She takes her purse out of the floor and leaves the ledger on the table for whoever finds it. She walks west, toward Mayfair.
 
@@ -84,13 +97,37 @@ The dark kills, and we watch it. A family on a stair in Shadwell who burned thei
 
 Through it Nixon leads the Guard with oil torches, carrying people up out of flooded cellars. For London, not for the Hardings. At one cellar mouth Nathaniel takes the other end of a stretcher, left-handed. Nixon lets him. Neither of them says Ada's name, or the map's, or Jamie's. They carry the stretcher up the steps together and go back down for the next one. Changed, not restored.
 
+Later Nixon goes down alone into the draw room. Marsh is still on the wheel, his arm through the spokes. Nixon gets him free and lays him on the plates. The spectacles have slipped. One arm is mended with thread, Ada's thread. Nixon folds them and puts them in his breast pocket, next to the Hargrave pages. He killed the one this morning and was too late for the other. He's the last of them now. He goes back up to the cellars.
+
 At dusk, as the Duke's warrant promised, the Royal Engineers come down into the Works with lanterns. They find the pod open and empty, and the master of the house standing beside it in green crystal. His eyes follow their lanterns.
 
-### 8. The ship
+### 8. What your mother did
+
+A cellar step in Shadwell, between stretchers. Nathaniel sits with his ruined hand in his lap and soot to the elbow. Alice comes down the street out of the dark and sits beside him. She has come from his mother's house. She tells him so.
+
+He waits. He has learned this season that the worst things come after a pause.
+
+"Your mother killed my sister. On Blackwood Bridge, the night Jamie died. She went to stop Miriam taking him away, and she put her over the rail. Jennie saw it. She hired me knowing whose sister I was. She told me so tonight: so she'd have to look at me."
+
+He doesn't say *no*. He doesn't say *she wouldn't*. He has been a Harding long enough to know she would. He looks at Alice's hands. They're burned from the wheel, and there's no blood on them.
+
+"You didn't—"
+
+"I wanted to. I had the knife out." Alice watches the torches go by. "I left her alive. I wanted to be someone who could."
+
+He takes her burned hand in his ruined one. Neither of them can close their fingers properly. It's the most honest thing either of them has held all season. They sit like that until Nixon calls down the steps for the next stretcher, and then they both get up.
+
+Harding House, past midnight. The drawing room is cold. One candle has burned down to the saucer. The jewel case stands open and empty on the settee. On the floor by it lie two burned matches and an old pair of evening gloves with no knot in them.
+
+Jamie's photograph is still on the mantel. She took the pearls and left her son.
+
+Nathaniel stands in his mother's empty room for a long time. Then he goes out onto the terrace, because it's the only place in the house he can still breathe.
+
+### 9. The ship
 
 Called by the beacon, the ship comes down through the cloud over Tyburn. The first thing anyone sees whole of it is its shadow. Its wake tears the spires off churches and brings chimneys down across Fleet Street. It settles over the old gallows field and lets down a ramp of white light. Morgana goes up it, and at the top she waits for her child.
 
-### 9. The depots
+### 10. The depots
 
 The Lambrick depots in the East End, under torches. The coal has been moving on Tamara's orders since Ep 7. Now she opens every depot to the East for nothing, under her own name. A coup, not charity.
 
@@ -100,7 +137,7 @@ From the Harding terrace Nathaniel watches the Lambrick carts go by. His righteo
 
 Across the frozen street from the depots, Nixon leads the Guard for London, wearing the coat she relined. Tamara sees him. He sees her. She holds his worst act; he doesn't know hers. Neither crosses.
 
-### 10. The one who lived
+### 11. The one who lived
 
 Lambrick House before dawn, by candle; even here the gas is dead. Lord Lambrick is propped up in bed with the lawyer's papers on the counterpane. They told him at midnight that his son was found in Gin Lane with a knife in him. He hasn't slept.
 
@@ -120,7 +157,7 @@ He opens his eyes and looks at her for a long time. She lets him. It's the first
 
 She kisses his forehead and goes out. On the landing she stands still for a moment with the paper against her chest. Then she folds it once and puts it inside her coat, next to the audit.
 
-### 11. She stays
+### 12. She stays
 
 Tyburn field in the snow. Alice comes through the drifts to the foot of the ramp. The Lost One is halfway up it. Her mother waits at the top.
 
@@ -132,6 +169,6 @@ The Lost One looks up at the ship, then back at Alice: the one person in London 
 
 Hold on Morgana long enough for hope to give way to understanding. She watches her child settle beside Alice. She sees the decision and lets the ship depart in silence. The Lost One's hand finds Alice's in the cold.
 
-### 12. The orange
+### 13. The orange
 
 Dawn over a colourless city. Black coal smoke over the snow. Jennie's room over the dyehouse, the stove lit with Lambrick coal. There's still only one chair. Jennie gives it to the Lost One, wraps a blanket round her shoulders and talks about soup. Alice sits on the floor against the door and peels an orange in one long strip, the way Miriam did. She breaks it in half and gives one half to the girl.

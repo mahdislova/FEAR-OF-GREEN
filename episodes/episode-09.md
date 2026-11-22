@@ -2,15 +2,15 @@
 
 **Cold open:** 1873, the offspring's side. Jamie's room first.
 
-**In short:** Nixon kills Ada to protect the break-out, frees Marsh from Newgate and storms the Works with Nathaniel and Alice. Eldgard confesses. The Duke ends the Hardings in law and humiliates Hector in front of the clerks. Hector, feeling the heir's chair slip, orders his sister killed. Tamara kills him first.
+**In short:** Nixon kills Ada to protect the break-out, frees Marsh from Newgate and storms the Works with Nathaniel and Alice. Eldgard confesses. The Duke ends the Hardings in law and humiliates Hector in front of the clerks. Hector, feeling the heir's chair slip, orders his sister killed. Tamara kills him first. Marsh dies holding the wheel; Byron comes back for the boy he raised.
 
 **Change:** the truth is spoken aloud.
 
 **Foreground:** Nixon: Ada's death, Marsh, storming the Works, "Did you love me?"
 
-**Background:** The Lost One and Morgana (reveal #2); Eldgard's confession; the Duke's warrant; Grise burns the bridge night; Tamara covers Ada, then outplays her father.
+**Background:** The Lost One and Morgana (reveal #2); Eldgard's confession; the Duke's warrant; Nathaniel's unanswered question; Marsh dies at the wheel; Byron comes back for the boy he raised; Tamara covers Ada, then outplays her brother.
 
-**Not in this episode:** Josephine, Byron, the chief engineer.
+**Not in this episode:** Josephine, Grise, the chief engineer.
 
 - **Opening:** the servants' stair. Ada is on her way to report Nixon. The lamp smashes. After Ada dies, Nixon rights the lamp out of the habit of saving her a job. He has promised to carve on Sunday. For a few seconds he stands there with the lamp in his hands.
 - At Newgate Marsh tells Nixon he is his uncle. As a Hargrave servant boy he entered the Works by freight and helped close its draw every cleaning day. He can get them in and shut down the extraction. Nixon breaks him out with Ada’s blood on his cuffs.
@@ -21,7 +21,9 @@
 - **The Duke's warrant, in person.** The Duke comes to the Works gate himself. A Privy Council warrant suspends the Harding Charter; the Royal Engineers will enter the vaults at dusk. Hector has come to claim the Crown's emergency coal. In front of the clerks and the engineers the Duke gives it to Tamara instead, because the East's carts already run on her name. Ep 4's question comes back to Hector: the Duke asks his own in public, and Hector has no answer. (The Duke's track: his word in Ep 2, broken in Ep 4, the ultimatum in Ep 6, the warrant in Ep 9.)
 - **Why Eldgard talks instead of seizing them.** Alistair's lock answers one mind, and Eldgard put that mind in Nathaniel in 1873. The transfer needs the lock turned. He comes alone because he needs his son willing. His numbers are his case for why Nathaniel should turn it. In Ep 10 Nathaniel does turn it, the other way.
 - **Alice's lie, out loud.** When the Lost One asks whether her love was a plan, Alice answers the way she's always loved: by holding on. "I don't care whose plan it was. You're mine." It's the wrong answer, and Ep 10 is where she learns the right one.
-- **Grise burns the bridge night.** Jennie's statement names Josephine, and the rendezvous Grise sold leads back to the laundry. Grise tears the bridge-night page out of her ledger (the page Alice couldn't read in Ep 6) and burns it.
+- **Nathaniel's question, unanswered.** After "Yes", Nathaniel asks his father whether he ever saw a son or only the lock. Eldgard opens his mouth, and Morgana's palm hits the glass. The shriek, the lamps bursting, the fracture. Eldgard turns to the pod, and the answer never comes. In Ep 10 he will never be able to give it.
+- **Marsh dies at the wheel.** Eldgard orders the draw restarted. Two core guard go to the draw room. Marsh puts his arm through the spokes and won't come off. They kill him, and his body jams the wheel; the draw stays stopped. The kept Hargrave holds the Hardings' machine still with his own weight, wearing the spectacles Ada sent him (Eps 4–5). Nobody sees him die.
+- **Byron comes back.** Through the old core guard's stair, in his thirty-year-old guard's coat, Byron puts a guard into the wall before his blade reaches Alice. Half the guard he trained. "I said nothing for sixteen years. I'm done saying nothing." Enough of them stand down. The butler who chose the boys over the master (Ep 6) finishes the choice.
 - **The plot twist: Hector orders his sister killed.** The Duke humiliates him at the Works gate and gives the Crown's coal to Tamara. Then a runner: their dying father has heard, and has sent for his lawyer, and for Tamara, alone, tonight. Hector feels the chair he was promised since birth go out from under him, and crosses the line: he orders Ajax to take her out. That afternoon Ajax brings word that it's done. Hector asks for proof. Ajax takes him to the Gin Lane crater, and someone puts a blade in Hector's back. It's Tamara, simply returning the favour. "Ajax— why?" "Everyone has a price, sir. Sorry." Ajax's price was paid long ago: she wrote his dead men's names (Ep 3), and the carts have run on her orders since Ep 7, when he took the first one east. She has known about the audit since Ep 7. Her monologue: she looked up to her big brother; she would have stood at his shoulder for ever; "I would have lived in peace, brother. You brought war to my doorstep."
 - **Tamara's track.**
   - *The servants' stair (Ada's aftermath):* she's the one who finds Ada. Nixon is standing over her with the lamp in his hands and blood on his cuffs. She understands in one look. She takes the lamp from him, sends the footman away and tells the household Mrs Hargrave fell. "Tamara—" "Go. Whatever you're doing, go now." Love: she saves him. Power: she holds his worst act forever.
@@ -101,17 +103,11 @@ Ajax looks at him for a long moment. He has carried Hector's coat for eleven yea
 They land beside the valley freight line and ride the returning empties to Tyburn. Nathaniel and Alice are waiting at the terminus. Marsh finds his old height mark behind the weigh clerk’s hatch. His hand remembers the catch above it. He takes them through to the draw room and winds the cleaning wheel until the green silt settles. The extraction stops. The reserve lamps come on. They have bought time to reach the captive child. Opening Morgana’s pod still takes Nathaniel and the Lost One. The assault, imprint and Eldgard confrontation follow in this episode. 
 
 
-### 9. The bridge night
-
-The Shadwell laundry. A girl from the Guard desk brings the news to the tubs: Jennie, Grise's own girl, has signed a statement naming Josephine Harding for Blackwood Bridge. The women go quiet. Grise keeps ironing.
-
-When they've gone back to work, she opens her ledger to the bridge night, the page in her private marks that Alice couldn't read. Who sold the rendezvous, to whom, for how much. She tears it out along the spine and feeds it to the stove. Then she sits and looks at the other pages, all the sales she'd have to burn to be safe. There isn't stove enough.
-
-### 10. The pod chamber
+### 9. The pod chamber
 
 The silt gallery runs under the draw-room floor toward the pod. Marsh knows it in the dark; he cleaned it as a boy. He takes them as far as the grate and goes back to hold the wheel: if it turns again, the draw starts. They come up through a grate into the chamber. Morgana hangs in her pod, failing. Beside it, strapped in the second set of restraints, is the Lost One. The core guard are on the gallery above. Nixon puts himself between them and the others.
 
-### 11. Both boys, both seeds
+### 10. Both boys, both seeds
 
 With the draw stopped, Morgana is strong enough to speak. Her voice arrives in every head in the room, each in its own language. The Lost One did what she was told: both boys, both seeds. The elder to resist, the younger to understand the lock. And the woman on the bridge?
 
@@ -121,7 +117,7 @@ Alice is sawing at the straps. "I don't care whose plan it was. You're mine." Th
 
 Nathaniel finds the lock. The knowledge from 1873 knows exactly how it turns. His right hand doesn't. He tries left-handed and can't hold the pressure.
 
-### 12. Yes
+### 11. Yes
 
 The gallery door opens. Eldgard comes in alone, unarmed, with the night ledger under his arm. He tells the guard to stay where they are. He hasn't come to take his son. He's come to ask him.
 
@@ -131,7 +127,37 @@ Nixon steps into the light with Ada's blood on his cuffs. "Did you love me, or d
 
 Eldgard looks at him. "Yes."
 
-Nobody moves: the guard on the gallery, Nixon at the foot of the stair, Alice with her knife in the straps, Nathaniel at a lock he can't turn. Behind them, in the pod, Morgana lifts her hand to the glass. A hairline fracture runs across the pane.
+Nathaniel gets up from the lock. He has spent his whole life waiting to be asked into this room, and now he's in it, and his father is asking him for something. It should feel like being chosen. It feels like being picked up by the handle.
+
+"And me? When you looked at me, all those years at the end of the table. Did you ever see a son? Or did you just see the lock?"
+
+Eldgard opens his mouth. For once in his life he looks like a man about to tell the truth.
+
+Behind them, Morgana's palm hits the glass.
+
+The sound comes through every head in the chamber at once, a shriek with words folded inside it. The lamps along the gallery flare white and burst. A hairline fracture runs across the pane, and keeps running. Eldgard turns to the pod, and whatever he was going to say to his son goes with him.
+
+"Restart the draw," he tells the guard. "Now. Before she's strong enough to finish that."
+
+### 12. The wheel
+
+Two of the core guard go down the gallery stair toward the draw room. The rest come down into the chamber.
+
+The draw room. Marsh is on the cleaning wheel, both hands on the spokes, the way he stood every cleaning day for twenty years in a servant boy's apron. He hears boots on the iron and doesn't turn round.
+
+The first guard tells him to step away from the wheel. Marsh puts his arm through the spokes up to the shoulder. "I've stood here before you were born, son. I'll stand here after."
+
+They try to pull him off. He doesn't come. The second guard takes out his quench-blade. Short and ugly. Once. Twice. Marsh sags against the wheel, and the wheel moves a quarter-inch, and stops, because his arm is still through the spokes and his weight is on it. They try to turn it with him on it. It won't turn. He dies there, the kept Hargrave, holding the Hardings' machine still with his own body. His spectacles are still on, the ones Ada sent him, one arm mended with thread.
+
+The chamber. The guard are on them. Nixon takes the first on the stair and the second takes Nixon's legs out. Alice has her knife out of the straps and in the third man's forearm. The fourth gets behind her. His blade comes up.
+
+A door nobody looked at opens in the chamber wall: the old core guard's stair from the Works yard, the one Byron climbed every night of his years on the guard. A man in a faded guard's coat thirty years out of fashion comes through it, and he doesn't hurry. He takes the fourth man's wrist, turns it, and puts him into the wall. The guard on the floor look up and know him. Half of them he trained.
+
+He has been on his way down since breakfast, when the household was told Mrs Hargrave fell and Master Nat hadn't come home. "Stand down, lads," Byron says. "You know me. You know what's in that tank. I sat on the landing the night the master swung his lantern over a five-year-old boy, and I said nothing for sixteen years. I'm done saying nothing."
+
+They don't all stand down. Enough of them do. Byron puts himself between the rest and Alice, and holds out his hand to Nathaniel without looking round. "Master Nat. You'd best finish whatever it is you came to do."
+
+Behind them the fracture keeps running across the glass.
 
 ### 13. It's done
 
