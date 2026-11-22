@@ -140,7 +140,7 @@ The writer's vision: Hector is Tamara's older (half-)brother, and their dying fa
 | 6 | Two books | "Your sister had a chair at the Works." "I put her in it." "Did you." |
 | 7 | Her terms (the sickroom) | He makes Hector hand her the orders, then: "Hector will have it... You'll be the one who keeps him alive." |
 | 8 | The wedding (one line) | He can't walk; Hector gives his sister away. |
-| 9 | Take her out | The runner: their father has sent for his lawyer, and for Tamara, alone. Hector feels the chair go. |
+| 9 | The warrant | The runner reaches the gate with both of them standing there: their father has sent for his lawyer, and for Tamara, alone. Hector feels the chair go. |
 | 9 | Gin Lane | She does up his cuff (Ep 8) as he dies. "I would have lived in peace, brother." |
 | 10 | The one who lived | "And Gin Lane?" "The East had every reason, Father." He signs her heir anyway. |
 
@@ -158,3 +158,16 @@ The writer's own filed scenes changed only where the relationship words had to: 
   - Nixon keeps Marsh's spectacles: the last Hargrave.
   - **"What your mother did":** Alice tells Nathaniel on a cellar step, with burned hand in ruined hand. Harding House is empty except for Jamie's photograph.
   - Grise's page-burning moves here from Ep 9 to lighten that episode.
+
+---
+
+## Fifth pass (22 Nov): Episode 9, edited
+
+Down from 14 scenes and about 3,600 words to 11 scenes and about 2,900. Your four filed scenes are kept word for word.
+
+- **The header:** 18 bullets that retold the scenes became a three-line spine (Hargraves, Hardings, Lambricks: one Sunday, crossing at the Works gate) and a short beat list.
+- **A contradiction fixed:** "Bring the child down" was wrong, because she's already at the pod at the end of Ep 8. Eldgard now says "We finish before dusk."
+- **Merged:** "The pod chamber" and "Both boys, both seeds" are now one scene.
+- **Folded in:** "Take her out" now plays inside "The warrant". The runner reaches the gate while both siblings are standing there and gives the message to the air between them, because he doesn't know which of them to give it to. The order follows in the carriage. "It's done" becomes the first beat of the tag.
+- **Moved to Ep 10:** Nathaniel's failed left-handed try at the lock. Ep 10's "Turn it" already plays it, so it lands once, where it pays off.
+- **Trimmed:** Byron's speech and the wheel fight are now shorter and harder.
