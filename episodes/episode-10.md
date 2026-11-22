@@ -16,9 +16,9 @@
 - Alice confronts Josephine and doesn't kill her. Here Alice learns the last layer: Josephine knew who she was from the first day. "I chose you so I'd have to look at you." Alice's mercy lands harder because Josephine never spared herself.
 - Nathaniel uses the knowledge planted in 1873 to open the pod. His ruined hand can't work the lock alone; it takes Alice's hand on it too. "Us" at the lock: both of them choose it, and he literally can't do it without her. The Lost One lays her palm on the glass, and her mother's meets it from inside; the lock wants both of them. (Ep 9: "Opening Morgana’s pod still takes Nathaniel and the Lost One.") Opening the pod releases the beacon Alistair silenced.
 - Morgana goes free. Her vengeance: Eldgard. She doesn't kill him; she keeps him. One touch and he turns to gallowglass where he stands, alive, eyes open: the keeper kept, sealed the way the ring sealed Byron, for ever. London goes dark. At dusk the Royal Engineers come down under the Duke's warrant and find him.
-- **Why Alice goes to Josephine:** Morgana leaves the Works with her child, and the Lost One walks beside her mother without looking back. Alice thinks she has lost her sister twice. With nothing left to keep, she goes to the woman who took the first one.
+- **Why Alice goes to Josephine:** Morgana leaves the Works with her child, and the Lost One walks beside her mother without looking back. (She isn't leaving Alice yet; her mother's voice fills her head. But Alice can't know that, and neither can we. The doubt is what makes the ramp land.) Alice thinks she has lost her sister twice. With nothing left to keep, she goes to the woman who took the first one.
 - **Grise's ending.** In the dark the laundry's women walk out one by one; her protection was the only thing she sold that they needed, and tonight it's worth nothing. Jennie's statement will reach the rendezvous she sold. Grise takes her purse and goes to Mayfair. After Alice has gone, she comes for Josephine: "Vykra look after their own, love. When it pays." Josephine fills a pillowcase with Harding jewels and leaves with her. They go downriver in the dark, the only road in London with no lamps to miss. Season 2: the old knife and the matriarch, loose in the world with a fortune and every secret.
-- **The answer to "You're mine" (Ep 9).** At the ship Alice doesn't hold on. She offers the Lost One the ship and means it. That's the season's question answered: the Lost One stays because she was free to leave. "I choose the cold with you."
+- **The answer to "You're mine" (Ep 9).** At the ship they choose each other. Alice chooses her knowing she isn't Miriam ("I don't want my sister back. I want you."), and then doesn't hold on: she offers the Lost One the ship and means it. The Lost One chooses Alice freely. That's the season's question answered: the Lost One stays because she was free to leave. "I choose the cold with you."
 - **Eldgard is partly right.** The dark kills on screen: people freeze in the first night without the light, because Nathaniel opened the pod. The audience should finish the season unsure he was right.
 - Called by the beacon, the ship comes. It does substantial damage across London. Morgana boards it and waits for her child.
 - In the dark, Lambrick's coal is king: Nathaniel's righteous act has handed London to his nemesis. Tamara opens the depots to the East for nothing.
@@ -103,9 +103,11 @@ Across the frozen street from the depots, Nixon leads the Guard for London, wear
 
 Tyburn field in the snow. Alice comes through the drifts to the foot of the ramp. The Lost One is halfway up it. Her mother waits at the top.
 
-Alice doesn't ask her to come down. She offers her the ship. "Go, if you want to. I'll know you chose."
+For the first time Alice doesn't call her Miriam. "I know you're not her. I've known since the Bounds room. I came anyway." She looks up at the face she grew up under. "I don't want my sister back. I want you."
 
-The Lost One looks up at the ship, then back at Alice, and stays. "I choose the cold with you."
+Then the hardest thing she has ever done. She doesn't ask her to come down. She offers her the ship. "Go, if you want to. I'll know you chose."
+
+The Lost One looks up at the ship, then back at Alice: the one person in London who wants her for what she is, and is letting her go. She comes down the ramp. "I choose the cold with you."
 
 Hold on Morgana long enough for hope to give way to understanding. She watches her child settle beside Alice. She sees the decision and lets the ship depart in silence. The Lost One's hand finds Alice's in the cold.
 
