@@ -10,7 +10,7 @@
 
 **Background:** The Lost One and Morgana (reveal #2); Eldgard's confession; Tamara covers Ada.
 
-**Not in this episode:** Josephine, Hector, Ajax, Grise, Jennie, Byron, the chief engineer.
+**Not in this episode:** Josephine, Hector, Ajax, Grise, Byron, the chief engineer.
 
 - **Opening:** Ada works out the break-out plan and goes to report Nixon. The servants' stair. The lamp smashes. After Ada dies, Nixon rights the lamp out of the habit of saving her a job. He has promised to carve on Sunday. For a few seconds he stands there with the lamp in his hands.
 - At Newgate Marsh tells Nixon he is his uncle. As a Hargrave servant boy he entered the Works by freight and helped close its draw every cleaning day. He can get them in and shut down the extraction. Nixon breaks him out with Ada’s blood on his cuffs.
@@ -29,6 +29,12 @@
 Nixon reaches Marsh by the morning train. Through the cell door he asks if the old freight entrance still opens. “Where do you think they brought the dirt out?” Marsh used to go in with the empty wagons. Each cleaning day he stood ankle-deep in green silt waiting for the wheel that stopped the draw. Nathaniel asked for a way in. Here is a man who can also stop the machine. Only after Nixon opens the door does Marsh tell him whose brother he is.
 
 The relief order catches them in the glazed transfer tower. The gaoler sends the entire occupied tower dropping past the galleries to its lock bay. Through the glass Nixon sees a different tier of astonished faces at every floor. He throws a tether around a falling orderly and hauls him inside. That costs them the landing. They come out at the bottom on the condemned moving stair.
+
+### Jennie gives her name again
+
+After the first prison train leaves, Jennie returns to the district Guard desk. She asks to give a statement about Blackwood Bridge. She saw Josephine Harding put Miriam Bounds over the rail. The clerk recognizes Jennie’s signature and fetches her earlier statement from the laundry inquiry. She gave Miriam’s name there too, days after the girl went into the river. Which account does she want to withdraw?
+
+“Both happened.” Jennie waits while he writes down what she saw from the stair. This time she stays to hear him read it back. She signs beneath Josephine’s name.
 
 ### The hill face
 

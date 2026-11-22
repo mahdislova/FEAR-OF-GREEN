@@ -57,7 +57,7 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Nixon followed Nathaniel to the workshop | Nixon, Eldgard | Ep 6 | Nathaniel: Ep 7 (the raid) |
 | The way into the pod is buried in Nathaniel's 1873 memory | The Lost One | Ep 7 | Nathaniel: Ep 7, when she reminds him |
 | Tamara can read Alistair's book | Eldgard (he gave it to her), Tamara; Ada sees it | Ep 6 | — |
-| The beacon (what opening the pod calls) | Eldgard; Tamara (from the book, Ep 8) | Ep 1 cold open | Nathaniel: Tamara keeps it from him at the altar (Ep 8) |
+| The beacon (what opening the pod calls) | Eldgard; Tamara (from the book, Ep 8) | Ep 1 cold open | Nathaniel: Tamara keeps it from him at the wedding breakfast (Ep 8) |
 | Nixon killed Ada | Nixon, Tamara | Ep 9 | The household is told she fell |
 | The Hargrave massacre | Eldgard, Ada, Marsh | Ep 8 cold open | Nixon: Ep 8 |
 | Marsh is Nixon's uncle | Ada, Marsh | Ep 4 (hinted) | Nixon: Ep 9 |
@@ -83,7 +83,7 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Miriam's one-handed throw on the Narrows raid (Ep 1) | The girl throws a boy the same way; Alice recognises it (Ep 2) |
 | Tamara's fingers on the engagement letter in her glove (Ep 3) | The toast she makes herself (Ep 5) |
 | Nathaniel watches Eldgard give Nixon the keys, then gives Nixon a false account of the study (Ep 2) | The Works drawing gives Nathaniel reason to doubt it (Ep 4). He produces the shard after dinner and Nixon takes his statement again (Ep 5). |
-| Alice buttons Josephine’s cuff while reporting (Ep 4) | She stops halfway after Jennie names Josephine (Ep 8). Josephine lets her see Nathaniel alone. |
+| Alice buttons Josephine’s cuff while reporting (Ep 4) | She stops halfway after Jennie names Josephine (Ep 8). The dye on Alice’s hem gives Josephine Jennie’s address. Jennie brings Alice the arrest news. |
 | Tamara asks Nixon for time to speak to Hector (Ep 3) | The public toast reaches Nixon before she tells him herself (Ep 5). |
 | Ada sends Marsh his spectacles (Ep 4) | Nixon’s first kindness to his uncle comes from the aunt who reported him. He frees him in Ep 9. |
 | Ada polishes lamps (Ep 1) and feeds Nixon at the wake: "You're thin, love" (Ep 2) | Her death on the servants' stair (Ep 9) |
@@ -101,7 +101,7 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Tamara writes the time of the Duke’s question on the back of the Narrows tally (Ep 2) | Open |
 | Alistair's book in cipher | Tamara cracks it (Ep 8) |
 | The chief engineer's yield figures (Ep 4) | Lambrick learns the secret |
-| Jennie rides the Narrows raid with Miriam and Alice (Ep 1); witnesses the bridge | She tells Alice: Josephine (Ep 8, after Alice returns) |
+| Jennie rides the Narrows raid with Miriam and Alice (Ep 1); witnesses the bridge | She names Josephine to Alice after Alice returns (Ep 8), then signs her bridge testimony (Ep 9) |
 | Morgana: "Where is my child?" (Ep 1) | "My child." (Ep 8 tag) |
 | Alistair: "You have my word." (Ep 4 cold open) | He closes the pod (Ep 10 cold open) |
 
