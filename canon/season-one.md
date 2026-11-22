@@ -55,7 +55,7 @@ Full beats live in `episodes/`.
 
 **The killer (Josephine), one beat per episode.** Ep 1: Miriam falls; a figure in the shadows backs away; Jennie watches. Ep 2: Josephine burns her gloves; Jennie sees Miriam’s face in Alice’s room. Ep 3: Jennie withholds the bridge account. Ep 4: Grise's hand-sign test; she sells the location to Lambrick. Ep 5: Josephine summons Alice privately. Ep 6: Josephine and Grise; Josephine pays to remove the witness. The same night Alice tells Nathaniel herself that his mother hired her. Ep 7: the Lost One saves Jennie. Ep 8: after Alice returns, Jennie names Josephine. Josephine supplies a lead for the arrest. Ep 10: Alice confronts Josephine and spares her.
 
-**Tamara.** Ep 1: the only one who doesn't laugh. Ep 2: Eldgard sees her. Ep 3: the relined coat. Ep 4: her move, her father's applause. Ep 5: the toast; the conservatory ("I'm going to be very good at it, Nix"). Ep 6: right about the branch, too late; Eldgard gives her Alistair's book. Ep 7: writes her own marriage and takes the East's coal; "The rest is me." Ep 8: the pages; the private vow of honesty, kept by half at breakfast; the ask Nixon refuses. Ep 9: covers Ada's death. Ep 10: the coup; across the street.
+**Tamara.** Ep 1: the only one who doesn't laugh. Ep 2: Eldgard sees her. Ep 3: the relined coat. Ep 4: her move, her father's applause. Ep 5: the toast; the conservatory ("I'm going to be very good at it, Nix"). Ep 6: right about the branch, too late; Eldgard gives her Alistair's book. Ep 7: writes her own marriage and takes the East's coal; "The rest is me." Ep 8: the pages; the vow of honesty, broken by her silence at breakfast; the ask Nixon refuses. Ep 9: covers Ada's death. Ep 10: the coup; across the street.
 
 ## Thread grid
 

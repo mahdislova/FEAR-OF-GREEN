@@ -34,7 +34,7 @@ Below the open window Tamara is helping Nathaniel into his coat. She pulls his g
 
 ### 5. At the window / the dyehouse stairs
 
-At the dyehouse Nixon names Jamie Harding and tells the Lost One she is under arrest. Jennie brings her coat and helps her into the sleeve Alice usually holds. Nixon has Josephine’s card in his hand. He tells Jennie the destination is Newgate and the escort must first book her at the district station. The girl asks Jennie for one thing: “Tell Alice where I’m going.” Jennie waits until she sees them enter the station yard, then takes the short passage uphill to Harding House.
+At the dyehouse Nixon names Jamie Harding and tells the Lost One she is under arrest. Jennie brings her coat and helps her into the sleeve Alice usually holds. Nixon has Josephine’s card in his hand. He tells Jennie the destination is Newgate. He'll book her at the Guard station by the Harding chapel, on his way to the wedding. The girl asks Jennie for one thing: “Tell Alice where I’m going.” Jennie follows the escort west. When she sees them enter the station yard, she takes the short passage uphill to Harding House.
 
 At the window Alice waits for Josephine to answer her question about Miriam. Josephine watches Nathaniel straighten Tamara’s hat. “He used to laugh like that with Jamie.” Alice looks out again despite herself. Josephine says, more quietly, “You thought there might be a place for you here. I paid for the hours you had with him, Alice. He knows that now.” For a moment all Alice can hear is Nathaniel asking her to leave last night. “He knows because I told him.” Josephine turns from the garden. “When?” Alice lets the question hang as long as Josephine let hers. Her hand closes around the knife in her pocket. “Did my sister see you?”
 
@@ -42,13 +42,13 @@ Jennie arrives breathless at the open door. “Nixon took her. He said Newgate. 
 
 ### 6. The custody book
 
-At the station Nixon writes Newgate in the destination column. The duty lieutenant signs the adjoining square and takes charge of the escort. Nixon changes into his dress jacket. He has left an ink mark on the cuff. The ring is still in his pocket.
+At the station Nixon writes Newgate in the destination column. The duty lieutenant signs the adjoining square and takes charge of the escort. Nixon changes into his dress jacket. He has left an ink mark on the cuff. The ring is still in his pocket. He leaves for the church.
+
+Jennie points out the carriage in the yard. From the inquiries window the girl catches sight of Alice. Alice lifts a hand. The girl slips along the seat to keep her in sight when a groom crosses the yard. Alice moves a step sideways too. Across the glass, both of them smile. Alice stays at the desk to hear when the carriage will leave.
 
 ### 7. The vestry
 
-Tamara gives Nixon several pages cut from Alistair’s book. She tells him they concern his family. When she leaves to find Hector, he reads how Hargrave froze and what happened to the survivors who spoke. He finds a reference to Marsh’s boyhood work in the draw room. He folds the pages into his coat.
-
-At the station Jennie points out the carriage in the yard. From the inquiries window the girl catches sight of Alice. Alice lifts a hand. The girl slips along the seat to keep her in sight when a groom crosses the yard. Alice moves a step sideways too. Across the glass, both of them smile. Alice stays at the desk to hear when the carriage will leave.
+Tamara gives Nixon several pages cut from Alistair’s book. She tells him they concern his family. When she leaves to find Hector, he reads how Hargrave froze, what the Hardings keep under the Works, and what happened to the survivors who spoke. He finds a reference to Marsh’s boyhood work in the draw room. He folds the pages into his coat.
 
 ### 8. Before the bells
 
@@ -72,7 +72,7 @@ Eldgard’s signed transfer order reaches the station while the couple sign the 
 
 Nixon writes a counterorder on the back of his place card and calls over the Guardsman at the door. The man takes it, then sees Eldgard standing behind his captain. “Whose order am I carrying, sir?” Nixon hears himself answer, “Mine.” The man stays where he is. Across the table Josephine puts down her glass. Everybody at breakfast has heard.
 
-Nathaniel asks his father what business the Works has with Jamie’s case. Tamara answers him in Eldgard’s hearing. “I translated the instructions. There’s a place in the machine for her.” Eldgard holds out his hand for the Works papers he entrusted to her. She gives them back. She has told Nathaniel what goes into the pod. She keeps to herself what opening it will call. Nathaniel and Alice run for the station. At noon the carriage passes through the gate. They reach the yard in time to see the lieutenant closing it.
+Nathaniel asks his father what business the Works has with Jamie’s case. Eldgard doesn’t answer. He doesn’t have to: Nathaniel remembers what the girl told him about her mother’s pod. Beside him Tamara keeps her bride’s smile for the guests. She has read the instructions she translated. She says nothing, not about the pod and not about what opening it will call. Nathaniel and Alice run for the station. At noon the carriage passes through the gate. They reach the yard in time to see the lieutenant closing it.
 
 Inside the carriage the girl recognizes the Works through the slat. She asks the guard whether Alice knows where to come. He looks down at the amended order. There are two destinations on it and nobody to notify. He folds it again. She keeps watching the road until the doors close behind them.
 

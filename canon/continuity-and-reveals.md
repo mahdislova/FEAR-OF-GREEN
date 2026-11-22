@@ -57,7 +57,7 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Nixon followed Nathaniel to the workshop | Nixon, Eldgard | Ep 6 | Nathaniel: Ep 7 (the raid) |
 | The way into the pod is buried in Nathaniel's 1873 memory | The Lost One | Ep 7 | Nathaniel: Ep 7, when she reminds him |
 | Tamara can read Alistair's book | Eldgard (he gave it to her), Tamara; Ada sees it | Ep 6 | — |
-| The beacon (what opening the pod calls) | Eldgard; Tamara (from the book, Ep 8) | Ep 1 cold open | Nathaniel: Tamara keeps it from him at the wedding breakfast (Ep 8) |
+| The beacon (what opening the pod calls) | Eldgard; Tamara (from the book, Ep 8) | Ep 1 cold open | Nathaniel: Tamara keeps it from him on their wedding day (Ep 8) |
 | Nixon killed Ada | Nixon, Tamara | Ep 9 | The household is told she fell |
 | The Hargrave massacre | Eldgard, Ada, Marsh | Ep 8 cold open | Nixon: Ep 8 |
 | Marsh is Nixon's uncle | Ada, Marsh | Ep 4 (hinted) | Nixon: Ep 9 |
@@ -74,7 +74,7 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | The East cut as triage (Ep 6); Eldgard's argument with numbers (Ep 9) | The dark kills in Ep 10: he was partly right |
 | The coat she relines for Nixon (Ep 3) | He wears it across the frozen street (Ep 10) |
 | "Keep that one thing yours" (Ep 5) | He gives Eldgard the journal anyway (Ep 5 tag) |
-| Eldgard gives Tamara the book to decode the pod instructions (Ep 6) | She tells Nathaniel what the pod is, and keeps the beacon (Ep 8) |
+| Eldgard gives Tamara the book to decode the pod instructions (Ep 6) | At the wedding breakfast she keeps the pod and the beacon from Nathaniel (Ep 8) |
 | Tamara's deal puts the East's coal on her orders (Ep 7) | She opens every depot under her own name (Ep 10) |
 | The Duke's word to Eldgard; his coal question to Hector (Ep 2) | Hector breaks him at the hearing (Ep 4) |
 | Hector pays the Gin Lane widows; Tamara holds the ledger (Ep 3) | Gin Lane trusts Lambrick coal (Ep 7); Tamara gives it away free (Ep 10) |

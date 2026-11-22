@@ -12,7 +12,7 @@
 
 **Not in this episode:** Josephine, Hector, Ajax, Grise, Byron, the chief engineer.
 
-- **Opening:** Ada works out the break-out plan and goes to report Nixon. The servants' stair. The lamp smashes. After Ada dies, Nixon rights the lamp out of the habit of saving her a job. He has promised to carve on Sunday. For a few seconds he stands there with the lamp in his hands.
+- **Opening:** the servants' stair. Ada is on her way to report Nixon. The lamp smashes. After Ada dies, Nixon rights the lamp out of the habit of saving her a job. He has promised to carve on Sunday. For a few seconds he stands there with the lamp in his hands.
 - At Newgate Marsh tells Nixon he is his uncle. As a Hargrave servant boy he entered the Works by freight and helped close its draw every cleaning day. He can get them in and shut down the extraction. Nixon breaks him out with Ada’s blood on his cuffs.
 - Nathaniel, Alice and Nixon storm the Works.
 - **Imprint reveal #2:** Morgana tells the Lost One she did what she was told: both boys, both seeds. The Lost One's crisis: was her love for Alice a plan as well?

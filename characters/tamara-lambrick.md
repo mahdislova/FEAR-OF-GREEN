@@ -14,7 +14,7 @@
 **Her four relationships**
 - **Nixon:** lovers across a divide. Every time she chooses power she gives him something he needs in the same breath: the relined coat (Ep 3), the warning about the journal (Ep 5), the coat handed back (Ep 7), the Hargrave pages (Ep 8), covering Ada's death (Ep 9), the coat across the street (Ep 10).
 - **Eldgard:** the first man who sees her (Ep 2), raises his glass to her alone (Ep 5), and gives her Alistair's book to decode the instructions for putting the child in the pod (Ep 6). She helps build the cage.
-- **Nathaniel:** rivals for one father's regard (Ep 5); they promise honesty before the service. At breakfast she admits she decoded the pod instructions and keeps the beacon from him (Ep 8).
+- **Nathaniel:** rivals for one father's regard (Ep 5); they promise honesty before the service. At breakfast, when the Works transfer comes out, she stays the bride and says nothing about the pod or the beacon (Ep 8).
 - **Hector:** the father she overthrows. Her Ep 7 deal puts the East's coal on her orders; in Ep 10 she opens every depot under her own name.
 
 **Season 2:** she holds the Harding name, the East's coal and Alistair's book; she knew about the beacon; she holds Nixon's worst act; Hector is her first enemy. Full scenes live in each episode's "Tamara's track".
