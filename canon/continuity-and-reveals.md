@@ -61,7 +61,7 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Nixon killed Ada | Nixon, Tamara | Ep 9 | The household is told she fell |
 | Eldgard is alive inside the gallowglass | Morgana | Ep 10 | The Royal Engineers, at dusk (Ep 10). London: Season 2 |
 | Hector ordered Tamara killed | Hector, Ajax | Ep 9 | Tamara: from Ajax, before the tag (off screen; the audience learns it in the crater) |
-| Tamara killed Hector | Tamara, Ajax | Ep 9 tag | London blames the East (Ep 10). Nixon: Season 2 |
+| Tamara killed Hector | Tamara, Ajax | Ep 9 tag | London blames the East (Ep 10). Lord Lambrick: suspects at dawn (Ep 10) and never asks. Nixon: Season 2 |
 | Josephine fled with Grise | Josephine, Grise, a waterman | Ep 10 | Alice: Season 2 (she left Josephine for the law) |
 | The Crown means to enter the vaults | The Duke, Eldgard | Ep 6 (the ultimatum) | Everyone: Ep 9 (the warrant) |
 | The Hargrave massacre | Eldgard, Ada, Marsh | Ep 8 cold open | Nixon: Ep 8 |
@@ -117,7 +117,11 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Hector locks the Gin Lane audit away and says nothing (Eps 4, 6); Tamara glimpses it in his drawer (Ep 7) | "You knew this street would go." (Ep 9 tag) |
 | Tamara writes Ajax's dead men's names, which Hector never asked (Ep 3); Ajax takes her first cart east (Ep 7) | "Everyone has a price, sir. Sorry." (Ep 9 tag) |
 | Hector asks the Duke how many days, in front of the Lords (Ep 4) | The Duke asks Hector whose name is on the carts, in front of the clerks (Ep 9) |
-| Tamara's lie: prove your worth and your father will see you (her dossier); Hector wears her move (Ep 4) | He sees her, and orders her killed (Ep 9) |
+| Tamara's lie: prove your worth and your father will see you (her dossier); "Your sister found them. You'll say them." (Ep 4) | Her brother sees her first, and orders her killed (Ep 9); her father names her heir over Hector's body (Ep 10) |
+| "You paid them. She remembered them." (Ep 3); "I put her in it." "Did you." (Ep 6) | The heir paper (Ep 10) |
+| Lord Lambrick: "Hector will have it. You'll be the one who keeps him alive." (Ep 7) | "Don't make me regret the one who lived." (Ep 10) |
+| Tamara does up Hector's cuff on her wedding morning; he shares his breakfast (Ep 8) | She does up his cuff as he dies (Ep 9 tag) |
+| Lord Lambrick sends for his lawyer, and for Tamara alone (Ep 9) | It's what makes Hector order the hit (Ep 9) |
 | Grise's bridge-night page Alice can't read (Ep 6) | Grise burns it when Jennie signs (Ep 9) |
 | Josephine burns her gloves while Grise stitches a knot (Ep 2) | Grise hands Josephine a new pair, knot inside, and takes her downriver (Ep 10) |
 | Eldgard put the lock's mind in Nathaniel (Ep 6); he asks his son to turn it (Ep 9) | Nathaniel turns it the other way (Ep 10) |

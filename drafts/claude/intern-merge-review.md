@@ -126,3 +126,22 @@ What went wrong was **process, not talent**:
 - **Josephine's fate:** she flees with Grise. Season 2.
 - **Ep 5's title:** *The Second Statement*. Byron's secret is dropped.
 - **Ep 6** is tightened to 16 scenes (the library and the drawer are now one cross-cut, "Two books").
+
+---
+
+## Third pass (22 Nov): the Lambrick succession
+
+The writer's vision: Hector is Tamara's older (half-)brother, and their dying father, **Lord Augustus Lambrick**, has to name an heir. Tradition says Hector; the work says Tamara. Every scene with the old man is a confrontation disguised as a conversation:
+
+| Ep | Scene | The knife under the conversation |
+| --- | --- | --- |
+| 3 | The names | "You paid them. She remembered them. Which do you think they'll remember?" |
+| 4 | Three lines | "Your sister found them. You'll say them." |
+| 6 | Two books | "Your sister had a chair at the Works." "I put her in it." "Did you." |
+| 7 | Her terms (the sickroom) | He makes Hector hand her the orders, then: "Hector will have it... You'll be the one who keeps him alive." |
+| 8 | The wedding (one line) | He can't walk; Hector gives his sister away. |
+| 9 | Take her out | The runner: their father has sent for his lawyer, and for Tamara, alone. Hector feels the chair go. |
+| 9 | Gin Lane | She does up his cuff (Ep 8) as he dies. "I would have lived in peace, brother." |
+| 10 | The one who lived | "And Gin Lane?" "The East had every reason, Father." He signs her heir anyway. |
+
+The writer's own filed scenes changed only where the relationship words had to: Ep 2 ("her brother", twice), Ep 5 ("her brother"; "Then you're family asking his friend"), and Ep 8 (Lord Lambrick in his chair; "his sister", twice). Everything else in those scenes is untouched.

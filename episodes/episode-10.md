@@ -2,7 +2,7 @@
 
 **Cold open:** Alistair closes the pod on her. The broken word. Then he drops the pod's key into acid and has the ledger record that she gave her life freely.
 
-**In short:** Nathaniel and Alice open the pod. Morgana goes free, London goes dark, the ship comes, and the Lost One stays. Grise takes Josephine out of London. Tamara opens the depots over her father's body.
+**In short:** Nathaniel and Alice open the pod. Morgana goes free, London goes dark, the ship comes, and the Lost One stays. Grise takes Josephine out of London. Tamara opens the depots over her brother's body, and their dying father names her heir.
 
 **Change:** the light ends.
 
@@ -10,7 +10,7 @@
 
 **Background:** Alice spares Josephine; Grise's laundry empties, and she and Josephine flee together; Tamara's coup, with Ajax at her side; Nixon leads the Guard for London.
 
-**Not in this episode:** Hector (dead, Ep 9), Marsh, Byron, the chief engineer. (Jennie appears only in the last scene.)
+**Not in this episode:** Hector (dead, Ep 9; Lord Lambrick appears), Marsh, Byron, the chief engineer. (Jennie appears only in the last scene.)
 
 - Morgana is dying. Eldgard moves to put the Lost One in the pod. **He asks Nathaniel to turn the lock (Ep 9). Nathaniel turns it, the other way.**
 - Alice confronts Josephine and doesn't kill her. Here Alice learns the last layer: Josephine knew who she was from the first day. "I chose you so I'd have to look at you." Alice's mercy lands harder because Josephine never spared herself.
@@ -25,8 +25,9 @@
 - Nixon leads the Guard for London, not for the Hardings.
 - Alice offers the Lost One the ship. The Lost One looks up at it, then back at Alice, and stays. Hold on Morgana long enough for hope to give way to understanding. She watches her child settle beside Alice. Morgana sees her decision and lets the ship depart in silence. The Lost One’s hand finds Alice's in the cold.
 - **Tamara's track.**
-  - *The East End depots:* London is dark. The coal has been moving on her orders since Ep 7. Now she opens every depot to the East for nothing, under her own name. A coup, not charity. Her father lies dead in Gin Lane and London blames the East (Ep 9); free coal buys the East's silence, and the East's love.
+  - *The East End depots:* London is dark. The coal has been moving on her orders since Ep 7. Now she opens every depot to the East for nothing, under her own name. A coup, not charity. Her brother lies dead in Gin Lane and London blames the East (Ep 9); free coal buys the East's silence, and the East's love.
   - *Ajax at her side:* the Lambrick clerks come to ask whose orders they follow now. Ajax answers for her.
+  - *The one who lived:* at dawn Lord Lambrick asks one question about Gin Lane, accepts her answer, and signs her heir. "Don't make me regret the one who lived." He chooses the child who survived; she keeps the paper next to the audit.
   - *Final image:* across the frozen street, Nixon leads the Guard for London, wearing the coat she relined. Neither crosses. She holds his worst act (Ada); he doesn't know hers.
 
 ## Scenes
@@ -99,7 +100,27 @@ From the Harding terrace Nathaniel watches the Lambrick carts go by. His righteo
 
 Across the frozen street from the depots, Nixon leads the Guard for London, wearing the coat she relined. Tamara sees him. He sees her. She holds his worst act; he doesn't know hers. Neither crosses.
 
-### 10. She stays
+### 10. The one who lived
+
+Lambrick House before dawn, by candle; even here the gas is dead. Lord Lambrick is propped up in bed with the lawyer's papers on the counterpane. They told him at midnight that his son was found in Gin Lane with a knife in him. He hasn't slept.
+
+Tamara comes in with snow on her shoulders and the depot figures in her head. He asks for them first, as he always does. She gives him every depot, every cart, the streets fed by midnight. He listens with his eyes shut.
+
+"And Gin Lane?"
+
+"The East had every reason, Father."
+
+He opens his eyes and looks at her for a long time. She lets him. It's the first time in her life he has really looked, and they both know what it cost.
+
+"Your brother would have bled them," he says at last. "You'll feed them, and they'll never forget whose coal it was." He signs the paper the lawyer left, slowly, with his black-creased hand: Tamara Lambrick, heir to the house. He holds it out. When she takes it, he doesn't let go at once.
+
+"Don't make me regret the one who lived."
+
+"No, Father."
+
+She kisses his forehead and goes out. On the landing she stands still for a moment with the paper against her chest. Then she folds it once and puts it inside her coat, next to the audit.
+
+### 11. She stays
 
 Tyburn field in the snow. Alice comes through the drifts to the foot of the ramp. The Lost One is halfway up it. Her mother waits at the top.
 
@@ -111,6 +132,6 @@ The Lost One looks up at the ship, then back at Alice: the one person in London 
 
 Hold on Morgana long enough for hope to give way to understanding. She watches her child settle beside Alice. She sees the decision and lets the ship depart in silence. The Lost One's hand finds Alice's in the cold.
 
-### 11. The orange
+### 12. The orange
 
 Dawn over a colourless city. Black coal smoke over the snow. Jennie's room over the dyehouse, the stove lit with Lambrick coal. There's still only one chair. Jennie gives it to the Lost One, wraps a blanket round her shoulders and talks about soup. Alice sits on the floor against the door and peels an orange in one long strip, the way Miriam did. She breaks it in half and gives one half to the girl.

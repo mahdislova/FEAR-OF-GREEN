@@ -2,7 +2,7 @@
 
 **Cold open:** 1873, the offspring's side. Jamie's room first.
 
-**In short:** Nixon kills Ada to protect the break-out, frees Marsh from Newgate and storms the Works with Nathaniel and Alice. Eldgard confesses. The Duke ends the Hardings in law and humiliates Hector in front of the clerks. Hector orders his daughter killed. Tamara kills him first.
+**In short:** Nixon kills Ada to protect the break-out, frees Marsh from Newgate and storms the Works with Nathaniel and Alice. Eldgard confesses. The Duke ends the Hardings in law and humiliates Hector in front of the clerks. Hector, feeling the heir's chair slip, orders his sister killed. Tamara kills him first.
 
 **Change:** the truth is spoken aloud.
 
@@ -22,12 +22,12 @@
 - **Why Eldgard talks instead of seizing them.** Alistair's lock answers one mind, and Eldgard put that mind in Nathaniel in 1873. The transfer needs the lock turned. He comes alone because he needs his son willing. His numbers are his case for why Nathaniel should turn it. In Ep 10 Nathaniel does turn it, the other way.
 - **Alice's lie, out loud.** When the Lost One asks whether her love was a plan, Alice answers the way she's always loved: by holding on. "I don't care whose plan it was. You're mine." It's the wrong answer, and Ep 10 is where she learns the right one.
 - **Grise burns the bridge night.** Jennie's statement names Josephine, and the rendezvous Grise sold leads back to the laundry. Grise tears the bridge-night page out of her ledger (the page Alice couldn't read in Ep 6) and burns it.
-- **The plot twist: Hector orders his daughter killed.** Humiliated in front of the Duke, and outranked by her in his own trade, Hector orders Ajax to take Tamara out. That afternoon Ajax brings word that it's done. Hector asks for proof. Ajax takes him to the Gin Lane crater, and someone puts a blade in Hector's back. It's Tamara. "Ajax— why?" "Everyone has a price, sir. Sorry." Ajax's price was paid long ago: she wrote his dead men's names (Ep 3), and the carts have run on her orders since Ep 7 (when Ajax took the first one east). She knew about the audit since Ep 7. Her monologue: she looked up to him; he forced her hand; "I would have lived in peace, Father. You brought war to my doorstep."
+- **The plot twist: Hector orders his sister killed.** The Duke humiliates him at the Works gate and gives the Crown's coal to Tamara. Then a runner: their dying father has heard, and has sent for his lawyer, and for Tamara, alone, tonight. Hector feels the chair he was promised since birth go out from under him, and crosses the line: he orders Ajax to take her out. That afternoon Ajax brings word that it's done. Hector asks for proof. Ajax takes him to the Gin Lane crater, and someone puts a blade in Hector's back. It's Tamara, simply returning the favour. "Ajax— why?" "Everyone has a price, sir. Sorry." Ajax's price was paid long ago: she wrote his dead men's names (Ep 3), and the carts have run on her orders since Ep 7, when he took the first one east. She has known about the audit since Ep 7. Her monologue: she looked up to her big brother; she would have stood at his shoulder for ever; "I would have lived in peace, brother. You brought war to my doorstep."
 - **Tamara's track.**
   - *The servants' stair (Ada's aftermath):* she's the one who finds Ada. Nixon is standing over her with the lamp in his hands and blood on his cuffs. She understands in one look. She takes the lamp from him, sends the footman away and tells the household Mrs Hargrave fell. "Tamara—" "Go. Whatever you're doing, go now." Love: she saves him. Power: she holds his worst act forever.
-  - *The Works gate:* the Duke hands her the Crown's coal. She doesn't look at her father.
+  - *The Works gate:* the Duke hands her the Crown's coal. She doesn't look at her brother.
   - *Gin Lane (tag):* the blade.
-- **Tag:** in the Gin Lane crater, Hector dies at his daughter's feet, where he let a street burn.
+- **Tag:** in the Gin Lane crater, Hector dies at his sister's feet, where he let a street burn.
 
 ## Scenes
 
@@ -70,25 +70,31 @@ The Works gate, mid-morning. The Duke arrives in person, with an officer of the 
 
 The Duke reads the warrant aloud where the gatemen can hear: by order of the Privy Council the Harding Charter is suspended, and the Royal Engineers will enter the vaults at dusk. He holds it out. Eldgard looks at his oldest friend's signature for a long time before he takes it.
 
-Hector's carriage has drawn up behind. He has come for the Crown's emergency coal contract; there's no other coal. Tamara steps down after him. The clerk opens the box. The Duke takes out the contract and hands it past Hector, to his daughter.
+Hector's carriage has drawn up behind. He has come for the Crown's emergency coal contract; there's no other coal. Tamara steps down after him. The clerk opens the box. The Duke takes out the contract and hands it past Hector, to his sister.
 
 "Miss Lambrick has fed the East for a week on her own name, while the rest of us were pricing it."
 
-Hector laughs. "My daughter signs nothing without me."
+Hector laughs. "My sister signs nothing without me. I speak for the house."
 
 "You asked me a question in front of the Lords, Lambrick. Here's mine, in front of the clerks. Whose name is on the East's carts?"
 
-Hector has no answer. Everyone at the gate knows it. Tamara signs on the clerk's box. She doesn't look at her father. Eldgard, warrant in hand, goes back inside to the vaults. "Bring the child down. We finish before dusk."
+Hector has no answer. Everyone at the gate knows it. Tamara signs on the clerk's box. She doesn't look at her brother. Eldgard, warrant in hand, goes back inside to the vaults. "Bring the child down. We finish before dusk."
 
 ### 7. Take her out
 
-Hector's carriage. Ajax rides opposite, as he has for eleven years. Hector watches the Works go by. "She's a Harding now. She married them on Saturday."
+Hector's carriage. Ajax rides opposite, as he has for eleven years. Hector watches the Works go by and says nothing for a long time.
 
-"She's your daughter, sir."
+At the corner of Oxford Street a Lambrick runner jumps onto the step and speaks through the window. Lord Lambrick has heard what happened at the gate. He has sent for his lawyer. And for Miss Tamara, tonight. Alone.
 
-"She was my best asset. Now she's theirs." The Crown's contract is in her name, and a dead woman's contracts come back to her father's house. He names a price. "Take her out. Today. Somewhere the East gets the blame."
+Hector gives the boy a coin. The window goes up. He sits back.
 
-Ajax looks at him for a long moment. "Today," he agrees.
+"Thirty-four years," he says, to nobody. "Every morning of my life he told me whose chair it was."
+
+"She's your sister, sir."
+
+"She's a Harding now. She married them on Saturday. And tonight he's going to give her my chair in front of a lawyer." The Crown's contract is in her name, and a dead woman's contracts come back to the house, and the house comes to the heir. He names a price. "Take her out. Today. Somewhere the East gets the blame."
+
+Ajax looks at him for a long moment. He has carried Hector's coat for eleven years. He saw Tamara spell his dead men's names. "Today," he agrees.
 
 ### 8. The boy’s door
 
@@ -129,13 +135,13 @@ Nobody moves: the guard on the gallery, Nixon at the foot of the stair, Alice wi
 
 ### 13. It's done
 
-Lambrick House, afternoon. Ajax comes into the study with snow on his shoulders. "It's done."
+Lambrick House, afternoon. Upstairs a door closes on their father's lawyer. Ajax comes into the study with snow on his shoulders. "It's done."
 
 Hector doesn't look up from his ledger. "Show me."
 
 "Gin Lane. The washhouse. The East will get the credit, like you said."
 
-Hector puts on his coat himself.
+Hector puts on his coat himself. The left cuff is undone. He doesn't notice.
 
 ### 14. Gin Lane (tag)
 
@@ -147,12 +153,14 @@ He looks past her. "Ajax— why?"
 
 "Everyone has a price, sir. Sorry."
 
-Tamara crouches so her father can see her face. "I used to sit under your desk while you did the ledgers. I learned to count from your columns. I thought you were the cleverest man in England. I'd have stayed your clever daughter for ever. I'd have made you rich and let you wear every move I made, and clapped. You sold me to the Hardings, and I let you. Then the Duke handed me what you wanted, and you sent your own man to kill me for it."
+Tamara crouches so her brother can see her face. She takes his wrist, and does up the cuff he left undone, the way she did on her wedding morning.
+
+"When I was six you taught me to ride, and you let me win the race home so Father would see. I thought you were the cleverest man in England. I learned to count from your columns. I'd have stood at your shoulder for the rest of my life, Hector. I'd have found and you'd have said, and I'd have let you wear every move I ever made, and clapped. I never once asked for the chair. I asked you to let me live in the house." Her voice doesn't rise. "And this morning, because an old man sent for a lawyer, you sent Ajax to kill me."
 
 She takes the audit out of her coat, the one from his drawer. *Gin Lane.* "You knew this street would go. You let it go so you could sell coal to whoever was left. I'm standing where you let them burn."
 
 He tries to speak. She waits, politely, the way he taught her to wait in a negotiation. Nothing comes.
 
-"I would have lived in peace, Father. You brought war to my doorstep." Very quietly: "You taught me what grief costs. I only paid it forward."
+"I would have lived in peace, brother. You brought war to my doorstep." Very quietly: "You taught me what grief costs. I only paid it forward."
 
-Hector Lambrick dies in the snow where the washhouse was. Tamara stands up and takes her cloak back off the coal sacks. Ajax asks what story London should hear. "The East had every reason. Let them have the credit." She wipes her hands on the snow and walks back toward her carriage.
+Hector Lambrick dies in the snow where the washhouse was, with his cuff done up. Tamara stands and takes her cloak back off the coal sacks. Ajax asks what story London should hear. "The East had every reason. Let them have the credit." She wipes her hands on the snow. "And Ajax. Father's sent for me tonight. Have the carriage ready."

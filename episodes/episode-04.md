@@ -22,7 +22,7 @@
 - **The fog (Alice's first aura moment).** On the way home four bounty men, after the reward on the Frost Killer's bulletin, close on the sisters in a Shadwell alley. Alice puts all four on the cobbles in seconds. Jennie, following on Grise's orders, sees it from the corner. It's why she lies.
 - **The audit goes home.** With the sighting, Grise sells Hector back the audit Miriam stole in Ep 1. Hector locks it in his desk and says nothing about what it proves.
 - **Tamara's track.**
-  - *Lambrick House, breakfast:* she breaks the engineer's cipher in three lines; Hector takes the figures to Parliament.
+  - *Lambrick House, breakfast:* she breaks the engineer's cipher in three lines; their father hands the figures to Hector. "Your sister found them. You'll say them."
   - *Westminster, the gallery:* she slips Hector a card: *Ask the Duke how many days.* He breaks the Duke, and the chamber applauds Hector. She sits with her hands in her lap. The last time she lets him wear her move.
 - **Tag:** Eldgard to Josephine: when the mother dies, they use the child. The audience knows the stakes before the characters do.
 
@@ -36,7 +36,13 @@ She stops drawing. "And then you let us go. Me and my child." He closes the book
 
 ### 2. Three lines
 
-Lambrick House, breakfast. Hector frowns over the yield sheets the engineer smuggled out in Harding cipher. Tamara reaches across, pulls the sheets to her side of the toast rack and breaks the cipher in three lines. Output down by a third. The core running hot. Hector folds the figures into his coat. "Today the Hardings find out the lamps can be counted."
+Lambrick House, breakfast. Lord Lambrick at the head of the table with a cup he can't lift. Hector frowns over the yield sheets the engineer smuggled out in Harding cipher. Tamara reaches across, pulls the sheets to her side of the toast rack and breaks the cipher in three lines. Output down by a third. The core running hot.
+
+Her father watches her do it. He holds out his black-creased hand, and she puts the sheets in it. He passes them down the table to Hector.
+
+"Your sister found them. You'll say them."
+
+"Today the Hardings find out the lamps can be counted," Hector says, and folds the figures into his coat. Tamara butters her toast. It's the way the house has always worked: she finds, he says, their father nods. She has never once minded out loud.
 
 ### 3. The shard
 
@@ -90,7 +96,7 @@ The laundry, afternoon. Grise writes a note to Lambrick House: a sighting of the
 
 Westminster. Lamps in bronze crystal collars line the chamber. Hector lays out the smuggled figures, and on cue the lamps dim. A chamber full of faces turns up toward them.
 
-The Duke rises for the Hardings. A fault in the lines, temporary, being mended. He says it beautifully. In the gallery Tamara slips her father a card: *Ask the Duke how many days.*
+The Duke rises for the Hardings. A fault in the lines, temporary, being mended. He says it beautifully. In the gallery Tamara slips her brother a card: *Ask the Duke how many days.*
 
 "Your Grace, how many days did you tell your sister to lay in?"
 

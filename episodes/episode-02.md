@@ -66,11 +66,11 @@ Local boys see a soaking woman who cannot tell them whose coat she is wearing. O
 
 ### 8. Hector and the Duke
 
-The Harding radiators have barely warmed the wake room. During the reception, Ajax brings Hector the broken tally from the Narrows. He wants permission to take his men down there tonight. Tamara sees the Duke crossing the room toward her father and quietly takes the tally from Ajax. To anybody watching, the Duke is coming to offer condolences to another family friend.
+The Harding radiators have barely warmed the wake room. During the reception, Ajax brings Hector the broken tally from the Narrows. He wants permission to take his men down there tonight. Tamara sees the Duke crossing the room toward her brother and quietly takes the tally from Ajax. To anybody watching, the Duke is coming to offer condolences to another family friend.
 
 What he actually says is, “My sister’s house is east of the line. How many days would I need to lay in?”
 
-Hector asks whether she still uses the old kitchen range. The Duke says yes. Hector tells him how much coal to order, offers him the name of a local merchant and lets him go. He doesn’t even ask for the sale. Tamara waits until the Duke is out of earshot. She wants to know why her father let another merchant have the business.
+Hector asks whether she still uses the old kitchen range. The Duke says yes. Hector tells him how much coal to order, offers him the name of a local merchant and lets him go. He doesn’t even ask for the sale. Tamara waits until the Duke is out of earshot. She wants to know why her brother let another merchant have the business.
 
 “How long has the boy been in the ground?” Hector says.
 

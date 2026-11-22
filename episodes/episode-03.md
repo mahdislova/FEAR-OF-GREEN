@@ -27,6 +27,7 @@
 - **Tamara's track.**
   - *The rented room (canon, sharpened):* instead of telling Nixon about the engagement, she gives him his Guard greatcoat relined in grey wool; he froze for nine nights in the east. "I can sew. Nobody's ever asked me to." "Walk with me on Sunday." *(buttoning it on him)* "Give me a little time."
   - *Gin Lane, dawn (canon):* she holds the ledger while Hector pays the widows, and learns what grief buys.
+  - *Lambrick House, the names:* their dying father asks her to read him the widows' names; she does it from memory. "You paid them. She remembered them." Hector laughs it off. The rivalry for the chair, said out loud as a compliment.
 - **Tag:** the Lost One studies Nathaniel's face: "I know you."
 
 ## Scenes
@@ -103,7 +104,23 @@ The Guard post, late. Nathaniel brings two mugs of chicory. Nixon spreads the se
 
 First light in Gin Lane, snow on the frost. Hector stands beside a strongbox with Ajax and pays every family the ice touched, not only his own men's. The Hardings send no one. Tamara holds the ledger. "You're paying for the Hardings' monster." "I'm paying for the street's memory. In a month they'll need coal. They'll remember who came." "And if they ask why you came?" "Grief, my dear. It's the cheapest thing I'll ever buy." Tamara writes down every name. Two of the dead were Ajax's men. He watches her spell their names right, and ask their widows how. Hector never asked their names.
 
-### 14. I know you (tag)
+### 14. The names
+
+Lambrick House, the morning room. Lord Lambrick sits by the fire in his wheeled chair, a blanket over his knees, the rattle in his chest going like a cart on cobbles. Hector, still in his snowy coat, tells him about Gin Lane: the strongbox, every family, the Hardings sending no one.
+
+"Whose idea?"
+
+"Mine."
+
+The old man nods. Then he turns his head. "Read me the names, Tamara. My eyes are no good for ledgers."
+
+Tamara doesn't open the ledger. She says them from memory, every one, with the street and the number of children. When she reaches Ajax's two men she gives their widows' names too.
+
+Lord Lambrick listens with his eyes shut. "You paid them," he says to Hector. "She remembered them. Which do you think they'll remember?"
+
+Hector laughs and kisses the top of his father's head. "Both of us, Father. That's why there are two of us." He goes to change his coat. Tamara stays by the fire. Her father doesn't say anything else to her. He doesn't have to; she heard it. So did Hector.
+
+### 15. I know you (tag)
 
 The workshop at dawn. Alice is asleep on the blankets by the bench. Nathaniel comes in from the Guard post and sits down at his drawing table without taking his coat off. The Lost One crosses the floor without a sound and stops beside him. She studies his face: the jaw, the ink on his cuffs, the eyes.
 

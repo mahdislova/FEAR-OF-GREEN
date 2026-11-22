@@ -69,7 +69,7 @@ Eldgard traps it in an **ornament**, a piece of the ship's containment, and mesm
 
 **House Harding.** Keepers of the light and the secret. Harding House in Mayfair; the Works over Tyburn, with the core and the pod deep below.
 
-**The Lambricks.** Coal. Hector Lambrick is losing the light war and wants London back on coal. When he learns what the light is, he wants to own it. Tamara, his daughter, is the only person who can break Alistair's cipher. Ajax is his enforcer.
+**The Lambricks.** Coal. Lord Augustus Lambrick built the empire and is dying of it; he hasn't named his heir. Hector, his son and heir apparent, runs the business and is losing the light war and wants London back on coal. When he learns what the light is, he wants to own it. Tamara, Lord Lambrick's daughter by his second marriage and Hector's half-sister, is the only person who can break Alistair's cipher. Ajax is his enforcer.
 
 **The Vykra.** A guild of undercity women, spies and knives for hire, run by Mother Grise from a Shadwell laundry. Their mark is a knot stitched inside the glove. They sell to every faction.
 

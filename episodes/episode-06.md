@@ -21,7 +21,7 @@
 - **The warm hour.** Jennie brings crumpets to the workshop in a laundry coat three sizes too big, and does Sister Martha and her thimble. Three young women laugh until it hurts. Then Alice goes downstairs. On her knees at Miriam's boots, Jennie confesses she stood frozen under the bridge arch and let Miriam go under. The Lost One tells her, gently, in Miriam's voice: "I have her memories of your laugh, Jennie... But she is not behind these eyes. I am wearing her bones. Miriam Bounds drowned in the black river. She is really, truly gone." Jennie now holds a truth Alice doesn't have; she keeps it, and the Lost One keeps it, until Ep 7.
 - Josephine follows up on Alice’s reports through Grise. Grise has tested the returned Miriam herself. Grise reminds her she's been buying her own sentence since Episode 2: "You were the one holding the knife. And you hired her sister." Josephine connects the timing to the escape from the ornament: the sister she hired is living with the face of the girl she killed. She pays to silence Jennie. Open beat: the precise detail Alice believes safe to report.
 - **Alice's hunt reaches Grise.** Alice goes into Grise's ledger room the Vykra way, looking for the bridge night. Grise catches her, and finds a knife at her throat (Alice's second aura moment). Grise, out of cruelty, tells her what Miriam paid to join the Vykra: their stepfather, drowned at sixteen. Alice walks home with it.
-- **Hector knew.** When the cut is announced, Hector looks at the drawer where he locked the Gin Lane audit, and says nothing.
+- **Hector knew.** When the cut is announced, Hector looks at the drawer where he locked the Gin Lane audit, and says nothing. The same evening his father needles him: "Your sister had a chair at the Works." "I put her in it." "Did you."
 - **Tamara's track.**
   - *The Works meeting (canon):* she argues for draining the Gin Lane branch first. Eldgard overrules her.
   - *The corridor:* "You were right about the branch." "Then why—" "Because being right about one street is easy. You'll learn." Then he gives her a book no Harding has been able to read: Alistair's, in his private cipher. Morgana is failing faster than the yield admits, the child is loose, and he needs the old instructions for putting a living thing in the pod. He has no one else who can read it. "Can you?" She sends her runner herself (canon).
@@ -129,7 +129,19 @@ Thirty years of silence give out. "A woman. In a pod. That's the light, Master N
 
 ### 15. Two books
 
-Night, cross-cut. In the Harding library Tamara has Alistair's cipher open under the lamp. The first line breaks. Ada brings tea, sees which book is open, sets the cup down very carefully, and goes. Across the city a runner brings Hector word from the Works: the East End is to be cut tonight. Hector looks at the drawer where he locked Grise's audit of the Gin Lane housings. He doesn't open it. He goes back to his dinner. Two books, two families, and each one shut on what it knows.
+Night, cross-cut.
+
+The Harding library. Tamara has Alistair's cipher open under the lamp. The first line breaks. Ada brings tea, sees which book is open, sets the cup down very carefully, and goes.
+
+Lambrick House. Hector sits with his father by the fire, reading him the day's figures. Lord Lambrick stops him halfway down the page. "Your sister had a chair at the Works this morning."
+
+"I put her in it."
+
+"Did you." It isn't a question. The old man closes his eyes. Hector reads on, a little faster.
+
+A runner from the Works: the East End is to be cut tonight. "Gin Lane," Lord Lambrick says. "Isn't that where you paid the widows?" "Yes, Father." Hector's eyes go to his desk across the room, to the drawer where he locked Grise's audit of the Gin Lane housings. He doesn't open it. He finishes the page.
+
+Two books, two houses, and each one shut on what it knows.
 
 ### 16. Gin Lane washhouse
 

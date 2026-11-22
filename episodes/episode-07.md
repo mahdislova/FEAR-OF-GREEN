@@ -21,7 +21,7 @@
 - **That night.** Jennie opens her door expecting Alice. The girl stands there alone. “She said you’d let me in.” Jennie takes the wet coat. There’s only one chair. She gives it to the girl and sits on the floor against the door. At Harding House Nathaniel hears Tamara’s terms: the marriage on Saturday will secure coal for the East. “Tell Tamara I’ll be there. Has the first cart gone?” He waits for an answer about the cart before he goes upstairs.
 - **The overnight step.** Before dawn Jennie sends word: the girl is bleeding from the nose and won't stop. It's the cost of the cold she used to save Jennie, and to save Nathaniel. Alice asks the messenger whether the girl wanted her sent for. He doesn’t know. She goes anyway.
 - **Tamara's track.**
-  - *Eldgard's study:* the East is freezing. She comes with her father's coal and her own terms: coal to the East tonight, the wedding Saturday. Eldgard agrees. Hector, told it's done, hands her the delivery: "Your terms. Your carts." From tonight the East's coal moves on her orders.
+  - *Eldgard's study, then the sickroom:* the East is freezing. She comes with her family's coal and her own terms: coal to the East tonight, the wedding Saturday. Eldgard agrees. At Lambrick House their dying father makes Hector hand her the delivery orders himself: "Your terms. Your carts." She glimpses the Gin Lane audit in his drawer. Then, alone, her father: "Hector will have it. He's the one they'll follow. You'll be the one who keeps him alive." From tonight the East's coal moves on her orders.
   - *The rented room, the fight:* "You chose this." "I chose the East getting coal tonight. The rest came with it." "The rest is me." She doesn't answer. She holds out the coat she relined. He takes it, because it's freezing.
 
 ## Scenes
@@ -98,7 +98,23 @@ She goes alone. Nathaniel gets as far as Alice. To follow he would have to pull 
 
 ### 11. Her terms
 
-Eldgard's study. The East is freezing. Tamara comes with her father's coal and her own terms: coal to the East tonight, the wedding on Saturday. Eldgard agrees. Hector, told it's done, takes the delivery orders out of his desk drawer and hands them to her. "Your terms. Your carts." Under the orders, for a second, she sees the audit with the Lambrick crest and the words *Gin Lane*. He shuts the drawer. From tonight the East's coal moves on her orders, and the man who takes the first cart east is Ajax.
+Eldgard's study. The East is freezing. Tamara comes with her family's coal and her own terms: coal to the East tonight, the wedding on Saturday. Eldgard agrees.
+
+Lambrick House, the sickroom. Lord Lambrick has had himself propped up to hear it. Hector stands at the foot of the bed; he expected to make this deal himself. Their father listens to Tamara's terms without interrupting, then turns his head on the pillow.
+
+"Give your sister the delivery orders, Hector."
+
+Hector goes to his desk and takes them out of the drawer. Under them, for a second, Tamara sees an audit with the Lambrick crest and the words *Gin Lane*. He shuts the drawer and hands her the orders with a little bow, as if it were a joke between them. "Your terms. Your carts."
+
+"Thank you, brother." From tonight the East's coal moves on her orders, and the man who takes the first cart east is Ajax.
+
+Hector goes down to see the carts off. Their father keeps hold of Tamara's wrist. His grip is still strong.
+
+"Hector will have it," he says. "He's the one they'll follow. Men follow sons. You'll be the one who keeps him alive."
+
+"Yes, Father."
+
+He lets go. She tucks the blanket round his knees, the way the nurse never does it properly, and goes out with the orders under her arm.
 
 ### 12. The rest is me
 
