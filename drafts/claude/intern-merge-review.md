@@ -171,3 +171,15 @@ Down from 14 scenes and about 3,600 words to 11 scenes and about 2,900. Your fou
 - **Folded in:** "Take her out" now plays inside "The warrant". The runner reaches the gate while both siblings are standing there and gives the message to the air between them, because he doesn't know which of them to give it to. The order follows in the carriage. "It's done" becomes the first beat of the tag.
 - **Moved to Ep 10:** Nathaniel's failed left-handed try at the lock. Ep 10's "Turn it" already plays it, so it lands once, where it pays off.
 - **Trimmed:** Byron's speech and the wheel fight are now shorter and harder.
+
+---
+
+## Sixth pass (22 Nov): the friend's five veins, placed
+
+- **Two keepers (Ep 6, new scene 8):** Josephine and Ada at the scullery table, the night Josephine pays to silence Jennie. Moved out of the writer's Ep 2 glove scene: no gloves, no witness.
+- **Spare and servant (Ep 3, "The wrong street"):** "I sleep in the mews... your name's carved on the front gate," seconds before the lie.
+- **Byron's kindness (Ep 6, "You were always enough"):** "I let you believe you'd dreamed it." Canon 1873 (the lantern), not the cut cautery version.
+- **Measuring the foundations (Ep 7, after the sickroom):** in the yard, two episodes before the blade.
+- **The red mittens:** silent, never explained. Ep 3 (won't take them off), Ep 7 (pulls them on to wait on the stair), Ep 10 (the mittened hand at the ramp).
+- **Editor's trims:** Ep 6's "Bring him back" folded into "Is she in there?" (16 scenes). The friend's Ep 9 screenplay draft cleaned of "Suction Core" and cautery/laudanum; both friend drafts marked not canon.
+- **Still heavy:** Ep 6 (about 3,360 words) and Ep 10 (about 3,440). Fine for a midpoint and a finale; they're the first candidates for the next trim.

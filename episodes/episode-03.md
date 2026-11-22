@@ -24,6 +24,8 @@
 - Nathaniel finds the sisters and hides them in his workshop. His tech can manage her cold.
 - **The first lie to Nixon: the wrong street.** At the Guard post that night, Nixon gratefully shows Nathaniel the search map. Nathaniel reads it like an engineer and points the frost along the old drains toward Gin Lane. "That's where I'd look." Twenty men move to Gin Lane; Clerkenwell stays open. "I don't know what I'd do without you tonight." "Neither do I."
 - The only chair that does not squeak is missing a leg. Alice tries it, drops neatly into her sister’s lap and, after a beat, announces that it takes two to sit in this house. The Lost One laughs before Alice does. They spend a minute trying out the other furniture with elaborate caution. It is their first joke since the river.
+- **Spare and servant.** At the Guard post, before the wrong street, Nathaniel needles Nixon about Father's keys. Nixon: "I do what I'm told because if I don't, I sleep in the mews. You get to be an angry philosopher because your name's carved on the front gate." It makes the lie crueller, and it plants the journal in Ep 5.
+- **The red mittens.** The girl sleeps in Miriam's red mittens and won't take them off, though she never feels the cold (Ep 1, the bridge). Silent. Pays off on the stair (Ep 7) and at the ramp (Ep 10).
 - **Tamara's track.**
   - *The rented room (canon, sharpened):* instead of telling Nixon about the engagement, she gives him his Guard greatcoat relined in grey wool; he froze for nine nights in the east. "I can sew. Nobody's ever asked me to." "Walk with me on Sunday." *(buttoning it on him)* "Give me a little time."
   - *Gin Lane, dawn (canon):* she holds the ledger while Hector pays the widows, and learns what grief buys.
@@ -38,7 +40,7 @@ The Essex marsh, one of Nixon's nine nights in the east. Sleet sideways off the 
 
 ### 2. Buns
 
-Dawn in the Bounds room. The girl is asleep in Miriam's shift. Jennie lets herself in with three buns in a dishcloth, puts them on the stove to warm and burns her thumb on the kettle. She blames the laundry steam, which isn't here. Alice laughs before she can help it.
+Dawn in the Bounds room. The girl is asleep in Miriam's shift, with Miriam's red mittens still on. She wouldn't take them off last night, though she never seems to feel the cold. In her sleep she holds one against her face. Alice watches her do it and doesn't know why it frightens her. Jennie lets herself in with three buns in a dishcloth, puts them on the stove to warm and burns her thumb on the kettle. She blames the laundry steam, which isn't here. Alice laughs before she can help it.
 
 Then Jennie looks at the bed, and her face goes. She takes Alice by both wrists. "Don't tell Grise she's back. Don't let anyone in Shadwell see her." Alice asks why. Jennie opens her mouth, shuts it, and leaves her bun on the stove. Alice looks at the sleeping girl. Grise swore Miriam ran off and left her. Grise lied.
 
@@ -112,7 +114,17 @@ The Shadwell laundry after dark. A girl back from the market tells the tubs what
 
 ### 13. The wrong street
 
-The Guard post, late. Nathaniel brings two mugs of chicory. Nixon spreads the search map across the desk. He's grateful. "Where would you put them?" Nathaniel reads the map like an engineer. The sisters are three doors from his workshop in Clerkenwell. He runs his pencil along the old storm drains, downhill, toward Gin Lane. "If she moves with the damp, she'll follow the drains. That's where I'd look." Twenty men move to Gin Lane. Clerkenwell stays open. "I don't know what I'd do without you tonight." "Neither do I."
+The Guard post, late. Nathaniel brings two mugs of chicory. Nixon's new keys are on the desk beside the search map, the Harding ring with the study key on it.
+
+Nathaniel nudges them with a finger. "He gave you the study, Nix. Did you take the inventory?"
+
+"He's in mourning, Nat."
+
+"He's never in mourning. He's delegating. He gave you the keys because you do what you're told, and I ask where the lock was made."
+
+Nixon doesn't look up from the map. "I do what I'm told because if I don't, I sleep in the mews. You get to be an angry philosopher because your name's carved on the front gate." He says it mildly, the way you'd mention the weather. It's the truest thing he's ever said to Nathaniel, and he moves straight on. "Where would you put them?"
+
+Nathaniel reads the map like an engineer. The sisters are three doors from his workshop in Clerkenwell. He runs his pencil along the old storm drains, downhill, toward Gin Lane. "If she moves with the damp, she'll follow the drains. That's where I'd look." Twenty men move to Gin Lane. Clerkenwell stays open. "I don't know what I'd do without you tonight." "Neither do I."
 
 ### 14. The widows
 

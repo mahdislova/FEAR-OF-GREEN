@@ -169,7 +169,7 @@ Then the hardest thing she has ever done. She doesn't ask her to come down. She 
 
 The Lost One looks up at the ship, then back at Alice: the one person in London who wants her for what she is, and is letting her go. She comes down the ramp. "I choose the cold with you."
 
-Hold on Morgana long enough for hope to give way to understanding. She watches her child settle beside Alice. She sees the decision and lets the ship depart in silence. The Lost One's hand finds Alice's in the cold.
+Hold on Morgana long enough for hope to give way to understanding. She watches her child settle beside Alice. She sees the decision and lets the ship depart in silence. The Lost One's hand, still in Miriam's red mitten, finds Alice's in the cold.
 
 ### 13. The orange
 

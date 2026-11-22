@@ -6,6 +6,7 @@
 - **Wants:** to free her mother.
 - **The lie she believes:** love is a weakness of the body she wears.
 - **What she learns:** a love she was free to refuse is still hers. In Ep 9 Morgana tells her both boys were seeded on her instruction, and she asks Alice, "Did I love you because I was made to?" In Ep 10 she chooses: "I choose the cold with you."
+- **Miriam's red mittens:** she won't take them off, though she never feels cold (Ep 3); she pulls them on to wait on the stair (Ep 7); her mittened hand finds Alice's at the ramp (Ep 10). Silent, never explained.
 - **The cost of the cold:** a nosebleed after every burst (`canon/world-and-rules.md`). The market (Ep 3), the net and Garrow (Ep 7).
 - **Secret:** she lets Alice believe she's Miriam. She killed Jamie Harding escaping the ornament and doesn't remember it. The memories return slowly. Ep 5 brings an incomplete fragment of Jamie's death, not a confession. In Ep 7 she tells Alice that Miriam died and she entered her body; when Nathaniel arrives, she remembers the study clearly enough to tell them both that she ravaged Jamie while escaping. She owns the act without claiming to have intended his death. Alice prevents Nathaniel from restraining her, then sends her away. Alice returns in Ep 8 by choice.
 - **What she doesn't know:** in 1873 she imprinted both Harding boys, on her mother's instruction (revealed Ep 9).

@@ -20,6 +20,8 @@
 - **The Duke's ultimatum.** The Duke comes to the Works unannounced. If the light fails in the frost, the Crown sends the Royal Engineers into the vaults. It's the pressure that makes Eldgard keep the West lit at any cost.
 - **The warm hour.** Jennie brings crumpets to the workshop in a laundry coat three sizes too big, and does Sister Martha and her thimble. Three young women laugh until it hurts. Then Alice goes downstairs. On her knees at Miriam's boots, Jennie confesses she stood frozen under the bridge arch and let Miriam go under. The Lost One tells her, gently, in Miriam's voice: "I have her memories of your laugh, Jennie... But she is not behind these eyes. I am wearing her bones. Miriam Bounds drowned in the black river. She is really, truly gone." Jennie now holds a truth Alice doesn't have; she keeps it, and the Lost One keeps it, until Ep 7.
 - Josephine follows up on Alice’s reports through Grise. Grise has tested the returned Miriam herself. Grise reminds her she's been buying her own sentence since Episode 2: "You were the one holding the knife. And you hired her sister." Josephine connects the timing to the escape from the ornament: the sister she hired is living with the face of the girl she killed. She pays to silence Jennie. Open beat: the precise detail Alice believes safe to report.
+- **Two keepers.** Past midnight, home from paying Grise, Josephine sits across the scullery table from Ada mending Nixon's shirts. "Do you ever hate this house, Ada?" "A house doesn't ask to be built, ma'am. It only asks to be swept." Two women outside the Harding blood who sold their families for protection. It makes Ada's stair in Ep 9 cut twice.
+- **Byron's kindness.** "I sat with you after, till you slept, and let you believe you'd dreamed it... It was the only kindness anyone in this house could give you." Then: "You were always enough."
 - **Alice's hunt reaches Grise.** Alice goes into Grise's ledger room the Vykra way, looking for the bridge night. Grise catches her, and finds a knife at her throat (Alice's second aura moment). Grise, out of cruelty, tells her what Miriam paid to join the Vykra: their stepfather, drowned at sixteen. Alice walks home with it.
 - **Hector knew.** When the cut is announced, Hector looks at the drawer where he locked the Gin Lane audit, and says nothing. The same evening his father needles him: "Your sister had a chair at the Works." "I put her in it." "Did you."
 - **Tamara's track.**
@@ -75,6 +77,8 @@ Jennie makes a sound like something tearing. The girl doesn't touch her; she kno
 
 Footsteps on the stair. Jennie scrubs her face on her enormous sleeve, gets up and is at the stove before the door opens. "Last crumpet's mine," she tells Alice. "I've earned it." Alice doesn't argue. She doesn't see that the girl is still sitting on the floor, or that Jennie won't look at her.
 
+When Jennie has gone, the girl takes two folded sheets out of her pocket and gives them to Alice: the outside of the ornament, and the inside she drew from memory. "Bring him back. When it's safe." Alice folds them into her coat.
+
 ### 7. Josephine and Grise
 
 The Shadwell laundry, the back room. Josephine has come in person. Grise tells her what she found in her own test: the girl living with Alice isn't Miriam. Josephine works out the timing herself: the night the ornament broke, the night of the bridge. The sister she hired is living with the face of the girl she killed.
@@ -83,9 +87,19 @@ The Shadwell laundry, the back room. Josephine has come in person. Grise tells h
 
 There's a witness to the bridge. Josephine puts a purse on the ironing board. Grise makes it disappear.
 
-### 8. Bring him back
+### 8. Two keepers
 
-The workshop, evening. The Lost One gives Alice both drawings, the outside of the ornament and the inside she drew from memory. "Bring him back. When it's safe." Alice folds them into her coat.
+Harding House, past midnight. Josephine comes in through the area door from Shadwell with Grise's receipt in her glove and finds the scullery lamp still lit. Ada is at the table mending Nixon's shirts, the way she has every Thursday for twenty years. She starts to rise. Josephine tells her to sit.
+
+Josephine doesn't go up. She sits on the other side of the table in her good coat and watches Ada's swollen fingers work the needle. Forty years under one roof, and neither of them with a drop of Harding blood. Neither of them can say what she's done tonight, or any night.
+
+"Do you ever hate this house, Ada?"
+
+Ada doesn't look up from the needle. "A house doesn't ask to be built, ma'am. It only asks to be swept." She bites off the thread. "When the master took my brother, he gave my nephew a captain's coat. God never offered me half as good a trade."
+
+Josephine looks at the shirt in Ada's lap: Nixon's, the collar turned so the wear won't show. She thinks of her own son's collar, and what she has just paid for. "No," she says. "Nor me."
+
+She goes upstairs. Ada threads the needle again, and holds it a moment longer than she needs to before she starts.
 
 ### 9. The ledger room
 
@@ -137,7 +151,15 @@ Outside, in the snow, Nixon looks up at the lit window for a long time. Then he 
 
 Harding House, dawn. Byron is laying the breakfast silver. Nathaniel stands in the pantry door with dried blood on his collar. "Byron. What's under the Works?"
 
-Thirty years of silence give out. "A woman. In a pod. That's the light, Master Nat. That's all it ever was." And then, because it's the thing he's wanted to say for sixteen years: "Your father didn't make you clever. You were always enough."
+Thirty years of silence give out. "A woman. In a pod. That's the light, Master Nat. That's all it ever was."
+
+"You were there. In 1873. On the landing."
+
+Byron's hands keep wrapping the fork in its cloth. They're shaking. "I sat with you after, till you slept. And in the morning I let you believe you'd dreamed it."
+
+"Why?"
+
+"What should I have told a five-year-old boy? You were happy, building your little carts. It was the only kindness anyone in this house could give you, and it wasn't much." Then, because it's the thing he has wanted to say for sixteen years: "Your father didn't make you clever. You were always enough."
 
 ### 15. Two books
 

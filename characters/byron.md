@@ -13,4 +13,5 @@
 Old-bible history (ex-Lantern sergeant, loved Josephine thirty years ago): carried over, not re-reviewed.
 - **Ep 9, the entrance:** he comes into the pod chamber through the old core guard's stair in his thirty-year-old guard's coat, puts a guard into the wall before his blade reaches Alice, and talks half the guard down; he trained them. "I said nothing for sixteen years. I'm done saying nothing." The butler who chose the boys over the master finishes the choice.
 - **Ep 10:** holds the gallery stair with Nixon while the pod opens. Turns Nathaniel away from his father in the crystal: "Come away, Master Nat. He's had all of you he's getting."
+- **Ep 6, the kindness:** "I sat with you after, till you slept, and let you believe you'd dreamed it."
 - **The lie, broken:** loyalty means silence → loyalty means speaking (Ep 6), then standing in the doorway (Ep 9).

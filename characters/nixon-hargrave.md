@@ -22,3 +22,4 @@
 - **Ep 9:** Tamara finds him over Ada's body and covers it up ("Mrs Hargrave fell"). He owes her his freedom and she holds his worst act.
 
 **With Tamara:** in love with her. She relines his coat (Ep 3), warns him not to give Eldgard the journal (Ep 5), writes her own marriage (Ep 7), gives him the Hargrave pages and asks him to stay inside it; he refuses (Ep 8). Across the frozen street in her coat (Ep 10).
+- **Ep 3, spare and servant:** "I do what I'm told because if I don't, I sleep in the mews. You get to be an angry philosopher because your name's carved on the front gate."

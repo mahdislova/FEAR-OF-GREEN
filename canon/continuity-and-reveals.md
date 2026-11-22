@@ -93,7 +93,12 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Alice buttons Josephine’s cuff while reporting (Ep 4) | She stops halfway after Jennie names Josephine (Ep 8). The dye on Alice’s hem gives Josephine Jennie’s address. Jennie brings Alice the arrest news. |
 | Tamara asks Nixon for time to speak to Hector (Ep 3) | The public toast reaches Nixon before she tells him herself (Ep 5). |
 | Ada sends Marsh his spectacles (Ep 4) | Nixon’s first kindness to his uncle comes from the aunt who reported him. He frees him in Ep 9. |
-| Ada polishes lamps (Ep 1) and feeds Nixon at the wake: "You're thin, love" (Ep 2) | Her death on the servants' stair (Ep 9) |
+| Ada polishes lamps (Ep 1) and feeds Nixon at the wake: "You're thin, love" (Ep 2); mends his shirts at midnight: "A house doesn't ask to be built" (Ep 6) | Her death on the servants' stair (Ep 9) |
+| Josephine and Ada at the scullery table: "Do you ever hate this house?" (Ep 6) | Ada dies keeping the house's secret (Ep 9); Josephine leaves it with the pearls (Ep 10) |
+| Nixon: "I do what I'm told because if I don't, I sleep in the mews" (Ep 3) | He hands Eldgard the journal anyway (Ep 5); "Did you love me, or did you keep me?" (Ep 9) |
+| Miriam's red mittens at the bridge (Ep 1); the girl won't take them off (Ep 3) | She pulls them on, waiting on the stair (Ep 7); her mittened hand finds Alice's at the ramp (Ep 10) |
+| Hector: "We take the room we're given." Tamara: "I'm measuring the foundations." (Ep 7) | The heir paper, folded next to the audit (Ep 10) |
+| Byron let the boy believe he'd dreamed it (Ep 6) | "I said nothing for sixteen years. I'm done saying nothing." (Ep 9) |
 | Marsh pinches Nixon's chin (Ep 4) | Nixon learns he's his uncle (Ep 9) |
 | The nightmare: a shadow, eyes as limitless as the sky (Ep 2 cold open) | The full 1873 memory (Ep 6) |
 | Nathaniel's unexplained genius (Ep 1) | It was planted (Ep 6), and it opens the pod (Ep 10) |

@@ -22,6 +22,7 @@
 - **The overnight step.** Before dawn Jennie sends word: the girl is bleeding from the nose and won't stop. It's the cost of the cold she used to save Jennie, and to save Nathaniel. Alice asks the messenger whether the girl wanted her sent for. He doesn’t know. She goes anyway.
 - **Tamara's track.**
   - *Eldgard's study, then the sickroom:* the East is freezing. She comes with her family's coal and her own terms: coal to the East tonight, the wedding Saturday. Eldgard agrees. At Lambrick House their dying father makes Hector hand her the delivery orders himself: "Your terms. Your carts." She glimpses the Gin Lane audit in his drawer. Then, alone, her father: "Hector will have it. He's the one they'll follow. You'll be the one who keeps him alive." From tonight the East's coal moves on her orders.
+  - *The yard:* Hector, seeing the carts off: "You'll have Mayfair, and I'll have the pits... we take the room we're given." Tamara: "You take the room you're given, Hector. I'm measuring the foundations." He laughs, and puts his arm round her.
   - *The rented room, the fight:* "You chose this." "I chose the East getting coal tonight. The rest came with it." "The rest is me." She doesn't answer. She holds out the coat she relined. He takes it, because it's freezing.
 
 ## Scenes
@@ -78,7 +79,7 @@ At the end of the basin Jennie lets go of the hand as if it burns, and runs. The
 
 She walks home through an East End with no lamps, holding her sleeve to her nose. Nobody stops her; nobody can see her face. Twice she takes the wrong turning, and twice her feet correct it: Miriam's feet, which know these streets the way they knew the throw. Gin Lane. The stair. The door.
 
-She has no key. Miriam's key is at the bottom of the river. So she sits down on the top step with her back to the door, the way a child waits for a sister who is late, and puts her bleeding face on her knees.
+She has no key. Miriam's key is at the bottom of the river. So she sits down on the top step with her back to the door, the way a child waits for a sister who is late. She pulls Miriam's red mittens on, though she isn't cold, and puts her bleeding face on her knees.
 
 That's where Alice finds her an hour later, coming home from Ren's with what Grise told her still in her mouth. Alice stands on the landing below and looks at her for a long time. Then she climbs past her, unlocks the door and leaves it open. After a while the girl gets up and comes in.
 
@@ -125,6 +126,14 @@ Hector goes down to see the carts off. Their father keeps hold of Tamara's wrist
 "Yes, Father."
 
 He lets go. She tucks the blanket round his knees, the way the nurse never does it properly, and goes out with the orders under her arm.
+
+The Lambrick yard, after dark. The first carts are loading under torches. Hector is at the gate in his good coat, watching Ajax climb up onto the lead cart. He hears his sister come down the steps and doesn't turn round.
+
+"He's a Harding, Tam. A second son with ink on his cuffs." He sounds almost kind. "But you'll have Mayfair, and I'll have the pits. That's a fair split. Father always says we take the room we're given."
+
+Tamara watches the first cart pull out into the dark, east, on her orders. "You take the room you're given, Hector." She pulls her gloves on. "I'm measuring the foundations."
+
+He laughs, because he thinks it's a joke, and puts his arm round her shoulders to keep her warm.
 
 ### 13. The rest is me
 

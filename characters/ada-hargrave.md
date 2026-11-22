@@ -19,3 +19,4 @@
 **Requirements.** Seed her from Ep 1 (the lamps). Her "love" with Nixon starts when he arrives in Ep 2. Her death needs aftermath: someone finds her, and Nixon chooses whether to lie.
 
 **Mirror.** A sibling betrayed to protect the order (Ada), a man drowned to protect a sibling (Miriam), a hand over a mouth (Nixon).
+- **Ep 6, two keepers:** past midnight, mending Nixon's shirts, Josephine across the table: "Do you ever hate this house, Ada?" "A house doesn't ask to be built, ma'am. It only asks to be swept. When the master took my brother, he gave my nephew a captain's coat. God never offered me half as good a trade." That's her own story of her life; she believes it.
