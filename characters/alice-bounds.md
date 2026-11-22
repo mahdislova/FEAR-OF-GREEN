@@ -21,3 +21,11 @@
 **Aura moments.** Each one is planted. The bounty men in the fog (Ep 4); the knife at Grise's throat (Ep 6); Miriam's throw, landed at last (Ep 7, planted Ep 1). See `canon/season-one.md`.
 
 **Key moments.** "You're not her" (Ep 7). Stops Nathaniel restraining the Lost One but does not yet forgive her. "Nine is the one where we get up" (Ep 8). Spares Josephine (Ep 10). "Us" at the lock (Ep 10).
+
+**With Nathaniel: enemies to lovers.** A Mayfair second son who's better with brass than people, and a Vykra knife sure every aristocrat is a soft parasite, paid to watch him. They fall for each other while trying hard to hate it.
+- **Ep 3, the waistcoat:** "You buttoned your waistcoat three holes crooked, your lordship." "I'm not a lord." He re-does the buttons when he thinks she isn't looking. She is.
+- **Ep 4, the burn and the lens:** cold water over his blistering arms. "I'm eleven stone." "Then you're underfed. Eat a turnip." Then the near-kiss over the lens, broken by the girl crying out in her sleep. "Blow out the lamp, Nat." It's the first time she calls him that.
+- **Ep 5:** upstairs after the toast, she works out that he knew about Tamara since the Ep 1 lunch and kept it from her.
+- **Ep 6:** he offers her a train north and "a room where you aren't holding a knife", and that's what makes her confess the contract. "Did she pay you to let me kiss you?" "Nobody's ever paid me enough for that." That night they stop circling.
+- **Ep 7:** she opens the door for the Lost One, and he can't forgive her yet. "I'd rather you went."
+- **Ep 10:** "Us. Together, Nat. Look at me. On three." Then, on a cellar step, she tells him what his mother did; burned hand in ruined hand.

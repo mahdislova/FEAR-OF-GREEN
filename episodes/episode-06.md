@@ -109,17 +109,29 @@ He asks the Lost One if he may put the gauntlet to her wrist to read her cold. S
 
 Nathaniel at five, in bed. Something slips into the room. Eyes as limitless as the sky. Something goes into him and stays: the shape of a coil, the way a lock thinks. Under it all, a machine holding a signal down, the way you hold a hand over a mouth. Then his father in the doorway with a lantern, swinging it slowly, speaking softly. *A dream. You had a dream.* The light swings. The boy forgets.
 
-He wakes on the workshop floor with blood in his mouth. Alice has his head in her lap. His genius was never his. His father didn't just forget him; he erased him.
+He wakes on the workshop floor retching, with blood in his mouth. Alice has his head in her lap and her fingers in his hair, and she doesn't stop when he opens his eyes. His genius was never his. His father didn't just forget him; he erased him. He holds onto her sleeve like a boy, and for once she lets someone hold on.
 
 ### 13. Paid at first
 
-Later. The Lost One is asleep behind the curtain. Nathaniel can't stop shaking. Alice tells him the truth because she can't let him lean on a lie. His mother hired her, through Grise, to get close to him and report where he went.
+Later, by one candle. The Lost One is asleep behind the curtain. Nathaniel has stopped shaking, mostly. He takes Alice's hand, the one with the rag still wrapped round the knuckles, and doesn't let go.
 
-"Did she pay you to let me kiss you?"
+"When this is over, come with me. You and Miriam. We take a train north, somewhere the light doesn't cost anybody anything. I don't care about the Works. I don't care about him." He looks at her hand in his. "I just want a room where you aren't holding a knife."
 
-"Paid at first. Never after."
+She takes her hand back as if it's burned her. She can't take the gentleness, because she knows what she is. She goes to her coat, takes out Grise's envelope and puts it on the bench between them, his name on the front in Grise's hand.
 
-He doesn't leave. Neither does she. That night they stop circling. Outside, in the snow, Nixon looks up at the lit window for a long time. Then he decides.
+"Your mother paid for this. She hired me through Grise the week Jamie was buried, to get close to you and tell her where you went."
+
+He looks at the envelope a long time. "Paid. All of it?"
+
+"At first. Never after." Her voice holds, barely. "Before I knew who you were."
+
+The cruel thing comes out of him before he can stop it. "Did she pay you to let me kiss you?"
+
+She doesn't hit him. She doesn't leave. She stands there and lets it land on her, because she thinks she's earned it. "Nobody's ever paid me enough for that."
+
+He puts his face in his hands. When he looks up she's still there. He doesn't leave. Neither does she. That night they stop circling.
+
+Outside, in the snow, Nixon looks up at the lit window for a long time. Then he decides.
 
 ### 14. You were always enough
 

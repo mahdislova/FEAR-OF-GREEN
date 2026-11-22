@@ -30,3 +30,5 @@
 **The two endings he gets (Eps 9–10).**
 - **The question his father never answers.** "Did you ever see a son? Or did you just see the lock?" Eldgard opens his mouth, and Morgana's palm hits the glass (Ep 9). In Ep 10 he stands in front of his father sealed in crystal, eyes still moving. "You were going to tell me." He never will. Byron turns him away.
 - **His mother.** On a cellar step in the first dark night Alice tells him Josephine killed Miriam, and that she left her alive. He takes her burned hand in his ruined one. At Harding House the jewel case is empty and Jamie's photograph is still on the mantel: she took the pearls and left her son.
+
+**With Alice.** He's awkward, ink-stained and frightened of how much he wants her. The romance runs on near-misses: the waistcoat (Ep 3), the burn and the lens, "I'm eleven stone" (Ep 4), the train north and "a room where you aren't holding a knife" (Ep 6), "On three. Look at me" at the lock (Ep 10). Full beats are in `alice-bounds.md`.

@@ -84,27 +84,41 @@ Alice shows the lamp boy a penny. He lowers the stars. From the gallery the lamp
 The Lost One cannot uncurl her hand. Nathaniel offers his prototype to Alice, who asks her sister before touching her. One finger first. The crystal takes the cold. In Episode 7 both women will recognize the device when Nathaniel reaches for it. 
 
 
-### 9. The chair
+### 9. The waistcoat
+
+Later. The girl is asleep on the blankets with her hand uncurled. Nathaniel is sweeping frost off the bench into a bucket. Alice hasn't sat down since she came through the door; she's standing where she can see both the window and him. Grise's envelope with his name on it is in her coat.
+
+"You buttoned your waistcoat three holes crooked, your lordship. Is that the fashion in Mayfair, or does your valet dress you with his eyes shut?"
+
+"I'm not a lord. I don't have a valet." He looks down at the waistcoat. "And it's an offset cut. For tool work. Not that anyone in the Reach has ever seen an engineer at work."
+
+"I've seen plenty of men who think they're clever drop heavy iron on their own toes. You look the type."
+
+He drops the dustpan. It misses his toes by an inch. Neither of them says anything. Then Alice turns to the window so he won't see her mouth, and for a second the only sound in the room is the girl breathing.
+
+He re-does the waistcoat buttons when he thinks she isn't looking. She is.
+
+### 10. The chair
 
 The only chair in the workshop that doesn't squeak is missing a leg. Alice tries it, drops neatly into her sister's lap and, after a beat, announces that it takes two to sit in this house. The Lost One laughs before Alice does. They spend a minute trying out the other furniture with elaborate caution. It's their first joke since the river.
 
-### 10. The Frost Killer
+### 11. The Frost Killer
 
 Guard headquarters, night. Nixon reports the market dead. Eldgard is already writing the statement on the family's paper: *The Frost Killer*, and a reward under it. "We don't know it's the same—" "The frost in my son's study. The frost at the market. Londoners need one name for what they're afraid of, Captain, or they'll find their own. Sign it as the officer in charge." Nixon signs. It's the first time his name goes under something he doesn't know is true.
 
-### 11. The street talks
+### 12. The street talks
 
 The Shadwell laundry after dark. A girl back from the market tells the tubs what she saw: Miriam Bounds, alive, killing men with ice. Grise stops ironing. Alice sat across from her this morning and asked whether there was any word. Grise sets the iron back on the stove very gently.
 
-### 12. The wrong street
+### 13. The wrong street
 
 The Guard post, late. Nathaniel brings two mugs of chicory. Nixon spreads the search map across the desk. He's grateful. "Where would you put them?" Nathaniel reads the map like an engineer. The sisters are three doors from his workshop in Clerkenwell. He runs his pencil along the old storm drains, downhill, toward Gin Lane. "If she moves with the damp, she'll follow the drains. That's where I'd look." Twenty men move to Gin Lane. Clerkenwell stays open. "I don't know what I'd do without you tonight." "Neither do I."
 
-### 13. The widows
+### 14. The widows
 
 First light in Gin Lane, snow on the frost. Hector stands beside a strongbox with Ajax and pays every family the ice touched, not only his own men's. The Hardings send no one. Tamara holds the ledger. "You're paying for the Hardings' monster." "I'm paying for the street's memory. In a month they'll need coal. They'll remember who came." "And if they ask why you came?" "Grief, my dear. It's the cheapest thing I'll ever buy." Tamara writes down every name. Two of the dead were Ajax's men. He watches her spell their names right, and ask their widows how. Hector never asked their names.
 
-### 14. The names
+### 15. The names
 
 Lambrick House, the morning room. Lord Lambrick sits by the fire in his wheeled chair, a blanket over his knees, the rattle in his chest going like a cart on cobbles. Hector, still in his snowy coat, tells him about Gin Lane: the strongbox, every family, the Hardings sending no one.
 
@@ -120,7 +134,7 @@ Lord Lambrick listens with his eyes shut. "You paid them," he says to Hector. "S
 
 Hector laughs and kisses the top of his father's head. "Both of us, Father. That's why there are two of us." He goes to change his coat. Tamara stays by the fire. Her father doesn't say anything else to her. He doesn't have to; she heard it. So did Hector.
 
-### 15. I know you (tag)
+### 16. I know you (tag)
 
 The workshop at dawn. Alice is asleep on the blankets by the bench. Nathaniel comes in from the Guard post and sits down at his drawing table without taking his coat off. The Lost One crosses the floor without a sound and stops beside him. She studies his face: the jaw, the ink on his cuffs, the eyes.
 

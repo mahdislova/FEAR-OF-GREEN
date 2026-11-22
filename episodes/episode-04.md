@@ -46,13 +46,33 @@ Her father watches her do it. He holds out his black-creased hand, and she puts 
 
 ### 3. The shard
 
-Nathaniel's workshop. He hasn't slept. He lays the shard from Jamie's study on a Works drawing of the ornament's housing, and it fits the clasp like a key in a lock. Alice leans over his shoulder. The edge isn't torn; it was turned by a tool. Nobody broke in through the window. Jamie opened it himself.
+Nathaniel's workshop. He hasn't slept. He's been at the cold-sink coil all night, and it's overheating in his hands. Alice comes in to find him holding it anyway, the skin of his forearms blistering. She doesn't ask. She takes his wrist, kicks his stool out of the way and empties the water jug over his arms.
 
-The Guard ruled that out because Nathaniel told Nixon nothing was disturbed. Every day he keeps quiet now, he's protecting his own lie. Alice puts her hand over his to stop it shaking. He lets it stay there longer than he means to, then takes it back.
+"That was a calibrated solution!"
 
-When she goes to fetch water he says it out loud, to nobody. "He let it out. Why?"
+"That was your skin frying like bacon, you idiot. Sit down before you pass out and I have to drag twelve stone of Mayfair deadweight into the alley."
 
-He shows the girl the exterior drawing and asks whether Jamie ever showed her this. She looks at it a long time. "Time," she says. He leaves the drawing with her.
+He sits. She's still holding his wrist. He looks at her fingers on his arm, and goes quiet. "I'm eleven stone."
+
+She feels his pulse jump under her thumb, and lets go at once. "Then you're underfed. Eat a turnip."
+
+Later, the burns wrapped, he lays the shard from Jamie's study on a Works drawing of the ornament's housing. It fits the clasp like a key in a lock. Alice leans over his shoulder. The edge isn't torn; it was turned by a tool. Nobody broke in through the window. Jamie opened it himself.
+
+The Guard ruled that out because Nathaniel told Nixon nothing was disturbed. Every day he keeps quiet now, he's protecting his own lie. Alice puts her hand over his to stop it shaking.
+
+They're bent over the lens with their faces four inches apart. He reaches for the calipers at the same moment she reaches for the glass, and their fingers meet. Neither pulls away. He looks from her bruised knuckles to her mouth. He doesn't know how to do this gracefully, and she can see that he's frightened of how much he wants to. Her hand comes up, not to her knife, toward his collar.
+
+Behind the curtain the girl cries out in her sleep. Frost crackles across the window glass.
+
+They come apart like they've been caught. Alice has the knife in her hand before he's off the stool. It's nothing: a dream, and the cold going back into her. They both know what almost happened, and they both immediately pretend it didn't.
+
+"I wasn't—" he says, knocking over a tin of screws.
+
+"Blow out the lamp, Nat." It's the first time she's called him that. She goes to sit with the girl.
+
+When Alice is behind the curtain he says it out loud, to nobody. "He let it out. Why?"
+
+In the morning he shows the girl the exterior drawing and asks whether Jamie ever showed her this. She looks at it a long time. "Time," she says. He leaves the drawing with her.
 
 ### 4. The register
 

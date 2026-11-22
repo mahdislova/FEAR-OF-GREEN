@@ -47,7 +47,9 @@ The pod chamber, minutes after the fracture. Morgana is dying; the yield needle 
 
 "Turn it, Nat," Eldgard says. "The lock knows you."
 
-Nathaniel puts his ruined hand on the wheel. The planted knowledge knows every turn of it, both ways: to seal, and to open. His hand can't hold the pressure either way. Alice kneels beside him and puts her hand over his. "Us." He couldn't do it without her, and neither of them is pretending otherwise.
+Nathaniel puts his ruined hand on the wheel. The planted knowledge knows every turn of it, both ways: to seal, and to open. His hand can't hold the pressure either way. He tries left-handed and the wheel slips. He goes down on his knees in the green water and can't get up.
+
+Alice doesn't lecture him. She kneels beside him in the flood and laces her burned fingers through what's left of his. Skin to skin. Scar to scar. "Us." Her forehead is almost against his. "Together, Nat. Look at me. On three." He couldn't do it without her, and neither of them is pretending otherwise.
 
 The Lost One has one arm free of the straps. She lays her palm on the glass. From inside, her mother's palm meets it. The lock wants both of them. Nathaniel and Alice turn the wheel together, the other way.
 
@@ -115,7 +117,7 @@ He doesn't say *no*. He doesn't say *she wouldn't*. He has been a Harding long e
 
 "I wanted to. I had the knife out." Alice watches the torches go by. "I left her alive. I wanted to be someone who could."
 
-He takes her burned hand in his ruined one. Neither of them can close their fingers properly. It's the most honest thing either of them has held all season. They sit like that until Nixon calls down the steps for the next stretcher, and then they both get up.
+He takes her burned hand in his ruined one. Neither of them can close their fingers properly. It's what he asked her for once, by one candle: her hand, with no knife in it. It's the most honest thing either of them has held all season. They sit like that until Nixon calls down the steps for the next stretcher, and then they both get up.
 
 Harding House, past midnight. The drawing room is cold. One candle has burned down to the saucer. The jewel case stands open and empty on the settee. On the floor by it lie two burned matches and an old pair of evening gloves with no knot in them.
 

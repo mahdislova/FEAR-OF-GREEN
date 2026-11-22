@@ -126,6 +126,8 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Lord Lambrick sends for his lawyer, and for Tamara alone (Ep 9) | It's what makes Hector order the hit (Ep 9) |
 | Grise's bridge-night page Alice can't read (Ep 6) | Grise burns it with her last match when Jennie's statement reaches her (Ep 10) |
 | Josephine burns her gloves while Grise stitches a knot (Ep 2) | Grise hands Josephine a new pair, knot inside, and takes her downriver (Ep 10) |
+| "I just want a room where you aren't holding a knife." (Ep 6) | Burned hand in ruined hand on the cellar step, no knife in it (Ep 10) |
+| "Blow out the lamp, Nat." The first time she uses his name, after the near-kiss (Ep 4) | "Together, Nat. Look at me. On three." (Ep 10) |
 | Eldgard put the lock's mind in Nathaniel (Ep 6); he asks his son to turn it (Ep 9) | Nathaniel turns it the other way (Ep 10) |
 | "Did you ever see a son? Or did you just see the lock?" Cut off by Morgana's palm (Ep 9) | "You were going to tell me." The crystal father can never answer (Ep 10) |
 | Ada sends Marsh his spectacles, mended with thread (Eps 4–5) | He dies in them at the wheel (Ep 9); Nixon keeps them (Ep 10) |
