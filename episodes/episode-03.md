@@ -1,6 +1,6 @@
 # Episode 3 — The Frost Killer
 
-**Cold open:** open (the 1873 fragment moved to Ep 2).
+**Cold open:** The Essex marsh line, during Nixon's nine nights in the east. A Guard beacon gutters and dies. A young Guardsman's hands freeze to the iron housing. Nixon wraps his own scarf around them and looks out at a horizon where whole villages have gone dark.
 
 **In short:** The girl's cold breaks out at the market and London names a Frost Killer. Nathaniel hides the sisters and sends Nixon's search to the wrong street.
 
@@ -31,7 +31,45 @@
 
 ## Scenes
 
-### Closing time at the covered market
+### 1. The marsh line (cold open)
+
+The Essex marsh, one of Nixon's nine nights in the east. Sleet sideways off the estuary. At a Guard outpost the beacon gutters, flares and goes out. A young Guardsman grabs the housing to steady it and his hands stay there. When he pulls, the skin stays too. Nixon tears off his scarf and binds the boy's hands. Behind them, where three villages should be glowing on the horizon, there is nothing at all.
+
+### 2. Buns
+
+Dawn in the Bounds room. The girl is asleep in Miriam's shift. Jennie lets herself in with three buns in a dishcloth, puts them on the stove to warm and burns her thumb on the kettle. She blames the laundry steam, which isn't here. Alice laughs before she can help it.
+
+Then Jennie looks at the bed, and her face goes. She takes Alice by both wrists. "Don't tell Grise she's back. Don't let anyone in Shadwell see her." Alice asks why. Jennie opens her mouth, shuts it, and leaves her bun on the stove. Alice looks at the sleeping girl. Grise swore Miriam ran off and left her. Grise lied.
+
+### 3. Still gone
+
+The Shadwell laundry. Alice comes in with her hair pinned flat, the grieving initiate. Grise gives her condolences and her first envelope: Nathaniel Harding. Where he goes, who he sees, and keep him away from the river.
+
+"Any word of my sister?"
+
+"Still gone, love."
+
+Alice thanks her. She counts the coins in the envelope on her way out, as a new girl would.
+
+### 4. The coat
+
+A rented room above a cooper's yard, before Nixon's shift. Tamara has her arms round his neck before the latch has clicked. He wants to walk her home on Sunday where people can see. He asks if his pay and his place below stairs make him someone she can only meet here. She loves him. The engagement letter is in her glove. Her fingers go to it and stay there.
+
+Instead she gives him his Guard greatcoat, relined in grey wool. "I can sew. Nobody's ever asked me to." "Walk with me on Sunday." She buttons it on him. "Give me a little time." He goes to his shift believing the timing is theirs to choose.
+
+### 5. Food
+
+The covered market at Leadenhall, near closing. Alice is two stalls behind Nathaniel while he haggles over lathe tips. Behind her somebody tugs her sleeve. "Hey, what are you doing here?" The girl has slipped Ren the way a child slips a sitter. She holds up her hand. "Food." Alice buys her a bag of chestnuts and tells her to stay low behind the fruit stall. The girl stays low. It's the first time she's done what Alice asked.
+
+### 6. The cold breaks out
+
+Four of Lambrick's men have been working the aisles with a description of a woman from the Narrows. They find Alice under the paper stars and close in with clubs. Alice gets her knife out. There are four of them.
+
+The girl stands up from behind the fruit stall.
+
+The cold comes out of her all at once. Frost runs across the flags in a ring. Spears of ice go up from it, and three men go up with them, nine feet in the air against the iron pillars. A woman buying holly is caught at the edge. A boy with a basket. Then silence, and then the screaming. The girl's nose is bleeding. Alice takes her hand and pulls her down behind the stall.
+
+### 7. Closing time at the covered market
 
 Before the killing, Alice ducks a paper star and walks straight into the next one. Up in the roof a boy laughs. He tends the star lamps and takes a penny from each trader to lower the whole canopy at closing.
 
@@ -39,6 +77,34 @@ After the killing Nixon finds two hundred people pushing at shut gates. He opens
 
 Alice shows the lamp boy a penny. He lowers the stars. From the gallery the lamps fill the frame. From underneath we can see two women walking slowly enough to keep the paper still. They gain one street. At the workshop door it is Nathaniel’s turn to decide.
 
-### One finger
+
+### 8. One finger
 
 The Lost One cannot uncurl her hand. Nathaniel offers his prototype to Alice, who asks her sister before touching her. One finger first. The crystal takes the cold. In Episode 7 both women will recognize the device when Nathaniel reaches for it. 
+
+
+### 9. The chair
+
+The only chair in the workshop that doesn't squeak is missing a leg. Alice tries it, drops neatly into her sister's lap and, after a beat, announces that it takes two to sit in this house. The Lost One laughs before Alice does. They spend a minute trying out the other furniture with elaborate caution. It's their first joke since the river.
+
+### 10. The Frost Killer
+
+Guard headquarters, night. Nixon reports the market dead. Eldgard is already writing the statement on the family's paper: *The Frost Killer.* "We don't know it's the same—" "The frost in my son's study. The frost at the market. Londoners need one name for what they're afraid of, Captain, or they'll find their own. Sign it as the officer in charge." Nixon signs. It's the first time his name goes under something he doesn't know is true.
+
+### 11. The street talks
+
+The Shadwell laundry after dark. A girl back from the market tells the tubs what she saw: Miriam Bounds, alive, killing men with ice. Grise stops ironing. Alice sat across from her this morning and asked whether there was any word. Grise sets the iron back on the stove very gently.
+
+### 12. The wrong street
+
+The Guard post, late. Nathaniel brings two mugs of chicory. Nixon spreads the search map across the desk. He's grateful. "Where would you put them?" Nathaniel reads the map like an engineer. The sisters are three doors from his workshop in Clerkenwell. He runs his pencil along the old storm drains, downhill, toward Gin Lane. "If she moves with the damp, she'll follow the drains. That's where I'd look." Twenty men move to Gin Lane. Clerkenwell stays open. "I don't know what I'd do without you tonight." "Neither do I."
+
+### 13. The widows
+
+First light in Gin Lane, snow on the frost. Hector stands beside a strongbox with Ajax and pays every family the ice touched, not only his own men's. The Hardings send no one. Tamara holds the ledger. "You're paying for the Hardings' monster." "I'm paying for the street's memory. In a month they'll need coal. They'll remember who came." "And if they ask why you came?" "Grief, my dear. It's the cheapest thing I'll ever buy." Tamara writes down every name.
+
+### 14. I know you (tag)
+
+The workshop at dawn. Alice is asleep on the blankets by the bench. Nathaniel comes in from the Guard post and sits down at his drawing table without taking his coat off. The Lost One crosses the floor without a sound and stops beside him. She studies his face: the jaw, the ink on his cuffs, the eyes.
+
+"I know you."

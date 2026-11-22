@@ -16,4 +16,8 @@
 
 **Ep 7 to Ep 8, the overnight step:** Jennie sends word the girl is bleeding from the nose after saving her. Alice can't hold the grudge against that.
 
+**What she learns:** keeping someone isn't loving them. In Ep 9 she still says it the old way ("I don't care whose plan it was. You're mine"); in Ep 10 she offers the ship and means it.
+
+**Aura moments.** Each one is planted. The bounty men in the fog (Ep 4); the knife at Grise's throat (Ep 6); Miriam's throw, landed at last (Ep 7, planted Ep 1). See `canon/season-one.md`.
+
 **Key moments.** "You're not her" (Ep 7). Stops Nathaniel restraining the Lost One but does not yet forgive her. "Nine is the one where we get up" (Ep 8). Spares Josephine (Ep 10). "Us" at the lock (Ep 10).

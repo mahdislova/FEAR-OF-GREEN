@@ -5,6 +5,7 @@
 
 - **Wants:** his father's respect and a seat in "the work."
 - **The lie he believes:** being useful is the same as being loved.
+- **What he learns:** the genius he was useful for was never his (Ep 6), and he was always enough without it (Byron). After Ep 7 he can't build alone: two fingers of his working hand are gone, and the lock in Ep 10 takes Alice's hand on his.
 - **Secret he doesn't know he has:** the offspring imprinted him in 1873 with understanding of the ship's technology. His genius was planted. His "nightmare" is a buried memory.
 - **Season mission:** find who killed his brother.
 

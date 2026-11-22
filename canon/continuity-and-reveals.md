@@ -62,7 +62,7 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | The Hargrave massacre | Eldgard, Ada, Marsh | Ep 8 cold open | Nixon: Ep 8 |
 | Marsh is Nixon's uncle | Ada, Marsh | Ep 4 (hinted) | Nixon: Ep 9 |
 | The yield is failing | Eldgard, the chief engineer | Ep 1 | Lambrick: suspects Ep 2 (the hour of the Duke’s question), confirms Ep 4. London: Ep 4 |
-| A book in the Lambrick Narrows consignment; Miriam stole it for Grise | Hector, Miriam, Grise | Ep 1 | Open |
+| A book in the Lambrick Narrows consignment: Hector's private audit proving the Ring's Gin Lane housings are fractured. Miriam stole it for Grise | Hector, Miriam, Grise | Ep 1 | Grise sells it back to Hector (Ep 4). Hector knows Gin Lane will fail and says nothing (Ep 6). Nobody else learns it this season |
 | The chief engineer sold out to Lambrick | The engineer, Lambrick | Ep 4 | Nathaniel: unset |
 
 ## Setups and payoffs
@@ -80,7 +80,7 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Hector pays the Gin Lane widows; Tamara holds the ledger (Ep 3) | Gin Lane trusts Lambrick coal (Ep 7); Tamara gives it away free (Ep 10) |
 | Nathaniel sends Nixon's search to the wrong street (Ep 3) | Nixon remembers the map (Ep 5) |
 | Josephine offers her wrist for the buttons (Ep 4); "Have you family, Miss Bounds?" (Ep 5) | Alice stops at two buttons (Ep 8); "I chose you so I'd have to look at you" (Ep 10) |
-| Miriam's one-handed throw on the Narrows raid (Ep 1) | The girl throws a boy the same way; Alice recognises it (Ep 2) |
+| Miriam's one-handed throw on the Narrows raid (Ep 1); Alice has never landed it | The girl throws a boy the same way; Alice recognises it (Ep 2). Alice lands it for the first time on the roofs (Ep 7) |
 | Tamara's fingers on the engagement letter in her glove (Ep 3) | The toast she makes herself (Ep 5) |
 | Nathaniel watches Eldgard give Nixon the keys, then gives Nixon a false account of the study (Ep 2) | The Works drawing gives Nathaniel reason to doubt it (Ep 4). He produces the shard after dinner and Nixon takes his statement again (Ep 5). |
 | Alice buttons Josephine’s cuff while reporting (Ep 4) | She stops halfway after Jennie names Josephine (Ep 8). The dye on Alice’s hem gives Josephine Jennie’s address. Jennie brings Alice the arrest news. |
@@ -98,12 +98,19 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Nathaniel conceals the suspected Frost Killer from Nixon (Eps 3–5) | Nixon discovers the concealment (Ep 5); Nathaniel hears her account with Alice (Ep 7) and confirms it to Nixon before the raid (Ep 8) |
 | Alice stops Nathaniel restraining the Lost One, then sends her away (Ep 7) | She returns to the Lost One by choice (Ep 8); Nathaniel opposes the child's imprisonment without forgiving Jamie's death |
 | The counting game, "eight posts" (Ep 2 onward) | "Nine is the one where we get up" (Ep 8) |
-| Tamara writes the time of the Duke’s question on the back of the Narrows tally (Ep 2) | Open |
+| Tamara writes the time of the Duke’s question on the back of the Narrows tally (Ep 2) | Her card at the hearing: "Ask the Duke how many days" (Ep 4) |
 | Alistair's book in cipher | Tamara cracks it (Ep 8) |
 | The chief engineer's yield figures (Ep 4) | Lambrick learns the secret |
 | Jennie rides the Narrows raid with Miriam and Alice (Ep 1); witnesses the bridge | She names Josephine to Alice after Alice returns (Ep 8), then signs her bridge testimony (Ep 9) |
 | Morgana: "Where is my child?" (Ep 1) | "My child." (Ep 8 tag) |
-| Alistair: "You have my word." (Ep 4 cold open) | He closes the pod (Ep 10 cold open) |
+| Alistair: "You have my word." (Ep 4 cold open) | He closes the pod and has the ledger record she gave her life freely (Ep 10 cold open) |
+| The Duke keeps his word for Jamie (Ep 2); broken at the hearing; "Ask me when the lamps in my sister's street go out" (Ep 4) | His ultimatum at the Works (Ep 6); his warrant suspends the Charter (Ep 9) |
+| The Duke's ultimatum: engineers in the vaults if the light fails (Ep 6) | Eldgard keeps the West lit and cuts the East (Ep 6 tag) |
+| Grise sells to everyone (Eps 1–4); the reward on the Frost Killer bulletin (Ep 3) | The bounty men in the Shadwell fog; Jennie sees what Alice is and lies for her (Ep 4) |
+| Ada meets Jamie on the servants' stair the night he dies (Ep 1) | Ada dies on the same stair (Ep 9) |
+| Half an orange on Miriam's pillow (Ep 1) | Pitched: Alice halves an orange with the Lost One (Ep 10 coda, the writer's call) |
+| Under the bed: "At fifty we run" (Ep 7 cold open) | Alice's love as holding on: "You're mine" (Ep 9); she lets go at the ship (Ep 10) |
+| Jennie: "You sang at the mangles. She liked that" (Ep 6) | Jennie comes to the riot already grieving; she takes the hand anyway (Ep 7) |
 
 ## Gin Lane and the Works approach
 

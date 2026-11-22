@@ -30,15 +30,16 @@ A ten-episode gothic drama. London, November 1889. The whole city glows green, a
 ## Open questions
 
 - The writer's plot twist (mentioned, not yet given).
-- **Ep 3:** the cold open remains open.
+- **Ep 3:** the cold open. *Proposed on `claude/intern-merge`:* the Essex marsh line, Nixon's scarf.
 - **After cutting Jamie-alive:** Byron's secret and the Ep 5 title.
 - **New reveal staging:** what brings Nathaniel into Alice and the Lost One's Ep 7 conversation; enough aftermath for the East End freeze, shared confession and Jennie's Josephine disclosure.
-- The tag at the end of Episode 9.
+- The tag at the end of Episode 9. *Proposed:* the hairline fracture across Morgana's glass.
 - Josephine's fate after the finale.
-- The scale and staging of the ship's damage in Episode 10.
-- The book Miriam stole from the Lambrick Narrows consignment (Ep 1): what it is, and what the Lambricks aren't admitting.
+- The scale and staging of the ship's damage in Episode 10. *Proposed:* it comes down over Tyburn; its wake tears off church spires and brings chimneys down across Fleet Street.
+- The book Miriam stole from the Lambrick Narrows consignment (Ep 1). *Proposed:* Hector's private audit proving the Gin Lane housings are fractured; Grise sells it back (Ep 4); Hector says nothing (Ep 6).
 - Whether Nathaniel knows what opening the pod will call (the beacon).
 - The chief engineer's name. (His Ep 1 tag scene is cut.)
 - Marsh's arrest date; Nixon's mother's name.
 - The Lantern Hymn: keep it, and is it Morgana's lullaby?
 - The aura's finer rules (proximity, exposure).
+- **The intern merge (`claude/intern-merge`):** your calls are listed in `drafts/claude/intern-merge-review.md`.

@@ -40,7 +40,7 @@ Full beats live in `episodes/`.
 | 6 | The Remembering | Nathaniel learns what his father did to him | Nathaniel remembers 1873 | The Gin Lane block explodes |
 | 7 | The Girl Who Isn't | Alice and Nathaniel learn the Lost One's truths together; Alice stops Nathaniel | Alice and the Lost One | Alice lets the Lost One go |
 | 8 | The Wedding | The child is taken | Nixon: the arrest and the wedding | Morgana: "My child." |
-| 9 | The Break-out | The truth is spoken aloud | Nixon: Ada, Marsh, the Works | Open |
+| 9 | The Break-out | The truth is spoken aloud | Nixon: Ada, Marsh, the Works | A hairline fracture across Morgana's glass |
 | 10 | Lights Out | The light ends | The pod opens; the light ends | The ship; the Lost One stays |
 
 ## The threads
@@ -54,6 +54,12 @@ Full beats live in `episodes/`.
 **The sisters.** Ep 1: the Narrows raid with Jennie, the birthday orange, "Not tonight." Ep 2: on Grise's lie that Miriam abandoned her, Alice joins the Vykra, then gets "Miriam" back. Eps 3–6: closeness. Ep 6: Grise tells Alice Miriam's entry price, their stepfather. **Ep 7, the break:** the Lost One tells Alice that Miriam died; Nathaniel arrives for her account of Jamie's death. Alice stops him restraining the Lost One, then sends her away without forgiving her. "You're not her." **Ep 8 morning:** Alice returns by choice. "Nine is the one where we get up." Ep 10: Alice offers her the ship; she stays.
 
 **The killer (Josephine), one beat per episode.** Ep 1: Miriam falls; a figure in the shadows backs away; Jennie watches. Ep 2: Josephine burns her gloves; Jennie sees Miriam’s face in Alice’s room. Ep 3: Jennie withholds the bridge account. Ep 4: Grise's hand-sign test; she sells the location to Lambrick. Ep 5: Josephine summons Alice privately. Ep 6: Josephine and Grise; Josephine pays to remove the witness. The same night Alice tells Nathaniel herself that his mother hired her. Ep 7: the Lost One saves Jennie. Ep 8: after Alice returns, Jennie names Josephine. Josephine supplies a lead for the arrest. Ep 10: Alice confronts Josephine and spares her.
+
+**The Duke.** Ep 2: he agrees to be wrong in public, "for Jamie. Not for the light." Ep 4: Hector breaks him at the hearing; "Ask me when the lamps in my sister's street go out." Ep 6: his ultimatum at the Works: if the light fails, the Royal Engineers go into the vaults. It's why Eldgard keeps the West lit. Ep 9: his warrant suspends the Charter, engineers at dusk. Tragic, then terrifying.
+
+**Jennie, the warm body.** Ep 1: the raid, then the bridge from the stair. Ep 2: the gloves at the door. Ep 3: the buns; "Don't tell Grise." Ep 4: "It's a terrible message"; she sees what Alice is in the fog and tells Grise her first lie. Ep 5: the truthful sighting. Ep 6: crumpets; "She liked that." Ep 7: Garrow; she takes the hand. Ep 8: she names Josephine. Ep 9: she signs. Ep 10: pitched, the orange.
+
+**Alice's aura moments,** each one planted. Ep 4: the bounty men in the fog. Ep 6: the knife at Grise's throat. Ep 7: Miriam's throw, landed at last (planted Ep 1).
 
 **Tamara.** Ep 1: the only one who doesn't laugh. Ep 2: Eldgard sees her. Ep 3: the relined coat. Ep 4: her move, her father's applause. Ep 5: the toast; the conservatory ("I'm going to be very good at it, Nix"). Ep 6: right about the branch, too late; Eldgard gives her Alistair's book. Ep 7: writes her own marriage and takes the East's coal; "The rest is me." Ep 8: the pages; the vow of honesty, broken by her silence at breakfast; the ask Nixon refuses. Ep 9: covers Ada's death. Ep 10: the coup; across the street.
 
@@ -77,12 +83,12 @@ The history, told in pieces.
 | --- | --- |
 | 1 | c. 1780. The crash in the Harding woods. Alistair's lantern finds a hand in the wreck. |
 | 2 | Nathaniel as a boy: a shadow, eyes as limitless as the sky, a shriek. A nightmare. |
-| 3 | Open. |
+| 3 | The Essex marsh line, during Nixon's nine nights in the east. A beacon dies; a Guardsman's hands freeze to it; Nixon gives him his scarf. |
 | 4 | The deal. Morgana teaches; Alistair: "You have my word." |
 | 7 | The Bounds girls under the bed, counting. A belt buckle. |
 | 8 | Hargrave freezes in one night. A child survivor in Alistair's coat. |
 | 9 | 1873, the offspring's side. Jamie's room first. |
-| 10 | Alistair closes the pod on her. The broken word. |
+| 10 | Alistair closes the pod on her. The broken word. The key goes into acid; the ledger says she gave her life freely. |
 
 ## The ending
 London is dark, and the dark kills: Eldgard was partly right. Opening the pod released the beacon Alistair silenced, and that is what calls the ship. Morgana, freed and too weak to fight on, boards the ship after it damages the city. Morgana waits aboard the ship. When her child chooses Alice, she lets her stay and departs in silence. Lambrick's coal is king: Nathaniel's righteous act has handed London to his nemesis. Tamara opens the depots to the East for nothing. The Lost One looks up at the ship, then back at Alice, and stays.
