@@ -1,30 +1,91 @@
 # Episode 8 — The Wedding
 
-**Cold open:** Hargrave freezes in one night. A child survivor in Alistair's coat.
+**Cold open:** Hargrave freezes overnight. At dawn Alistair Harding wraps a surviving child in his coat.
 
-**In short:** The Lost One is arrested on Nathaniel's word and taken to the Works. At the wedding Nixon reads the Hargrave pages and changes sides.
+**In short:** Alice returns to the Lost One. Nixon arrests her for Jamie’s death and leaves her in Guard custody. At the wedding breakfast Alice brings word that Eldgard has ordered her sent to the Works.
 
-**Change:** the child is taken; everyone picks a side.
+**Change:** Nathaniel’s truthful account puts the Lost One in his father’s hands. Nixon learns what the Hardings did to his own family and helps Nathaniel find a way into the Works.
 
-**Foreground:** Nixon: the arrest, the wedding, the Hargrave pages.
+**Foreground:** Nixon keeps his word to Jamie’s brother, carries the ring at Tamara’s wedding, and discovers what his signature has allowed Eldgard to do.
 
-**Background:** Alice returns to the Lost One; Josephine's lead; Nathaniel at the altar; Tamara.
+**Background:** Jennie tells Alice who killed Miriam. Josephine uses Alice’s confidence. Tamara secures the East’s coal and decides how much of Alistair’s book each man gets to see.
 
-**Not in this episode:** Hector, Ajax, Grise, Byron, the chief engineer.
-
-- Morning: after sending the Lost One away in Ep 7, Alice finds her again and chooses to stand with the person she now knows, rather than the sister she hoped to recover. "Nine is the one where we get up." Alice finds her with Jennie. There is one chair. Alice asks if it takes two to sit here as well. The Lost One moves over. This is a memory they made in the workshop, after Miriam died. Only after Alice has chosen her does Jennie tell her what she saw on the bridge. Josephine killed Miriam. “Miriam was the best of us.” At the wedding Josephine holds out her wrist as usual. Alice fastens two buttons and stops, looking at the hand that killed Miriam. Josephine finishes the cuff herself. She sees that Alice knows. She has waited for this moment since Episode 2. She tells her where Nathaniel is waiting alone: her one gift, and a deliberate one. Alice goes to him. What she tells him is open (her contract confession moved to Ep 6).
-- Josephine supplies the lead that enables the arrest, using Alice's own reports: the coldest thing she does all season, using the sister to remove the face. Open: the arrest site and how Josephine discovers the Lost One’s whereabouts after she leaves the workshop.
-- **Nixon's point of no return:** Nathaniel confirms to Nixon what the Lost One admitted about Jamie in Ep 7. **Play it as a relapse:** the useful son, handing his father justice one last time. The rescue later in the episode is him breaking that pattern for good. Nixon takes her into Guard custody over Jamie’s death. Eldgard diverts the prisoner to the Works. Nixon did not arrest her knowing she would be put in the pod.
-- The wedding. Nixon hands Tamara the ring properly. Tamara has cracked Alistair's book and gives Nixon the Hargrave pages.
-- Nixon to Ada: "Did you know?" "Forgive them? Love, I forgave them before you were born."
-- At the altar Nathaniel learns she's been taken, and says "I will" anyway, because the East is freezing. When word comes that she was taken to the Works, not Newgate, he knows what the Lost One told him in Ep 7 was true: Eldgard means to put her in the pod. So he leaves the wedding breakfast to get her. He has not excused Jamie's death: his choice is that grief cannot justify condemning a child to the captivity that is killing her mother.
-- In the Hargrave pages Nixon recognizes Marsh’s boyhood duty at the Works draw room. Nathaniel needs a way inside before the next draw. Nixon sends him and Alice to the old freight terminus and lays out his papers for the first upland prison train. Ada sees the timetable and his transfer papers. She understands what he is going to do.
-- **Tamara's track.**
-  - *The vestry:* she has finished Alistair's book. She read the instructions she decoded for Eldgard (how to put the child in the pod), what was done to Hargrave, and the beacon. She gives Nixon the Hargrave pages, cut out with a penknife. "Who you are. Don't read them today." He reads them in the chapel; she knew he would. Love and strategy at once.
-  - *The altar.* Under her breath: "Neither of us is marrying for love. Let's at least not lie to each other." Nathaniel: "Is that a vow?" "It's the only one I mean." Then she keeps it, half. Through her Works seat she has seen the transfer order. She tells him the Lost One went to the Works, not Newgate, and what the pod is, because she wrote out the instructions herself. She doesn't tell him about the beacon: what opening the pod will call. He says "I will" (canon) and goes. She lets her groom leave their wedding, knowing that when the light goes out, coal is king, and that her carts are already moving.
-  - *The empty chapel:* she asks Nixon to stay, her Captain inside her marriage. "I've been kept my whole life." He hands her the empty ring box and walks out.
-- **Tag:** the Lost One in the Works, face to face with her mother's pod. Morgana: "My child."
+**Not in this episode:** Ajax, Grise, Byron, the chief engineer.
 
 ## Scenes
 
-Not yet broken. 
+### 1. One chair
+
+At first light Alice reaches Jennie’s room above the old dyehouse. The bleeding has eased. The Lost One sits in the only chair. Alice asks whether it takes two to sit here as well. The girl makes room. “Nine is the one where we get up,” Alice says. Neither gets up just yet. For a while they sit as badly and as comfortably as they did in Nathaniel’s workshop.
+
+### 2. Jennie at the basin
+
+While the girl washes, Jennie tells Alice she was on the bridge. Grise sold the meeting place. Jennie saw Josephine Harding put Miriam over the rail. “Miriam was the best of us.” Alice asks whether Miriam saw Jennie standing there. Jennie has spent every night since the bridge trying to remember where Miriam was looking. She can’t give Alice that last thing. Alice asks her to stay with the girl. Josephine expects Alice to dress her for the wedding.
+
+### 3. The morning call
+
+At Harding House Nathaniel finds Nixon laying out his dress uniform. He tells him what the girl admitted about Jamie. Nixon puts his jacket down and listens to the end. When Nathaniel asks where she’ll go, Nixon says Newgate. She’ll be allowed to give her own account. He still needs an address.
+
+### 4. Two buttons
+
+Josephine sees the blue stain on Alice’s hem. Earlier, fastening this same cuff, Alice told her about the leaking stair below Jennie’s room. Josephine asks whether the old dye still comes off on everything. Alice glances down before she can stop herself.
+
+Josephine holds out her wrist. Alice fastens two buttons and stops. Josephine follows Alice’s gaze to her own hand. She finishes the cuff and tells Alice that Nathaniel is downstairs alone. Once Alice has gone, Josephine writes the dyehouse address on her visiting card and sends it to Nixon.
+
+### 5. The address
+
+Nathaniel tells Alice what he has told Nixon. She asks whether he gave Nixon the address. He didn’t know it. In the passage she sees the blue mark her skirt has left on the runner. She gathers it up and goes back the way she came.
+
+At the dyehouse Nixon tells the Lost One he is arresting her for Jamie Harding’s death. Jennie brings down her coat. Alice reaches them at the foot of the stairs. In Nixon’s hand Alice sees Josephine’s visiting card. The address is written across the Harding crest. She looks down at the blue on her hem. The girl holds out a sleeve and lets Alice help her into it. Nixon tells Alice where the Guard keeps its Newgate inquiries desk. “Will you come?” the girl asks Alice. Alice takes the other sleeve. “I’ll be there when you arrive.”
+
+### 6. The custody book
+
+At the station Nixon writes Newgate in the destination column. The duty lieutenant signs the adjoining square and takes charge of the escort. Nixon changes into his dress jacket. He has left an ink mark on the cuff. The ring is still in his pocket.
+
+### 7. The vestry
+
+Tamara gives Nixon several pages cut from Alistair’s book. She tells him they concern his family. When she leaves to find Hector, he reads how Hargrave froze and what happened to the survivors who spoke. He finds a reference to Marsh’s boyhood work in the draw room. He folds the pages into his coat.
+
+Outside the chapel Alice catches Nathaniel. The girl is in custody. Nixon gave his word about Newgate. Alice goes to the inquiries desk to find out when she can see her.
+
+### 8. Before the bells
+
+Hector waits outside the bridal room with his left cuff undone. Tamara does it up. “You managed both yesterday.” He admits he wanted a minute with her. She asks if he has eaten. He produces the heel of a loaf from his good coat, wrapped up by the cook in case his daughter forgot her breakfast. They split it on the window seat.
+
+Eldgard finds them there with a notice for the church doors. It promises the East another delivery of coal from Harding House in honour of the marriage. He wants Hector’s signature before the guests come out. Hector reads it twice. “If a cart misses a street, where do you want the women to go?” Eldgard says they may come to the Works, as Londoners always have. “On Tuesday Mrs Bell came to my yard with a pram for the coal. Shall I send her to the Works with it?”
+
+Eldgard puts a finger on his family name. “My son has buried his brother and is taking his place. I should like him to come out of church and find he still has something to give.” Hector hears him. He finds a clear margin beneath the family name. “Leave the boy’s name. Give her the address.”
+
+Tamara writes the depot, the hour and where to queue with a pram. She signs the dispatch herself, as agreed the night before. Eldgard gets his family announcement. Anyone who needs heat will know whose yard to go to. Hector hands the paper back to him. When the door closes he brushes a crumb from Tamara’s sleeve. “Do you want me to stay?” She takes his arm. “All the way to the front, please.”
+
+### 9. The vows
+
+Before the procession Nathaniel asks Nixon if the girl is safe. “I signed for Newgate.” Hector gives the couple a moment alone at the church door. Nathaniel admits that when Tamara announced their engagement, he thought she was pleased. “I was,” she says. “I’d got my chair at the Works. By the time I saw your face I’d already raised my glass.” Nathaniel looks at her. “I’d have liked being asked.” “So would I.” She asks him to be honest with her. “Is that a vow?” he asks. “It’s the only one I mean.”
+
+Nathaniel goes ahead. Hector walks in with his daughter. When the priest asks for his consent, Nathaniel answers, “I will.” Tamara’s answer carries to her father in his seat. The first coal carts went east last night on the strength of this marriage. The couple join hands and speak their vows. Only then does Nathaniel reach for the ring. Nixon takes a beat to let it go. Tamara sees. Nathaniel places it on her finger. After the pronouncement and blessing, she signs the register as Tamara Lambrick. In the receiving line she sees Nathaniel wince at the first handshake and quietly steps over to his injured side.
+
+### 10. The wedding breakfast
+
+Eldgard’s signed transfer order reaches the station while the couple sign the register. The lieutenant enters the Works beneath Newgate in the custody book. Through the inquiries window Alice can still see the prison carriage in the station yard. The lieutenant tells the driver to have her at the Works on the noon run. Alice can reach the captain before the carriage leaves. She takes the foot passage back to the chapel hall. Hector has just stood to toast his daughter. He sees Alice at the door trying to catch Nixon’s eye. He lowers his glass and lets her through to him. “You told me Newgate. They’ve written the Works under your name. The carriage is still there.”
+
+Nixon writes a counterorder on the back of his place card and calls over the Guardsman at the door. The man takes it, then sees Eldgard standing behind his captain. “Whose order am I carrying, sir?” Nixon hears himself answer, “Mine.” The man stays where he is. Across the table Josephine puts down her glass. Everybody at breakfast has heard.
+
+Nathaniel asks his father what business the Works has with Jamie’s case. Tamara answers him in Eldgard’s hearing. “I translated the instructions. There’s a place in the machine for her.” Eldgard holds out his hand for the Works papers he entrusted to her. She gives them back. She has told Nathaniel what goes into the pod. She keeps to herself what opening it will call. Nathaniel and Alice run for the station. At noon the carriage passes through the gate. They reach the yard in time to see the lieutenant closing it.
+
+### 11. The empty ring box
+
+Nixon starts after them. In the empty chapel Tamara catches his sleeve. She asks him to stay. For years they have found a room and an hour somewhere. She still wants that hour. Nixon puts the empty ring box into her hand. She lets go of his sleeve. “I’ve been kept my whole life,” he says. He takes the Hargrave pages to Ada.
+
+### 12. Ada’s Sunday boy
+
+Nixon lays the Hargrave pages on the table where Ada folds the household linen. He asks if she knew. Ada runs her thumb down a crease that is already flat. “Forgive them? Love, I forgave them before you were born.” He waits for the rest. She believes the Hardings took them in when nobody else would. She has been telling him that all his life.
+
+### 13. The first train
+
+Nixon finds Nathaniel and Alice at the empty yard. Alice asks where the freight goes into the Works. Nixon unfolds the Hargrave pages on the gatepost. There is Marsh’s old duty beside the freight entrance. He sends them to the terminus to meet him. He will take the first upland prison train for Marsh.
+
+At Harding House Nixon checks the first departure against his transfer papers. From the doorway Ada can read the destination upside down. He folds them into his coat and leaves the room without the usual word to her. She listens to his steps on the servants’ stair. Then she picks up her lamp and goes out after him, toward Eldgard’s rooms.
+
+### 14. Under the Works
+
+The escort brings the Lost One down to the pod. She has spent the day answering to the name of a dead woman and to the name London gave her. From the other side of the glass her mother says, “My child.” The girl lays her palm against the glass. Beside her an attendant unfolds a second set of restraints.
