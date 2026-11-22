@@ -13,3 +13,5 @@
 - **Ep 4:** carries Grise's ultimatum to Alice and walks the sisters out after the test. Ordered to follow them home, she says she lost them in the fog: her first lie to Grise.
 - **Ep 7, Act One:** Grise's man comes for her in the riot; the Lost One saves her life.
 - **Ep 8, after Alice returns:** The thing wearing the face of the woman she watched die has just saved the witness who did nothing. The guilt breaks her, and she tells Alice: Josephine killed Miriam. "Miriam was the best of us."
+
+**Ep 9:** Jennie returns to the Guard desk and signs her account of the bridge. She stands by both that testimony and her earlier sighting.

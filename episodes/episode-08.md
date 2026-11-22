@@ -74,6 +74,8 @@ Nixon writes a counterorder on the back of his place card and calls over the Gua
 
 Nathaniel asks his father what business the Works has with Jamie’s case. Tamara answers him in Eldgard’s hearing. “I translated the instructions. There’s a place in the machine for her.” Eldgard holds out his hand for the Works papers he entrusted to her. She gives them back. She has told Nathaniel what goes into the pod. She keeps to herself what opening it will call. Nathaniel and Alice run for the station. At noon the carriage passes through the gate. They reach the yard in time to see the lieutenant closing it.
 
+Inside the carriage the girl recognizes the Works through the slat. She asks the guard whether Alice knows where to come. He looks down at the amended order. There are two destinations on it and nobody to notify. He folds it again. She keeps watching the road until the doors close behind them.
+
 ### 11. The empty ring box
 
 Nixon starts after them. In the empty chapel Tamara catches his sleeve. She asks him to stay. For years they have found a room and an hour somewhere. She still wants that hour. Nixon puts the empty ring box into her hand. She lets go of his sleeve. “I’ve been kept my whole life,” he says. He takes the Hargrave pages to Ada.

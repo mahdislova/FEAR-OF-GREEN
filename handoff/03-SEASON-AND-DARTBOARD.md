@@ -12,7 +12,7 @@ Nothing here is locked except where marked. The season shape was approved as a w
 | 5 | Open (title) | Nixon discovers Nathaniel hid the suspected Frost Killer; their first break |
 | 6 | The Remembering | A quiet aftermath. Nathaniel recovers the 1873 memory; the East End is cut off |
 | 7 | The Girl Who Isn't | Alice learns Miriam died; she and Nathaniel hear the Jamie confession together; Alice stops him, sends the Lost One away |
-| 8 | The Wedding | Alice returns by choice; Nathaniel confirms the confession to Nixon; the wedding and raid take the Lost One for the pod |
+| 8 | The Wedding | Alice returns by choice; Nathaniel confirms the confession to Nixon; Nixon arrests her before the wedding and Eldgard diverts her escort to the Works |
 | 9 | The Break-out | Ada's death; Nixon frees Marsh; storming the Works; imprint reveal #2 |
 | 10 | Lights Out | Morgana freed, mayhem, the ship, the Lost One stays, Lambrick wins |
 
@@ -50,7 +50,7 @@ Cold opens tell the history in pieces: the crash (Ep 1), Nathaniel's nightmare o
 
 ## Open questions
 - **Ep 3:** the cold open remains open.
-- **After cutting Jamie-alive:** Byron's role; the Ep 5 title and the Ep 8 arrest lead.
+- **After cutting Jamie-alive:** Byron's role and the Ep 5 title.
 - **The writer's plot twist**, mentioned but never given. Ask for it.
 - The tag at the end of Ep 9.
 - Josephine's fate after the finale.

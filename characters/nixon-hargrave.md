@@ -16,7 +16,7 @@
 
 - **Eps 6–7, "Find her":** follows Nathaniel to the workshop and leads the dawn raid. From the roof he sees the Frost Killer freeze his best friend's hand. It's why, in Ep 8, he believes she belongs in custody.
 
-**Key moments.** Ep 5: catches Nathaniel hiding the suspect, then hands Eldgard his journal and watches it become a hunt ("Find her."); Ep 8: hears confirmation of Jamie's death before the raid. Ep 8: leads the raid that takes the Lost One, then reads the Hargrave pages. "Did you know?" (to Ada). Ep 9: Ada's death; "Did you love me, or did you keep me?" Eldgard: "Yes."
+**Key moments.** Ep 5: catches Nathaniel hiding the suspect, then hands Eldgard his journal and watches it become a hunt ("Find her."); Ep 8: hears confirmation of Jamie's death before the raid. Ep 8: arrests the Lost One at Jennie’s, signs her into Guard custody for Newgate, then reads the Hargrave pages. "Did you know?" (to Ada). Ep 9: Ada's death; "Did you love me, or did you keep me?" Eldgard: "Yes."
 
 - **Ep 9:** Tamara finds him over Ada's body and covers it up ("Mrs Hargrave fell"). He owes her his freedom and she holds his worst act.
 
