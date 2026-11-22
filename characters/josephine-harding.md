@@ -17,4 +17,4 @@
 
 **The face comes back.** Ep 5: summons Alice during the dinner. Ep 6: confronts Grise, works out that the creature wears the face of her crime, and pays to remove the witness. Ep 8: provides the lead for the arrest, so the evidence goes in the pod.
 
-**End.** Alice learns the truth in Ep 8, after Alice returns. Confronted by Alice and spared (Ep 10). Fate after the finale: open.
+**End.** Alice learns the truth in Ep 8, after Alice returns. Confronted by Alice and spared (Ep 10). An hour later Grise comes for her, hands her a new pair of gloves with the knot inside, and they go downriver with the Harding pearls before Jennie's paper reaches either of them. Season 2: the matriarch and the old knife, loose together.

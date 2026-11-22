@@ -101,7 +101,7 @@ The Guard post, late. Nathaniel brings two mugs of chicory. Nixon spreads the se
 
 ### 13. The widows
 
-First light in Gin Lane, snow on the frost. Hector stands beside a strongbox with Ajax and pays every family the ice touched, not only his own men's. The Hardings send no one. Tamara holds the ledger. "You're paying for the Hardings' monster." "I'm paying for the street's memory. In a month they'll need coal. They'll remember who came." "And if they ask why you came?" "Grief, my dear. It's the cheapest thing I'll ever buy." Tamara writes down every name.
+First light in Gin Lane, snow on the frost. Hector stands beside a strongbox with Ajax and pays every family the ice touched, not only his own men's. The Hardings send no one. Tamara holds the ledger. "You're paying for the Hardings' monster." "I'm paying for the street's memory. In a month they'll need coal. They'll remember who came." "And if they ask why you came?" "Grief, my dear. It's the cheapest thing I'll ever buy." Tamara writes down every name. Two of the dead were Ajax's men. He watches her spell their names right, and ask their widows how. Hector never asked their names.
 
 ### 14. I know you (tag)
 

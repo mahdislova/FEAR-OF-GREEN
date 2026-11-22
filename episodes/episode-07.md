@@ -10,7 +10,7 @@
 
 **Background:** The dawn raid; Byron at Gin Lane; the pod; Tamara's coal deal.
 
-**Not in this episode:** Josephine, Ajax, Ada, Marsh, Morgana.
+**Not in this episode:** Josephine, Ada, Marsh, Morgana. (Ajax only drives the first cart east.)
 
 - **The raid (the cost of "Find her").** At dawn, the morning after Gin Lane, the Guard closes on the workshop: Nixon followed Nathaniel there. Nathaniel gets the sisters out through the back, into the frozen East End, with the Lanterns on the roofs above them. A chase through streets with no light. A Guard flash-net comes down over the Lost One; Nathaniel throws himself under it to tear it off her. Her cold bursts to save him, and takes his right hand. Her nose bleeds. Nixon, on the roof, sees the Frost Killer freeze his best friend's hand. **The cost:** Nathaniel loses two fingers of his working hand. The engineer can no longer build alone. In the chase the crowd separates the Lost One from the others, which is how she's in the riot.
 - **The throw (Alice's third aura moment).** On the roofs a Lantern on leap-boosters lands between Alice and the ladder. Miriam's one-handed throw, the move Alice has watched all her life and never landed (Ep 1), works for the first time. He goes off the roof into a coal heap, alive. She stares at her hand the way the girl did in the passage in Ep 2.
@@ -70,6 +70,8 @@ The crowd has carried the Lost One clear. She looks back and sees Jennie pinned 
 
 She holds out her hand through a fold of her coat. Jennie watched Miriam go over the rail. Now she has to take that same hand and let herself be pulled free. She takes it. She can't look at her.
 
+In Shadwell that night Grise hears that Garrow was found frozen at the canal basin and Jennie walked away from it. She crosses Garrow's name out of the ledger. She doesn't write Jennie's anywhere. At the tubs the women have heard too; for the first time, they watch Grise to see what she'll do, and she does nothing.
+
 ### 8. You're not her
 
 The Bounds room. Alice brings home what Grise told her about their stepfather. The Lost One confirms it from Miriam's memory, then tells Alice the truth: Miriam died at the bridge; the one before her entered Miriam's body and carries her memories.
@@ -96,7 +98,7 @@ She goes alone. Nathaniel gets as far as Alice. To follow he would have to pull 
 
 ### 11. Her terms
 
-Eldgard's study. The East is freezing. Tamara comes with her father's coal and her own terms: coal to the East tonight, the wedding on Saturday. Eldgard agrees. Hector, told it's done, hands her the delivery orders. "Your terms. Your carts." From tonight the East's coal moves on her orders.
+Eldgard's study. The East is freezing. Tamara comes with her father's coal and her own terms: coal to the East tonight, the wedding on Saturday. Eldgard agrees. Hector, told it's done, takes the delivery orders out of his desk drawer and hands them to her. "Your terms. Your carts." Under the orders, for a second, she sees the audit with the Lambrick crest and the words *Gin Lane*. He shuts the drawer. From tonight the East's coal moves on her orders, and the man who takes the first cart east is Ajax.
 
 ### 12. The rest is me
 

@@ -1,4 +1,4 @@
-# Episode 5 — Open (midseason)
+# Episode 5 — The Second Statement
 
 **Cold open:** None. Straight in.
 

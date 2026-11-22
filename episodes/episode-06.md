@@ -113,15 +113,11 @@ Harding House, dawn. Byron is laying the breakfast silver. Nathaniel stands in t
 
 Thirty years of silence give out. "A woman. In a pod. That's the light, Master Nat. That's all it ever was." And then, because it's the thing he's wanted to say for sixteen years: "Your father didn't make you clever. You were always enough."
 
-### 15. The library
+### 15. Two books
 
-The Harding library, night. Tamara has the cipher open under the lamp. The first line breaks. Ada brings tea, sees which book is open, sets the cup down very carefully, and goes.
+Night, cross-cut. In the Harding library Tamara has Alistair's cipher open under the lamp. The first line breaks. Ada brings tea, sees which book is open, sets the cup down very carefully, and goes. Across the city a runner brings Hector word from the Works: the East End is to be cut tonight. Hector looks at the drawer where he locked Grise's audit of the Gin Lane housings. He doesn't open it. He goes back to his dinner. Two books, two families, and each one shut on what it knows.
 
-### 16. The drawer
-
-Lambrick House. A runner brings Hector word from the Works: the East End is to be cut tonight. Hector looks at the drawer where he locked Grise's audit of the Gin Lane housings. He doesn't open it. He goes back to his dinner.
-
-### 17. Gin Lane washhouse
+### 16. Gin Lane washhouse
 
 The engineer has pencilled “fractured district housing” beside Gin Lane. Tamara asks if they can empty the branch before the cut. Yes, if Eldgard gives up another hour of West End supply. He keeps the West lit: the hospitals, the pumps and the Works are there, and the engineer's figures say the East's old housings will fail first either way. It's the defensible choice, and it's still the one that kills Gin Lane. Tamara sends word to clear the washhouse. Her runner reaches the near end of the street.
 

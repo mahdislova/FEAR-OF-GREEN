@@ -115,3 +115,14 @@ What went wrong was **process, not talent**:
 - Morgana's voice reaches everyone in their own language (her translator rule).
 - Marsh stays at the cleaning wheel (Ep 9). That's why he's not in Ep 10.
 - Nathaniel and Nixon get their "changed, not restored" beat in Ep 10: one stretcher, two ends.
+
+---
+
+## Second pass (22 Nov): the writer's plot twist, Grise's arc, Josephine's fate
+
+- **The twist is the Ep 9 closer.** The Duke serves his warrant in person at the Works gate and gives the Crown's coal to Tamara in front of her father. Hector orders Ajax to kill her; the contract would come back to his house. Ajax sells him to her. In the Gin Lane crater: the blade, "Ajax— why?" "Everyone has a price, sir. Sorry.", and Tamara's monologue. Plants: Ajax's men's names (Ep 3); the audit glimpsed and Ajax on the first cart (Ep 7). The Morgana fracture moves into the end of "Yes".
+- **The top three weak links are fixed.** The Duke now turns terrifying on screen (Ep 9). Eldgard talks instead of seizing because he needs Nathaniel to turn the lock, and Nathaniel turns it the other way (Ep 10). Ep 10 is down from 13 scenes to 11, and the opening of the pod now takes Nathaniel, Alice and the Lost One, as the writer's own Ep 9 line says.
+- **Grise's arc concludes.** Ep 7: Garrow, and her girls watch her do nothing. Ep 9: she burns the bridge-night page. Ep 10: her laundry empties in the dark, and she takes Josephine downriver with a new pair of knotted gloves.
+- **Josephine's fate:** she flees with Grise. Season 2.
+- **Ep 5's title:** *The Second Statement*. Byron's secret is dropped.
+- **Ep 6** is tightened to 16 scenes (the library and the drawer are now one cross-cut, "Two books").

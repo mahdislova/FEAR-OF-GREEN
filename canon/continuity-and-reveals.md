@@ -60,11 +60,14 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | The beacon (what opening the pod calls) | Eldgard; Tamara (from the book, Ep 8) | Ep 1 cold open | Nathaniel: Tamara keeps it from him on their wedding day (Ep 8) |
 | Nixon killed Ada | Nixon, Tamara | Ep 9 | The household is told she fell |
 | Eldgard is alive inside the gallowglass | Morgana | Ep 10 | The Royal Engineers, at dusk (Ep 10). London: Season 2 |
+| Hector ordered Tamara killed | Hector, Ajax | Ep 9 | Tamara: from Ajax, before the tag (off screen; the audience learns it in the crater) |
+| Tamara killed Hector | Tamara, Ajax | Ep 9 tag | London blames the East (Ep 10). Nixon: Season 2 |
+| Josephine fled with Grise | Josephine, Grise, a waterman | Ep 10 | Alice: Season 2 (she left Josephine for the law) |
 | The Crown means to enter the vaults | The Duke, Eldgard | Ep 6 (the ultimatum) | Everyone: Ep 9 (the warrant) |
 | The Hargrave massacre | Eldgard, Ada, Marsh | Ep 8 cold open | Nixon: Ep 8 |
 | Marsh is Nixon's uncle | Ada, Marsh | Ep 4 (hinted) | Nixon: Ep 9 |
 | The yield is failing | Eldgard, the chief engineer | Ep 1 | Lambrick: suspects Ep 2 (the hour of the Duke’s question), confirms Ep 4. London: Ep 4 |
-| A book in the Lambrick Narrows consignment: Hector's private audit proving the Ring's Gin Lane housings are fractured. Miriam stole it for Grise | Hector, Miriam, Grise | Ep 1 | Grise sells it back to Hector (Ep 4). Hector knows Gin Lane will fail and says nothing (Ep 6). Tamara: Ep 10, from his drawer; she uses it to stop him at the depots |
+| A book in the Lambrick Narrows consignment: Hector's private audit proving the Ring's Gin Lane housings are fractured. Miriam stole it for Grise | Hector, Miriam, Grise | Ep 1 | Grise sells it back to Hector (Ep 4). Hector knows Gin Lane will fail and says nothing (Ep 6). Tamara: sees it in his drawer (Ep 7); takes it and reads it to him as he dies (Ep 9) |
 | The chief engineer sold out to Lambrick | The engineer, Lambrick | Ep 4 | Nathaniel: unset |
 
 ## Setups and payoffs
@@ -111,7 +114,13 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Grise sells to everyone (Eps 1–4); the reward on the Frost Killer bulletin (Ep 3) | The bounty men in the Shadwell fog; Jennie sees what Alice is and lies for her (Ep 4) |
 | Ada meets Jamie on the servants' stair the night he dies (Ep 1) | Ada dies on the same stair (Ep 9) |
 | Half an orange on Miriam's pillow (Ep 1) | Alice halves an orange with the Lost One (Ep 10, last scene) |
-| Hector locks the Gin Lane audit away and says nothing (Eps 4, 6) | Tamara holds it up at the depot gates; Hector sends his men home (Ep 10) |
+| Hector locks the Gin Lane audit away and says nothing (Eps 4, 6); Tamara glimpses it in his drawer (Ep 7) | "You knew this street would go." (Ep 9 tag) |
+| Tamara writes Ajax's dead men's names, which Hector never asked (Ep 3); Ajax takes her first cart east (Ep 7) | "Everyone has a price, sir. Sorry." (Ep 9 tag) |
+| Hector asks the Duke how many days, in front of the Lords (Ep 4) | The Duke asks Hector whose name is on the carts, in front of the clerks (Ep 9) |
+| Tamara's lie: prove your worth and your father will see you (her dossier); Hector wears her move (Ep 4) | He sees her, and orders her killed (Ep 9) |
+| Grise's bridge-night page Alice can't read (Ep 6) | Grise burns it when Jennie signs (Ep 9) |
+| Josephine burns her gloves while Grise stitches a knot (Ep 2) | Grise hands Josephine a new pair, knot inside, and takes her downriver (Ep 10) |
+| Eldgard put the lock's mind in Nathaniel (Ep 6); he asks his son to turn it (Ep 9) | Nathaniel turns it the other way (Ep 10) |
 | Byron sealed alive in the ring's green shell (Ep 6) | Morgana keeps Eldgard in gallowglass, alive (Ep 10) |
 | The Duke's warrant: engineers at dusk (Ep 9) | They find Eldgard in crystal beside the empty pod (Ep 10) |
 | Under the bed: "At fifty we run" (Ep 7 cold open) | Alice's love as holding on: "You're mine" (Ep 9); she lets go at the ship (Ep 10) |

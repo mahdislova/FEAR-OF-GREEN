@@ -50,7 +50,7 @@ Cold opens tell the history in pieces: the crash (Ep 1), Nathaniel's nightmare o
 
 ## Open questions
 - **Ep 3:** the cold open remains open.
-- **After cutting Jamie-alive:** Byron's role and the Ep 5 title.
+- Ep 5 is titled **The Second Statement**. Byron's secret is dropped.
 - **The writer's plot twist**, mentioned but never given. Ask for it.
 - The tag at the end of Ep 9.
 - Josephine's fate after the finale.
