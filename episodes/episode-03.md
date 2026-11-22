@@ -89,7 +89,7 @@ The only chair in the workshop that doesn't squeak is missing a leg. Alice tries
 
 ### 10. The Frost Killer
 
-Guard headquarters, night. Nixon reports the market dead. Eldgard is already writing the statement on the family's paper: *The Frost Killer.* "We don't know it's the same—" "The frost in my son's study. The frost at the market. Londoners need one name for what they're afraid of, Captain, or they'll find their own. Sign it as the officer in charge." Nixon signs. It's the first time his name goes under something he doesn't know is true.
+Guard headquarters, night. Nixon reports the market dead. Eldgard is already writing the statement on the family's paper: *The Frost Killer*, and a reward under it. "We don't know it's the same—" "The frost in my son's study. The frost at the market. Londoners need one name for what they're afraid of, Captain, or they'll find their own. Sign it as the officer in charge." Nixon signs. It's the first time his name goes under something he doesn't know is true.
 
 ### 11. The street talks
 

@@ -10,12 +10,12 @@
 
 **Background:** Alice spares Josephine; Lambrick's coal and Tamara's coup; Nixon leads the Guard for London.
 
-**Not in this episode:** Ajax, Grise, Jennie, Marsh, Byron, the chief engineer.
+**Not in this episode:** Ajax, Grise, Marsh, Byron, the chief engineer. (Jennie appears only in the last scene.)
 
 - Morgana is dying. Eldgard moves to put the Lost One in the pod.
 - Alice confronts Josephine and doesn't kill her. Here Alice learns the last layer: Josephine knew who she was from the first day. "I chose you so I'd have to look at you." Alice's mercy lands harder because Josephine never spared herself.
 - Nathaniel uses the knowledge planted in 1873 to open the pod. His ruined hand can't work the lock alone; it takes Alice's hand on it too. "Us" at the lock: both of them choose it, and he literally can't do it without her. Opening the pod releases the beacon Alistair silenced.
-- Morgana goes free. Her vengeance: Eldgard. One touch and he turns to gallowglass where he stands. London goes dark.
+- Morgana goes free. Her vengeance: Eldgard. She doesn't kill him; she keeps him. One touch and he turns to gallowglass where he stands, alive, eyes open: the keeper kept, sealed the way the ring sealed Byron, for ever. London goes dark. At dusk the Royal Engineers come down under the Duke's warrant and find him.
 - **Why Alice goes to Josephine:** Morgana leaves the Works with her child, and the Lost One walks beside her mother without looking back. Alice thinks she has lost her sister twice. With nothing left to keep, she goes to the woman who took the first one.
 - **The answer to "You're mine" (Ep 9).** At the ship Alice doesn't hold on. She offers the Lost One the ship and means it. That's the season's question answered: the Lost One stays because she was free to leave. "I choose the cold with you."
 - **Eldgard is partly right.** The dark kills on screen: people freeze in the first night without the light, because Nathaniel opened the pod. The audience should finish the season unsure he was right.
@@ -25,7 +25,7 @@
 - Alice offers the Lost One the ship. The Lost One looks up at it, then back at Alice, and stays. Hold on Morgana long enough for hope to give way to understanding. She watches her child settle beside Alice. Morgana sees her decision and lets the ship depart in silence. The Lost One’s hand finds Alice's in the cold.
 - **Tamara's track.**
   - *The East End depots:* London is dark. The coal has been moving on her orders since Ep 7. Now she opens every depot to the East for nothing, under her own name. A coup, not charity.
-  - *Hector arrives too late:* "You took this from me." "You taught me what grief costs. I only paid it forward."
+  - *Hector arrives too late:* she has the Gin Lane audit from his locked drawer, so he can't fight her in public. "You took this from me." "You taught me what grief costs. I only paid it forward."
   - *Final image:* across the frozen street, Nixon leads the Guard for London, wearing the coat she relined. Neither crosses.
 
 ## Scenes
@@ -48,7 +48,7 @@ Somewhere in the machine a signal Alistair held down for a hundred years comes f
 
 ### 4. Her vengeance
 
-The pod opens in a flood of green. Morgana steps out onto the plates, too weak to stand straight and still terrible to look at. Eldgard doesn't run. She crosses to him and lays her palm on his chest. Frost chimes through him. His heart, his blood, his eyes go to gallowglass, and he stays standing where he was: the last of the light.
+The pod opens in a flood of green. Morgana steps out onto the plates, too weak to stand straight and still terrible to look at. Eldgard doesn't run. She crosses to him and lays her palm on his chest. Frost chimes through him. His skin, his hands, his face go to gallowglass, and he stays standing where he was. His eyes are still moving. She doesn't kill him. She keeps him, the way he kept her. "Now you know."
 
 ### 5. Lights out
 
@@ -70,7 +70,9 @@ Alice stands over her a long time. She puts the knife away. Jennie's statement i
 
 The dark kills, and we watch it. A family on a stair in Shadwell who burned their last chair at midnight. The children's ward at Saint Bartholomew's, on candles, exactly as Eldgard said. People freeze in the first night without the light because Nathaniel opened the pod. Eldgard was partly right.
 
-Through it Nixon leads the Guard with oil torches, carrying people up out of flooded cellars. For London, not for the Hardings.
+Through it Nixon leads the Guard with oil torches, carrying people up out of flooded cellars. For London, not for the Hardings. At one cellar mouth Nathaniel takes the other end of a stretcher, left-handed. Nixon lets him. Neither of them says Ada's name, or the map's, or Jamie's. They carry the stretcher up the steps together and go back down for the next one. Changed, not restored.
+
+At dusk, as the Duke's warrant promised, the Royal Engineers come down into the Works with lanterns. They find the pod open and empty, and the master of the house standing beside it in green crystal. His eyes follow their lanterns.
 
 ### 9. The ship
 
@@ -80,7 +82,7 @@ Called by the beacon, the ship comes down through the cloud over Tyburn. The fir
 
 The Lambrick depots in the East End. London is dark, and the coal has been moving on Tamara's orders since Ep 7. Now she opens every depot to the East for nothing, under her own name. A coup, not charity.
 
-Hector arrives with men to lock the gates and finds them open and the carts rolling. "You took this from me." "You taught me what grief costs. I only paid it forward."
+Hector arrives with men to lock the gates and finds them open and the carts rolling. Tamara holds up the audit she took from his locked drawer: the one that says Gin Lane would go. He sends his men home. "You took this from me." "You taught me what grief costs. I only paid it forward."
 
 From the Harding terrace Nathaniel watches the Lambrick carts go by under the torches. His righteous act has handed London to his father's rival.
 
@@ -98,8 +100,6 @@ The Lost One looks up at the ship, then back at Alice, and stays. "I choose the 
 
 Hold on Morgana long enough for hope to give way to understanding. She watches her child settle beside Alice. She sees the decision and lets the ship depart in silence. The Lost One's hand finds Alice's in the cold.
 
-### 13. The orange (pitched coda: the writer's call)
+### 13. The orange
 
-*Not canon until the writer decides. See `drafts/claude/intern-merge-review.md`, "Your calls".*
-
-Dawn over a colourless city. Black coal smoke over the snow. A basement room in Southwark, the stove lit with Lambrick coal. Jennie wraps a blanket round the Lost One's shoulders and talks about soup. Alice sits at the table and peels an orange in one long strip, the way Miriam did. She breaks it in half and gives one half to the girl.
+Dawn over a colourless city. Black coal smoke over the snow. Jennie's room over the dyehouse, the stove lit with Lambrick coal. There's still only one chair. Jennie gives it to the Lost One, wraps a blanket round her shoulders and talks about soup. Alice sits at the table and peels an orange in one long strip, the way Miriam did. She breaks it in half and gives one half to the girl.

@@ -41,7 +41,7 @@ Full beats live in `episodes/`.
 | 7 | The Girl Who Isn't | Alice and Nathaniel learn the Lost One's truths together; Alice stops Nathaniel | Alice and the Lost One | Alice lets the Lost One go |
 | 8 | The Wedding | The child is taken | Nixon: the arrest and the wedding | Morgana: "My child." |
 | 9 | The Break-out | The truth is spoken aloud | Nixon: Ada, Marsh, the Works | A hairline fracture across Morgana's glass |
-| 10 | Lights Out | The light ends | The pod opens; the light ends | The ship; the Lost One stays |
+| 10 | Lights Out | The light ends | The pod opens; the light ends | The Lost One stays; half an orange at the dyehouse |
 
 ## The threads
 
@@ -57,7 +57,7 @@ Full beats live in `episodes/`.
 
 **The Duke.** Ep 2: he agrees to be wrong in public, "for Jamie. Not for the light." Ep 4: Hector breaks him at the hearing; "Ask me when the lamps in my sister's street go out." Ep 6: his ultimatum at the Works: if the light fails, the Royal Engineers go into the vaults. It's why Eldgard keeps the West lit. Ep 9: his warrant suspends the Charter, engineers at dusk. Tragic, then terrifying.
 
-**Jennie, the warm body.** Ep 1: the raid, then the bridge from the stair. Ep 2: the gloves at the door. Ep 3: the buns; "Don't tell Grise." Ep 4: "It's a terrible message"; she sees what Alice is in the fog and tells Grise her first lie. Ep 5: the truthful sighting. Ep 6: crumpets; "She liked that." Ep 7: Garrow; she takes the hand. Ep 8: she names Josephine. Ep 9: she signs. Ep 10: pitched, the orange.
+**Jennie, the warm body.** Ep 1: the raid, then the bridge from the stair. Ep 2: the gloves at the door. Ep 3: the buns; "Don't tell Grise." Ep 4: "It's a terrible message"; she sees what Alice is in the fog and tells Grise her first lie. Ep 5: the truthful sighting. Ep 6: crumpets; "She liked that." Ep 7: Garrow; she takes the hand. Ep 8: she names Josephine. Ep 9: she signs. Ep 10: the orange.
 
 **Alice's aura moments,** each one planted. Ep 4: the bounty men in the fog. Ep 6: the knife at Grise's throat. Ep 7: Miriam's throw, landed at last (planted Ep 1).
 
@@ -67,12 +67,12 @@ Full beats live in `episodes/`.
 
 | Thread | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| The light | Initiation; the ornament breaks | Frozen villages in the east | — | The failure goes public; "use the child" | — | Byron: a woman in a pod; East End cut | Gin Lane’s dead; Byron survives and bears witness | The Lost One taken to the pod | Storming the Works | Morgana freed; the ship; Lambrick wins |
-| Nathaniel and Nixon | Nixon's empty chair | Nixon home; the keys | Lies both ways | — | First break: Nathaniel hid the suspected Frost Killer; Nixon hands Eldgard the journal | — | Nathaniel hears the confession with Alice | Nathaniel confirms it to Nixon; the raid | Same side, not friends | Changed, not restored |
+| The light | Initiation; the ornament breaks | Frozen villages in the east | — | The failure goes public; "use the child" | — | Byron: a woman in a pod; East End cut | Gin Lane’s dead; Byron survives and bears witness | The Lost One taken to the pod | The Duke's warrant; storming the Works; the fracture | Morgana freed; Eldgard kept in crystal; the ship; Lambrick wins |
+| Nathaniel and Nixon | Nixon's empty chair | Nixon home; the keys | Lies both ways | Nixon goes to Newgate on the Frost Killer case | First break: Nathaniel hid the suspected Frost Killer; Nixon hands Eldgard the journal | The tail; "You always went left at the chimneys" | Nathaniel hears the confession with Alice | Nathaniel confirms it to Nixon; the raid | Same side, not friends | Changed, not restored: one stretcher, two ends |
 | The imprints | The gauntlet he can't explain; the misfire | The nightmare cold open | "I know you" | — | — | Reveal #1: the full 1873 night | — | — | Reveal #2: Morgana sent her | The planted knowledge opens the pod |
-| The sisters | The Narrows; the orange; "Not tonight" | Alice gets "Miriam" back | The first kill; hiding | Closeness | Incomplete Jamie memory | Grise: the stepfather | Identity and Jamie confessed; Alice intervenes, then separates | Alice returns by choice | Her crisis: was love a plan? | Offered the ship; she stays |
-| The killer | The fall; a figure; Jennie watches | Josephine burns her gloves; Jennie at the door | Jennie withholds the bridge account | Grise's hand-sign test | Alice summoned to Harding House | Josephine and Grise; the witness; Alice confesses the contract | Jennie saved | Jennie names Josephine after Alice returns; Guard arrest; transfer to Works | — | Alice spares Josephine |
-| Tamara | Doesn't laugh | Eldgard sees her | The coat | Her move, his applause | The conservatory | Eldgard gives her the book | Writes her marriage; takes the coal | The pages; the altar; the ask | Covers Ada | The coup; across the street |
+| The sisters | The Narrows; the orange; "Not tonight" | Alice gets "Miriam" back | The first kill; hiding | Closeness | Incomplete Jamie memory | Grise: the stepfather | Identity and Jamie confessed; Alice intervenes, then separates | Alice returns by choice | Her crisis: was love a plan? Alice: "You're mine" | Offered the ship; she stays; half an orange |
+| The killer | The fall; a figure; Jennie watches | Josephine burns her gloves; Jennie at the door | Jennie withholds the bridge account | Grise's hand-sign test; Jennie's first lie | Alice summoned to Harding House | Josephine and Grise; the witness; Alice confesses the contract | Jennie saved | Jennie names Josephine after Alice returns; Guard arrest; transfer to Works | — | Alice spares Josephine |
+| Tamara | Doesn't laugh | Eldgard sees her | The coat | Her move, his applause | The conservatory | Eldgard gives her the book | Writes her marriage; takes the coal | The pages; the altar; the ask | Covers Ada | The coup, with her father's audit; across the street |
 | The Hargraves | Ada's lamps | Ada and Nixon: "love" | — | Marsh: "Hargrave chin" | — | — | — | The Hargrave pages; "I forgave them" | Ada's death; Nixon flies Marsh out of Newgate; Marsh stops the draw; "Did you love me?" | Nixon holds the Guard for London |
 
 ## Cold opens
@@ -91,6 +91,6 @@ The history, told in pieces.
 | 10 | Alistair closes the pod on her. The broken word. The key goes into acid; the ledger says she gave her life freely. |
 
 ## The ending
-London is dark, and the dark kills: Eldgard was partly right. Opening the pod released the beacon Alistair silenced, and that is what calls the ship. Morgana, freed and too weak to fight on, boards the ship after it damages the city. Morgana waits aboard the ship. When her child chooses Alice, she lets her stay and departs in silence. Lambrick's coal is king: Nathaniel's righteous act has handed London to his nemesis. Tamara opens the depots to the East for nothing. The Lost One looks up at the ship, then back at Alice, and stays.
+London is dark, and the dark kills: Eldgard was partly right. Morgana keeps Eldgard as he kept her: alive in gallowglass beside the empty pod, where the Royal Engineers find him under the Duke's warrant. The Crown ends the Hardings in law; Lambrick wins the dark. Opening the pod released the beacon Alistair silenced, and that is what calls the ship. Morgana, freed and too weak to fight on, boards the ship after it damages the city. Morgana waits aboard the ship. When her child chooses Alice, she lets her stay and departs in silence. Lambrick's coal is king: Nathaniel's righteous act has handed London to his nemesis. Tamara opens the depots to the East for nothing. The Lost One looks up at the ship, then back at Alice, and stays. At dawn, in Jennie's room over the dyehouse, warmed by Lambrick coal, Alice halves an orange with her: the half orange from Ep 1, paid off.
 
-**Season 2 setup:** a dark London run on Lambrick coal, the ship somewhere above.
+**Season 2 setup:** a dark London run on Lambrick coal; the Crown in the Works, with a man in crystal who can still see; the ship somewhere above; Tamara holding Nixon's worst act (Ada) and her father's (Gin Lane).

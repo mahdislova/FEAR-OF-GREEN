@@ -71,11 +71,11 @@ They land beside the valley freight line and ride the returning empties to Tybur
 
 ### 8. The pod chamber
 
-The silt gallery runs under the draw-room floor toward the pod. Marsh knows it in the dark; he cleaned it as a boy. They come up through a grate into the chamber. Morgana hangs in her pod, failing. Beside it, strapped in the second set of restraints, is the Lost One. The core guard are on the gallery above. Nixon puts himself between them and the others.
+The silt gallery runs under the draw-room floor toward the pod. Marsh knows it in the dark; he cleaned it as a boy. He takes them as far as the grate and goes back to hold the wheel: if it turns again, the draw starts. They come up through a grate into the chamber. Morgana hangs in her pod, failing. Beside it, strapped in the second set of restraints, is the Lost One. The core guard are on the gallery above. Nixon puts himself between them and the others.
 
 ### 9. Both boys, both seeds
 
-With the draw stopped, Morgana is strong enough to speak. Her voice reaches her child in her own language, and Alice hears only the girl's half. The Lost One did what she was told: both boys, both seeds. The elder to resist, the younger to understand the lock. And the woman on the bridge?
+With the draw stopped, Morgana is strong enough to speak. Her voice arrives in every head in the room, each in its own language. The Lost One did what she was told: both boys, both seeds. The elder to resist, the younger to understand the lock. And the woman on the bridge?
 
 The Lost One looks at Alice. "Did I love you because I was made to?"
 

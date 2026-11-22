@@ -64,9 +64,9 @@ The Harding scullery. Nixon mentions the madman at Newgate. Ada asks whether he 
 
 ### 7. A terrible message
 
-The Bounds room. Jennie arrives with a caraway loaf stolen from the laundry kitchen and lye on her face. Then she produces Grise's terms: bring your sister in to report by noon, or Ajax gets your address. Alice tells her she's a terrible messenger. "I'm a good messenger. It's a terrible message."
+The Bounds room, where Alice has come back from the workshop for clean clothes. Jennie arrives with a caraway loaf stolen from the laundry kitchen and lye on her face. Then she produces Grise's terms: bring your sister in to report by noon, or Ajax gets your address. Alice tells her she's a terrible messenger. "I'm a good messenger. It's a terrible message."
 
-Alice sets terms of her own for Jennie to carry back: daylight, the laundry floor full of women, and she doesn't leave her sister's side for a second.
+Grise knows this room. If Ajax watches it, sooner or later Alice leads him to the workshop. So Alice sets terms of her own for Jennie to carry back: daylight, the laundry floor full of women, and she doesn't leave her sister's side for a second.
 
 ### 8. The hand-sign
 

@@ -95,3 +95,23 @@ What went wrong was **process, not talent**:
 4. **Eldgard in gallowglass.** Morgana leaves him standing in the Works, crystal, for ever. Killed, or kept alive inside it (the previous room pass's "Now you know")?
 5. **Hector knew about Gin Lane.** The audit means Hector knew the housings were fractured and said nothing. It's one line in Ep 6. Keep?
 6. **The previous room pass** (`room-pass-the-back-half.md` on `claude/nice-ramanujan-5vnyy5`) proposed Jennie dying in Ep 10 and Nathaniel losing the planted genius. The intern kept Jennie alive. This branch follows the intern, so nobody new dies. Say the word if you want the room pass's price instead.
+
+---
+
+## Calls made (22 Nov, at the writer's request: "make the best calls")
+
+1. **The orange: kept, as the real final image.** It now takes place in Jennie's room over the dyehouse, with the one chair (Eps 4 and 7), so it pays off three plants at once. The hand in the cold stays as the end of the scene before it.
+2. **The coat: Ep 3 owns the gift.** Ep 7 keeps the hook beat. It's small and plausible: it's their room.
+3. **The Duke's warrant: kept.** The Crown ends the Hardings in law; Lambrick wins the dark. The engineers arrive at dusk in Ep 10 and find Eldgard.
+4. **Eldgard: kept alive in gallowglass.** "Now you know." The keeper kept answers the season's question in the villain's own body. It echoes Byron's shell, and he goes into Season 2 as a man who can still see.
+5. **Hector knew: kept, and paid off.** Tamara takes the audit from his drawer and holds it up at the depot gates. It's why he can't fight the coup. That's a setup with a payoff, not a dangling line.
+6. **No new death.** Jennie lives. The price is already high: Ada, Gin Lane, two fingers, the first night's dead.
+7. **"You're mine": kept** as Alice's lie said out loud. She lets go at the ship.
+8. **The Newgate register: kept.**
+
+**Ripple fixes from the integrity pass:**
+- The Frost Killer bulletin now carries a reward (Ep 3), which is why the bounty men come in Ep 4.
+- In Ep 4 the sisters live at the workshop, and Alice is at the Bounds room for clothes. That's why Grise's threat bites and why Jennie's lie protects the refuge (Ep 5).
+- Morgana's voice reaches everyone in their own language (her translator rule).
+- Marsh stays at the cleaning wheel (Ep 9). That's why he's not in Ep 10.
+- Nathaniel and Nixon get their "changed, not restored" beat in Ep 10: one stretcher, two ends.
