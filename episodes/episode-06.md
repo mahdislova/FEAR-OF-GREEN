@@ -18,7 +18,7 @@
 - **"Find her" bites.** On Eldgard's order Nixon starts following Nathaniel.
 - Nathaniel and Alice: the night they finally stop circling. His return to the workshop to be with her is what leads Nixon there. **That night Alice tells him herself that his mother hired her to get close to him: paid at first, never after.** It costs her with him going into Ep 7.
 - **The Duke's ultimatum.** The Duke comes to the Works unannounced. If the light fails in the frost, the Crown sends the Royal Engineers into the vaults. It's the pressure that makes Eldgard keep the West lit at any cost.
-- **The warm hour.** Jennie brings crumpets to the workshop. For a few minutes three young women laugh. Left alone with the Lost One, Jennie asks if Miriam is in there. The Lost One remembers Jennie's singing at the mangles, and tells it in the past tense. Jennie hears the tense.
+- **The warm hour.** Jennie brings crumpets to the workshop in a laundry coat three sizes too big, and does Sister Martha and her thimble. Three young women laugh until it hurts. Then Alice goes downstairs. On her knees at Miriam's boots, Jennie confesses she stood frozen under the bridge arch and let Miriam go under. The Lost One tells her, gently, in Miriam's voice: "I have her memories of your laugh, Jennie... But she is not behind these eyes. I am wearing her bones. Miriam Bounds drowned in the black river. She is really, truly gone." Jennie now holds a truth Alice doesn't have; she keeps it, and the Lost One keeps it, until Ep 7.
 - Josephine follows up on Alice’s reports through Grise. Grise has tested the returned Miriam herself. Grise reminds her she's been buying her own sentence since Episode 2: "You were the one holding the knife. And you hired her sister." Josephine connects the timing to the escape from the ornament: the sister she hired is living with the face of the girl she killed. She pays to silence Jennie. Open beat: the precise detail Alice believes safe to report.
 - **Alice's hunt reaches Grise.** Alice goes into Grise's ledger room the Vykra way, looking for the bridge night. Grise catches her, and finds a knife at her throat (Alice's second aura moment). Grise, out of cruelty, tells her what Miriam paid to join the Vykra: their stepfather, drowned at sixteen. Alice walks home with it.
 - **Hector knew.** When the cut is announced, Hector looks at the drawer where he locked the Gin Lane audit, and says nothing.
@@ -51,15 +51,29 @@ The Works, Eldgard's office. The Duke arrives without an appointment and doesn't
 
 ### 5. Crumpets
 
-The workshop. Alice brings Jennie, who has two squashed crumpets in her apron and an opinion about whose knitting teacher at the guild was worse. The Lost One watches them argue as if it's a game she's learning the rules of. Jennie toasts the crumpets on the cold-sink, which nobody thought of before. For a few minutes three young women laugh in a cold room.
+The workshop, afternoon. Jennie arrives in a laundry coat three sizes too big, sleeves rolled twice, and starts unloading it like a conjuror. Two crumpets, squashed flat. A twist of salt. A knob of butter wrapped in a dock leaf. A thimble, which isn't food, and which she looks at as if it has betrayed her.
+
+"Sister Martha's. She used to rap our knuckles with it when we dropped a stitch." Alice says Sister Martha rapped *her* knuckles, not Jennie's, because Jennie was Martha's favourite. Jennie is outraged. Martha hated her. Martha once made her darn the same sock for a week. "That's love, in the guild," Alice says. "That's how you knew."
+
+Jennie toasts the crumpets on Nathaniel's cold-sink, which nobody thought of before and which works far too well. She does the voice: Sister Martha finding a dropped stitch, thimble raised like a bishop's ring. The Lost One watches them as if it's a game she's learning the rules of. Then she puts out her hand, palm up, for the thimble. Jennie gives it to her. The girl raps Alice's knuckles with it, very gently.
+
+Alice laughs until her throat hurts. Jennie laughs so hard she has to sit on the floor. For a few minutes three young women laugh in a cold room, and nobody in London is hunting anyone.
 
 ### 6. Is she in there?
 
-Alice goes down to check the alley door. Jennie is left alone with the Lost One. She sits beside her, looking at the line of Miriam's jaw. "Mim? It's Jen. You don't have to be anything. Just tell me it's you."
+Alice goes downstairs to check the alley door. Her steps fade on the stair.
 
-The girl turns her head. "You sang at the mangles when they squeaked. She liked that. It made her laugh."
+The laugh goes out of Jennie all at once. She looks at the girl's boots: Miriam's boots, the left heel worn down the way Miriam always wore it. She gets down on her knees on the boards in front of them.
 
-*Liked.* Jennie hears it. She nods, as if that was the answer she came for. When Alice comes back up, Jennie is at the window with her back to the room, wiping her hands on her apron.
+"I was there. Under the arch. I was there, Mim." Her hands are in fists on her knees. "I saw the carriage. I saw her. I could have shouted. I could have gone in after you. I've been in that river since I was six; I'd have found you. And I stood there. I held my breath so she wouldn't hear me, and I let you go under." She can't look up. "Tell me it's you. Tell me you came back, and you know, and it's all right. Just tell me that."
+
+The girl leans down until Jennie has to see her face. When she speaks it's Miriam's voice, low and patient. There's no mockery in it.
+
+"I have her memories of your laugh, Jennie. The singing at the mangles. The spare orange you always carried and swore you didn't. She loved you for that." Gently: "But she is not behind these eyes. I am wearing her bones. Miriam Bounds drowned in the black river. She is really, truly gone."
+
+Jennie makes a sound like something tearing. The girl doesn't touch her; she knows what her hands do. She sits down on the boards beside her, close enough that Jennie can feel the cold coming off her, and stays.
+
+Footsteps on the stair. Jennie scrubs her face on her enormous sleeve, gets up and is at the stove before the door opens. "Last crumpet's mine," she tells Alice. "I've earned it." Alice doesn't argue. She doesn't see that the girl is still sitting on the floor, or that Jennie won't look at her.
 
 ### 7. Josephine and Grise
 

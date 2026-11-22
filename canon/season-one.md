@@ -57,7 +57,7 @@ Full beats live in `episodes/`.
 
 **The Duke.** Ep 2: he agrees to be wrong in public, "for Jamie. Not for the light." Ep 4: Hector breaks him at the hearing; "Ask me when the lamps in my sister's street go out." Ep 6: his ultimatum at the Works: if the light fails, the Royal Engineers go into the vaults. It's why Eldgard keeps the West lit. Ep 9: he serves his warrant in person at the Works gate (engineers at dusk) and asks Hector his own question in front of the clerks. Tragic, then terrifying.
 
-**Jennie, the warm body.** Ep 1: the raid, then the bridge from the stair. Ep 2: the gloves at the door. Ep 3: the buns; "Don't tell Grise." Ep 4: "It's a terrible message"; she sees what Alice is in the fog and tells Grise her first lie. Ep 5: the truthful sighting. Ep 6: crumpets; "She liked that." Ep 7: Garrow; she takes the hand. Ep 8: she names Josephine. Ep 9: she signs. Ep 10: the orange.
+**Jennie, the warm body.** Ep 1: the raid, then the bridge from the stair. Ep 2: the gloves at the door. Ep 3: the buns; "Don't tell Grise." Ep 4: "It's a terrible message"; she sees what Alice is in the fog and tells Grise her first lie. Ep 5: the truthful sighting. Ep 6: crumpets and Sister Martha's thimble; then on her knees at Miriam's boots, the bridge-arch confession, and "She is really, truly gone." Ep 7: Garrow; she takes the hand. Ep 8: she names Josephine. Ep 9: she signs. Ep 10: the orange.
 
 **Alice's aura moments,** each one planted. Ep 4: the bounty men in the fog. Ep 6: the knife at Grise's throat. Ep 7: Miriam's throw, landed at last (planted Ep 1).
 

@@ -5,7 +5,7 @@
 
 - Silent, patient, never the first to blink, with Grise.
 - **The warm body.** Funny without jokes. Raised by the Vykra, she can't say a feeling out loud, so she does something useful instead: stolen buns (Ep 3), a caraway loaf and a terrible message (Ep 4), crumpets toasted on the cold-sink (Ep 6), the only chair (Ep 7). The audience should love her by Ep 6.
-- **Ep 6:** alone with the Lost One she asks if Miriam is in there. "You sang at the mangles. She liked that." She hears the past tense.
+- **Ep 6, whimsy then the gut punch:** a laundry coat three sizes too big, squashed crumpets, Sister Martha's thimble, and Alice laughing until her throat hurts. When Alice goes downstairs Jennie kneels at Miriam's boots and confesses she stood frozen under the bridge arch and let her go under. The Lost One, in Miriam's voice: "She is not behind these eyes. I am wearing her bones... She is really, truly gone." Jennie keeps it from Alice. Her guilt is the engine of Eps 8 and 9.
 - **Ep 1:** on the Narrows raid with Miriam; Alice joins uninvited. Bond and rivalry with Alice start there.
 - **Ep 1:** Grise sends her to follow Miriam. She watches from the stair as a figure in the shadows puts Miriam over the rail. She is the only witness.
 - Holds a secret worth killing for: a Harding wife knifed a Vykra girl.

@@ -44,7 +44,7 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Alice was hired to get close to Nathaniel | Josephine, Grise, Alice | Ep 2 | Nathaniel: Ep 6 (Alice tells him herself, the night they get together) |
 | Miriam drowned their stepfather to join the Vykra | Grise (Miriam is dead) | Ep 6 | Alice: Ep 6 (Grise); confirmed Ep 7 (the Lost One) |
 | Josephine killed Miriam | Josephine; Jennie (witness) | Ep 2 (she burns her gloves). Played as dread, not a twist | Alice: Ep 8, after her return |
-| The Lost One isn't Miriam | The Lost One | Ep 1 | Jennie: Ep 2 threshold (saw Miriam fall; recognizes the impossible return). Grise: Ep 4 (the hand-sign). Josephine: Ep 6 (from Alice’s reports and Grise’s test). Alice: Ep 7, told by the Lost One just before Nathaniel hears the Jamie confession |
+| The Lost One isn't Miriam | The Lost One | Ep 1 | Jennie: Ep 2 threshold (saw Miriam fall; recognizes the impossible return); told outright by the Lost One in Ep 6, and keeps it from Alice. Grise: Ep 4 (the hand-sign). Josephine: Ep 6 (from Alice’s reports and Grise’s test). Alice: Ep 7, told by the Lost One just before Nathaniel hears the Jamie confession |
 | Josephine paid Grise to remove the witness | Josephine, Grise | Ep 6 | Jennie: Ep 7 |
 | Grise's lie that Miriam ran off and left Alice | Grise, Jennie | Ep 2 | Alice knows Grise is lying: Ep 3 (she has Miriam at home). Alice learns Miriam died: Ep 7. That Grise sold the rendezvous: Ep 8 |
 | "Miriam" is back | Alice, Ren, Jennie | Ep 2 | Grise: Ep 3, from the street after the market |
@@ -124,7 +124,8 @@ Unset: Marsh's arrest date, Nixon's mother's name, the exact year of the crash.
 | Byron sealed alive in the ring's green shell (Ep 6) | Morgana keeps Eldgard in gallowglass, alive (Ep 10) |
 | The Duke's warrant: engineers at dusk (Ep 9) | They find Eldgard in crystal beside the empty pod (Ep 10) |
 | Under the bed: "At fifty we run" (Ep 7 cold open) | Alice's love as holding on: "You're mine" (Ep 9); she lets go at the ship (Ep 10) |
-| Jennie: "You sang at the mangles. She liked that" (Ep 6) | Jennie comes to the riot already grieving; she takes the hand anyway (Ep 7) |
+| Jennie confesses the bridge arch on her knees; "She is really, truly gone" (Ep 6) | Jennie keeps it from Alice. In the riot she has to take the hand that told her (Ep 7); she names Josephine to Alice (Ep 8) and signs (Ep 9) |
+| "The spare orange you always carried" (Ep 6) | The orange in Jennie's room at dawn (Ep 10) |
 
 ## Gin Lane and the Works approach
 
