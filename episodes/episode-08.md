@@ -20,7 +20,7 @@ At first light Alice reaches Jennie’s room above the old dyehouse. The bleedin
 
 ### 2. Jennie at the basin
 
-While the girl washes, Jennie tells Alice she was on the bridge. Grise sold the meeting place. Jennie saw Josephine Harding put Miriam over the rail. “Miriam was the best of us.” Alice asks whether Miriam saw Jennie standing there. Jennie has spent every night since the bridge trying to remember where Miriam was looking. She can’t give Alice that last thing. Alice asks her to stay with the girl. Josephine expects Alice to dress her for the wedding.
+While the girl washes, Jennie tells Alice she was on the bridge. Grise sold the meeting place. Jennie saw Josephine Harding put Miriam over the rail. “Miriam was the best of us.” Alice asks whether Miriam saw Jennie standing there. Jennie has spent every night since the bridge trying to remember where Miriam was looking. She can’t give Alice that last thing. Alice asks her to stay with the girl. Josephine expects Alice to dress her for the wedding. Alice takes Miriam’s name and her own knife up to Harding House. If Jennie needs her, she says, ask for the room above the garden.
 
 ### 3. The morning call
 
@@ -28,15 +28,17 @@ At Harding House Nathaniel finds Nixon laying out his dress uniform. He tells hi
 
 ### 4. Two buttons
 
-Josephine sees the blue stain on Alice’s hem. Earlier, fastening this same cuff, Alice told her about the leaking stair below Jennie’s room. Josephine asks whether the old dye still comes off on everything. Alice glances down before she can stop herself.
+Alice fastens the first two buttons of Josephine’s cuff. Josephine notices the blue stain on her hem and asks whether the old dyehouse stair still leaks. Alice glances down. While Alice fetches the other cuff from the dressing table, Josephine writes the address on her visiting card and sends it out with the maid who brought the wedding flowers.
 
-Josephine holds out her wrist. Alice fastens two buttons and stops. Josephine follows Alice’s gaze to her own hand. She finishes the cuff and tells Alice that Nathaniel is downstairs alone. Once Alice has gone, Josephine writes the dyehouse address on her visiting card and sends it to Nixon.
+Below the open window Tamara is helping Nathaniel into his coat. She pulls his good sleeve too hard and his shirt cuff disappears. He tries to shake it out and knocks her hat crooked. They both laugh. Alice smiles before she remembers where she is. Josephine catches the smile. “You love him, don’t you?” Alice puts the cuff down. “Did Miriam see you coming?”
 
-### 5. The address
+### 5. At the window / the dyehouse stairs
 
-Nathaniel tells Alice what he has told Nixon. She asks whether he gave Nixon the address. He didn’t know it. In the passage she sees the blue mark her skirt has left on the runner. She gathers it up and goes back the way she came.
+At the dyehouse Nixon names Jamie Harding and tells the Lost One she is under arrest. Jennie brings her coat and helps her into the sleeve Alice usually holds. Nixon has Josephine’s card in his hand. He tells Jennie the destination is Newgate and the escort must first book her at the district station. The girl asks Jennie for one thing: “Tell Alice where I’m going.” Jennie waits until she sees them enter the station yard, then takes the short passage uphill to Harding House.
 
-At the dyehouse Nixon tells the Lost One he is arresting her for Jamie Harding’s death. Jennie brings down her coat. Alice reaches them at the foot of the stairs. In Nixon’s hand Alice sees Josephine’s visiting card. The address is written across the Harding crest. She looks down at the blue on her hem. The girl holds out a sleeve and lets Alice help her into it. Nixon tells Alice where the Guard keeps its Newgate inquiries desk. “Will you come?” the girl asks Alice. Alice takes the other sleeve. “I’ll be there when you arrive.”
+At the window Alice waits for Josephine to answer her question about Miriam. Josephine watches Nathaniel straighten Tamara’s hat. “I paid to put you in his way. He knows that now. Look at him, Alice. Does he look as if he’s waiting for you?” Alice says, “He knows because I told him.” Josephine turns at that. For once there is something her son knew that she did not. Alice’s hand is in her coat pocket. She has stood here long enough to know she might draw the knife.
+
+Jennie arrives breathless at the open door. “Nixon took her. He said Newgate. She asked me to find you.” Josephine’s last button still hangs loose. Alice takes her hand out of her pocket and goes with Jennie. Downstairs she asks whether the girl was frightened. “She wanted you to know where to come.” They hurry to the station.
 
 ### 6. The custody book
 
@@ -46,7 +48,7 @@ At the station Nixon writes Newgate in the destination column. The duty lieutena
 
 Tamara gives Nixon several pages cut from Alistair’s book. She tells him they concern his family. When she leaves to find Hector, he reads how Hargrave froze and what happened to the survivors who spoke. He finds a reference to Marsh’s boyhood work in the draw room. He folds the pages into his coat.
 
-Outside the chapel Alice catches Nathaniel. The girl is in custody. Nixon gave his word about Newgate. Alice goes to the inquiries desk to find out when she can see her.
+At the station Jennie points out the carriage in the yard. From the inquiries window the girl catches sight of Alice. Alice lifts a hand. The girl settles back against the seat. Alice stays at the desk to hear when the carriage will leave.
 
 ### 8. Before the bells
 
